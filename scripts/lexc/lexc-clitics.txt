@@ -1,0 +1,144 @@
+LEXICON CLITIC_POSS_FRONT
+0 POSS_FRONT ;
+0 CLITIC_FRONT ;
+
+LEXICON CLITIC_POSS_BACK
+0 POSS_BACK ;
+0 CLITIC_BACK ;
+
+LEXICON CLITIC_FRONT
+CLITIC_FRONT_MANDATORY ;
+0 # ;
+
+LEXICON CLITIC_BACK
+CLITIC_BACK_MANDATORY ;
+0 # ;
+
+LEXICON CLITIC_FRONT_MANDATORY
++han00:hän # ;
++ko0:kö # ;
++pa0:pä # ;
++ko0+s:kös # ;
++pa0+s:päs # ;
++ko0+han00:köhän # ;
++pa0+han00:pähän # ;
++ko0+kaan000:kökään # ;
++kin00:kin # ;
++kaan000:kään # ;
+
+LEXICON CLITIC_BACK_MANDATORY
++han00:han # ;
++ko0:ko # ;
++pa0:pa # ;
++ko0+s:kos # ;
++pa0+s:pas # ;
++ko0+han00:kohan # ;
++pa0+han00:pahan # ;
++ko0+kaan000:kokaan # ;
++kin00:kin # ;
++kaan000:kaan # ;
+
+LEXICON POSS_BACK
++poss1sg0:ni CLITIC_BACK ;
++poss2sg0:si CLITIC_BACK ;
++poss1pl00:mme CLITIC_BACK ;
++poss2pl00:nne CLITIC_BACK ;
++poss300:nsa CLITIC_BACK ;
+
+LEXICON POSS_FRONT
++poss1sg0:ni CLITIC_FRONT ;
++poss2sg0:si CLITIC_FRONT ;
++poss1pl00:mme CLITIC_FRONT ;
++poss2pl00:nne CLITIC_FRONT ;
++poss300:nsä CLITIC_FRONT ;
+
+LEXICON POSS_E_BACK
++poss30:en CLITIC_BACK ;
+0 POSS_BACK ;
+
+LEXICON POSS_E_FRONT
++poss30:en CLITIC_FRONT ;
+0 POSS_FRONT ;
+
+LEXICON POSS_A_BACK
++poss30:an CLITIC_BACK ;
+0 POSS_BACK ;
+
+LEXICON POSS_A_FRONT
++poss30:än CLITIC_FRONT ;
+0 POSS_FRONT ;
+
+LEXICON KIN
++kin00:kin # ;
+0 #;
+
+LEXICON KAAN_FRONT
++kaan000:kään # ;
+0 #;
+
+LEXICON KAAN_BACK
++kaan000:kaan # ;
+0 #;
+
+LEXICON KAS_FRONT
+00:kä PAS_BACK ;
+0 # ;
+
+!!LEXICON KAS_BACK
+!!00:ka PAS_BACK ;
+!!0 # ;
+
+LEXICON PAS_FRONT
++han00:hän # ;
++pa0:pä # ;
++pa0+s:päs # ;
++pa0+han00:pähän # ;
++s:s # ;
+0 # ;
+
+LEXICON PAS_BACK
++han00:han # ;
++pa0:pa # ;
++pa0+s:pas # ;
++pa0+han00:pahan # ;
++s:s # ;
+0 # ;
+
+LEXICON HANPA
++han00:han # ;
++pa0:pa # ;
+0 # ;
+
+LEXICON HAN_BACK
++han00:han # ;
+0 # ;
+
+LEXICON HAN_FRONT
++han00:hän # ;
+0 # ;
+
+LEXICON KO
++ko0:ko # ;
+0 # ;
+
+LEXICON CLIT_ÄLÄ
++han00:hän # ;
++pa0:pä # ;
++pa0+s:päs # ;
++ka0:kä # ;
+0 # ;
+
+LEXICON CLIT_EI
++han00:hän # ;
++ko0:kö # ;
++pa0:pä # ;
++ko0+s:kös # ;
++pa0+s:päs # ;
++ko0+han00:köhän # ;
++pa0+han00:pähän # ;
++ka0:kä # ;
+0 # ;
+
+LEXICON CLIT_ETTEI
++ko0:kö # ;
+0 # ;

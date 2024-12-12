@@ -1,0 +1,1536 @@
+LEXICON ORDINAL_AUX
+ORDINAL_pl|par ;
+ORDINAL_pl|ela ;
+ORDINAL_sg|ade ;
+ORDINAL_sg|ess ;
+ORDINAL_pl|gen ;
+ORDINAL_sg|gen ;
+ORDINAL_sg|all ;
+ORDINAL_sg|abl ;
+ORDINAL_pl|ade ;
+ORDINAL_pl|abl ;
+ORDINAL_sg|par ;
+ORDINAL_pl|com ;
+ORDINAL_pl|tra ;
+ORDINAL_pl|all ;
+ORDINAL_sg|ill ;
+ORDINAL_sg|tra ;
+ORDINAL_pl|ine ;
+ORDINAL_sg|ela ;
+ORDINAL_sg|nom ;
+ORDINAL_pl|abe ;
+ORDINAL_pl|nom ;
+ORDINAL_pl|ill ;
+ORDINAL_pl|ess ;
+ORDINAL_sg|abe ;
+ORDINAL_sg|ine ;
+ORDINAL_pl|ins ;
+
+LEXICON ORDINAL_pl|par
+ORDINAL_pl|par_base_initial ;
+ORDINAL_pl|par_multiplier_initial ;
+ORDINAL_pl|par_base_final ;
+ORDINAL_pl|par_multiplier_final ;
+
+LEXICON ORDINAL_pl|par_base_initial
+yhdes0000000|:yhde0ns0iä000 ORDINAL_pl|par ;
+yhdes0000000|toista|:yhde0ns0iä000toista0 ORDINAL_pl|par ;
+kahdes0000000|:kahde0ns0ia000 ORDINAL_pl|par ;
+kahdes0000000|toista|:kahde0ns0ia000toista0 ORDINAL_pl|par ;
+kolmas0000000|:kolma0ns0ia000 ORDINAL_pl|par ;
+kolmas0000000|toista|:kolma0ns0ia000toista0 ORDINAL_pl|par ;
+neljäs0000000|:neljä0ns0iä000 ORDINAL_pl|par ;
+neljäs0000000|toista|:neljä0ns0iä000toista0 ORDINAL_pl|par ;
+viides0000000|:viide0ns0iä000 ORDINAL_pl|par ;
+viides0000000|toista|:viide0ns0iä000toista0 ORDINAL_pl|par ;
+kuudes0000000|:kuude0ns0ia000 ORDINAL_pl|par ;
+kuudes0000000|toista|:kuude0ns0ia000toista0 ORDINAL_pl|par ;
+seitsemäs0000000|:seitsemä0ns0iä000 ORDINAL_pl|par ;
+seitsemäs0000000|toista|:seitsemä0ns0iä000toista0 ORDINAL_pl|par ;
+kahdeksas0000000|:kahdeksa0ns0ia000 ORDINAL_pl|par ;
+kahdeksas0000000|toista|:kahdeksa0ns0ia000toista0 ORDINAL_pl|par ;
+yhdeksäs0000000|:yhdeksä0ns0iä000 ORDINAL_pl|par ;
+yhdeksäs0000000|toista|:yhdeksä0ns0iä000toista0 ORDINAL_pl|par ;
+
+LEXICON ORDINAL_pl|par_multiplier_initial
+kymmenes0000000|:kymmene0ns0iä000 ORDINAL_pl|par ;
+sadas0000000|:sada0ns0ia000 ORDINAL_pl|par ;
+tuhannes0000000|:tuhanne0ns0ia000 ORDINAL_pl|par ;
+
+LEXICON ORDINAL_pl|par_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+pl+par:yhde0ns000000iä CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+par0000000:yhde0ns0000000000000iä0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+pl+par:kahde0ns000000ia CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+par0000000:kahde0ns0000000000000ia0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+pl+par:kolma0ns000000ia CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+par0000000:kolma0ns0000000000000ia0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+pl+par:neljä0ns000000iä CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+par0000000:neljä0ns0000000000000iä0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+pl+par:viide0ns000000iä CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+pl+par0000000:viide0ns0000000000000iä0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+pl+par:kuude0ns000000ia CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+par0000000:kuude0ns0000000000000ia0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+pl+par:seitsemä0ns000000iä CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+par0000000:seitsemä0ns0000000000000iä0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+pl+par:kahdeksa0ns000000ia CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+par0000000:kahdeksa0ns0000000000000ia0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+pl+par:yhdeksä0ns000000iä CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+par0000000:yhdeksä0ns0000000000000iä0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+pl+par:ensimmäis0000000iä CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+pl+par:tois0000000ia CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|par_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+pl+par:kymmene0ns000000iä CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+pl+par:sada0ns000000ia CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+pl+par:tuhanne0ns000000ia CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|ela
+ORDINAL_pl|ela_base_initial ;
+ORDINAL_pl|ela_multiplier_initial ;
+ORDINAL_pl|ela_base_final ;
+ORDINAL_pl|ela_multiplier_final ;
+
+LEXICON ORDINAL_pl|ela_base_initial
+yhdes0000000|:yhde0ns0istä0 ORDINAL_pl|ela ;
+yhdes0000000|toista|:yhde0ns0istä0toista0 ORDINAL_pl|ela ;
+kahdes0000000|:kahde0ns0ista0 ORDINAL_pl|ela ;
+kahdes0000000|toista|:kahde0ns0ista0toista0 ORDINAL_pl|ela ;
+kolmas0000000|:kolma0ns0ista0 ORDINAL_pl|ela ;
+kolmas0000000|toista|:kolma0ns0ista0toista0 ORDINAL_pl|ela ;
+neljäs0000000|:neljä0ns0istä0 ORDINAL_pl|ela ;
+neljäs0000000|toista|:neljä0ns0istä0toista0 ORDINAL_pl|ela ;
+viides0000000|:viide0ns0istä0 ORDINAL_pl|ela ;
+viides0000000|toista|:viide0ns0istä0toista0 ORDINAL_pl|ela ;
+kuudes0000000|:kuude0ns0ista0 ORDINAL_pl|ela ;
+kuudes0000000|toista|:kuude0ns0ista0toista0 ORDINAL_pl|ela ;
+seitsemäs0000000|:seitsemä0ns0istä0 ORDINAL_pl|ela ;
+seitsemäs0000000|toista|:seitsemä0ns0istä0toista0 ORDINAL_pl|ela ;
+kahdeksas0000000|:kahdeksa0ns0ista0 ORDINAL_pl|ela ;
+kahdeksas0000000|toista|:kahdeksa0ns0ista0toista0 ORDINAL_pl|ela ;
+yhdeksäs0000000|:yhdeksä0ns0istä0 ORDINAL_pl|ela ;
+yhdeksäs0000000|toista|:yhdeksä0ns0istä0toista0 ORDINAL_pl|ela ;
+
+LEXICON ORDINAL_pl|ela_multiplier_initial
+kymmenes0000000|:kymmene0ns0istä0 ORDINAL_pl|ela ;
+sadas0000000|:sada0ns0ista0 ORDINAL_pl|ela ;
+tuhannes0000000|:tuhanne0ns0ista0 ORDINAL_pl|ela ;
+
+LEXICON ORDINAL_pl|ela_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+pl+ela00:yhde0ns000000istä CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ela000000000:yhde0ns0000000000000istä0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+pl+ela00:kahde0ns000000ista CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ela000000000:kahde0ns0000000000000ista0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+pl+ela00:kolma0ns000000ista CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ela000000000:kolma0ns0000000000000ista0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+pl+ela00:neljä0ns000000istä CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ela000000000:neljä0ns0000000000000istä0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+pl+ela00:viide0ns000000istä CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ela000000000:viide0ns0000000000000istä0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+pl+ela00:kuude0ns000000ista CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ela000000000:kuude0ns0000000000000ista0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+pl+ela00:seitsemä0ns000000istä CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ela000000000:seitsemä0ns0000000000000istä0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+pl+ela00:kahdeksa0ns000000ista CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ela000000000:kahdeksa0ns0000000000000ista0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+pl+ela00:yhdeksä0ns000000istä CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ela000000000:yhdeksä0ns0000000000000istä0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+pl+ela00:ensimmäis0000000istä CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+pl+ela00:tois0000000ista CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|ela_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+pl+ela00:kymmene0ns000000istä CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+pl+ela00:sada0ns000000ista CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+pl+ela00:tuhanne0ns000000ista CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|ade
+ORDINAL_sg|ade_base_initial ;
+ORDINAL_sg|ade_multiplier_initial ;
+ORDINAL_sg|ade_base_final ;
+ORDINAL_sg|ade_multiplier_final ;
+
+LEXICON ORDINAL_sg|ade_base_initial
+yhdes0000000|:yhde0nne0llä0 ORDINAL_sg|ade ;
+yhdes0000000|toista|:yhde0nne0llä0toista0 ORDINAL_sg|ade ;
+kahdes0000000|:kahde0nne0lla0 ORDINAL_sg|ade ;
+kahdes0000000|toista|:kahde0nne0lla0toista0 ORDINAL_sg|ade ;
+kolmas0000000|:kolma0nne0lla0 ORDINAL_sg|ade ;
+kolmas0000000|toista|:kolma0nne0lla0toista0 ORDINAL_sg|ade ;
+neljäs0000000|:neljä0nne0llä0 ORDINAL_sg|ade ;
+neljäs0000000|toista|:neljä0nne0llä0toista0 ORDINAL_sg|ade ;
+viides0000000|:viide0nne0llä0 ORDINAL_sg|ade ;
+viides0000000|toista|:viide0nne0llä0toista0 ORDINAL_sg|ade ;
+kuudes0000000|:kuude0nne0lla0 ORDINAL_sg|ade ;
+kuudes0000000|toista|:kuude0nne0lla0toista0 ORDINAL_sg|ade ;
+seitsemäs0000000|:seitsemä0nne0llä0 ORDINAL_sg|ade ;
+seitsemäs0000000|toista|:seitsemä0nne0llä0toista0 ORDINAL_sg|ade ;
+kahdeksas0000000|:kahdeksa0nne0lla0 ORDINAL_sg|ade ;
+kahdeksas0000000|toista|:kahdeksa0nne0lla0toista0 ORDINAL_sg|ade ;
+yhdeksäs0000000|:yhdeksä0nne0llä0 ORDINAL_sg|ade ;
+yhdeksäs0000000|toista|:yhdeksä0nne0llä0toista0 ORDINAL_sg|ade ;
+
+LEXICON ORDINAL_sg|ade_multiplier_initial
+kymmenes0000000|:kymmene0nne0llä0 ORDINAL_sg|ade ;
+sadas0000000|:sada0nne0lla0 ORDINAL_sg|ade ;
+tuhannes0000000|:tuhanne0nne0lla0 ORDINAL_sg|ade ;
+
+LEXICON ORDINAL_sg|ade_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+sg+ade00:yhde0nne000000llä CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ade000000000:yhde0nne0000000000000llä0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+sg+ade00:kahde0nne000000lla CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ade000000000:kahde0nne0000000000000lla0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+sg+ade00:kolma0nne000000lla CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ade000000000:kolma0nne0000000000000lla0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+sg+ade00:neljä0nne000000llä CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ade000000000:neljä0nne0000000000000llä0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+sg+ade00:viide0nne000000llä CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ade000000000:viide0nne0000000000000llä0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+sg+ade00:kuude0nne000000lla CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ade000000000:kuude0nne0000000000000lla0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+sg+ade00:seitsemä0nne000000llä CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ade000000000:seitsemä0nne0000000000000llä0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+sg+ade00:kahdeksa0nne000000lla CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ade000000000:kahdeksa0nne0000000000000lla0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+sg+ade00:yhdeksä0nne000000llä CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ade000000000:yhdeksä0nne0000000000000llä0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+sg+ade00:ensimmäise0000000llä CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+sg+ade00:toise0000000lla CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|ade_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+sg+ade00:kymmene0nne000000llä CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+sg+ade00:sada0nne000000lla CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+sg+ade00:tuhanne0nne000000lla CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|ess
+ORDINAL_sg|ess_base_initial ;
+ORDINAL_sg|ess_multiplier_initial ;
+ORDINAL_sg|ess_base_final ;
+ORDINAL_sg|ess_multiplier_final ;
+
+LEXICON ORDINAL_sg|ess_base_initial
+yhdes0000000|:yhde0nte0nä00 ORDINAL_sg|ess ;
+yhdes0000000|toista|:yhde0nte0nä00toista0 ORDINAL_sg|ess ;
+kahdes0000000|:kahde0nte0na00 ORDINAL_sg|ess ;
+kahdes0000000|toista|:kahde0nte0na00toista0 ORDINAL_sg|ess ;
+kolmas0000000|:kolma0nte0na00 ORDINAL_sg|ess ;
+kolmas0000000|toista|:kolma0nte0na00toista0 ORDINAL_sg|ess ;
+neljäs0000000|:neljä0nte0nä00 ORDINAL_sg|ess ;
+neljäs0000000|toista|:neljä0nte0nä00toista0 ORDINAL_sg|ess ;
+viides0000000|:viide0nte0nä00 ORDINAL_sg|ess ;
+viides0000000|toista|:viide0nte0nä00toista0 ORDINAL_sg|ess ;
+kuudes0000000|:kuude0nte0na00 ORDINAL_sg|ess ;
+kuudes0000000|toista|:kuude0nte0na00toista0 ORDINAL_sg|ess ;
+seitsemäs0000000|:seitsemä0nte0nä00 ORDINAL_sg|ess ;
+seitsemäs0000000|toista|:seitsemä0nte0nä00toista0 ORDINAL_sg|ess ;
+kahdeksas0000000|:kahdeksa0nte0na00 ORDINAL_sg|ess ;
+kahdeksas0000000|toista|:kahdeksa0nte0na00toista0 ORDINAL_sg|ess ;
+yhdeksäs0000000|:yhdeksä0nte0nä00 ORDINAL_sg|ess ;
+yhdeksäs0000000|toista|:yhdeksä0nte0nä00toista0 ORDINAL_sg|ess ;
+
+LEXICON ORDINAL_sg|ess_multiplier_initial
+kymmenes0000000|:kymmene0nte0nä00 ORDINAL_sg|ess ;
+sadas0000000|:sada0nte0na00 ORDINAL_sg|ess ;
+tuhannes0000000|:tuhanne0nte0na00 ORDINAL_sg|ess ;
+
+LEXICON ORDINAL_sg|ess_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+sg+ess0:yhde0nte000000nä CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ess00000000:yhde0nte0000000000000nä0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+sg+ess0:kahde0nte000000na CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ess00000000:kahde0nte0000000000000na0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+sg+ess0:kolma0nte000000na CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ess00000000:kolma0nte0000000000000na0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+sg+ess0:neljä0nte000000nä CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ess00000000:neljä0nte0000000000000nä0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+sg+ess0:viide0nte000000nä CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ess00000000:viide0nte0000000000000nä0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+sg+ess0:kuude0nte000000na CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ess00000000:kuude0nte0000000000000na0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+sg+ess0:seitsemä0nte000000nä CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ess00000000:seitsemä0nte0000000000000nä0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+sg+ess0:kahdeksa0nte000000na CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ess00000000:kahdeksa0nte0000000000000na0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+sg+ess0:yhdeksä0nte000000nä CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ess00000000:yhdeksä0nte0000000000000nä0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+sg+ess0:ensimmäise0000000nä CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+sg+ess0:toise0000000na CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|ess_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+sg+ess0:kymmene0nte000000nä CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+sg+ess0:sada0nte000000na CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+sg+ess0:tuhanne0nte000000na CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|gen
+ORDINAL_pl|gen_base_initial ;
+ORDINAL_pl|gen_multiplier_initial ;
+ORDINAL_pl|gen_base_final ;
+ORDINAL_pl|gen_multiplier_final ;
+
+LEXICON ORDINAL_pl|gen_base_initial
+yhdes0000000|:yhde0ns0ien00 ORDINAL_pl|gen ;
+yhdes0000000|toista|:yhde0ns0ien00toista0 ORDINAL_pl|gen ;
+kahdes0000000|:kahde0ns0ien00 ORDINAL_pl|gen ;
+kahdes0000000|toista|:kahde0ns0ien00toista0 ORDINAL_pl|gen ;
+kolmas0000000|:kolma0ns0ien00 ORDINAL_pl|gen ;
+kolmas0000000|toista|:kolma0ns0ien00toista0 ORDINAL_pl|gen ;
+neljäs0000000|:neljä0ns0ien00 ORDINAL_pl|gen ;
+neljäs0000000|toista|:neljä0ns0ien00toista0 ORDINAL_pl|gen ;
+viides0000000|:viide0ns0ien00 ORDINAL_pl|gen ;
+viides0000000|toista|:viide0ns0ien00toista0 ORDINAL_pl|gen ;
+kuudes0000000|:kuude0ns0ien00 ORDINAL_pl|gen ;
+kuudes0000000|toista|:kuude0ns0ien00toista0 ORDINAL_pl|gen ;
+seitsemäs0000000|:seitsemä0ns0ien00 ORDINAL_pl|gen ;
+seitsemäs0000000|toista|:seitsemä0ns0ien00toista0 ORDINAL_pl|gen ;
+kahdeksas0000000|:kahdeksa0ns0ien00 ORDINAL_pl|gen ;
+kahdeksas0000000|toista|:kahdeksa0ns0ien00toista0 ORDINAL_pl|gen ;
+yhdeksäs0000000|:yhdeksä0ns0ien00 ORDINAL_pl|gen ;
+yhdeksäs0000000|toista|:yhdeksä0ns0ien00toista0 ORDINAL_pl|gen ;
+
+LEXICON ORDINAL_pl|gen_multiplier_initial
+kymmenes0000000|:kymmene0ns0ien00 ORDINAL_pl|gen ;
+sadas0000000|:sada0ns0ien00 ORDINAL_pl|gen ;
+tuhannes0000000|:tuhanne0ns0ien00 ORDINAL_pl|gen ;
+
+LEXICON ORDINAL_pl|gen_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+pl0+gen:yhde0ns000000ien CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl0+gen0000000:yhde0ns0000000000000ien0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+pl0+gen:kahde0ns000000ien CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl0+gen0000000:kahde0ns0000000000000ien0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+pl0+gen:kolma0ns000000ien CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+pl0+gen0000000:kolma0ns0000000000000ien0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+pl0+gen:neljä0ns000000ien CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl0+gen0000000:neljä0ns0000000000000ien0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+pl0+gen:viide0ns000000ien CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+pl0+gen0000000:viide0ns0000000000000ien0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+pl0+gen:kuude0ns000000ien CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+pl0+gen0000000:kuude0ns0000000000000ien0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+pl0+gen:seitsemä0ns000000ien CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl0+gen0000000:seitsemä0ns0000000000000ien0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+pl0+gen:kahdeksa0ns000000ien CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+pl0+gen0000000:kahdeksa0ns0000000000000ien0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+pl0+gen:yhdeksä0ns000000ien CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl0+gen0000000:yhdeksä0ns0000000000000ien0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+pl0+gen:ensimmäis0000000ten CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+pl0+gen:tois0000000ten CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|gen_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+pl0+gen:kymmene0ns000000ien CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+pl0+gen:sada0ns000000ien CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+pl0+gen:tuhanne0ns000000ien CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|gen
+ORDINAL_sg|gen_base_initial ;
+ORDINAL_sg|gen_multiplier_initial ;
+ORDINAL_sg|gen_base_final ;
+ORDINAL_sg|gen_multiplier_final ;
+
+LEXICON ORDINAL_sg|gen_base_initial
+yhdes0000000|:yhde0nne0n000 ORDINAL_sg|gen ;
+yhdes0000000|toista|:yhde0nne0n000toista0 ORDINAL_sg|gen ;
+kahdes0000000|:kahde0nne0n000 ORDINAL_sg|gen ;
+kahdes0000000|toista|:kahde0nne0n000toista0 ORDINAL_sg|gen ;
+kolmas0000000|:kolma0nne0n000 ORDINAL_sg|gen ;
+kolmas0000000|toista|:kolma0nne0n000toista0 ORDINAL_sg|gen ;
+neljäs0000000|:neljä0nne0n000 ORDINAL_sg|gen ;
+neljäs0000000|toista|:neljä0nne0n000toista0 ORDINAL_sg|gen ;
+viides0000000|:viide0nne0n000 ORDINAL_sg|gen ;
+viides0000000|toista|:viide0nne0n000toista0 ORDINAL_sg|gen ;
+kuudes0000000|:kuude0nne0n000 ORDINAL_sg|gen ;
+kuudes0000000|toista|:kuude0nne0n000toista0 ORDINAL_sg|gen ;
+seitsemäs0000000|:seitsemä0nne0n000 ORDINAL_sg|gen ;
+seitsemäs0000000|toista|:seitsemä0nne0n000toista0 ORDINAL_sg|gen ;
+kahdeksas0000000|:kahdeksa0nne0n000 ORDINAL_sg|gen ;
+kahdeksas0000000|toista|:kahdeksa0nne0n000toista0 ORDINAL_sg|gen ;
+yhdeksäs0000000|:yhdeksä0nne0n000 ORDINAL_sg|gen ;
+yhdeksäs0000000|toista|:yhdeksä0nne0n000toista0 ORDINAL_sg|gen ;
+
+LEXICON ORDINAL_sg|gen_multiplier_initial
+kymmenes0000000|:kymmene0nne0n000 ORDINAL_sg|gen ;
+sadas0000000|:sada0nne0n000 ORDINAL_sg|gen ;
+tuhannes0000000|:tuhanne0nne0n000 ORDINAL_sg|gen ;
+
+LEXICON ORDINAL_sg|gen_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+sg+gen:yhde0nne000000n CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+gen0000000:yhde0nne0000000000000n0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+sg+gen:kahde0nne000000n CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+gen0000000:kahde0nne0000000000000n0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+sg+gen:kolma0nne000000n CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+gen0000000:kolma0nne0000000000000n0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+sg+gen:neljä0nne000000n CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+gen0000000:neljä0nne0000000000000n0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+sg+gen:viide0nne000000n CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+sg+gen0000000:viide0nne0000000000000n0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+sg+gen:kuude0nne000000n CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+gen0000000:kuude0nne0000000000000n0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+sg+gen:seitsemä0nne000000n CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+gen0000000:seitsemä0nne0000000000000n0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+sg+gen:kahdeksa0nne000000n CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+gen0000000:kahdeksa0nne0000000000000n0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+sg+gen:yhdeksä0nne000000n CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+gen0000000:yhdeksä0nne0000000000000n0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+sg+gen:ensimmäise0000000n CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+sg+gen:toise0000000n CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|gen_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+sg+gen:kymmene0nne000000n CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+sg+gen:sada0nne000000n CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+sg+gen:tuhanne0nne000000n CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|all
+ORDINAL_sg|all_base_initial ;
+ORDINAL_sg|all_multiplier_initial ;
+ORDINAL_sg|all_base_final ;
+ORDINAL_sg|all_multiplier_final ;
+
+LEXICON ORDINAL_sg|all_base_initial
+yhdes0000000|:yhde0nne0lle0 ORDINAL_sg|all ;
+yhdes0000000|toista|:yhde0nne0lle0toista0 ORDINAL_sg|all ;
+kahdes0000000|:kahde0nne0lle0 ORDINAL_sg|all ;
+kahdes0000000|toista|:kahde0nne0lle0toista0 ORDINAL_sg|all ;
+kolmas0000000|:kolma0nne0lle0 ORDINAL_sg|all ;
+kolmas0000000|toista|:kolma0nne0lle0toista0 ORDINAL_sg|all ;
+neljäs0000000|:neljä0nne0lle0 ORDINAL_sg|all ;
+neljäs0000000|toista|:neljä0nne0lle0toista0 ORDINAL_sg|all ;
+viides0000000|:viide0nne0lle0 ORDINAL_sg|all ;
+viides0000000|toista|:viide0nne0lle0toista0 ORDINAL_sg|all ;
+kuudes0000000|:kuude0nne0lle0 ORDINAL_sg|all ;
+kuudes0000000|toista|:kuude0nne0lle0toista0 ORDINAL_sg|all ;
+seitsemäs0000000|:seitsemä0nne0lle0 ORDINAL_sg|all ;
+seitsemäs0000000|toista|:seitsemä0nne0lle0toista0 ORDINAL_sg|all ;
+kahdeksas0000000|:kahdeksa0nne0lle0 ORDINAL_sg|all ;
+kahdeksas0000000|toista|:kahdeksa0nne0lle0toista0 ORDINAL_sg|all ;
+yhdeksäs0000000|:yhdeksä0nne0lle0 ORDINAL_sg|all ;
+yhdeksäs0000000|toista|:yhdeksä0nne0lle0toista0 ORDINAL_sg|all ;
+
+LEXICON ORDINAL_sg|all_multiplier_initial
+kymmenes0000000|:kymmene0nne0lle0 ORDINAL_sg|all ;
+sadas0000000|:sada0nne0lle0 ORDINAL_sg|all ;
+tuhannes0000000|:tuhanne0nne0lle0 ORDINAL_sg|all ;
+
+LEXICON ORDINAL_sg|all_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+sg+all00:yhde0nne000000lle CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+all000000000:yhde0nne0000000000000lle0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+sg+all00:kahde0nne000000lle CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+all000000000:kahde0nne0000000000000lle0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+sg+all00:kolma0nne000000lle CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+all000000000:kolma0nne0000000000000lle0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+sg+all00:neljä0nne000000lle CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+all000000000:neljä0nne0000000000000lle0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+sg+all00:viide0nne000000lle CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+sg+all000000000:viide0nne0000000000000lle0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+sg+all00:kuude0nne000000lle CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+all000000000:kuude0nne0000000000000lle0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+sg+all00:seitsemä0nne000000lle CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+all000000000:seitsemä0nne0000000000000lle0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+sg+all00:kahdeksa0nne000000lle CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+all000000000:kahdeksa0nne0000000000000lle0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+sg+all00:yhdeksä0nne000000lle CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+all000000000:yhdeksä0nne0000000000000lle0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+sg+all00:ensimmäise0000000lle CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+sg+all00:toise0000000lle CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|all_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+sg+all00:kymmene0nne000000lle CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+sg+all00:sada0nne000000lle CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+sg+all00:tuhanne0nne000000lle CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|abl
+ORDINAL_sg|abl_base_initial ;
+ORDINAL_sg|abl_multiplier_initial ;
+ORDINAL_sg|abl_base_final ;
+ORDINAL_sg|abl_multiplier_final ;
+
+LEXICON ORDINAL_sg|abl_base_initial
+yhdes0000000|:yhde0nne0ltä0 ORDINAL_sg|abl ;
+yhdes0000000|toista|:yhde0nne0ltä0toista0 ORDINAL_sg|abl ;
+kahdes0000000|:kahde0nne0lta0 ORDINAL_sg|abl ;
+kahdes0000000|toista|:kahde0nne0lta0toista0 ORDINAL_sg|abl ;
+kolmas0000000|:kolma0nne0lta0 ORDINAL_sg|abl ;
+kolmas0000000|toista|:kolma0nne0lta0toista0 ORDINAL_sg|abl ;
+neljäs0000000|:neljä0nne0ltä0 ORDINAL_sg|abl ;
+neljäs0000000|toista|:neljä0nne0ltä0toista0 ORDINAL_sg|abl ;
+viides0000000|:viide0nne0ltä0 ORDINAL_sg|abl ;
+viides0000000|toista|:viide0nne0ltä0toista0 ORDINAL_sg|abl ;
+kuudes0000000|:kuude0nne0lta0 ORDINAL_sg|abl ;
+kuudes0000000|toista|:kuude0nne0lta0toista0 ORDINAL_sg|abl ;
+seitsemäs0000000|:seitsemä0nne0ltä0 ORDINAL_sg|abl ;
+seitsemäs0000000|toista|:seitsemä0nne0ltä0toista0 ORDINAL_sg|abl ;
+kahdeksas0000000|:kahdeksa0nne0lta0 ORDINAL_sg|abl ;
+kahdeksas0000000|toista|:kahdeksa0nne0lta0toista0 ORDINAL_sg|abl ;
+yhdeksäs0000000|:yhdeksä0nne0ltä0 ORDINAL_sg|abl ;
+yhdeksäs0000000|toista|:yhdeksä0nne0ltä0toista0 ORDINAL_sg|abl ;
+
+LEXICON ORDINAL_sg|abl_multiplier_initial
+kymmenes0000000|:kymmene0nne0ltä0 ORDINAL_sg|abl ;
+sadas0000000|:sada0nne0lta0 ORDINAL_sg|abl ;
+tuhannes0000000|:tuhanne0nne0lta0 ORDINAL_sg|abl ;
+
+LEXICON ORDINAL_sg|abl_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+sg+abl00:yhde0nne000000ltä CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+abl000000000:yhde0nne0000000000000ltä0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+sg+abl00:kahde0nne000000lta CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+abl000000000:kahde0nne0000000000000lta0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+sg+abl00:kolma0nne000000lta CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+abl000000000:kolma0nne0000000000000lta0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+sg+abl00:neljä0nne000000ltä CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+abl000000000:neljä0nne0000000000000ltä0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+sg+abl00:viide0nne000000ltä CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+sg+abl000000000:viide0nne0000000000000ltä0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+sg+abl00:kuude0nne000000lta CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+abl000000000:kuude0nne0000000000000lta0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+sg+abl00:seitsemä0nne000000ltä CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+abl000000000:seitsemä0nne0000000000000ltä0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+sg+abl00:kahdeksa0nne000000lta CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+abl000000000:kahdeksa0nne0000000000000lta0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+sg+abl00:yhdeksä0nne000000ltä CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+abl000000000:yhdeksä0nne0000000000000ltä0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+sg+abl00:ensimmäise0000000ltä CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+sg+abl00:toise0000000lta CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|abl_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+sg+abl00:kymmene0nne000000ltä CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+sg+abl00:sada0nne000000lta CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+sg+abl00:tuhanne0nne000000lta CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|ade
+ORDINAL_pl|ade_base_initial ;
+ORDINAL_pl|ade_multiplier_initial ;
+ORDINAL_pl|ade_base_final ;
+ORDINAL_pl|ade_multiplier_final ;
+
+LEXICON ORDINAL_pl|ade_base_initial
+yhdes0000000|:yhde0ns0illä0 ORDINAL_pl|ade ;
+yhdes0000000|toista|:yhde0ns0illä0toista0 ORDINAL_pl|ade ;
+kahdes0000000|:kahde0ns0illa0 ORDINAL_pl|ade ;
+kahdes0000000|toista|:kahde0ns0illa0toista0 ORDINAL_pl|ade ;
+kolmas0000000|:kolma0ns0illa0 ORDINAL_pl|ade ;
+kolmas0000000|toista|:kolma0ns0illa0toista0 ORDINAL_pl|ade ;
+neljäs0000000|:neljä0ns0illä0 ORDINAL_pl|ade ;
+neljäs0000000|toista|:neljä0ns0illä0toista0 ORDINAL_pl|ade ;
+viides0000000|:viide0ns0illä0 ORDINAL_pl|ade ;
+viides0000000|toista|:viide0ns0illä0toista0 ORDINAL_pl|ade ;
+kuudes0000000|:kuude0ns0illa0 ORDINAL_pl|ade ;
+kuudes0000000|toista|:kuude0ns0illa0toista0 ORDINAL_pl|ade ;
+seitsemäs0000000|:seitsemä0ns0illä0 ORDINAL_pl|ade ;
+seitsemäs0000000|toista|:seitsemä0ns0illä0toista0 ORDINAL_pl|ade ;
+kahdeksas0000000|:kahdeksa0ns0illa0 ORDINAL_pl|ade ;
+kahdeksas0000000|toista|:kahdeksa0ns0illa0toista0 ORDINAL_pl|ade ;
+yhdeksäs0000000|:yhdeksä0ns0illä0 ORDINAL_pl|ade ;
+yhdeksäs0000000|toista|:yhdeksä0ns0illä0toista0 ORDINAL_pl|ade ;
+
+LEXICON ORDINAL_pl|ade_multiplier_initial
+kymmenes0000000|:kymmene0ns0illä0 ORDINAL_pl|ade ;
+sadas0000000|:sada0ns0illa0 ORDINAL_pl|ade ;
+tuhannes0000000|:tuhanne0ns0illa0 ORDINAL_pl|ade ;
+
+LEXICON ORDINAL_pl|ade_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+pl+ade00:yhde0ns000000illä CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ade000000000:yhde0ns0000000000000illä0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+pl+ade00:kahde0ns000000illa CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ade000000000:kahde0ns0000000000000illa0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+pl+ade00:kolma0ns000000illa CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ade000000000:kolma0ns0000000000000illa0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+pl+ade00:neljä0ns000000illä CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ade000000000:neljä0ns0000000000000illä0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+pl+ade00:viide0ns000000illä CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ade000000000:viide0ns0000000000000illä0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+pl+ade00:kuude0ns000000illa CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ade000000000:kuude0ns0000000000000illa0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+pl+ade00:seitsemä0ns000000illä CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ade000000000:seitsemä0ns0000000000000illä0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+pl+ade00:kahdeksa0ns000000illa CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ade000000000:kahdeksa0ns0000000000000illa0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+pl+ade00:yhdeksä0ns000000illä CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ade000000000:yhdeksä0ns0000000000000illä0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+pl+ade00:ensimmäis0000000illä CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+pl+ade00:tois0000000illa CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|ade_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+pl+ade00:kymmene0ns000000illä CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+pl+ade00:sada0ns000000illa CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+pl+ade00:tuhanne0ns000000illa CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|abl
+ORDINAL_pl|abl_base_initial ;
+ORDINAL_pl|abl_multiplier_initial ;
+ORDINAL_pl|abl_base_final ;
+ORDINAL_pl|abl_multiplier_final ;
+
+LEXICON ORDINAL_pl|abl_base_initial
+yhdes0000000|:yhde0ns0iltä0 ORDINAL_pl|abl ;
+yhdes0000000|toista|:yhde0ns0iltä0toista0 ORDINAL_pl|abl ;
+kahdes0000000|:kahde0ns0ilta0 ORDINAL_pl|abl ;
+kahdes0000000|toista|:kahde0ns0ilta0toista0 ORDINAL_pl|abl ;
+kolmas0000000|:kolma0ns0ilta0 ORDINAL_pl|abl ;
+kolmas0000000|toista|:kolma0ns0ilta0toista0 ORDINAL_pl|abl ;
+neljäs0000000|:neljä0ns0iltä0 ORDINAL_pl|abl ;
+neljäs0000000|toista|:neljä0ns0iltä0toista0 ORDINAL_pl|abl ;
+viides0000000|:viide0ns0iltä0 ORDINAL_pl|abl ;
+viides0000000|toista|:viide0ns0iltä0toista0 ORDINAL_pl|abl ;
+kuudes0000000|:kuude0ns0ilta0 ORDINAL_pl|abl ;
+kuudes0000000|toista|:kuude0ns0ilta0toista0 ORDINAL_pl|abl ;
+seitsemäs0000000|:seitsemä0ns0iltä0 ORDINAL_pl|abl ;
+seitsemäs0000000|toista|:seitsemä0ns0iltä0toista0 ORDINAL_pl|abl ;
+kahdeksas0000000|:kahdeksa0ns0ilta0 ORDINAL_pl|abl ;
+kahdeksas0000000|toista|:kahdeksa0ns0ilta0toista0 ORDINAL_pl|abl ;
+yhdeksäs0000000|:yhdeksä0ns0iltä0 ORDINAL_pl|abl ;
+yhdeksäs0000000|toista|:yhdeksä0ns0iltä0toista0 ORDINAL_pl|abl ;
+
+LEXICON ORDINAL_pl|abl_multiplier_initial
+kymmenes0000000|:kymmene0ns0iltä0 ORDINAL_pl|abl ;
+sadas0000000|:sada0ns0ilta0 ORDINAL_pl|abl ;
+tuhannes0000000|:tuhanne0ns0ilta0 ORDINAL_pl|abl ;
+
+LEXICON ORDINAL_pl|abl_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+pl+abl00:yhde0ns000000iltä CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+abl000000000:yhde0ns0000000000000iltä0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+pl+abl00:kahde0ns000000ilta CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+abl000000000:kahde0ns0000000000000ilta0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+pl+abl00:kolma0ns000000ilta CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+abl000000000:kolma0ns0000000000000ilta0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+pl+abl00:neljä0ns000000iltä CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+abl000000000:neljä0ns0000000000000iltä0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+pl+abl00:viide0ns000000iltä CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+pl+abl000000000:viide0ns0000000000000iltä0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+pl+abl00:kuude0ns000000ilta CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+abl000000000:kuude0ns0000000000000ilta0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+pl+abl00:seitsemä0ns000000iltä CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+abl000000000:seitsemä0ns0000000000000iltä0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+pl+abl00:kahdeksa0ns000000ilta CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+abl000000000:kahdeksa0ns0000000000000ilta0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+pl+abl00:yhdeksä0ns000000iltä CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+abl000000000:yhdeksä0ns0000000000000iltä0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+pl+abl00:ensimmäis0000000iltä CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+pl+abl00:tois0000000ilta CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|abl_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+pl+abl00:kymmene0ns000000iltä CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+pl+abl00:sada0ns000000ilta CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+pl+abl00:tuhanne0ns000000ilta CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|par
+ORDINAL_sg|par_base_initial ;
+ORDINAL_sg|par_multiplier_initial ;
+ORDINAL_sg|par_base_final ;
+ORDINAL_sg|par_multiplier_final ;
+
+LEXICON ORDINAL_sg|par_base_initial
+yhdes0000000|:yhde00t00tä00 ORDINAL_sg|par ;
+yhdes0000000|toista|:yhde00t00tä00toista0 ORDINAL_sg|par ;
+kahdes0000000|:kahde00t00ta00 ORDINAL_sg|par ;
+kahdes0000000|toista|:kahde00t00ta00toista0 ORDINAL_sg|par ;
+kolmas0000000|:kolma00t00ta00 ORDINAL_sg|par ;
+kolmas0000000|toista|:kolma00t00ta00toista0 ORDINAL_sg|par ;
+neljäs0000000|:neljä00t00tä00 ORDINAL_sg|par ;
+neljäs0000000|toista|:neljä00t00tä00toista0 ORDINAL_sg|par ;
+viides0000000|:viide00t00tä00 ORDINAL_sg|par ;
+viides0000000|toista|:viide00t00tä00toista0 ORDINAL_sg|par ;
+kuudes0000000|:kuude00t00ta00 ORDINAL_sg|par ;
+kuudes0000000|toista|:kuude00t00ta00toista0 ORDINAL_sg|par ;
+seitsemäs0000000|:seitsemä00t00tä00 ORDINAL_sg|par ;
+seitsemäs0000000|toista|:seitsemä00t00tä00toista0 ORDINAL_sg|par ;
+kahdeksas0000000|:kahdeksa00t00ta00 ORDINAL_sg|par ;
+kahdeksas0000000|toista|:kahdeksa00t00ta00toista0 ORDINAL_sg|par ;
+yhdeksäs0000000|:yhdeksä00t00tä00 ORDINAL_sg|par ;
+yhdeksäs0000000|toista|:yhdeksä00t00tä00toista0 ORDINAL_sg|par ;
+
+LEXICON ORDINAL_sg|par_multiplier_initial
+kymmenes0000000|:kymmene00t00tä00 ORDINAL_sg|par ;
+sadas0000000|:sada00t00ta00 ORDINAL_sg|par ;
+tuhannes0000000|:tuhanne00t00ta00 ORDINAL_sg|par ;
+
+LEXICON ORDINAL_sg|par_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+sg+par0:yhde00t0000000tä CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+par00000000:yhde00t00000000000000tä0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+sg+par0:kahde00t0000000ta CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+par00000000:kahde00t00000000000000ta0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+sg+par0:kolma00t0000000ta CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+par00000000:kolma00t00000000000000ta0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+sg+par0:neljä00t0000000tä CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+par00000000:neljä00t00000000000000tä0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+sg+par0:viide00t0000000tä CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+sg+par00000000:viide00t00000000000000tä0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+sg+par0:kuude00t0000000ta CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+par00000000:kuude00t00000000000000ta0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+sg+par0:seitsemä00t0000000tä CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+par00000000:seitsemä00t00000000000000tä0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+sg+par0:kahdeksa00t0000000ta CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+par00000000:kahdeksa00t00000000000000ta0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+sg+par0:yhdeksä00t0000000tä CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+par00000000:yhdeksä00t00000000000000tä0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+sg+par0:ensimmäis00000000tä CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+sg+par0:tois00000000ta CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|par_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+sg+par0:kymmene00t0000000tä CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+sg+par0:sada00t0000000ta CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+sg+par0:tuhanne00t0000000ta CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|com
+ORDINAL_pl|com_base_initial ;
+ORDINAL_pl|com_multiplier_initial ;
+ORDINAL_pl|com_base_final ;
+ORDINAL_pl|com_multiplier_final ;
+
+LEXICON ORDINAL_pl|com_base_initial
+yhdes0000000|:yhde0ns0ine00 ORDINAL_pl|com ;
+yhdes0000000|toista|:yhde0ns0ine00toista0 ORDINAL_pl|com ;
+kahdes0000000|:kahde0ns0ine00 ORDINAL_pl|com ;
+kahdes0000000|toista|:kahde0ns0ine00toista0 ORDINAL_pl|com ;
+kolmas0000000|:kolma0ns0ine00 ORDINAL_pl|com ;
+kolmas0000000|toista|:kolma0ns0ine00toista0 ORDINAL_pl|com ;
+neljäs0000000|:neljä0ns0ine00 ORDINAL_pl|com ;
+neljäs0000000|toista|:neljä0ns0ine00toista0 ORDINAL_pl|com ;
+viides0000000|:viide0ns0ine00 ORDINAL_pl|com ;
+viides0000000|toista|:viide0ns0ine00toista0 ORDINAL_pl|com ;
+kuudes0000000|:kuude0ns0ine00 ORDINAL_pl|com ;
+kuudes0000000|toista|:kuude0ns0ine00toista0 ORDINAL_pl|com ;
+seitsemäs0000000|:seitsemä0ns0ine00 ORDINAL_pl|com ;
+seitsemäs0000000|toista|:seitsemä0ns0ine00toista0 ORDINAL_pl|com ;
+kahdeksas0000000|:kahdeksa0ns0ine00 ORDINAL_pl|com ;
+kahdeksas0000000|toista|:kahdeksa0ns0ine00toista0 ORDINAL_pl|com ;
+yhdeksäs0000000|:yhdeksä0ns0ine00 ORDINAL_pl|com ;
+yhdeksäs0000000|toista|:yhdeksä0ns0ine00toista0 ORDINAL_pl|com ;
+
+LEXICON ORDINAL_pl|com_multiplier_initial
+kymmenes0000000|:kymmene0ns0ine00 ORDINAL_pl|com ;
+sadas0000000|:sada0ns0ine00 ORDINAL_pl|com ;
+tuhannes0000000|:tuhanne0ns0ine00 ORDINAL_pl|com ;
+
+LEXICON ORDINAL_pl|com_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+pl+com0:yhde0ns000000ine CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+com00000000:yhde0ns0000000000000ine0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+pl+com0:kahde0ns000000ine CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+com00000000:kahde0ns0000000000000ine0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+pl+com0:kolma0ns000000ine CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+com00000000:kolma0ns0000000000000ine0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+pl+com0:neljä0ns000000ine CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+com00000000:neljä0ns0000000000000ine0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+pl+com0:viide0ns000000ine CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+pl+com00000000:viide0ns0000000000000ine0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+pl+com0:kuude0ns000000ine CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+com00000000:kuude0ns0000000000000ine0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+pl+com0:seitsemä0ns000000ine CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+com00000000:seitsemä0ns0000000000000ine0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+pl+com0:kahdeksa0ns000000ine CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+com00000000:kahdeksa0ns0000000000000ine0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+pl+com0:yhdeksä0ns000000ine CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+com00000000:yhdeksä0ns0000000000000ine0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+pl+com0:ensimmäis0000000ine CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+pl+com0:tois0000000ine CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|com_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+pl+com0:kymmene0ns000000ine CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+pl+com0:sada0ns000000ine CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+pl+com0:tuhanne0ns000000ine CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|tra
+ORDINAL_pl|tra_base_initial ;
+ORDINAL_pl|tra_multiplier_initial ;
+ORDINAL_pl|tra_base_final ;
+ORDINAL_pl|tra_multiplier_final ;
+
+LEXICON ORDINAL_pl|tra_base_initial
+yhdes0000000|:yhde0ns0iksi0 ORDINAL_pl|tra ;
+yhdes0000000|toista|:yhde0ns0iksi0toista0 ORDINAL_pl|tra ;
+kahdes0000000|:kahde0ns0iksi0 ORDINAL_pl|tra ;
+kahdes0000000|toista|:kahde0ns0iksi0toista0 ORDINAL_pl|tra ;
+kolmas0000000|:kolma0ns0iksi0 ORDINAL_pl|tra ;
+kolmas0000000|toista|:kolma0ns0iksi0toista0 ORDINAL_pl|tra ;
+neljäs0000000|:neljä0ns0iksi0 ORDINAL_pl|tra ;
+neljäs0000000|toista|:neljä0ns0iksi0toista0 ORDINAL_pl|tra ;
+viides0000000|:viide0ns0iksi0 ORDINAL_pl|tra ;
+viides0000000|toista|:viide0ns0iksi0toista0 ORDINAL_pl|tra ;
+kuudes0000000|:kuude0ns0iksi0 ORDINAL_pl|tra ;
+kuudes0000000|toista|:kuude0ns0iksi0toista0 ORDINAL_pl|tra ;
+seitsemäs0000000|:seitsemä0ns0iksi0 ORDINAL_pl|tra ;
+seitsemäs0000000|toista|:seitsemä0ns0iksi0toista0 ORDINAL_pl|tra ;
+kahdeksas0000000|:kahdeksa0ns0iksi0 ORDINAL_pl|tra ;
+kahdeksas0000000|toista|:kahdeksa0ns0iksi0toista0 ORDINAL_pl|tra ;
+yhdeksäs0000000|:yhdeksä0ns0iksi0 ORDINAL_pl|tra ;
+yhdeksäs0000000|toista|:yhdeksä0ns0iksi0toista0 ORDINAL_pl|tra ;
+
+LEXICON ORDINAL_pl|tra_multiplier_initial
+kymmenes0000000|:kymmene0ns0iksi0 ORDINAL_pl|tra ;
+sadas0000000|:sada0ns0iksi0 ORDINAL_pl|tra ;
+tuhannes0000000|:tuhanne0ns0iksi0 ORDINAL_pl|tra ;
+
+LEXICON ORDINAL_pl|tra_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+pl+tra00:yhde0ns000000iksi CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+tra000000000:yhde0ns0000000000000iksi0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+pl+tra00:kahde0ns000000iksi CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+tra000000000:kahde0ns0000000000000iksi0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+pl+tra00:kolma0ns000000iksi CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+tra000000000:kolma0ns0000000000000iksi0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+pl+tra00:neljä0ns000000iksi CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+tra000000000:neljä0ns0000000000000iksi0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+pl+tra00:viide0ns000000iksi CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+pl+tra000000000:viide0ns0000000000000iksi0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+pl+tra00:kuude0ns000000iksi CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+tra000000000:kuude0ns0000000000000iksi0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+pl+tra00:seitsemä0ns000000iksi CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+tra000000000:seitsemä0ns0000000000000iksi0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+pl+tra00:kahdeksa0ns000000iksi CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+tra000000000:kahdeksa0ns0000000000000iksi0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+pl+tra00:yhdeksä0ns000000iksi CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+tra000000000:yhdeksä0ns0000000000000iksi0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+pl+tra00:ensimmäis0000000iksi CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+pl+tra00:tois0000000iksi CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|tra_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+pl+tra00:kymmene0ns000000iksi CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+pl+tra00:sada0ns000000iksi CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+pl+tra00:tuhanne0ns000000iksi CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|all
+ORDINAL_pl|all_base_initial ;
+ORDINAL_pl|all_multiplier_initial ;
+ORDINAL_pl|all_base_final ;
+ORDINAL_pl|all_multiplier_final ;
+
+LEXICON ORDINAL_pl|all_base_initial
+yhdes0000000|:yhde0ns0ille0 ORDINAL_pl|all ;
+yhdes0000000|toista|:yhde0ns0ille0toista0 ORDINAL_pl|all ;
+kahdes0000000|:kahde0ns0ille0 ORDINAL_pl|all ;
+kahdes0000000|toista|:kahde0ns0ille0toista0 ORDINAL_pl|all ;
+kolmas0000000|:kolma0ns0ille0 ORDINAL_pl|all ;
+kolmas0000000|toista|:kolma0ns0ille0toista0 ORDINAL_pl|all ;
+neljäs0000000|:neljä0ns0ille0 ORDINAL_pl|all ;
+neljäs0000000|toista|:neljä0ns0ille0toista0 ORDINAL_pl|all ;
+viides0000000|:viide0ns0ille0 ORDINAL_pl|all ;
+viides0000000|toista|:viide0ns0ille0toista0 ORDINAL_pl|all ;
+kuudes0000000|:kuude0ns0ille0 ORDINAL_pl|all ;
+kuudes0000000|toista|:kuude0ns0ille0toista0 ORDINAL_pl|all ;
+seitsemäs0000000|:seitsemä0ns0ille0 ORDINAL_pl|all ;
+seitsemäs0000000|toista|:seitsemä0ns0ille0toista0 ORDINAL_pl|all ;
+kahdeksas0000000|:kahdeksa0ns0ille0 ORDINAL_pl|all ;
+kahdeksas0000000|toista|:kahdeksa0ns0ille0toista0 ORDINAL_pl|all ;
+yhdeksäs0000000|:yhdeksä0ns0ille0 ORDINAL_pl|all ;
+yhdeksäs0000000|toista|:yhdeksä0ns0ille0toista0 ORDINAL_pl|all ;
+
+LEXICON ORDINAL_pl|all_multiplier_initial
+kymmenes0000000|:kymmene0ns0ille0 ORDINAL_pl|all ;
+sadas0000000|:sada0ns0ille0 ORDINAL_pl|all ;
+tuhannes0000000|:tuhanne0ns0ille0 ORDINAL_pl|all ;
+
+LEXICON ORDINAL_pl|all_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+pl+all00:yhde0ns000000ille CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+all000000000:yhde0ns0000000000000ille0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+pl+all00:kahde0ns000000ille CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+all000000000:kahde0ns0000000000000ille0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+pl+all00:kolma0ns000000ille CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+all000000000:kolma0ns0000000000000ille0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+pl+all00:neljä0ns000000ille CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+all000000000:neljä0ns0000000000000ille0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+pl+all00:viide0ns000000ille CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+pl+all000000000:viide0ns0000000000000ille0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+pl+all00:kuude0ns000000ille CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+all000000000:kuude0ns0000000000000ille0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+pl+all00:seitsemä0ns000000ille CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+all000000000:seitsemä0ns0000000000000ille0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+pl+all00:kahdeksa0ns000000ille CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+all000000000:kahdeksa0ns0000000000000ille0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+pl+all00:yhdeksä0ns000000ille CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+all000000000:yhdeksä0ns0000000000000ille0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+pl+all00:ensimmäis0000000ille CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+pl+all00:tois0000000ille CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|all_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+pl+all00:kymmene0ns000000ille CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+pl+all00:sada0ns000000ille CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+pl+all00:tuhanne0ns000000ille CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|ill
+ORDINAL_sg|ill_base_initial ;
+ORDINAL_sg|ill_multiplier_initial ;
+ORDINAL_sg|ill_base_final ;
+ORDINAL_sg|ill_multiplier_final ;
+
+LEXICON ORDINAL_sg|ill_base_initial
+yhdes0000000|:yhde0nte0en00 ORDINAL_sg|ill ;
+yhdes0000000|toista|:yhde0nte0en00toista0 ORDINAL_sg|ill ;
+kahdes0000000|:kahde0nte0en00 ORDINAL_sg|ill ;
+kahdes0000000|toista|:kahde0nte0en00toista0 ORDINAL_sg|ill ;
+kolmas0000000|:kolma0nte0en00 ORDINAL_sg|ill ;
+kolmas0000000|toista|:kolma0nte0en00toista0 ORDINAL_sg|ill ;
+neljäs0000000|:neljä0nte0en00 ORDINAL_sg|ill ;
+neljäs0000000|toista|:neljä0nte0en00toista0 ORDINAL_sg|ill ;
+viides0000000|:viide0nte0en00 ORDINAL_sg|ill ;
+viides0000000|toista|:viide0nte0en00toista0 ORDINAL_sg|ill ;
+kuudes0000000|:kuude0nte0en00 ORDINAL_sg|ill ;
+kuudes0000000|toista|:kuude0nte0en00toista0 ORDINAL_sg|ill ;
+seitsemäs0000000|:seitsemä0nte0en00 ORDINAL_sg|ill ;
+seitsemäs0000000|toista|:seitsemä0nte0en00toista0 ORDINAL_sg|ill ;
+kahdeksas0000000|:kahdeksa0nte0en00 ORDINAL_sg|ill ;
+kahdeksas0000000|toista|:kahdeksa0nte0en00toista0 ORDINAL_sg|ill ;
+yhdeksäs0000000|:yhdeksä0nte0en00 ORDINAL_sg|ill ;
+yhdeksäs0000000|toista|:yhdeksä0nte0en00toista0 ORDINAL_sg|ill ;
+
+LEXICON ORDINAL_sg|ill_multiplier_initial
+kymmenes0000000|:kymmene0nte0en00 ORDINAL_sg|ill ;
+sadas0000000|:sada0nte0en00 ORDINAL_sg|ill ;
+tuhannes0000000|:tuhanne0nte0en00 ORDINAL_sg|ill ;
+
+LEXICON ORDINAL_sg|ill_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+sg+ill0:yhde0nte000000en CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ill00000000:yhde0nte0000000000000en0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+sg+ill0:kahde0nte000000en CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ill00000000:kahde0nte0000000000000en0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+sg+ill0:kolma0nte000000en CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ill00000000:kolma0nte0000000000000en0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+sg+ill0:neljä0nte000000en CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ill00000000:neljä0nte0000000000000en0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+sg+ill0:viide0nte000000en CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ill00000000:viide0nte0000000000000en0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+sg+ill0:kuude0nte000000en CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ill00000000:kuude0nte0000000000000en0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+sg+ill0:seitsemä0nte000000en CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ill00000000:seitsemä0nte0000000000000en0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+sg+ill0:kahdeksa0nte000000en CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ill00000000:kahdeksa0nte0000000000000en0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+sg+ill0:yhdeksä0nte000000en CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ill00000000:yhdeksä0nte0000000000000en0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+sg+ill0:ensimmäise0000000en CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+sg+ill0:toise0000000en CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|ill_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+sg+ill0:kymmene0nte000000en CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+sg+ill0:sada0nte000000en CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+sg+ill0:tuhanne0nte000000en CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|tra
+ORDINAL_sg|tra_base_initial ;
+ORDINAL_sg|tra_multiplier_initial ;
+ORDINAL_sg|tra_base_final ;
+ORDINAL_sg|tra_multiplier_final ;
+
+LEXICON ORDINAL_sg|tra_base_initial
+yhdes0000000|:yhde0nne0ksi0 ORDINAL_sg|tra ;
+yhdes0000000|toista|:yhde0nne0ksi0toista0 ORDINAL_sg|tra ;
+kahdes0000000|:kahde0nne0ksi0 ORDINAL_sg|tra ;
+kahdes0000000|toista|:kahde0nne0ksi0toista0 ORDINAL_sg|tra ;
+kolmas0000000|:kolma0nne0ksi0 ORDINAL_sg|tra ;
+kolmas0000000|toista|:kolma0nne0ksi0toista0 ORDINAL_sg|tra ;
+neljäs0000000|:neljä0nne0ksi0 ORDINAL_sg|tra ;
+neljäs0000000|toista|:neljä0nne0ksi0toista0 ORDINAL_sg|tra ;
+viides0000000|:viide0nne0ksi0 ORDINAL_sg|tra ;
+viides0000000|toista|:viide0nne0ksi0toista0 ORDINAL_sg|tra ;
+kuudes0000000|:kuude0nne0ksi0 ORDINAL_sg|tra ;
+kuudes0000000|toista|:kuude0nne0ksi0toista0 ORDINAL_sg|tra ;
+seitsemäs0000000|:seitsemä0nne0ksi0 ORDINAL_sg|tra ;
+seitsemäs0000000|toista|:seitsemä0nne0ksi0toista0 ORDINAL_sg|tra ;
+kahdeksas0000000|:kahdeksa0nne0ksi0 ORDINAL_sg|tra ;
+kahdeksas0000000|toista|:kahdeksa0nne0ksi0toista0 ORDINAL_sg|tra ;
+yhdeksäs0000000|:yhdeksä0nne0ksi0 ORDINAL_sg|tra ;
+yhdeksäs0000000|toista|:yhdeksä0nne0ksi0toista0 ORDINAL_sg|tra ;
+
+LEXICON ORDINAL_sg|tra_multiplier_initial
+kymmenes0000000|:kymmene0nne0ksi0 ORDINAL_sg|tra ;
+sadas0000000|:sada0nne0ksi0 ORDINAL_sg|tra ;
+tuhannes0000000|:tuhanne0nne0ksi0 ORDINAL_sg|tra ;
+
+LEXICON ORDINAL_sg|tra_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+sg+tra00:yhde0nne000000ksi CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+tra000000000:yhde0nne0000000000000ksi0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+sg+tra00:kahde0nne000000ksi CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+tra000000000:kahde0nne0000000000000ksi0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+sg+tra00:kolma0nne000000ksi CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+tra000000000:kolma0nne0000000000000ksi0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+sg+tra00:neljä0nne000000ksi CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+tra000000000:neljä0nne0000000000000ksi0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+sg+tra00:viide0nne000000ksi CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+sg+tra000000000:viide0nne0000000000000ksi0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+sg+tra00:kuude0nne000000ksi CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+tra000000000:kuude0nne0000000000000ksi0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+sg+tra00:seitsemä0nne000000ksi CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+tra000000000:seitsemä0nne0000000000000ksi0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+sg+tra00:kahdeksa0nne000000ksi CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+tra000000000:kahdeksa0nne0000000000000ksi0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+sg+tra00:yhdeksä0nne000000ksi CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+tra000000000:yhdeksä0nne0000000000000ksi0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+sg+tra00:ensimmäise0000000ksi CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+sg+tra00:toise0000000ksi CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|tra_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+sg+tra00:kymmene0nne000000ksi CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+sg+tra00:sada0nne000000ksi CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+sg+tra00:tuhanne0nne000000ksi CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|ine
+ORDINAL_pl|ine_base_initial ;
+ORDINAL_pl|ine_multiplier_initial ;
+ORDINAL_pl|ine_base_final ;
+ORDINAL_pl|ine_multiplier_final ;
+
+LEXICON ORDINAL_pl|ine_base_initial
+yhdes0000000|:yhde0ns0issä0 ORDINAL_pl|ine ;
+yhdes0000000|toista|:yhde0ns0issä0toista0 ORDINAL_pl|ine ;
+kahdes0000000|:kahde0ns0issa0 ORDINAL_pl|ine ;
+kahdes0000000|toista|:kahde0ns0issa0toista0 ORDINAL_pl|ine ;
+kolmas0000000|:kolma0ns0issa0 ORDINAL_pl|ine ;
+kolmas0000000|toista|:kolma0ns0issa0toista0 ORDINAL_pl|ine ;
+neljäs0000000|:neljä0ns0issä0 ORDINAL_pl|ine ;
+neljäs0000000|toista|:neljä0ns0issä0toista0 ORDINAL_pl|ine ;
+viides0000000|:viide0ns0issä0 ORDINAL_pl|ine ;
+viides0000000|toista|:viide0ns0issä0toista0 ORDINAL_pl|ine ;
+kuudes0000000|:kuude0ns0issa0 ORDINAL_pl|ine ;
+kuudes0000000|toista|:kuude0ns0issa0toista0 ORDINAL_pl|ine ;
+seitsemäs0000000|:seitsemä0ns0issä0 ORDINAL_pl|ine ;
+seitsemäs0000000|toista|:seitsemä0ns0issä0toista0 ORDINAL_pl|ine ;
+kahdeksas0000000|:kahdeksa0ns0issa0 ORDINAL_pl|ine ;
+kahdeksas0000000|toista|:kahdeksa0ns0issa0toista0 ORDINAL_pl|ine ;
+yhdeksäs0000000|:yhdeksä0ns0issä0 ORDINAL_pl|ine ;
+yhdeksäs0000000|toista|:yhdeksä0ns0issä0toista0 ORDINAL_pl|ine ;
+
+LEXICON ORDINAL_pl|ine_multiplier_initial
+kymmenes0000000|:kymmene0ns0issä0 ORDINAL_pl|ine ;
+sadas0000000|:sada0ns0issa0 ORDINAL_pl|ine ;
+tuhannes0000000|:tuhanne0ns0issa0 ORDINAL_pl|ine ;
+
+LEXICON ORDINAL_pl|ine_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+pl+ine00:yhde0ns000000issä CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ine000000000:yhde0ns0000000000000issä0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+pl+ine00:kahde0ns000000issa CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ine000000000:kahde0ns0000000000000issa0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+pl+ine00:kolma0ns000000issa CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ine000000000:kolma0ns0000000000000issa0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+pl+ine00:neljä0ns000000issä CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ine000000000:neljä0ns0000000000000issä0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+pl+ine00:viide0ns000000issä CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ine000000000:viide0ns0000000000000issä0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+pl+ine00:kuude0ns000000issa CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ine000000000:kuude0ns0000000000000issa0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+pl+ine00:seitsemä0ns000000issä CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ine000000000:seitsemä0ns0000000000000issä0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+pl+ine00:kahdeksa0ns000000issa CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ine000000000:kahdeksa0ns0000000000000issa0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+pl+ine00:yhdeksä0ns000000issä CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ine000000000:yhdeksä0ns0000000000000issä0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+pl+ine00:ensimmäis0000000issä CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+pl+ine00:tois0000000issa CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|ine_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+pl+ine00:kymmene0ns000000issä CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+pl+ine00:sada0ns000000issa CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+pl+ine00:tuhanne0ns000000issa CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|ela
+ORDINAL_sg|ela_base_initial ;
+ORDINAL_sg|ela_multiplier_initial ;
+ORDINAL_sg|ela_base_final ;
+ORDINAL_sg|ela_multiplier_final ;
+
+LEXICON ORDINAL_sg|ela_base_initial
+yhdes0000000|:yhde0nne0stä0 ORDINAL_sg|ela ;
+yhdes0000000|toista|:yhde0nne0stä0toista0 ORDINAL_sg|ela ;
+kahdes0000000|:kahde0nne0sta0 ORDINAL_sg|ela ;
+kahdes0000000|toista|:kahde0nne0sta0toista0 ORDINAL_sg|ela ;
+kolmas0000000|:kolma0nne0sta0 ORDINAL_sg|ela ;
+kolmas0000000|toista|:kolma0nne0sta0toista0 ORDINAL_sg|ela ;
+neljäs0000000|:neljä0nne0stä0 ORDINAL_sg|ela ;
+neljäs0000000|toista|:neljä0nne0stä0toista0 ORDINAL_sg|ela ;
+viides0000000|:viide0nne0stä0 ORDINAL_sg|ela ;
+viides0000000|toista|:viide0nne0stä0toista0 ORDINAL_sg|ela ;
+kuudes0000000|:kuude0nne0sta0 ORDINAL_sg|ela ;
+kuudes0000000|toista|:kuude0nne0sta0toista0 ORDINAL_sg|ela ;
+seitsemäs0000000|:seitsemä0nne0stä0 ORDINAL_sg|ela ;
+seitsemäs0000000|toista|:seitsemä0nne0stä0toista0 ORDINAL_sg|ela ;
+kahdeksas0000000|:kahdeksa0nne0sta0 ORDINAL_sg|ela ;
+kahdeksas0000000|toista|:kahdeksa0nne0sta0toista0 ORDINAL_sg|ela ;
+yhdeksäs0000000|:yhdeksä0nne0stä0 ORDINAL_sg|ela ;
+yhdeksäs0000000|toista|:yhdeksä0nne0stä0toista0 ORDINAL_sg|ela ;
+
+LEXICON ORDINAL_sg|ela_multiplier_initial
+kymmenes0000000|:kymmene0nne0stä0 ORDINAL_sg|ela ;
+sadas0000000|:sada0nne0sta0 ORDINAL_sg|ela ;
+tuhannes0000000|:tuhanne0nne0sta0 ORDINAL_sg|ela ;
+
+LEXICON ORDINAL_sg|ela_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+sg+ela00:yhde0nne000000stä CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ela000000000:yhde0nne0000000000000stä0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+sg+ela00:kahde0nne000000sta CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ela000000000:kahde0nne0000000000000sta0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+sg+ela00:kolma0nne000000sta CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ela000000000:kolma0nne0000000000000sta0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+sg+ela00:neljä0nne000000stä CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ela000000000:neljä0nne0000000000000stä0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+sg+ela00:viide0nne000000stä CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ela000000000:viide0nne0000000000000stä0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+sg+ela00:kuude0nne000000sta CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ela000000000:kuude0nne0000000000000sta0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+sg+ela00:seitsemä0nne000000stä CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ela000000000:seitsemä0nne0000000000000stä0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+sg+ela00:kahdeksa0nne000000sta CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ela000000000:kahdeksa0nne0000000000000sta0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+sg+ela00:yhdeksä0nne000000stä CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ela000000000:yhdeksä0nne0000000000000stä0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+sg+ela00:ensimmäise0000000stä CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+sg+ela00:toise0000000sta CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|ela_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+sg+ela00:kymmene0nne000000stä CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+sg+ela00:sada0nne000000sta CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+sg+ela00:tuhanne0nne000000sta CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|nom
+ORDINAL_sg|nom_base_initial ;
+ORDINAL_sg|nom_multiplier_initial ;
+ORDINAL_sg|nom_base_final ;
+ORDINAL_sg|nom_multiplier_final ;
+
+LEXICON ORDINAL_sg|nom_base_initial
+yhdes0000000|:yhdes00000000 ORDINAL_sg|nom ;
+yhdes0000000|toista|:yhdes00000000toista0 ORDINAL_sg|nom ;
+kahdes0000000|:kahdes00000000 ORDINAL_sg|nom ;
+kahdes0000000|toista|:kahdes00000000toista0 ORDINAL_sg|nom ;
+kolmas0000000|:kolmas00000000 ORDINAL_sg|nom ;
+kolmas0000000|toista|:kolmas00000000toista0 ORDINAL_sg|nom ;
+neljäs0000000|:neljäs00000000 ORDINAL_sg|nom ;
+neljäs0000000|toista|:neljäs00000000toista0 ORDINAL_sg|nom ;
+viides0000000|:viides00000000 ORDINAL_sg|nom ;
+viides0000000|toista|:viides00000000toista0 ORDINAL_sg|nom ;
+kuudes0000000|:kuudes00000000 ORDINAL_sg|nom ;
+kuudes0000000|toista|:kuudes00000000toista0 ORDINAL_sg|nom ;
+seitsemäs0000000|:seitsemäs00000000 ORDINAL_sg|nom ;
+seitsemäs0000000|toista|:seitsemäs00000000toista0 ORDINAL_sg|nom ;
+kahdeksas0000000|:kahdeksas00000000 ORDINAL_sg|nom ;
+kahdeksas0000000|toista|:kahdeksas00000000toista0 ORDINAL_sg|nom ;
+yhdeksäs0000000|:yhdeksäs00000000 ORDINAL_sg|nom ;
+yhdeksäs0000000|toista|:yhdeksäs00000000toista0 ORDINAL_sg|nom ;
+
+LEXICON ORDINAL_sg|nom_multiplier_initial
+kymmenes0000000|:kymmenes00000000 ORDINAL_sg|nom ;
+sadas0000000|:sadas00000000 ORDINAL_sg|nom ;
+tuhannes0000000|:tuhannes00000000 ORDINAL_sg|nom ;
+
+LEXICON ORDINAL_sg|nom_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+sg+nom:yhdes0000000000 CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+nom0000000:yhdes000000000000000000toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+sg+nom:kahdes0000000000 CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+nom0000000:kahdes000000000000000000toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+sg+nom:kolmas0000000000 CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+nom0000000:kolmas000000000000000000toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+sg+nom:neljäs0000000000 CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+nom0000000:neljäs000000000000000000toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+sg+nom:viides0000000000 CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+sg+nom0000000:viides000000000000000000toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+sg+nom:kuudes0000000000 CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+nom0000000:kuudes000000000000000000toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+sg+nom:seitsemäs0000000000 CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+nom0000000:seitsemäs000000000000000000toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+sg+nom:kahdeksas0000000000 CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+nom0000000:kahdeksas000000000000000000toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+sg+nom:yhdeksäs0000000000 CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+nom0000000:yhdeksäs000000000000000000toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+sg+nom:ensimmäinen0000000 CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+sg+nom:toinen0000000 CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|nom_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+sg+nom:kymmenes0000000000 CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+sg+nom:sadas0000000000 CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+sg+nom:tuhannes0000000000 CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|abe
+ORDINAL_pl|abe_base_initial ;
+ORDINAL_pl|abe_multiplier_initial ;
+ORDINAL_pl|abe_base_final ;
+ORDINAL_pl|abe_multiplier_final ;
+
+LEXICON ORDINAL_pl|abe_base_initial
+yhdes0000000|:yhde0ns0ittä0 ORDINAL_pl|abe ;
+yhdes0000000|toista|:yhde0ns0ittä0toista0 ORDINAL_pl|abe ;
+kahdes0000000|:kahde0ns0itta0 ORDINAL_pl|abe ;
+kahdes0000000|toista|:kahde0ns0itta0toista0 ORDINAL_pl|abe ;
+kolmas0000000|:kolma0ns0itta0 ORDINAL_pl|abe ;
+kolmas0000000|toista|:kolma0ns0itta0toista0 ORDINAL_pl|abe ;
+neljäs0000000|:neljä0ns0ittä0 ORDINAL_pl|abe ;
+neljäs0000000|toista|:neljä0ns0ittä0toista0 ORDINAL_pl|abe ;
+viides0000000|:viide0ns0ittä0 ORDINAL_pl|abe ;
+viides0000000|toista|:viide0ns0ittä0toista0 ORDINAL_pl|abe ;
+kuudes0000000|:kuude0ns0itta0 ORDINAL_pl|abe ;
+kuudes0000000|toista|:kuude0ns0itta0toista0 ORDINAL_pl|abe ;
+seitsemäs0000000|:seitsemä0ns0ittä0 ORDINAL_pl|abe ;
+seitsemäs0000000|toista|:seitsemä0ns0ittä0toista0 ORDINAL_pl|abe ;
+kahdeksas0000000|:kahdeksa0ns0itta0 ORDINAL_pl|abe ;
+kahdeksas0000000|toista|:kahdeksa0ns0itta0toista0 ORDINAL_pl|abe ;
+yhdeksäs0000000|:yhdeksä0ns0ittä0 ORDINAL_pl|abe ;
+yhdeksäs0000000|toista|:yhdeksä0ns0ittä0toista0 ORDINAL_pl|abe ;
+
+LEXICON ORDINAL_pl|abe_multiplier_initial
+kymmenes0000000|:kymmene0ns0ittä0 ORDINAL_pl|abe ;
+sadas0000000|:sada0ns0itta0 ORDINAL_pl|abe ;
+tuhannes0000000|:tuhanne0ns0itta0 ORDINAL_pl|abe ;
+
+LEXICON ORDINAL_pl|abe_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+pl+abe00:yhde0ns000000ittä CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+abe000000000:yhde0ns0000000000000ittä0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+pl+abe00:kahde0ns000000itta CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+abe000000000:kahde0ns0000000000000itta0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+pl+abe00:kolma0ns000000itta CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+abe000000000:kolma0ns0000000000000itta0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+pl+abe00:neljä0ns000000ittä CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+abe000000000:neljä0ns0000000000000ittä0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+pl+abe00:viide0ns000000ittä CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+pl+abe000000000:viide0ns0000000000000ittä0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+pl+abe00:kuude0ns000000itta CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+abe000000000:kuude0ns0000000000000itta0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+pl+abe00:seitsemä0ns000000ittä CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+abe000000000:seitsemä0ns0000000000000ittä0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+pl+abe00:kahdeksa0ns000000itta CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+abe000000000:kahdeksa0ns0000000000000itta0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+pl+abe00:yhdeksä0ns000000ittä CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+abe000000000:yhdeksä0ns0000000000000ittä0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+pl+abe00:ensimmäis0000000ittä CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+pl+abe00:tois0000000itta CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|abe_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+pl+abe00:kymmene0ns000000ittä CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+pl+abe00:sada0ns000000itta CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+pl+abe00:tuhanne0ns000000itta CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|nom
+ORDINAL_pl|nom_base_initial ;
+ORDINAL_pl|nom_multiplier_initial ;
+ORDINAL_pl|nom_base_final ;
+ORDINAL_pl|nom_multiplier_final ;
+
+LEXICON ORDINAL_pl|nom_base_initial
+yhdes0000000|:yhde0nnet0000 ORDINAL_pl|nom ;
+yhdes0000000|toista|:yhde0nnet0000toista0 ORDINAL_pl|nom ;
+kahdes0000000|:kahde0nnet0000 ORDINAL_pl|nom ;
+kahdes0000000|toista|:kahde0nnet0000toista0 ORDINAL_pl|nom ;
+kolmas0000000|:kolma0nnet0000 ORDINAL_pl|nom ;
+kolmas0000000|toista|:kolma0nnet0000toista0 ORDINAL_pl|nom ;
+neljäs0000000|:neljä0nnet0000 ORDINAL_pl|nom ;
+neljäs0000000|toista|:neljä0nnet0000toista0 ORDINAL_pl|nom ;
+viides0000000|:viide0nnet0000 ORDINAL_pl|nom ;
+viides0000000|toista|:viide0nnet0000toista0 ORDINAL_pl|nom ;
+kuudes0000000|:kuude0nnet0000 ORDINAL_pl|nom ;
+kuudes0000000|toista|:kuude0nnet0000toista0 ORDINAL_pl|nom ;
+seitsemäs0000000|:seitsemä0nnet0000 ORDINAL_pl|nom ;
+seitsemäs0000000|toista|:seitsemä0nnet0000toista0 ORDINAL_pl|nom ;
+kahdeksas0000000|:kahdeksa0nnet0000 ORDINAL_pl|nom ;
+kahdeksas0000000|toista|:kahdeksa0nnet0000toista0 ORDINAL_pl|nom ;
+yhdeksäs0000000|:yhdeksä0nnet0000 ORDINAL_pl|nom ;
+yhdeksäs0000000|toista|:yhdeksä0nnet0000toista0 ORDINAL_pl|nom ;
+
+LEXICON ORDINAL_pl|nom_multiplier_initial
+kymmenes0000000|:kymmene0nnet0000 ORDINAL_pl|nom ;
+sadas0000000|:sada0nnet0000 ORDINAL_pl|nom ;
+tuhannes0000000|:tuhanne0nnet0000 ORDINAL_pl|nom ;
+
+LEXICON ORDINAL_pl|nom_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+pl+nom:yhde0nne00000t0 CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+nom0000000:yhde0nne000000000000t00toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+pl+nom:kahde0nne00000t0 CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+nom0000000:kahde0nne000000000000t00toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+pl+nom:kolma0nne00000t0 CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+nom0000000:kolma0nne000000000000t00toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+pl+nom:neljä0nne00000t0 CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+nom0000000:neljä0nne000000000000t00toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+pl+nom:viide0nne00000t0 CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+pl+nom0000000:viide0nne000000000000t00toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+pl+nom:kuude0nne00000t0 CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+nom0000000:kuude0nne000000000000t00toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+pl+nom:seitsemä0nne00000t0 CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+nom0000000:seitsemä0nne000000000000t00toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+pl+nom:kahdeksa0nne00000t0 CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+nom0000000:kahdeksa0nne000000000000t00toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+pl+nom:yhdeksä0nne00000t0 CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+nom0000000:yhdeksä0nne000000000000t00toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+pl+nom:ensimmäise000000t0 CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+pl+nom:toise000000t0 CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|nom_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+pl+nom:kymmene0nne00000t0 CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+pl+nom:sada0nne00000t0 CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+pl+nom:tuhanne0nne00000t0 CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|ill
+ORDINAL_pl|ill_base_initial ;
+ORDINAL_pl|ill_multiplier_initial ;
+ORDINAL_pl|ill_base_final ;
+ORDINAL_pl|ill_multiplier_final ;
+
+LEXICON ORDINAL_pl|ill_base_initial
+yhdes0000000|:yhde0ns0iin00 ORDINAL_pl|ill ;
+yhdes0000000|toista|:yhde0ns0iin00toista0 ORDINAL_pl|ill ;
+kahdes0000000|:kahde0ns0iin00 ORDINAL_pl|ill ;
+kahdes0000000|toista|:kahde0ns0iin00toista0 ORDINAL_pl|ill ;
+kolmas0000000|:kolma0ns0iin00 ORDINAL_pl|ill ;
+kolmas0000000|toista|:kolma0ns0iin00toista0 ORDINAL_pl|ill ;
+neljäs0000000|:neljä0ns0iin00 ORDINAL_pl|ill ;
+neljäs0000000|toista|:neljä0ns0iin00toista0 ORDINAL_pl|ill ;
+viides0000000|:viide0ns0iin00 ORDINAL_pl|ill ;
+viides0000000|toista|:viide0ns0iin00toista0 ORDINAL_pl|ill ;
+kuudes0000000|:kuude0ns0iin00 ORDINAL_pl|ill ;
+kuudes0000000|toista|:kuude0ns0iin00toista0 ORDINAL_pl|ill ;
+seitsemäs0000000|:seitsemä0ns0iin00 ORDINAL_pl|ill ;
+seitsemäs0000000|toista|:seitsemä0ns0iin00toista0 ORDINAL_pl|ill ;
+kahdeksas0000000|:kahdeksa0ns0iin00 ORDINAL_pl|ill ;
+kahdeksas0000000|toista|:kahdeksa0ns0iin00toista0 ORDINAL_pl|ill ;
+yhdeksäs0000000|:yhdeksä0ns0iin00 ORDINAL_pl|ill ;
+yhdeksäs0000000|toista|:yhdeksä0ns0iin00toista0 ORDINAL_pl|ill ;
+
+LEXICON ORDINAL_pl|ill_multiplier_initial
+kymmenes0000000|:kymmene0ns0iin00 ORDINAL_pl|ill ;
+sadas0000000|:sada0ns0iin00 ORDINAL_pl|ill ;
+tuhannes0000000|:tuhanne0ns0iin00 ORDINAL_pl|ill ;
+
+LEXICON ORDINAL_pl|ill_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+pl+ill0:yhde0ns000000iin CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ill00000000:yhde0ns0000000000000iin0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+pl+ill0:kahde0ns000000iin CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ill00000000:kahde0ns0000000000000iin0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+pl+ill0:kolma0ns000000iin CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ill00000000:kolma0ns0000000000000iin0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+pl+ill0:neljä0ns000000iin CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ill00000000:neljä0ns0000000000000iin0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+pl+ill0:viide0ns000000iin CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ill00000000:viide0ns0000000000000iin0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+pl+ill0:kuude0ns000000iin CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ill00000000:kuude0ns0000000000000iin0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+pl+ill0:seitsemä0ns000000iin CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ill00000000:seitsemä0ns0000000000000iin0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+pl+ill0:kahdeksa0ns000000iin CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ill00000000:kahdeksa0ns0000000000000iin0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+pl+ill0:yhdeksä0ns000000iin CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ill00000000:yhdeksä0ns0000000000000iin0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+pl+ill0:ensimmäis0000000iin CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+pl+ill0:tois0000000iin CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|ill_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+pl+ill0:kymmene0ns000000iin CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+pl+ill0:sada0ns000000iin CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+pl+ill0:tuhanne0ns000000iin CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|ess
+ORDINAL_pl|ess_base_initial ;
+ORDINAL_pl|ess_multiplier_initial ;
+ORDINAL_pl|ess_base_final ;
+ORDINAL_pl|ess_multiplier_final ;
+
+LEXICON ORDINAL_pl|ess_base_initial
+yhdes0000000|:yhde0ns0inä00 ORDINAL_pl|ess ;
+yhdes0000000|toista|:yhde0ns0inä00toista0 ORDINAL_pl|ess ;
+kahdes0000000|:kahde0ns0ina00 ORDINAL_pl|ess ;
+kahdes0000000|toista|:kahde0ns0ina00toista0 ORDINAL_pl|ess ;
+kolmas0000000|:kolma0ns0ina00 ORDINAL_pl|ess ;
+kolmas0000000|toista|:kolma0ns0ina00toista0 ORDINAL_pl|ess ;
+neljäs0000000|:neljä0ns0inä00 ORDINAL_pl|ess ;
+neljäs0000000|toista|:neljä0ns0inä00toista0 ORDINAL_pl|ess ;
+viides0000000|:viide0ns0inä00 ORDINAL_pl|ess ;
+viides0000000|toista|:viide0ns0inä00toista0 ORDINAL_pl|ess ;
+kuudes0000000|:kuude0ns0ina00 ORDINAL_pl|ess ;
+kuudes0000000|toista|:kuude0ns0ina00toista0 ORDINAL_pl|ess ;
+seitsemäs0000000|:seitsemä0ns0inä00 ORDINAL_pl|ess ;
+seitsemäs0000000|toista|:seitsemä0ns0inä00toista0 ORDINAL_pl|ess ;
+kahdeksas0000000|:kahdeksa0ns0ina00 ORDINAL_pl|ess ;
+kahdeksas0000000|toista|:kahdeksa0ns0ina00toista0 ORDINAL_pl|ess ;
+yhdeksäs0000000|:yhdeksä0ns0inä00 ORDINAL_pl|ess ;
+yhdeksäs0000000|toista|:yhdeksä0ns0inä00toista0 ORDINAL_pl|ess ;
+
+LEXICON ORDINAL_pl|ess_multiplier_initial
+kymmenes0000000|:kymmene0ns0inä00 ORDINAL_pl|ess ;
+sadas0000000|:sada0ns0ina00 ORDINAL_pl|ess ;
+tuhannes0000000|:tuhanne0ns0ina00 ORDINAL_pl|ess ;
+
+LEXICON ORDINAL_pl|ess_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+pl+ess0:yhde0ns000000inä CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ess00000000:yhde0ns0000000000000inä0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+pl+ess0:kahde0ns000000ina CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ess00000000:kahde0ns0000000000000ina0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+pl+ess0:kolma0ns000000ina CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ess00000000:kolma0ns0000000000000ina0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+pl+ess0:neljä0ns000000inä CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ess00000000:neljä0ns0000000000000inä0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+pl+ess0:viide0ns000000inä CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ess00000000:viide0ns0000000000000inä0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+pl+ess0:kuude0ns000000ina CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ess00000000:kuude0ns0000000000000ina0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+pl+ess0:seitsemä0ns000000inä CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ess00000000:seitsemä0ns0000000000000inä0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+pl+ess0:kahdeksa0ns000000ina CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ess00000000:kahdeksa0ns0000000000000ina0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+pl+ess0:yhdeksä0ns000000inä CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ess00000000:yhdeksä0ns0000000000000inä0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+pl+ess0:ensimmäis0000000inä CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+pl+ess0:tois0000000ina CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|ess_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+pl+ess0:kymmene0ns000000inä CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+pl+ess0:sada0ns000000ina CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+pl+ess0:tuhanne0ns000000ina CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|abe
+ORDINAL_sg|abe_base_initial ;
+ORDINAL_sg|abe_multiplier_initial ;
+ORDINAL_sg|abe_base_final ;
+ORDINAL_sg|abe_multiplier_final ;
+
+LEXICON ORDINAL_sg|abe_base_initial
+yhdes0000000|:yhde0nne0ttä0 ORDINAL_sg|abe ;
+yhdes0000000|toista|:yhde0nne0ttä0toista0 ORDINAL_sg|abe ;
+kahdes0000000|:kahde0nne0tta0 ORDINAL_sg|abe ;
+kahdes0000000|toista|:kahde0nne0tta0toista0 ORDINAL_sg|abe ;
+kolmas0000000|:kolma0nne0tta0 ORDINAL_sg|abe ;
+kolmas0000000|toista|:kolma0nne0tta0toista0 ORDINAL_sg|abe ;
+neljäs0000000|:neljä0nne0ttä0 ORDINAL_sg|abe ;
+neljäs0000000|toista|:neljä0nne0ttä0toista0 ORDINAL_sg|abe ;
+viides0000000|:viide0nne0ttä0 ORDINAL_sg|abe ;
+viides0000000|toista|:viide0nne0ttä0toista0 ORDINAL_sg|abe ;
+kuudes0000000|:kuude0nne0tta0 ORDINAL_sg|abe ;
+kuudes0000000|toista|:kuude0nne0tta0toista0 ORDINAL_sg|abe ;
+seitsemäs0000000|:seitsemä0nne0ttä0 ORDINAL_sg|abe ;
+seitsemäs0000000|toista|:seitsemä0nne0ttä0toista0 ORDINAL_sg|abe ;
+kahdeksas0000000|:kahdeksa0nne0tta0 ORDINAL_sg|abe ;
+kahdeksas0000000|toista|:kahdeksa0nne0tta0toista0 ORDINAL_sg|abe ;
+yhdeksäs0000000|:yhdeksä0nne0ttä0 ORDINAL_sg|abe ;
+yhdeksäs0000000|toista|:yhdeksä0nne0ttä0toista0 ORDINAL_sg|abe ;
+
+LEXICON ORDINAL_sg|abe_multiplier_initial
+kymmenes0000000|:kymmene0nne0ttä0 ORDINAL_sg|abe ;
+sadas0000000|:sada0nne0tta0 ORDINAL_sg|abe ;
+tuhannes0000000|:tuhanne0nne0tta0 ORDINAL_sg|abe ;
+
+LEXICON ORDINAL_sg|abe_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+sg+abe00:yhde0nne000000ttä CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+abe000000000:yhde0nne0000000000000ttä0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+sg+abe00:kahde0nne000000tta CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+abe000000000:kahde0nne0000000000000tta0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+sg+abe00:kolma0nne000000tta CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+abe000000000:kolma0nne0000000000000tta0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+sg+abe00:neljä0nne000000ttä CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+abe000000000:neljä0nne0000000000000ttä0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+sg+abe00:viide0nne000000ttä CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+sg+abe000000000:viide0nne0000000000000ttä0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+sg+abe00:kuude0nne000000tta CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+abe000000000:kuude0nne0000000000000tta0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+sg+abe00:seitsemä0nne000000ttä CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+abe000000000:seitsemä0nne0000000000000ttä0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+sg+abe00:kahdeksa0nne000000tta CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+abe000000000:kahdeksa0nne0000000000000tta0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+sg+abe00:yhdeksä0nne000000ttä CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+abe000000000:yhdeksä0nne0000000000000ttä0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+sg+abe00:ensimmäise0000000ttä CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+sg+abe00:toise0000000tta CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|abe_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+sg+abe00:kymmene0nne000000ttä CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+sg+abe00:sada0nne000000tta CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+sg+abe00:tuhanne0nne000000tta CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|ine
+ORDINAL_sg|ine_base_initial ;
+ORDINAL_sg|ine_multiplier_initial ;
+ORDINAL_sg|ine_base_final ;
+ORDINAL_sg|ine_multiplier_final ;
+
+LEXICON ORDINAL_sg|ine_base_initial
+yhdes0000000|:yhde0nne0ssä0 ORDINAL_sg|ine ;
+yhdes0000000|toista|:yhde0nne0ssä0toista0 ORDINAL_sg|ine ;
+kahdes0000000|:kahde0nne0ssa0 ORDINAL_sg|ine ;
+kahdes0000000|toista|:kahde0nne0ssa0toista0 ORDINAL_sg|ine ;
+kolmas0000000|:kolma0nne0ssa0 ORDINAL_sg|ine ;
+kolmas0000000|toista|:kolma0nne0ssa0toista0 ORDINAL_sg|ine ;
+neljäs0000000|:neljä0nne0ssä0 ORDINAL_sg|ine ;
+neljäs0000000|toista|:neljä0nne0ssä0toista0 ORDINAL_sg|ine ;
+viides0000000|:viide0nne0ssä0 ORDINAL_sg|ine ;
+viides0000000|toista|:viide0nne0ssä0toista0 ORDINAL_sg|ine ;
+kuudes0000000|:kuude0nne0ssa0 ORDINAL_sg|ine ;
+kuudes0000000|toista|:kuude0nne0ssa0toista0 ORDINAL_sg|ine ;
+seitsemäs0000000|:seitsemä0nne0ssä0 ORDINAL_sg|ine ;
+seitsemäs0000000|toista|:seitsemä0nne0ssä0toista0 ORDINAL_sg|ine ;
+kahdeksas0000000|:kahdeksa0nne0ssa0 ORDINAL_sg|ine ;
+kahdeksas0000000|toista|:kahdeksa0nne0ssa0toista0 ORDINAL_sg|ine ;
+yhdeksäs0000000|:yhdeksä0nne0ssä0 ORDINAL_sg|ine ;
+yhdeksäs0000000|toista|:yhdeksä0nne0ssä0toista0 ORDINAL_sg|ine ;
+
+LEXICON ORDINAL_sg|ine_multiplier_initial
+kymmenes0000000|:kymmene0nne0ssä0 ORDINAL_sg|ine ;
+sadas0000000|:sada0nne0ssa0 ORDINAL_sg|ine ;
+tuhannes0000000|:tuhanne0nne0ssa0 ORDINAL_sg|ine ;
+
+LEXICON ORDINAL_sg|ine_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+sg+ine00:yhde0nne000000ssä CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ine000000000:yhde0nne0000000000000ssä0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+sg+ine00:kahde0nne000000ssa CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ine000000000:kahde0nne0000000000000ssa0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+sg+ine00:kolma0nne000000ssa CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ine000000000:kolma0nne0000000000000ssa0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+sg+ine00:neljä0nne000000ssä CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ine000000000:neljä0nne0000000000000ssä0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+sg+ine00:viide0nne000000ssä CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ine000000000:viide0nne0000000000000ssä0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+sg+ine00:kuude0nne000000ssa CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ine000000000:kuude0nne0000000000000ssa0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+sg+ine00:seitsemä0nne000000ssä CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ine000000000:seitsemä0nne0000000000000ssä0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+sg+ine00:kahdeksa0nne000000ssa CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ine000000000:kahdeksa0nne0000000000000ssa0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+sg+ine00:yhdeksä0nne000000ssä CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+sg+ine000000000:yhdeksä0nne0000000000000ssä0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+sg+ine00:ensimmäise0000000ssä CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+sg+ine00:toise0000000ssa CLITIC_BACK ;
+
+LEXICON ORDINAL_sg|ine_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+sg+ine00:kymmene0nne000000ssä CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+sg+ine00:sada0nne000000ssa CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+sg+ine00:tuhanne0nne000000ssa CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|ins
+ORDINAL_pl|ins_base_initial ;
+ORDINAL_pl|ins_multiplier_initial ;
+ORDINAL_pl|ins_base_final ;
+ORDINAL_pl|ins_multiplier_final ;
+
+LEXICON ORDINAL_pl|ins_base_initial
+yhdes0000000|:yhde0ns0in000 ORDINAL_pl|ins ;
+yhdes0000000|toista|:yhde0ns0in000toista0 ORDINAL_pl|ins ;
+kahdes0000000|:kahde0ns0in000 ORDINAL_pl|ins ;
+kahdes0000000|toista|:kahde0ns0in000toista0 ORDINAL_pl|ins ;
+kolmas0000000|:kolma0ns0in000 ORDINAL_pl|ins ;
+kolmas0000000|toista|:kolma0ns0in000toista0 ORDINAL_pl|ins ;
+neljäs0000000|:neljä0ns0in000 ORDINAL_pl|ins ;
+neljäs0000000|toista|:neljä0ns0in000toista0 ORDINAL_pl|ins ;
+viides0000000|:viide0ns0in000 ORDINAL_pl|ins ;
+viides0000000|toista|:viide0ns0in000toista0 ORDINAL_pl|ins ;
+kuudes0000000|:kuude0ns0in000 ORDINAL_pl|ins ;
+kuudes0000000|toista|:kuude0ns0in000toista0 ORDINAL_pl|ins ;
+seitsemäs0000000|:seitsemä0ns0in000 ORDINAL_pl|ins ;
+seitsemäs0000000|toista|:seitsemä0ns0in000toista0 ORDINAL_pl|ins ;
+kahdeksas0000000|:kahdeksa0ns0in000 ORDINAL_pl|ins ;
+kahdeksas0000000|toista|:kahdeksa0ns0in000toista0 ORDINAL_pl|ins ;
+yhdeksäs0000000|:yhdeksä0ns0in000 ORDINAL_pl|ins ;
+yhdeksäs0000000|toista|:yhdeksä0ns0in000toista0 ORDINAL_pl|ins ;
+
+LEXICON ORDINAL_pl|ins_multiplier_initial
+kymmenes0000000|:kymmene0ns0in000 ORDINAL_pl|ins ;
+sadas0000000|:sada0ns0in000 ORDINAL_pl|ins ;
+tuhannes0000000|:tuhanne0ns0in000 ORDINAL_pl|ins ;
+
+LEXICON ORDINAL_pl|ins_base_final
+yhdes000^TAB^ordinal^TAB^TAB^TAB+pl+ins:yhde0ns000000in CLITIC_FRONT ;
+yhdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ins0000000:yhde0ns0000000000000in0toista CLITIC_BACK ;
+kahdes000^TAB^ordinal^TAB^TAB^TAB+pl+ins:kahde0ns000000in CLITIC_BACK ;
+kahdes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ins0000000:kahde0ns0000000000000in0toista CLITIC_BACK ;
+kolmas000^TAB^ordinal^TAB^TAB^TAB+pl+ins:kolma0ns000000in CLITIC_BACK ;
+kolmas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ins0000000:kolma0ns0000000000000in0toista CLITIC_BACK ;
+neljäs000^TAB^ordinal^TAB^TAB^TAB+pl+ins:neljä0ns000000in CLITIC_FRONT ;
+neljäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ins0000000:neljä0ns0000000000000in0toista CLITIC_BACK ;
+viides000^TAB^ordinal^TAB^TAB^TAB+pl+ins:viide0ns000000in CLITIC_FRONT ;
+viides000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ins0000000:viide0ns0000000000000in0toista CLITIC_BACK ;
+kuudes000^TAB^ordinal^TAB^TAB^TAB+pl+ins:kuude0ns000000in CLITIC_BACK ;
+kuudes000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ins0000000:kuude0ns0000000000000in0toista CLITIC_BACK ;
+seitsemäs000^TAB^ordinal^TAB^TAB^TAB+pl+ins:seitsemä0ns000000in CLITIC_FRONT ;
+seitsemäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ins0000000:seitsemä0ns0000000000000in0toista CLITIC_BACK ;
+kahdeksas000^TAB^ordinal^TAB^TAB^TAB+pl+ins:kahdeksa0ns000000in CLITIC_BACK ;
+kahdeksas000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ins0000000:kahdeksa0ns0000000000000in0toista CLITIC_BACK ;
+yhdeksäs000^TAB^ordinal^TAB^TAB^TAB+pl+ins:yhdeksä0ns000000in CLITIC_FRONT ;
+yhdeksäs000|toista^TAB^ordinal^TAB^TAB^TAB+pl+ins0000000:yhdeksä0ns0000000000000in0toista CLITIC_BACK ;
+ensimmäinen^TAB^ordinal^TAB^TAB^TAB+pl+ins:ensimmäis0000000in CLITIC_FRONT ;
+toinen^TAB^ordinal^TAB^TAB^TAB+pl+ins:tois0000000in CLITIC_BACK ;
+
+LEXICON ORDINAL_pl|ins_multiplier_final
+kymmenes000^TAB^ordinal^TAB^TAB^TAB+pl+ins:kymmene0ns000000in CLITIC_FRONT ;
+sadas000^TAB^ordinal^TAB^TAB^TAB+pl+ins:sada0ns000000in CLITIC_BACK ;
+tuhannes000^TAB^ordinal^TAB^TAB^TAB+pl+ins:tuhanne0ns000000in CLITIC_BACK ;
+

@@ -1,0 +1,107 @@
+{
+  "___attiin": [
+	["___att", "noun", "+sg+ill"],
+	["___ata", "verb", "+pass+past"],
+	["___atti", "noun", "+sg+ill"]
+  ],
+  "___llistää": [
+   	["___llistää", "verb", "+inf1"],
+	["___llistää", "verb", "+pres+3sg"]
+  ],
+  "___logia": [
+    ["___logi", "noun", "+sg+par"],
+    ["___logia", "noun", "+sg+nom"]
+  ],
+  "___logiaa": [
+    ["___logia", "noun", "+sg+par"]
+  ],
+  "___logiaan": [
+    ["___logi", "noun", "+sg+par+poss3"],
+    ["___logia", "noun", "+sg+ill"]
+  ],
+  "___logiin": [
+    ["___logi", "noun", "+sg+ill"]
+  ],
+  "___oin": [
+    ["___oida", "verb", "+past+1sg"],
+    ["___oida", "verb", "+pres+1sg"]
+  ],
+  "___oidaan": [
+    ["___oida", "verb", "+pass+pres"]
+  ],
+  "___oitaisiin": [
+    ["___oida", "verb", "+pass+cond"]
+  ],
+  "___isuus": [
+    ["___isuus", "noun", "+sg+nom"]
+  ],
+  "___isuuden": [
+    ["___isuus", "noun", "+sg+gen"]
+  ],
+  "___isuutta": [
+    ["___isuus", "noun", "+sg+par"]
+  ],
+  "___llisen": [
+    ["___llinen", "adjective", "+sg+gen"]
+  ],
+  "___isen": [
+    ["___inen", "adjective", "+sg+gen"]
+  ],
+  "___npuoleinen": [
+    ["___n|puoleinen", "adjective", "+sg+nom"]
+  ],
+  "___voittoinen": [
+    ["___|voittoinen", "adjective", "+sg+nom"]
+  ],
+  "___ikattiin": [
+	["___ikata", "verb", "+pass+past"]
+  ],
+  "___ikkasin": [
+	["___ikata", "verb", "+past+1sg"]
+  ],
+  "___aalisuuden": [
+    ["___aalisuus", "noun", "+sg+gen"]
+  ],
+  "___aalisuutta": [
+    ["___aalisuus", "noun", "+sg+par"]
+  ],
+  "___alinen": [
+    ["___alinen", "adjective", "+sg+nom"]
+  ],
+  "___alisen": [
+    ["___alinen", "adjective", "+sg+gen"]
+  ],
+  "Xxxbergissä": [
+    ["Xxxberg", "proper", "+sg+ine"]
+  ],
+  "Xxxovicia": [
+    ["Xxxovic", "proper", "+sg+par"]
+  ],
+  "Xxxevicia": [
+    ["Xxxevic", "proper", "+sg+par"]
+  ],
+  "Xxxeviciä": [
+    ["Xxxevic", "proper", "+sg+par"]
+  ],
+  "Xxxićissa": [
+    ["Xxxić", "proper", "+sg+ine"]
+  ],
+  "Xxxićissä": [
+    ["Xxxić", "proper", "+sg+ine"]
+  ],
+  "Xxxizationin": [
+    ["Xxxization", "noun", "+sg+gen"]
+  ],
+  "Xxxugh’n": [
+    ["Xxxugh", "proper", "+sg+gen"]
+  ],
+  "Xxxughin": [
+    ["Xxxugh", "proper", "+sg+gen"]
+  ],
+  "Xxxenghin": [
+    ["Xxxenghi", "proper", "+sg+gen"]
+  ],
+  "Xxxegghin": [
+    ["Xxxegghi", "proper", "+sg+gen"]
+  ]
+}

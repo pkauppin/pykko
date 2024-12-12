@@ -1,0 +1,12 @@
+{
+  "Ruusulankadulla": [
+    ["Ruusulan|katu", "proper", "+sg+ade"],
+    ["ruusu|lanka|dulla", "noun", "+sg+nom"]
+  ],
+  "ansakuopankaivamisen": [
+    ["ansa|kuopan|kaivaminen", "noun", "+sg+gen"]
+  ],
+  "ihmisapinaystävällisemmän": [
+    ["ihmis|apina|ystävällinen", "adjective", "+comparative+sg+gen"]
+  ]
+}

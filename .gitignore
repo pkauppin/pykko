@@ -1,0 +1,10 @@
+# LexC files, transducers
+
+*.lexc
+*.hfst
+*.hfst.ol
+
+# Miscellaneous
+
+.idea/
+__pycache__/

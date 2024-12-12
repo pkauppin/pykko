@@ -1,0 +1,1154 @@
+{
+  "hallussamme": [
+    ["hallussa", "adposition", "+poss1pl"]
+  ],
+  "useissa": [
+    ["usea", "adjective", "+pl+ine"],
+    ["usea", "pronoun", "+pl+ine"]
+  ],
+  "pisimmät": [
+    ["pitkä", "adjective", "+superlative+pl+nom"]
+  ],
+  "saatuaan": [
+    ["saada", "verb", "+pass+part_past+sg+par+poss3"]
+  ],
+  "tehtyämme": [
+    ["tehdä", "verb", "+pass+part_past+sg+par+poss1pl"]
+  ],
+  "vaikkakin": [
+    ["vaikkakin", "adverb", ""]
+  ],
+  "annoin": [
+    ["antaa", "verb", "+past+1sg"],
+    ["anto", "noun", "+pl+ins"]
+  ],
+  "seuraamiensa": [
+    ["seurata", "verb", "+part_ma+pl+gen+poss3"]
+  ],
+  "kalleimmat": [
+    ["kallis", "adjective", "+superlative+pl+nom"]
+  ],
+  "kellään": [
+    ["kukaan", "pronoun", "+sg+ade"]
+  ],
+  "ketkä": [
+    ["kuka", "pronoun", "+pl+nom"]
+  ],
+  "keihin": [
+    ["kuka", "pronoun", "+pl+ill"]
+  ],
+  "tappavimpia": [
+    ["tappava", "adjective", "+superlative+pl+par"],
+    ["tappaa", "verb", "+part_pres+superlative+pl+par"]
+  ],
+  "kopioitumisessaan": [
+    ["kopioituminen", "noun", "+sg+ine+poss3"],
+    ["kopioitua", "verb", "+inf4+sg+ine+poss3"]
+  ],
+  "kopioitua": [
+    ["kopioitua", "verb", "+inf1"],
+    ["kopioida", "verb", "+pass+part_past+sg+par"]
+  ],
+  "show’nsa": [
+    ["show", "noun", "+sg+gen+poss3"],
+    ["show", "noun", "+sg+nom+poss3"],
+    ["show", "noun", "+pl+nom+poss3"]
+  ],
+  "kulloisellakin": [
+    ["kulloinenkin", "adjective", "+sg+ade"],
+    ["kulloinen", "adjective", "+sg+ade+kin"]
+  ],
+  "kaivanteista": [
+    ["kaivanne", "noun", "+pl+ela"]
+  ],
+  "lähdetään": [
+    ["lähteä", "verb", "+pass+pres"]
+  ],
+  "arvostelemisensa": [
+    ["arvostella", "verb", "+inf4+sg+gen+poss3"],
+    ["arvostella", "verb", "+inf4+pl+nom+poss3"],
+    ["arvostella", "verb", "+inf4+sg+nom+poss3"]
+  ],
+  "housuunsa": [
+    ["housu", "noun", "+sg+ill+poss3"]
+  ],
+  "sammaleeseen": [
+    ["sammal", "noun", "+sg+ill"]
+  ],
+  "kotiruoan": [
+    ["koti|ruoka", "noun", "+sg+gen"]
+  ],
+  "kotiruuan": [
+    ["koti|ruoka", "noun", "+sg+gen"]
+  ],
+  "pääomansa": [
+    ["pää|oma", "noun", "+pl+nom+poss3"],
+    ["pää|oma", "noun", "+sg+gen+poss3"],
+    ["pää|oma", "noun", "+sg+nom+poss3"]
+  ],
+  "johtamiensa": [
+    ["johtaa", "verb", "+part_ma+pl+gen+poss3"]
+  ],
+  "eteensä": [
+    ["eteen", "adposition", "+poss3"]
+  ],
+  "sydäntäsärkevä": [
+    ["sydäntä|särkevä", "adjective", "+sg+nom"]
+  ],
+  "Aristoteleen": [
+    ["Aristoteles", "proper", "+sg+gen"]
+  ],
+  "zarathustralaisuuden": [
+    ["zarathustralaisuus", "noun", "+sg+gen"]
+  ],
+  "ympärillemme": [
+    ["ympärille", "adposition", "+poss1pl"],
+    ["ympärilleen", "adverb", "+poss1pl"]
+  ],
+  "maahanmuuttovastaisissa": [
+    ["maahan|muutto|vastainen", "adjective", "+pl+ine"]
+  ],
+  "Urgell": [
+    ["Urgell", "proper", "+sg+nom"]
+  ],
+  "Urgellin": [
+    ["Urgell", "proper", "+sg+gen"]
+  ],
+  "Australia": [
+    ["Australia", "proper", "+sg+nom"]
+  ],
+  "salamurhata": [
+    ["sala|murhata", "verb", "+inf1"],
+    ["sala|murhata", "verb", "+pass+pres+conneg"]
+  ],
+  "salamurhattiin": [
+    ["sala|murhata", "verb", "+pass+past"]
+  ],
+  "omatuntoni": [
+    ["oma|tunto", "noun", "+sg+nom+poss1sg"]
+  ],
+  "omantuntoni": [
+    ["oma|tunto", "noun", "+sg+gen+poss1sg"]
+  ],
+  "omattuntoni": [
+    ["oma|tunto", "noun", "+pl+nom+poss1sg"]
+  ],
+  "kauniisti": [
+    ["kauniisti", "adverb", ""]
+  ],
+  "hallussaan": [
+    ["hallussa", "adposition", "+poss3"]
+  ],
+  "mukanaan": [
+    ["mukana", "adposition", "+poss3"]
+  ],
+  "sisällään": [
+    ["sisällä", "adposition", "+poss3"]
+  ],
+  "haltuunsa": [
+    ["haltuun", "adposition", "+poss3"]
+  ],
+  "-niminen": [
+  ],
+  "-vuotias": [
+  ],
+  "toisiinsa": [
+    ["toinen", "pronoun", "+pl+ill+poss3"]
+  ],
+  "toisensa": [
+    ["toinen", "pronoun", "+sg+nom+poss3"],
+    ["toinen", "pronoun", "+sg+gen+poss3"],
+    ["toinen", "pronoun", "+pl+nom+poss3"]
+  ],
+  "toisistaan": [
+    ["toinen", "pronoun", "+pl+ela+poss3"]
+  ],
+  "kongregaation": [
+    ["kongregaatio", "noun", "+sg+gen"]
+  ],
+  "ulkomaalaistaustaista": [
+    ["ulko|maalais|taustainen", "adjective", "+sg+par"],
+    ["ulko|maalais|taustainen", "noun", "+sg+par"]
+  ],
+  "taujen": [
+    ["tau", "noun", "+pl+gen"]
+  ],
+  "leujen": [
+    ["leu", "noun", "+pl+gen"]
+  ],
+  "Hun": [
+    ["Hu", "proper", "+sg+gen"]
+  ],
+  "Liun": [
+    ["Liu", "proper", "+sg+gen"]
+  ],
+  "kyseenalaistaa": [
+    ["kyseen|alaistaa", "verb", "+pres+3sg"],
+    ["kyseen|alaistaa", "verb", "+inf1"]
+  ],
+  "aiempi": [
+    ["aiempi", "adjective", "+sg+nom"]
+  ],
+  "paras": [
+    ["hyvä", "adjective", "+superlative+sg+nom"],
+    ["paras", "noun", "+sg+nom"]
+  ],
+  "oy:n": [
+    ["oy", "noun", "+sg+gen"]
+  ],
+  "ry:n": [
+    ["ry", "noun", "+sg+gen"]
+  ],
+  "ky:n": [
+    ["ky", "noun", "+sg+gen"]
+  ],
+  "Marokko": [
+    ["Marokko", "proper", "+sg+nom"]
+  ],
+  "Marokkon": [
+  ],
+  "Marokon": [
+    ["Marokko", "proper", "+sg+gen"]
+  ],
+  "Marokossa": [
+    ["Marokko", "proper", "+sg+ine"]
+  ],
+  "allamme": [
+    ["alla", "adposition", "+poss1pl"]
+  ],
+  "alttein": [
+    ["altis", "adjective", "+superlative+sg+nom"]
+  ],
+  "ampuminen": [
+    ["ampua", "verb", "+inf4+sg+nom"]
+  ],
+  "aravakseen": [
+    ["arava", "noun", "+sg+tra+poss3"]
+  ],
+  "aravakseni": [
+    ["arava", "noun", "+sg+tra+poss1sg"]
+  ],
+  "aravaksi": [
+    ["arava", "noun", "+sg+tra"]
+  ],
+  "edellänsä": [
+    ["edellä", "adposition", "+poss3"]
+  ],
+  "eräiden": [
+    ["eräs", "pronoun", "+pl+gen"]
+  ],
+  "eräitä": [
+    ["eräs", "pronoun", "+pl+par"]
+  ],
+  "eräs": [
+    ["eräs", "pronoun", "+sg+nom"]
+  ],
+  "erästä": [
+    ["eräs", "pronoun", "+sg+par"],
+    ["erä", "noun", "+sg+ela"]
+  ],
+  "erään": [
+    ["eräs", "pronoun", "+sg+gen"],
+    ["erä", "noun", "+sg+ill"]
+  ],
+  "eräät": [
+    ["eräs", "pronoun", "+pl+nom"]
+  ],
+  "farkkuihin": [
+    ["farkut", "noun-pl", "+ill"],
+    ["farkku", "noun", "+pl+ill"]
+  ],
+  "farkkuihini": [
+    ["farkku", "noun", "+pl+ill+poss1sg"],
+    ["farkut", "noun-pl", "+ill+poss1sg"]
+  ],
+  "farkkuja": [
+    ["farkku", "noun", "+pl+par"],
+    ["farkut", "noun-pl", "+par"]
+  ],
+  "farkkujani": [
+    ["farkku", "noun", "+pl+par+poss1sg"],
+    ["farkut", "noun-pl", "+par+poss1sg"]
+  ],
+  "farkkujen": [
+    ["farkku", "noun", "+pl+gen"],
+    ["farkut", "noun-pl", "+gen"]
+  ],
+  "farkkujeni": [
+    ["farkku", "noun", "+pl+gen+poss1sg"],
+    ["farkut", "noun-pl", "+gen+poss1sg"]
+  ],
+  "farkuissa": [
+    ["farkku", "noun", "+pl+ine"],
+    ["farkut", "noun-pl", "+ine"]
+  ],
+  "farkuissani": [
+    ["farkut", "noun-pl", "+ine+poss1sg"],
+    ["farkku", "noun", "+pl+ine+poss1sg"]
+  ],
+  "farkut": [
+    ["farkut", "noun-pl", "+nom"],
+    ["farkku", "noun", "+pl+nom"]
+  ],
+  "hakanneen": [
+    ["hakata", "verb", "+part_past+sg+gen"]
+  ],
+  "hakanneeni": [
+    ["hakata", "verb", "+part_past+poss1sg"]
+  ],
+  "hakanneensa": [
+    ["hakata", "verb", "+part_past+poss3"]
+  ],
+  "hakanneita": [
+    ["hakata", "verb", "+part_past+pl+par"]
+  ],
+  "hakannut": [
+    ["hakata", "verb", "+part_past+sg+nom"],
+    ["hakata", "verb", "+past+conneg+sg"]
+  ],
+  "hakannutta": [
+    ["hakata", "verb", "+part_past+sg+par"]
+  ],
+  "hakata": [
+    ["hakata", "verb", "+pass+pres+conneg"],
+    ["hakata", "verb", "+inf1"]
+  ],
+  "hakatessani": [
+    ["hakata", "verb", "+inf2+ine+poss1sg"]
+  ],
+  "hakattava": [
+    ["hakata", "verb", "+pass+part_pres+sg+nom"]
+  ],
+  "hakattavaa": [
+    ["hakata", "verb", "+pass+part_pres+sg+par"]
+  ],
+  "hakattavaani": [
+    ["hakata", "verb", "+pass+part_pres+sg+ill+poss1sg"],
+    ["hakata", "verb", "+pass+part_pres+sg+par+poss1sg"]
+  ],
+  "hakattavani": [
+    ["hakata", "verb", "+pass+part_pres+pl+nom+poss1sg"],
+    ["hakata", "verb", "+pass+part_pres+sg+gen+poss1sg"],
+    ["hakata", "verb", "+pass+part_pres+sg+nom+poss1sg"]
+  ],
+  "hakattu": [
+    ["hakata", "verb", "+pass+past+conneg"],
+    ["hakata", "verb", "+pass+part_past+sg+nom"]
+  ],
+  "hakattuani": [
+    ["hakata", "verb", "+pass+part_past+sg+par+poss1sg"]
+  ],
+  "hakatun": [
+    ["hakata", "verb", "+pass+part_past+sg+gen"]
+  ],
+  "hakkaa": [
+    ["hakata", "verb", "+pres+conneg"],
+    ["hakata", "verb", "+imper+2sg"],
+    ["hakata", "verb", "+pres+3sg"],
+    ["hakata", "verb", "+imper+2sg+conneg"]
+  ],
+  "hakkaama": [
+    ["hakata", "verb", "+part_ma+sg+nom"]
+  ],
+  "hakkaamaa": [
+    ["hakata", "verb", "+part_ma+sg+par"]
+  ],
+  "hakkaamaisillaan": [
+    ["hakata", "verb", "+inf5+poss3"]
+  ],
+  "hakkaaminen": [
+    ["hakata", "verb", "+inf4+sg+nom"]
+  ],
+  "hakkaava": [
+    ["hakata", "verb", "+part_pres+sg+nom"]
+  ],
+  "hakkaavampi": [
+    ["hakata", "verb", "+part_pres+comparative+sg+nom"]
+  ],
+  "hakkaavan": [
+    ["hakata", "verb", "+part_pres+sg+gen"]
+  ],
+  "hakkasi": [
+    ["hakata", "verb", "+past+3sg"]
+  ],
+  "haltuun": [
+    ["haltuun", "adposition", ""]
+  ],
+  "haltuuni": [
+    ["haltuun", "adposition", "+poss1sg"]
+  ],
+  "halvempaa": [
+    ["halpa", "adjective", "+comparative+sg+par"]
+  ],
+  "havaitsija": [
+    ["havaitsija", "noun", "+sg+nom"]
+  ],
+  "havaitut": [
+    ["havaita", "verb", "+pass+part_past+pl+nom"]
+  ],
+  "hitain": [
+    ["hidas", "adjective", "+superlative+sg+nom"],
+    ["hidas", "adjective", "+pl+ins"]
+  ],
+  "hyvin": [
+    ["hyvin", "adverb", ""],
+    ["hyvä", "adjective", "+pl+ins"],
+    ["hyvä", "noun", "+pl+ins"]
+  ],
+  "hyväkseen": [
+    ["hyväksi", "adposition", "+poss3"],
+    ["hyvä", "noun", "+sg+tra+poss3"]
+  ],
+  "hämilläni": [
+    ["hämillään", "adverb", "+poss1sg"]
+  ],
+  "hämillänsä": [
+    ["hämillään", "adverb", "+poss3"]
+  ],
+  "hämillään": [
+    ["hämillään", "adverb", "+poss3"]
+  ],
+  "itkekö": [
+    ["itkeä", "verb", "+imper+3sg+conneg"],
+    ["itkeä", "verb", "+imper+pl+conneg"]
+  ],
+  "itse": [
+    ["itse", "noun", "+sg+nom"],
+    ["itse", "pronoun", "+sg+nom"],
+    ["itse", "adverb", ""]
+  ],
+  "itselle": [
+    ["itse", "noun", "+sg+all"],
+    ["itse", "pronoun", "+sg+all"]
+  ],
+  "itselleen": [
+    ["itse", "pronoun", "+sg+all+poss3"],
+    ["itse", "noun", "+sg+all+poss3"]
+  ],
+  "itsellensä": [
+    ["itse", "pronoun", "+sg+all+poss3"],
+    ["itse", "noun", "+sg+all+poss3"]
+  ],
+  "itseni": [
+    ["itse", "noun", "+sg+nom+poss1sg"],
+    ["itse", "pronoun", "+pl+nom+poss1sg"],
+    ["itse", "noun", "+pl+nom+poss1sg"],
+    ["itse", "pronoun", "+sg+nom+poss1sg"],
+    ["itse", "pronoun", "+sg+gen+poss1sg"],
+    ["itse", "noun", "+sg+gen+poss1sg"]
+  ],
+  "itsensä": [
+    ["itse", "pronoun", "+pl+nom+poss3"],
+    ["itse", "noun", "+pl+nom+poss3"],
+    ["itse", "noun", "+sg+gen+poss3"],
+    ["itse", "pronoun", "+sg+nom+poss3"],
+    ["itse", "pronoun", "+sg+gen+poss3"],
+    ["itse", "noun", "+sg+nom+poss3"]
+  ],
+  "itseäni": [
+    ["itse", "pronoun", "+sg+par+poss1sg"],
+    ["itse", "noun", "+sg+par+poss1sg"]
+  ],
+  "itseänsä": [
+    ["itse", "pronoun", "+sg+par+poss3"],
+    ["itse", "noun", "+sg+par+poss3"]
+  ],
+  "itseään": [
+    ["itse", "pronoun", "+sg+par+poss3"],
+    ["itse", "noun", "+sg+par+poss3"]
+  ],
+  "joissain": [
+    ["jokin", "pronoun", "+pl+ine"]
+  ],
+  "kalleimpina": [
+    ["kallis", "adjective", "+superlative+pl+ess"]
+  ],
+  "kaltaisen": [
+    ["kaltainen", "adjective", "+sg+gen"]
+  ],
+  "kanssa": [
+    ["kanssa", "adposition", ""],
+    ["kanssa", "adverb", ""]
+  ],
+  "kanssaan": [
+    ["kanssa", "adposition", "+poss3"]
+  ],
+  "kanssani": [
+    ["kanssa", "adposition", "+poss1sg"]
+  ],
+  "kanssansa": [
+    ["kanssa", "adposition", "+poss3"]
+  ],
+  "kauneimmin": [
+    ["kaunis", "adjective", "+superlative+pl+ins"],
+    ["kauniisti", "adverb", "+superlative"]
+  ],
+  "kauneiten": [
+    ["kauniisti", "adverb", "+superlative"]
+  ],
+  "kauniimmin": [
+    ["kaunis", "adjective", "+comparative+pl+ins"],
+    ["kauniisti", "adverb", "+comparative"]
+  ],
+  "kehenkäs": [
+    ["kuka", "pronoun", "+sg+ill+s"]
+  ],
+  "keltäs": [
+    ["kuka", "pronoun", "+sg+abl+s"]
+  ],
+  "keneenkäs": [
+    ["kuka", "pronoun", "+sg+ill+s"]
+  ],
+  "keneltäpäs": [
+    ["kuka", "pronoun", "+sg+abl+pa+s"]
+  ],
+  "keneltäs": [
+    ["kuka", "pronoun", "+sg+abl+s"]
+  ],
+  "kenenkäs": [
+    ["kuka", "pronoun", "+sg+gen+s"]
+  ],
+  "keskusampuminen": [
+  ],
+  "kiikahti": [
+    ["kiikahtaa", "verb", "+past+3sg"]
+  ],
+  "kristalli": [
+    ["kristalli", "noun", "+sg+nom"]
+  ],
+  "kristallikukka": [
+  ],
+  "kuinkas": [
+    ["kuinka", "adverb", "+s"]
+  ],
+  "kukas": [
+    ["kuka", "pronoun", "+sg+nom+s"]
+  ],
+  "kukka": [
+    ["kukka", "noun", "+sg+nom"]
+  ],
+  "kuolemanväsyneen": [
+    ["kuoleman|väsynyt", "adjective", "+sg+gen"]
+  ],
+  "kuulkaat": [
+    ["kuulla", "verb", "+imper+2pl+arch"]
+  ],
+  "kuvaavammin": [
+    ["kuvaava", "adjective", "+comparative+pl+ins"],
+    ["kuvaavasti", "adverb", "+comparative"],
+    ["kuvata", "verb", "+part_pres+comparative+pl+ins"]
+  ],
+  "kuvaavasti": [
+    ["kuvaavasti", "adverb", ""]
+  ],
+  "kuvaavimmin": [
+    ["kuvata", "verb", "+part_pres+superlative+pl+ins"],
+    ["kuvaava", "adjective", "+superlative+pl+ins"],
+    ["kuvaavasti", "adverb", "+superlative"]
+  ],
+  "kymmenkertaistaa": [
+    ["kymmen|kertaistaa", "verb", "+inf1"],
+    ["kymmen|kertaistaa", "verb", "+pres+3sg"]
+  ],
+  "kyseeseen": [
+    ["kyse", "noun", "+sg+ill"],
+    ["kyseeseen", "adverb", ""]
+  ],
+  "kyseessä": [
+    ["kyseessä", "adverb", ""],
+    ["kyse", "noun", "+sg+ine"]
+  ],
+  "käsiteltäväkseen": [
+    ["käsitellä", "verb", "+pass+part_pres+sg+tra+poss3"]
+  ],
+  "laaja": [
+    ["laaja", "adjective", "+sg+nom"]
+  ],
+  "laajemman": [
+    ["laaja", "adjective", "+comparative+sg+gen"]
+  ],
+  "laajempaa": [
+    ["laaja", "adjective", "+comparative+sg+par"]
+  ],
+  "laajempia": [
+    ["laaja", "adjective", "+comparative+pl+par"]
+  ],
+  "liikarasittuneen": [
+    ["liika|rasittunut", "adjective", "+sg+gen"]
+  ],
+  "luona": [
+    ["luona", "adposition", ""]
+  ],
+  "luonani": [
+    ["luona", "adposition", "+poss1sg"]
+  ],
+  "lähelleen": [
+    ["lähelle", "adposition", "+poss3"]
+  ],
+  "lähelläsi": [
+    ["lähellä", "adposition", "+poss2sg"]
+  ],
+  "maksavaksi": [
+    ["maksaa", "verb", "+part_pres+sg+tra"]
+  ],
+  "maksettavakseen": [
+    ["maksaa", "verb", "+pass+part_pres+sg+tra+poss3"]
+  ],
+  "maksettavakseni": [
+    ["maksaa", "verb", "+pass+part_pres+sg+tra+poss1sg"]
+  ],
+  "maksettavaksi": [
+    ["maksaa", "verb", "+pass+part_pres+sg+tra"]
+  ],
+  "matkustusrajoituksin": [
+    ["matkustus|rajoitus", "noun", "+pl+ins"]
+  ],
+  "matkustusrajoituksineen": [
+    ["matkustus|rajoitus", "noun", "+pl+com+poss3"]
+  ],
+  "matkustusrajoituksineni": [
+    ["matkustus|rajoitus", "noun", "+pl+com+poss1sg"]
+  ],
+  "matkustusrajoitus": [
+    ["matkustus|rajoitus", "noun", "+sg+nom"]
+  ],
+  "mihinkäs": [
+    ["mikä", "pronoun", "+sg+ill+s"],
+    ["mikä", "pronoun", "+pl+ill+s"]
+  ],
+  "miksikä": [
+    ["mikä", "pronoun", "+pl+tra"],
+    ["mikä", "pronoun", "+sg+tra"]
+  ],
+  "mikäs": [
+    ["mikä", "pronoun", "+sg+nom+s"]
+  ],
+  "miltäpäs": [
+    ["mikä", "pronoun", "+sg+abl+pa+s"],
+    ["mikä", "pronoun", "+pl+abl+pa+s"]
+  ],
+  "miltäs": [
+    ["mikä", "pronoun", "+pl+abl+s"],
+    ["mikä", "pronoun", "+sg+abl+s"]
+  ],
+  "minkäs": [
+    ["mikä", "pronoun", "+sg+gen+s"],
+    ["mikä", "pronoun", "+pl+gen+s"]
+  ],
+  "missäpäs": [
+    ["missä", "adverb", "+pa+s"],
+    ["mikä", "pronoun", "+sg+ine+pa+s"],
+    ["mikä", "pronoun", "+pl+ine+pa+s"]
+  ],
+  "missäs": [
+    ["mikä", "pronoun", "+pl+ine+s"],
+    ["missä", "adverb", "+s"],
+    ["mikä", "pronoun", "+sg+ine+s"]
+  ],
+  "mitenpä": [
+    ["miten", "adverb", "+pa"]
+  ],
+  "mukaan": [
+    ["mukaan", "adverb", ""],
+    ["mukaan", "adposition", ""]
+  ],
+  "mukaani": [
+    ["mukaan", "adposition", "+poss1sg"]
+  ],
+  "mukaansa": [
+    ["mukaan", "adposition", "+poss3"]
+  ],
+  "mustaaviinimarjaa": [
+    ["musta|viini|marja", "noun", "+sg+par"]
+  ],
+  "mustanviinimarjan": [
+    ["musta|viini|marja", "noun", "+sg+gen"]
+  ],
+  "mustaviinimarja": [
+    ["musta|viini|marja", "noun", "+sg+nom"]
+  ],
+  "myydyn": [
+    ["myydä", "verb", "+pass+part_past+sg+gen"],
+    ["myyty", "adjective", "+sg+gen"]
+  ],
+  "nimetyn": [
+    ["nimetä", "verb", "+pass+part_past+sg+gen"]
+  ],
+  "nipistelijä": [
+  ],
+  "ohitsemme": [
+    ["ohitse", "adposition", "+poss1pl"]
+  ],
+  "ohitsensa": [
+    ["ohitse", "adposition", "+poss3"]
+  ],
+  "omaatuntoa": [
+    ["oma|tunto", "noun", "+sg+par"]
+  ],
+  "omantunnon": [
+    ["oma|tunto", "noun", "+sg+gen"]
+  ],
+  "omatunto": [
+    ["oma|tunto", "noun", "+sg+nom"]
+  ],
+  "ostoskeskus": [
+    ["ostos|keskus", "noun", "+sg+nom"]
+  ],
+  "ostoskeskusampumisessa": [
+  ],
+  "parasta": [
+    ["para", "noun", "+sg+ela"],
+    ["hyvä", "adjective", "+superlative+sg+par"],
+    ["parka", "noun", "+sg+ela"],
+    ["paras", "noun", "+sg+par"]
+  ],
+  "paremman": [
+    ["hyvä", "adjective", "+comparative+sg+gen"],
+    ["parempi", "adjective", "+sg+gen"]
+  ],
+  "paremmin": [
+    ["paremmin", "adverb", ""],
+    ["hyvä", "adjective", "+comparative+pl+ins"],
+    ["parempi", "adjective", "+pl+ins"],
+    ["hyvin", "adverb", "+comparative"]
+  ],
+  "parempaa": [
+    ["hyvä", "adjective", "+comparative+sg+par"],
+    ["parempi", "adjective", "+sg+par"]
+  ],
+  "parempi": [
+    ["parempi", "adjective", "+sg+nom"],
+    ["hyvä", "adjective", "+comparative+sg+nom"]
+  ],
+  "parhaan": [
+    ["paras", "noun", "+sg+gen"],
+    ["hyvä", "adjective", "+superlative+sg+gen"]
+  ],
+  "parhaimman": [
+    ["parhain", "adjective", "+sg+gen"],
+    ["hyvä", "adjective", "+superlative+sg+gen"]
+  ],
+  "parhaimmin": [
+    ["parhaimmin", "adverb", ""],
+    ["hyvin", "adverb", "+superlative"],
+    ["parhain", "adjective", "+pl+ins"],
+    ["hyvä", "adjective", "+superlative+pl+ins"]
+  ],
+  "parhaimpaa": [
+    ["parhain", "adjective", "+sg+par+nstd"],
+    ["hyvä", "adjective", "+superlative+sg+par+nstd"]
+  ],
+  "parhain": [
+    ["paras", "noun", "+pl+ins"],
+    ["parhain", "adjective", "+sg+nom"],
+    ["hyvä", "adjective", "+superlative+sg+nom"],
+    ["hyvä", "adjective", "+superlative+pl+ins"]
+  ],
+  "parhainta": [
+    ["hyvä", "adjective", "+superlative+sg+par"],
+    ["parhain", "adjective", "+sg+par"]
+  ],
+  "parhaiten": [
+    ["hyvin", "adverb", "+superlative"],
+    ["parhaiten", "adverb", ""]
+  ],
+  "pidempiaikaiseen": [
+    ["pidempi|aikainen", "adjective", "+sg+ill"],
+    ["pitkä|aikainen", "adjective", "+comparative+sg+ill"]
+  ],
+  "porstua": [
+    ["porstua", "noun", "+sg+nom"]
+  ],
+  "pujahteli": [
+    ["pujahdella", "verb", "+past+3sg"]
+  ],
+  "puolentoista": [
+    ["puoli|toista", "numeral", "+sg+gen"]
+  ],
+  "puurakentamisen": [
+    ["puu|rakentaminen", "noun", "+sg+gen"]
+  ],
+  "päihteidenkäyttäjiä": [
+    ["päihteiden|käyttäjä", "noun", "+pl+par"]
+  ],
+  "rekryämiseen": [
+    ["rekryäminen", "noun", "+sg+ill"],
+    ["rekrytä", "verb", "+inf4+sg+ill"]
+  ],
+  "rutinoidun": [
+    ["rutinoitua", "verb", "+pres+1sg"],
+    ["rutinoitu", "adjective", "+sg+gen"]
+  ],
+  "sanoa": [
+    ["sanoa", "verb", "+inf1"]
+  ],
+  "sanoessani": [
+    ["sanoa", "verb", "+inf2+ine+poss1sg"]
+  ],
+  "sanoi": [
+    ["sanoa", "verb", "+past+3sg"]
+  ],
+  "sanoma": [
+    ["sanoma", "noun", "+sg+nom"],
+    ["sanoa", "verb", "+part_ma+sg+nom"]
+  ],
+  "sanomaa": [
+    ["sanoa", "verb", "+part_ma+sg+par"],
+    ["sanoma", "noun", "+sg+par"]
+  ],
+  "sanomaisillaan": [
+    ["sanoa", "verb", "+inf5+poss3"]
+  ],
+  "sanominen": [
+    ["sanoa", "verb", "+inf4+sg+nom"]
+  ],
+  "sanoneen": [
+    ["sanoa", "verb", "+part_past+sg+gen"]
+  ],
+  "sanoneeni": [
+    ["sanoa", "verb", "+part_past+poss1sg"]
+  ],
+  "sanoneensa": [
+    ["sanoa", "verb", "+part_past+poss3"]
+  ],
+  "sanoneita": [
+    ["sanoa", "verb", "+part_past+pl+par"]
+  ],
+  "sanonut": [
+    ["sanoa", "verb", "+part_past+sg+nom"],
+    ["sanoa", "verb", "+past+conneg+sg"]
+  ],
+  "sanonutta": [
+    ["sanoa", "verb", "+part_past+sg+par"]
+  ],
+  "sanoo": [
+    ["sanoa", "verb", "+pres+3sg"]
+  ],
+  "sanottava": [
+    ["sanottava", "noun", "+sg+nom"],
+    ["sanoa", "verb", "+pass+part_pres+sg+nom"],
+    ["sanottava", "adjective", "+sg+nom"]
+  ],
+  "sanottavaa": [
+    ["sanottava", "adjective", "+sg+par"],
+    ["sanottava", "noun", "+sg+par"],
+    ["sanoa", "verb", "+pass+part_pres+sg+par"]
+  ],
+  "sanottavaani": [
+    ["sanoa", "verb", "+pass+part_pres+sg+par+poss1sg"],
+    ["sanoa", "verb", "+pass+part_pres+sg+ill+poss1sg"],
+    ["sanottava", "noun", "+sg+par+poss1sg"],
+    ["sanottava", "noun", "+sg+ill+poss1sg"]
+  ],
+  "sanottavani": [
+    ["sanoa", "verb", "+pass+part_pres+sg+nom+poss1sg"],
+    ["sanoa", "verb", "+pass+part_pres+sg+gen+poss1sg"],
+    ["sanoa", "verb", "+pass+part_pres+pl+nom+poss1sg"],
+    ["sanottava", "noun", "+sg+nom+poss1sg"],
+    ["sanottava", "noun", "+sg+gen+poss1sg"],
+    ["sanottava", "noun", "+pl+nom+poss1sg"]
+  ],
+  "sanottu": [
+    ["sanoa", "verb", "+pass+past+conneg"],
+    ["sanottu", "adjective", "+sg+nom"],
+    ["sanoa", "verb", "+pass+part_past+sg+nom"]
+  ],
+  "sanottuani": [
+    ["sanoa", "verb", "+pass+part_past+sg+par+poss1sg"]
+  ],
+  "sanotun": [
+    ["sanottu", "adjective", "+sg+gen"],
+    ["sanoa", "verb", "+pass+part_past+sg+gen"]
+  ],
+  "sanova": [
+    ["sanoa", "verb", "+part_pres+sg+nom"]
+  ],
+  "sanovampi": [
+    ["sanoa", "verb", "+part_pres+comparative+sg+nom"]
+  ],
+  "sanovan": [
+    ["sanoa", "verb", "+part_pres+sg+gen"]
+  ],
+  "sellaisenaan": [
+    ["sellaisenaan", "adverb", ""]
+  ],
+  "suunnatun": [
+    ["suunnata", "verb", "+pass+part_past+sg+gen"]
+  ],
+  "taiteilijuuteen": [
+  ],
+  "taivutuksineen": [
+    ["taivutus", "noun", "+pl+com+poss3"]
+  ],
+  "tarkempia": [
+    ["tarkka", "adjective", "+comparative+pl+par"]
+  ],
+  "tehostetusti": [
+    ["tehostetusti", "adverb", ""]
+  ],
+  "toinen": [
+    ["toinen", "pronoun", "+sg+nom"],
+    ["toinen", "ordinal", "+sg+nom"],
+    ["toinen", "adjective", "+sg+nom"]
+  ],
+  "toiselle": [
+    ["toinen", "ordinal", "+sg+all"],
+    ["toinen", "pronoun", "+sg+all"],
+    ["toinen", "adjective", "+sg+all"]
+  ],
+  "toisen": [
+    ["toinen", "ordinal", "+sg+gen"],
+    ["toinen", "pronoun", "+sg+gen"],
+    ["toinen", "adjective", "+sg+gen"]
+  ],
+  "toisessaan": [
+    ["toinen", "pronoun", "+sg+ine+poss3"]
+  ],
+  "toiset": [
+    ["toinen", "pronoun", "+pl+nom"],
+    ["toinen", "ordinal", "+pl+nom"],
+    ["toinen", "adjective", "+pl+nom"]
+  ],
+  "toisia": [
+    ["toinen", "ordinal", "+pl+par"],
+    ["toinen", "pronoun", "+pl+par"],
+    ["toinen", "adjective", "+pl+par"]
+  ],
+  "toisiaan": [
+    ["toinen", "pronoun", "+pl+par+poss3"]
+  ],
+  "toisiansa": [
+    ["toinen", "pronoun", "+pl+par+poss3"]
+  ],
+  "toisille": [
+    ["toinen", "ordinal", "+pl+all"],
+    ["toinen", "pronoun", "+pl+all"],
+    ["toinen", "adjective", "+pl+all"]
+  ],
+  "toisilleen": [
+    ["toinen", "pronoun", "+pl+all+poss3"]
+  ],
+  "toisillensa": [
+    ["toinen", "pronoun", "+pl+all+poss3"]
+  ],
+  "toisissaan": [
+    ["toinen", "pronoun", "+pl+ine+poss3"]
+  ],
+  "toista": [
+    ["toinen", "pronoun", "+sg+par"],
+    ["toinen", "ordinal", "+sg+par"],
+    ["toinen", "adjective", "+sg+par"],
+    ["toistaa", "verb", "+imper+2sg+conneg"],
+    ["toistaa", "verb", "+imper+2sg"],
+    ["toistaa", "verb", "+pres+conneg"]
+  ],
+  "toistaan": [
+    ["toinen", "pronoun", "+sg+par+poss3"]
+  ],
+  "toistansa": [
+    ["toinen", "pronoun", "+sg+par+poss3"]
+  ],
+  "toisten": [
+    ["toinen", "pronoun", "+pl+gen"],
+    ["toinen", "ordinal", "+pl+gen"],
+    ["toinen", "adjective", "+pl+gen"]
+  ],
+  "toistensa": [
+    ["toinen", "pronoun", "+pl+gen+poss3"]
+  ],
+  "tuotettavakseen": [
+    ["tuottaa", "verb", "+pass+part_pres+sg+tra+poss3"]
+  ],
+  "tähden": [
+    ["tähden", "adposition", ""],
+    ["tähti", "noun", "+sg+gen"]
+  ],
+  "tähteni": [
+    ["tähti", "noun", "+sg+gen+poss1sg"],
+    ["tähden", "adposition", "+poss1sg"],
+    ["tähti", "noun", "+pl+nom+poss1sg"],
+    ["tähti", "noun", "+sg+nom+poss1sg"]
+  ],
+  "tähtensä": [
+    ["tähti", "noun", "+pl+nom+poss3"],
+    ["tähti", "noun", "+sg+gen+poss3"],
+    ["tähden", "adposition", "+poss3"],
+    ["tähti", "noun", "+sg+nom+poss3"]
+  ],
+  "valitun": [
+    ["valita", "verb", "+pass+part_past+sg+gen"]
+  ],
+  "venyttelyllä": [
+    ["venyttely", "noun", "+sg+ade"]
+  ],
+  "verbi": [
+    ["verbi", "noun", "+sg+nom"]
+  ],
+  "verbistä": [
+    ["verbi", "noun", "+sg+ela"]
+  ],
+  "viipykö": [
+    ["viipyä", "verb", "+imper+pl+conneg"],
+    ["viipyä", "verb", "+imper+3sg+conneg"]
+  ],
+  "viisasten": [
+    ["viisas", "adjective", "+pl+gen+rare"]
+  ],
+  "ylleen": [
+    ["ylle", "adposition", "+poss3"]
+  ],
+  "tähän": [
+    ["tähän", "adverb", ""],
+    ["tämä", "pronoun", "+sg+ill"]
+  ],
+  "istualtaan": [
+    ["istualtaan", "adverb", "+poss3"]
+  ],
+  "istualtani": [
+    ["istualtaan", "adverb", "+poss1sg"]
+  ],
+  "itsekseen": [
+    ["itse", "noun", "+sg+tra+poss3"],
+    ["itse", "pronoun", "+sg+tra+poss3"],
+    ["itsekseen", "adverb", "+poss3"]
+  ],
+  "itsekseni": [
+    ["itse", "noun", "+sg+tra+poss1sg"],
+    ["itse", "pronoun", "+sg+tra+poss1sg"],
+    ["itsekseen", "adverb", "+poss1sg"]
+  ],
+  "kotonaan": [
+    ["koto", "noun", "+sg+ess+poss3"],
+    ["kotonaan", "adverb", "+poss3"]
+  ],
+  "kotonani": [
+    ["koto", "noun", "+sg+ess+poss1sg"],
+    ["kotonaan", "adverb", "+poss1sg"]
+  ],
+  "ettei": [
+    ["ett|ei", "conjunction+verb", "+3sg"]
+  ],
+  "etteikö": [
+    ["ett|ei", "conjunction+verb", "+3sg+ko"]
+  ],
+  "ettenkö": [
+    ["ett|ei", "conjunction+verb", "+1sg+ko"]
+  ],
+  "eikö": [
+    ["ei", "noun", "+sg+nom+ko"],
+    ["ei", "verb", "+3sg+ko"]
+  ],
+  "eipäs": [
+    ["ei", "noun", "+sg+nom+pa+s"],
+    ["ei", "verb", "+3sg+pa+s"]
+  ],
+  "emmekä": [
+    ["ei", "verb", "+1pl+ka"]
+  ],
+  "äläkä": [
+    ["ei", "verb", "+imper+2sg+ka"]
+  ],
+  "äläpäs": [
+    ["ei", "verb", "+imper+2sg+pa+s"]
+  ],
+  "enhän": [
+    ["ei", "verb", "+1sg+han"]
+  ],
+  "isämeitää": [
+    ["isä|meitä", "noun", "+sg+par"]
+  ],
+  "isämeidän": [
+    ["isä|meitä", "noun", "+sg+gen"]
+  ],
+  "Thaimaaseen": [
+    ["Thai|maa", "proper", "+sg+ill+nstd"]
+  ],
+  "mitälie": [
+    ["mikä|lie", "pronoun", "+sg+par"],
+    ["mikä|lie", "pronoun", "+pl+par"]
+  ],
+  "kauempana": [
+    ["kaukana", "adverb", "+comparative"],
+    ["kauempana", "adverb", ""],
+    ["kauempi", "adjective", "+sg+ess"]
+  ],
+  "kauimpana": [
+    ["kaukana", "adverb", "+superlative"],
+    ["kauimpana", "adverb", ""],
+    ["kauin", "adjective", "+sg+ess"]
+  ],
+  "enemmän": [
+    ["paljon", "adverb", "+comparative"],
+    ["enemmän", "adverb", ""],
+    ["enempi", "adjective", "+sg+gen"]
+  ],
+  "eniten": [
+    ["paljon", "adverb", "+superlative"],
+    ["eniten", "adverb", ""]
+  ],
+  "jollakulla": [
+    ["joku", "pronoun", "+sg+ade"]
+  ],
+  "ikäisineen": [
+    ["ikäinen", "adjective", "+pl+com+poss3"]
+  ],
+  "ikäisine": [
+    ["ikäinen", "adjective", "+pl+com"]
+  ],
+  "avattavine": [
+    ["avata", "verb", "+pass+part_pres+pl+com"]
+  ],
+  "avaamine": [
+    ["avata", "verb", "+part_ma+pl+com"]
+  ],
+  "avaamampi": [
+  ],
+  "avaavampi": [
+    ["avata", "verb", "+part_pres+comparative+sg+nom"]
+  ],
+  "avattavampi": [
+    ["avata", "verb", "+pass+part_pres+comparative+sg+nom"]
+  ],
+  "alkkarini": [
+    ["alkkarit", "noun-pl", "+nom+poss1sg"]
+  ],
+  "lyhyempiaikaisen": [
+    ["lyhyt|aikainen", "adjective", "+comparative+sg+gen"]
+  ],
+  "lyhempiaikaisen": [
+    ["lyhyt|aikainen", "adjective", "+comparative+sg+gen"]
+  ],
+  "pienempipalkkaisen": [
+    ["pieni|palkkainen", "adjective", "+comparative+sg+gen"]
+  ],
+  "hauskemmannäköisen": [
+    ["hauskan|näköinen", "adjective", "+comparative+sg+gen"]
+  ],
+  "hauskimmannäköisen": [
+    ["hauskan|näköinen", "adjective", "+superlative+sg+gen"]
+  ],
+  "pehmeämpiäänisen": [
+    ["pehmeä-ääninen", "adjective", "+comparative+sg+gen"]
+  ],
+  "pitempi-ikäisen": [
+    ["pitkä|ikäinen", "adjective", "+comparative+sg+gen"]
+  ],
+  "pidempi-ikäisen": [
+    ["pitkä|ikäinen", "adjective", "+comparative+sg+gen"]
+  ],
+  "useammanvärisen": [
+    ["monen|värinen", "adjective", "+comparative+sg+gen"]
+  ],
+  "useimmanvärisen": [
+    ["monen|värinen", "adjective", "+superlative+sg+gen"]
+  ],
+  "paremmantuoksuisen": [
+    ["hyvän|tuoksuinen", "adjective", "+comparative+sg+gen"]
+  ],
+  "parhaimmantuoksuisen": [
+    ["hyvän|tuoksuinen", "adjective", "+superlative+sg+gen"]
+  ],
+  "parhaantuoksuisen": [
+    ["hyvän|tuoksuinen", "adjective", "+superlative+sg+gen"]
+  ]
+}
