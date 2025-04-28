@@ -402,9 +402,9 @@ def determine_noun_class_1(word, pos='noun'):
 
 def determine_noun_class_2(word, pos='noun'):
 
-	if re.fullmatch(f'.*[FLMNRSXZ7]\.?', word):
+	if re.fullmatch(rf'.*[FLMNRSXZ7]\.?', word):
 		return [('?10B', '')]
-	if re.fullmatch(f'.*[ABCDEGPTVWIJHKOÅQUYÜÄÖÉ]\.?', word):
+	if re.fullmatch(rf'.*[ABCDEGPTVWIJHKOÅQUYÜÄÖÉ]\.?', word):
 		return [('?18B', '')]
 
 	if re.fullmatch(f'.*[12]', word):
@@ -425,7 +425,7 @@ def determine_noun_class_2(word, pos='noun'):
 		return [('??', '')]
 
 	# file names and intenet domains – guesser should handle most of these
-	if re.fullmatch(f'.*\.[a-z][a-z][a-z]?', word):
+	if re.fullmatch(rf'.*\.[a-z][a-z][a-z]?', word):
 		return determine_noun_class_2(word.upper())
 	if re.fullmatch(f'.*[{SPECIAL}]', word):
 		return [('XX', '')]
