@@ -1440,6 +1440,7 @@
 -	huolekas	-	adjective	41	kk:k	back	a	-	-
 -	huolellinen	-	adjective	38	-	back	e	-	-
 -	huolestunut	-	adjective	47	-	-	-	-	-
+-	huolestuttava	-	adjective	10	-	-	-	-	-
 -	huoleton	-	adjective	34	tt:t	back	o	-	-
 -	huolimaton	-	adjective	34	tt:t	back	o	-	-
 -	huoliteltu	-	adjective	1	lt:ll	-	-	-	-
@@ -1462,6 +1463,7 @@
 -	hurskas	-	adjective	41	-	back	a	-	-
 -	hurtti	-	adjective	5	tt:t	back	i	-	-
 -	hutera	-	adjective	11	-	back	a	-	-
+-	huumaava	-	adjective	10	-	-	-	-	-
 -	huumeeton	-	adjective	34	tt:t	back	o	-	-
 -	huumeinen	-	adjective	38	-	back	e	-	-
 -	huurteinen	-	adjective	38	-	back	e	-	-
@@ -1626,6 +1628,7 @@
 -	illuusioton	-	adjective	34	tt:t	back	o	-	-
 -	ilmainen	-	adjective	38	-	back	e	-	-
 -	ilmaisullinen	-	adjective	38	-	back	e	-	-
+-	ilmastoitu	-	adjective	1	-	-	-	-	-
 -	ilmastollinen	-	adjective	38	-	back	e	-	-
 -	ilmaton	-	adjective	34	tt:t	back	o	-	-
 -	ilmava	-	adjective	10	-	back	a	-	-
@@ -2442,6 +2445,7 @@
 -	kiva	-	adjective	9	-	back	a	-	-
 -	kivellinen	-	adjective	38	-	front	e	-	-
 -	kiverä	-	adjective	11	-	front	ä	rare	-
+-	kivetön	-	adjective	34	tt:t	-	-	-	-
 -	kivikkoinen	-	adjective	38	-	back	e	-	-
 -	kivinen	-	adjective	38	-	front	e	-	-
 -	kivulias	-	adjective	41	-	back	a	-	-
@@ -3326,7 +3330,6 @@
 -	maallinen	-	adjective	38	-	back	e	-	-
 -	maanantainen	-	adjective	38	-	back	e	-	-
 -	maaninen	-	adjective	38	-	back	e	-	-
--	maarianhaminalainen	-	adjective	38	-	-	-	-	-
 -	maatiainen	-	adjective	38	-	back	e	rare	-
 -	maatiaismainen	-	adjective	38	-	back	e	-	-
 -	maaton	-	adjective	34	tt:t	back	o	-	-
@@ -4091,6 +4094,7 @@
 -	okkulttinen	-	adjective	38	-	back	e	-	-
 -	oksainen	-	adjective	38	-	back	e	-	-
 -	oksakas	-	adjective	41	kk:k	back	a	-	-
+-	oksaton	-	adjective	34	tt:t	-	-	-	-
 -	oksidentaalinen	-	adjective	38	-	-	-	-	-
 -	oksipitaalinen	-	adjective	38	-	-	-	-	-
 -	oktaalinen	-	adjective	38	-	-	-	-	-
@@ -4315,6 +4319,7 @@
 -	parapleginen	-	adjective	38	-	-	-	-	-
 -	parataktinen	-	adjective	38	-	back	e	-	-
 -	pareittainen	-	adjective	38	-	back	e	-	-
+-	parempi	-	adjective	16	mp:mm	-	-	-	-
 -	parenkymaalinen	-	adjective	38	-	-	-	-	-
 -	parentaalinen	-	adjective	38	-	-	-	-	-
 -	parenteettinen	-	adjective	38	-	-	-	-	-
@@ -5036,6 +5041,7 @@
 -	remakka	-	adjective	14	kk:k	back	a	-	-
 -	rempseä	-	adjective	15	-	front	ä	-	-
 -	remuisa	-	adjective	10	-	back	a	-	-
+-	rengasmainen	-	adjective	38	-	-	-	-	-
 -	rento	-	adjective	1	nt:nn	back	o	-	-
 -	repaleinen	-	adjective	38	-	back	e	-	-
 -	representatiivinen	-	adjective	38	-	-	-	-	-
@@ -5255,6 +5261,7 @@
 -	räjähdysmäinen	-	adjective	38	-	front	e	-	-
 -	räjähtämätön	-	adjective	34	tt:t	-	-	-	-
 -	räjähtänyt	-	adjective	47	-	-	-	-	-
+-	räjähtävä	-	adjective	10	-	-	-	-	-
 -	räkäinen	-	adjective	38	-	front	e	-	-
 -	rämeinen	-	adjective	38	-	front	e	-	-
 -	rämeä	-	adjective	15	-	front	ä	-	-
@@ -5670,6 +5677,7 @@
 -	soukka	-	adjective	10	kk:k	back	a	-	-
 -	soulilainen	-	adjective	38	-	-	-	-	-
 -	sovelias	-	adjective	41	-	back	a	-	-
+-	soveltumaton	-	adjective	34	tt:t	-	-	-	-
 -	soveltuva	-	adjective	10	-	-	-	-	-
 -	sovinistinen	-	adjective	38	-	back	e	-	-
 -	sovinnainen	-	adjective	38	-	back	e	-	-
@@ -5904,6 +5912,7 @@
 -	syöpymätön	-	adjective	34	tt:t	front	ö	-	-
 -	syöpäinen	-	adjective	38	-	front	e	-	-
 -	syötävä	-	adjective	10	-	front	ä	-	-
+-	syövyttävä	-	adjective	10	-	-	-	-	-
 -	säestyksetön	-	adjective	34	tt:t	-	-	-	-
 -	sähköinen	-	adjective	38	-	front	e	-	-
 -	sähkötön	-	adjective	34	tt:t	-	-	-	-
@@ -6185,6 +6194,7 @@
 -	toissa	-	adjective	!	-	back	a	-	-
 -	toistainen	-	adjective	38	-	back	e	-	-
 -	toisteinen	-	adjective	38	-	back	e	-	-
+-	toistuva	-	adjective	10	-	-	-	-	-
 -	toiveikas	-	adjective	41	kk:k	back	a	-	-
 -	toivomaton	-	adjective	34	tt:t	-	-	-	-
 -	toivoton	-	adjective	34	tt:t	back	o	-	-
@@ -6229,6 +6239,7 @@
 -	tottelematon	-	adjective	34	tt:t	back	o	-	-
 -	tottelevainen	-	adjective	38	-	back	e	-	-
 -	tottumaton	-	adjective	34	tt:t	back	o	-	-
+-	tottunut	-	adjective	47	-	-	-	-	-
 -	totunnainen	-	adjective	38	-	back	e	-	-
 -	totuudellinen	-	adjective	38	-	back	e	-	-
 -	touhukas	-	adjective	41	kk:k	back	a	-	-
@@ -6352,6 +6363,7 @@
 -	turkulainen	-	adjective	38	-	-	-	-	-
 -	turmelematon	-	adjective	34	tt:t	back	o	-	-
 -	turmeltumaton	-	adjective	34	tt:t	back	o	-	-
+-	turmeltunut	-	adjective	47	-	-	-	-	-
 -	turmiollinen	-	adjective	38	-	back	e	-	-
 -	turpea	-	adjective	15	-	back	a	-	-
 -	turpeinen	-	adjective	38	-	-	-	-	-
@@ -6744,6 +6756,7 @@
 -	verkainen	-	adjective	38	-	back	e	-	-
 -	verkkainen	-	adjective	38	-	back	e	-	-
 -	verkkaisa	-	adjective	10	-	back	a	-	-
+-	verkkomainen	-	adjective	38	-	-	-	-	-
 -	vermlantilainen	-	adjective	38	-	-	-	-	-
 -	vernaalinen	-	adjective	38	-	-	-	-	-
 -	veroinen	-	adjective	38	-	back	e	-	-
@@ -7094,6 +7107,7 @@
 -	švaabilainen	-	adjective	38	-	-	-	-	-
 -	-hajuinen	-	adjective	38	-	-	-	-	-
 -	-katkuinen	-	adjective	38	-	-	-	-	-
+-	-omainen	-	adjective	38	-	-	-	-	-
 -	HIV-negatiivinen	-	adjective	38	-	-	-	-	-
 -	HIV-positiivinen	-	adjective	38	-	-	-	-	-
 -	O-aukkoinen	-	adjective	38	-	-	-	-	-
@@ -8152,6 +8166,7 @@
 -	impi|vaaralainen	-	adjective	38	-	-	-	-	-
 -	imu|kykyinen	-	adjective	38	-	-	-	-	-
 -	inarin|saamelainen	-	adjective	38	-	-	-	-	-
+-	indeksi|ehtoinen	-	adjective	38	-	-	-	-	-
 -	indigon|sininen	-	adjective	38	-	-	-	-	-
 -	indo|eurooppalainen	-	adjective	38	-	-	-	-	-
 -	indo|germaaninen	-	adjective	38	-	-	-	-	-
@@ -8419,6 +8434,7 @@
 -	kaksi|napainen	-	adjective	38	-	-	-	-	-
 -	kaksi|neuvoinen	-	adjective	38	-	-	-	-	-
 -	kaksi|niitinen	-	adjective	38	-	-	-	-	-
+-	kaksi|numeroinen	-	adjective	38	-	-	-	-	-
 -	kaksi|osainen	-	adjective	38	-	-	-	-	-
 -	kaksi|piippuinen	-	adjective	38	-	-	-	-	-
 -	kaksi|puolinen	-	adjective	38	-	-	-	-	-
@@ -8608,6 +8624,7 @@
 -	kerkeä|kielinen	-	adjective	38	-	-	-	stacked	-
 -	kerman|keltainen	-	adjective	38	-	-	-	-	-
 -	kerman|valkoinen	-	adjective	38	-	-	-	-	-
+-	kerman|värinen	-	adjective	38	-	-	-	-	-
 -	kerrannais|kukintoinen	-	adjective	38	-	-	-	-	-
 -	kerrannais|kukkainen	-	adjective	38	-	-	-	-	-
 -	kerrotun|lainen	-	adjective	38	-	-	-	-	-
@@ -9454,6 +9471,7 @@
 -	lämmin|henkinen	-	adjective	38	-	-	-	-	-
 -	lämmin|sydäminen	-	adjective	38	-	-	-	-	-
 -	lämmin|verinen	-	adjective	38	-	-	-	-	-
+-	lämmön|kestävä	-	adjective	10	-	-	-	-	-
 -	lämpimän|punainen	-	adjective	38	-	-	-	stacked	-
 -	lämpö|eristeinen	-	adjective	38	-	-	-	-	-
 -	lämpö|herkkä	-	adjective	10	kk:k	-	-	-	-
@@ -9523,6 +9541,7 @@
 -	maan|tieteellinen	-	adjective	38	-	-	-	-	-
 -	maan|varainen	-	adjective	38	-	-	-	-	-
 -	maan|vastainen	-	adjective	38	-	-	-	-	-
+-	maarian|haminalainen	-	adjective	38	-	-	-	-	-
 -	maasto|kelpoinen	-	adjective	38	-	-	-	-	-
 -	maasto|kuvioinen	-	adjective	38	-	-	-	-	-
 -	maasto|kuvioitu	-	adjective	1	t:d	-	-	-	-
@@ -9874,6 +9893,7 @@
 -	myrkyn|vihreä	-	adjective	15	-	-	-	-	-
 -	myssy|päinen	-	adjective	38	-	-	-	-	-
 -	myynti|henkinen	-	adjective	38	-	-	-	-	-
+-	myynti|kelpoinen	-	adjective	38	-	-	-	-	-
 -	myöhäis|glasiaalinen	-	adjective	38	-	-	-	-	-
 -	myöhäis|goottilainen	-	adjective	38	-	-	-	-	-
 -	myöhäis|herännyt	-	adjective	47	-	-	-	jocul	-
@@ -11248,6 +11268,7 @@
 -	siipi|rikkoinen	-	adjective	38	-	-	-	-	-
 -	siirapin|makea	-	adjective	15	-	-	-	-	-
 -	siirto|geeninen	-	adjective	38	-	-	-	-	-
+-	siirto|kelpoinen	-	adjective	38	-	-	-	-	-
 -	siitos|kykyinen	-	adjective	38	-	-	-	-	-
 -	siitos|kyvytön	-	adjective	34	tt:t	-	-	-	-
 -	siivo|luonteinen	-	adjective	38	-	-	-	-	-
@@ -11359,6 +11380,7 @@
 -	solu|välitteinen	-	adjective	38	-	-	-	-	-
 -	somali|maalainen	-	adjective	38	-	-	-	-	-
 -	sopeutumis|kykyinen	-	adjective	38	-	-	-	-	-
+-	sopimuksen|mukainen	-	adjective	38	-	-	-	-	-
 -	sopimuksen|varainen	-	adjective	38	-	-	-	-	-
 -	sopimuksen|vastainen	-	adjective	38	-	-	-	-	-
 -	sopimus|oikeudellinen	-	adjective	38	-	-	-	-	-
@@ -11921,6 +11943,7 @@
 -	tosi|oloinen	-	adjective	38	-	-	-	rare	-
 -	tosi|peräinen	-	adjective	38	-	-	-	-	-
 -	tosi|pohjainen	-	adjective	38	-	-	-	-	-
+-	toteuttamis|kelpoinen	-	adjective	38	-	-	-	-	-
 -	totuuden|mukainen	-	adjective	38	-	-	-	-	-
 -	totuuden|vastainen	-	adjective	38	-	-	-	-	-
 -	touko|kuinen	-	adjective	38	-	-	-	-	-
@@ -12368,6 +12391,7 @@
 -	vaihe|rikas	-	adjective	41	kk:k	-	-	-	-
 -	vaihtelun|haluinen	-	adjective	38	-	-	-	-	-
 -	vaihto|ehtoinen	-	adjective	38	-	-	-	-	-
+-	vaihto|kelpoinen	-	adjective	38	-	-	-	-	-
 -	vaihto|lämpöinen	-	adjective	38	-	-	-	-	-
 -	vaihtuva|korkoinen	-	adjective	38	-	-	-	-	-
 -	vaikea|hoitoinen	-	adjective	38	-	-	-	stacked	-
@@ -12606,6 +12630,7 @@
 -	vesi|liukoinen	-	adjective	38	-	-	-	-	-
 -	vesi|ohenteinen	-	adjective	38	-	-	-	-	-
 -	vesi|oikeudellinen	-	adjective	38	-	-	-	-	-
+-	vesi|peräinen	-	adjective	38	-	-	-	-	-
 -	vesi|pihi	-	adjective	5	-	-	-	coll	-
 -	vesi|pitoinen	-	adjective	38	-	-	-	-	-
 -	vesi|pohjainen	-	adjective	38	-	-	-	-	-
@@ -12890,6 +12915,7 @@
 -	yhtä|aikainen	-	adjective	38	-	-	-	-	-
 -	yhtä|jaksoinen	-	adjective	38	-	-	-	-	-
 -	yhtä|mittainen	-	adjective	38	-	-	-	-	-
+-	yhtä|pitämätön	-	adjective	34	tt:t	-	-	-	-
 -	yhtä|pitävä	-	adjective	10	-	-	-	-	-
 -	ykkös|luokkalainen	-	adjective	38	-	-	-	-	-
 -	yksikkö|muotoinen	-	adjective	38	-	-	-	-	-
@@ -16349,6 +16375,7 @@
 -	poikittain	-	adverb	-	-	-	-	-	-
 -	poikkeavasti	-	adverb	-	-	-	-	-	-
 -	poikkeuksellisesti	-	adverb	-	-	-	-	-	-
+-	poikkeuksetta	-	adverb	-	-	-	-	-	-
 -	poikki	-	adverb	-	-	-	-	-	-
 -	pois	-	adverb	-	-	-	-	-	-
 -	poissa	-	adverb	-	-	-	-	-	-
@@ -16411,7 +16438,7 @@
 -	pullolleen	-	adverb	-	-	-	-	+poss	-
 -	pulskasti	-	adverb	-	-	-	-	-	-
 -	puoleksi	-	adverb	-	-	-	-	-	-
--	puolestaan	-	adverb	-	-	-	-	-	-
+-	puolestaan	-	adverb	-	-	-	-	+poss	-
 -	puoli	-	adverb	-	-	-	-	-	-
 -	puoliksi	-	adverb	-	-	-	-	-	-
 -	puolillaan	-	adverb	-	-	-	-	+poss	-
@@ -18101,6 +18128,7 @@
 -	vuonna	-	adverb	-	-	-	-	-	-
 -	vuoroittain	-	adverb	-	-	-	-	-	-
 -	vuorostaan	-	adverb	-	-	-	-	-	-
+-	vuorotellen	-	adverb	-	-	-	-	-	-
 -	vuosittain	-	adverb	-	-	-	-	-	-
 -	vähemmän	-	adverb	-	-	-	-	-	-
 -	vähiin	-	adverb	-	-	-	-	-	-
@@ -18742,6 +18770,7 @@
 -	leikin|päin	-	adverb	-	-	-	-	-	-
 -	leikin|päiten	-	adverb	-	-	-	-	-	-
 -	lento|postitse	-	adverb	-	-	-	-	-	-
+-	lento|teitse	-	adverb	-	-	-	-	-	-
 -	levä|peräisesti	-	adverb	-	-	-	-	-	-
 -	liike|kannalla	-	adverb	-	-	-	-	-	-
 -	liike|kannalle	-	adverb	-	-	-	-	-	-
@@ -45300,7 +45329,6 @@
 -	VIS-asetus	-	noun	39	-	-	-	-	-
 -	VLDL-hiukkanen	-	noun	38	-	-	-	-	-
 -	VLSI-piiri	-	noun	5	-	-	-	-	-
--	VR-lasit	-	noun-pl	5	-	-	-	-	-
 -	VRNK-suositus	-	noun	39	-	-	-	-	-
 -	WC-allas	-	noun	41	lt:ll	-	-	-	-
 -	WC-istuin	-	noun	33	-	-	-	-	-
@@ -101279,6 +101307,7 @@
 -	NS-solut	-	noun-pl	1	-	-	-	-	-
 -	OTC-markkinat	-	noun-pl	12	-	-	-	-	-
 -	STEM-tieteet	-	noun-pl	48	t:d	-	-	-	-
+-	VR-lasit	-	noun-pl	5	-	-	-	-	-
 -	VR-lasit	-	noun-pl	5	-	-	-	-	-
 -	aamu-uutiset	-	noun-pl	38	-	-	-	-	-
 -	asunto-olot	-	noun-pl	1	-	-	-	-	-
