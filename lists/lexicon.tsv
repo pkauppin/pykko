@@ -20646,6 +20646,7 @@
 -	aaloe	-	noun	3	-	back	e	-	-
 -	aalto	-	noun	1	lt:ll	back	o	-	-
 -	aaltoilu	-	noun	2	-	back	u	-	-
+-	aaltoisuus	-	noun	40	-	-	-	-	-
 -	aamen	-	noun	32	-	back	e	-	-
 -	aamiainen	-	noun	38	-	back	e	-	-
 -	aamu	-	noun	1	-	back	u	-	-
@@ -20982,6 +20983,7 @@
 -	akvaristi	-	noun	5	-	-	-	-	-
 -	akvatinta	-	noun	9	-	back	a	-	-
 -	akvaviitti	-	noun	5	tt:t	back	i	-	-
+-	akvedukti	-	noun	5	-	-	-	-	-
 -	ala	-	noun	9	-	back	a	-	-
 -	alabasteri	-	noun	6	-	back	i	-	-
 -	aladobi	-	noun	5	-	back	i	-	-
@@ -21397,6 +21399,7 @@
 -	applikaatio	-	noun	3	-	back	o	-	-
 -	applikaattori	-	noun	6	-	back	i	-	-
 -	applikointi	-	noun	5	nt:nn	back	i	-	-
+-	apportti	-	noun	5	tt:t	-	-	-	-
 -	appositio	-	noun	3	-	back	o	-	-
 -	approbatur	-	noun	6	-	back	u	-	-
 -	appsi	-	noun	5	-	-	-	coll	-
@@ -22747,6 +22750,7 @@
 -	diskriminointi	-	noun	5	nt:nn	back	i	-	-
 -	diskurssi	-	noun	5	-	back	i	-	-
 -	diskvalifiointi	-	noun	5	nt:nn	-	-	-	-
+-	dispersio	-	noun	3	-	-	-	-	-
 -	disponibiliteetti	-	noun	5	tt:t	back	i	-	-
 -	dispositio	-	noun	3	-	back	o	-	-
 -	disputaatio	-	noun	3	-	-	-	dated	-
@@ -23142,6 +23146,7 @@
 -	emintimä	-	noun	10	-	front	ä	dial	-
 -	emiraatti	-	noun	5	tt:t	back	i	-	-
 -	emissio	-	noun	3	-	back	o	-	-
+-	emitteri	-	noun	6	-	-	-	-	-
 -	emittointi	-	noun	5	nt:nn	back	i	-	-
 -	emiö	-	noun	3	-	front	ö	-	-
 -	emmentaali	-	noun	5	-	back	i	-	-
@@ -26163,6 +26168,7 @@
 -	inventaari	-	noun	5	-	back	i	-	-
 -	inventaario	-	noun	3	-	back	o	-	-
 -	inventointi	-	noun	5	nt:nn	back	i	-	-
+-	inversio	-	noun	3	-	-	-	-	-
 -	invertteri	-	noun	6	-	front	i	-	-
 -	investoija	-	noun	10	-	back	a	-	-
 -	investointi	-	noun	5	nt:nn	back	i	-	-
@@ -26751,6 +26757,7 @@
 -	jäljentämö	-	noun	2	-	front	ö	-	-
 -	jäljitelmä	-	noun	10	-	front	ä	-	-
 -	jäljitettävyys	-	noun	40	-	front	y	-	-
+-	jäljittelijä	-	noun	12	-	-	-	-	-
 -	jäljittely	-	noun	2	-	front	y	-	-
 -	jäljitys	-	noun	39	-	front	y	-	-
 -	jälkeinen	-	noun	38	-	front	e	-	-
@@ -27357,6 +27364,7 @@
 -	kapse	-	noun	48	-	back	e	-	-
 -	kapsekki	-	noun	5	kk:k	back	i	-	-
 -	kapseli	-	noun	6	-	back	i	-	-
+-	kapselointi	-	noun	5	nt:nn	-	-	-	-
 -	kapstaani	-	noun	6	-	-	-	-	-
 -	kapsyyli	-	noun	5	-	front|back	i	-	-
 -	kapsäkki	-	noun	5	kk:k	front	i	-	-
@@ -27899,6 +27907,7 @@
 -	kelmunen	-	noun	38	-	-	-	-	-
 -	kelo	-	noun	1	-	back	o	-	-
 -	kelokko	-	noun	4	kk:k	back	o	-	-
+-	kelpaamattomuus	-	noun	40	-	-	-	-	-
 -	kelpoisuus	-	noun	40	-	back	u	-	-
 -	kelpuutus	-	noun	39	-	back	u	-	-
 -	kelta	-	noun	9	lt:ll	back	a	-	-
@@ -28026,6 +28035,7 @@
 -	keskeyte	-	noun	48	tt:t	front	e	-	-
 -	keskeytys	-	noun	39	-	front	y	-	-
 -	keskinäisyys	-	noun	40	-	front	y	-	-
+-	keskitin	-	noun	33	tt:t	-	-	-	-
 -	keskittymä	-	noun	10	-	front	ä	-	-
 -	keskitys	-	noun	39	-	front	y	-	-
 -	keskiö	-	noun	3	-	front	ö	-	-
@@ -28604,6 +28614,7 @@
 -	klooritus	-	noun	39	-	back	u	-	-
 -	klootti	-	noun	5	tt:t	back	i	-	-
 -	kloppi	-	noun	5	pp:p	back	i	coll	-
+-	kloroformi	-	noun	5	-	-	-	-	-
 -	klorofylli	-	noun	5	-	front|back	i	-	-
 -	kloroplasti	-	noun	5	-	-	-	-	-
 -	klosetti	-	noun	5	tt:t	back	i	dated	-
@@ -30912,6 +30923,7 @@
 -	levitaatio	-	noun	3	-	back	o	-	-
 -	levite	-	noun	48	tt:t	front	e	-	-
 -	levitin	-	noun	33	tt:t	front	i	-	-
+-	levittäjä	-	noun	10	-	-	-	-	-
 -	levitys	-	noun	39	-	front	y	-	-
 -	leviäin	-	noun	33	-	front	i	-	-
 -	levollisuus	-	noun	40	-	back	u	-	-
@@ -31396,6 +31408,7 @@
 -	louhimo	-	noun	2	-	back	o	-	-
 -	louhinta	-	noun	9	nt:nn	back	a	-	-
 -	louhos	-	noun	39	-	back	o	-	-
+-	loukkaamattomuus	-	noun	40	-	-	-	-	-
 -	loukkaus	-	noun	39	-	back	u	-	-
 -	loukko	-	noun	1	kk:k	back	o	-	-
 -	loukku	-	noun	1	kk:k	back	u	-	-
@@ -34196,6 +34209,7 @@
 -	oksa	-	noun	10	-	back	a	-	-
 -	oksaisuus	-	noun	40	-	back	u	-	-
 -	oksasto	-	noun	2	-	back	o	-	-
+-	oksastus	-	noun	39	-	-	-	-	-
 -	oksennus	-	noun	39	-	back	u	-	-
 -	oksentelu	-	noun	2	-	back	u	-	-
 -	okseri	-	noun	6	-	-	-	-	-
@@ -35169,6 +35183,7 @@
 -	peittaus	-	noun	39	-	back	u	-	-
 -	peittely	-	noun	2	-	front	y	-	-
 -	peitto	-	noun	1	tt:t	back	o	-	-
+-	peittävyys	-	noun	40	-	-	-	-	-
 -	pekari	-	noun	6	-	back	i	-	-
 -	pekingeesi	-	noun	5	-	front	i	-	-
 -	pekingiläinen	-	noun	38	-	-	-	-	-
@@ -36214,6 +36229,7 @@
 -	presidenttiys	-	noun	40	-	front	y	-	-
 -	presidiumi	-	noun	5	-	back	i	-	-
 -	presisointi	-	noun	5	nt:nn	back	i	-	-
+-	prespaani	-	noun	6	-	-	-	-	-
 -	pressa	-	noun	9	-	back	a	coll	-
 -	pressi	-	noun	5	-	front	i	coll	-
 -	pressu	-	noun	1	-	back	u	coll	-
@@ -38600,6 +38616,7 @@
 -	sake	-	noun	8	-	back	e	-	-
 -	sakemanni	-	noun	5	-	back	i	coll	-
 -	saketti	-	noun	5	tt:t	back	i	-	-
+-	sakeus	-	noun	40	-	-	-	-	-
 -	sakeute	-	noun	48	tt:t	back	e	-	-
 -	sakeutus	-	noun	39	-	back	u	-	-
 -	sakka	-	noun	9	kk:k	back	a	-	-
@@ -39343,6 +39360,7 @@
 -	siira	-	noun	9	-	back	a	-	-
 -	siirappi	-	noun	5	pp:p	back	i	-	-
 -	siirre	-	noun	48	rt:rr	front	e	-	-
+-	siirrettävyys	-	noun	40	-	-	-	-	-
 -	siirrin	-	noun	33	rt:rr	front	i	-	-
 -	siirros	-	noun	39	-	back	o	-	-
 -	siirrostus	-	noun	39	-	back	u	-	-
@@ -40367,6 +40385,7 @@
 -	sumeus	-	noun	40	-	back	u	-	-
 -	summa	-	noun	10	-	back	a	-	-
 -	summaarisuus	-	noun	40	-	back	u	-	-
+-	summain	-	noun	33	-	-	-	-	-
 -	summattomuus	-	noun	40	-	back	u	-	-
 -	summaus	-	noun	39	-	back	u	-	-
 -	summeri	-	noun	6	-	back	i	-	-
@@ -41090,6 +41109,7 @@
 -	taivo	-	noun	1	-	back	o	poet	-
 -	taivukas	-	noun	41	kk:k	back	a	-	-
 -	taivutin	-	noun	33	tt:t	back	i	-	-
+-	taivuttelu	-	noun	2	-	-	-	-	-
 -	taivutus	-	noun	39	-	back	u	-	-
 -	taiwanilainen	-	noun	38	-	-	-	-	-
 -	tajine	-	noun	2	-	-	-	-	-
@@ -41336,6 +41356,7 @@
 -	tarteletti	-	noun	5	tt:t	back	i	-	-
 -	tarttuja	-	noun	10	-	-	-	-	-
 -	tarttuma	-	noun	10	-	back	a	-	-
+-	tarttuvuus	-	noun	40	-	-	-	-	-
 -	tartunta	-	noun	9	nt:nn	back	a	-	-
 -	tartutus	-	noun	39	-	back	u	-	-
 -	taru	-	noun	1	-	back	u	-	-
@@ -42395,6 +42416,7 @@
 -	tunkeilevuus	-	noun	40	-	back	u	-	-
 -	tunkeilija	-	noun	12	-	back	a	-	-
 -	tunkeilu	-	noun	2	-	back	u	-	-
+-	tunkeuma	-	noun	10	-	-	-	-	-
 -	tunkeutuja	-	noun	10	-	back	a	-	-
 -	tunkio	-	noun	3	-	back	o	-	-
 -	tunkkaisuus	-	noun	40	-	back	u	-	-
@@ -42830,6 +42852,7 @@
 -	täyttymys	-	noun	39	-	front	y	-	-
 -	täyttäjä	-	noun	10	-	front	ä	-	-
 -	täyttö	-	noun	1	tt:t	front	ö	-	-
+-	täytäntö	-	noun	1	nt:nn	-	-	-	-
 -	töherrys	-	noun	39	-	front	y	-	-
 -	töhkä	-	noun	10	-	front	ä	-	-
 -	töhnä	-	noun	10	-	front	ä	coll	-
@@ -43245,6 +43268,7 @@
 -	vaihtaja	-	noun	10	-	back	a	-	-
 -	vaihtari	-	noun	6	-	back	i	coll	-
 -	vaihteisto	-	noun	1	-	back	o	-	-
+-	vaihtelevuus	-	noun	40	-	-	-	-	-
 -	vaihtelu	-	noun	2	-	back	u	-	-
 -	vaihto	-	noun	1	t:d	back	o	-	-
 -	vaihtuvuus	-	noun	40	-	back	u	-	-
@@ -43324,6 +43348,7 @@
 -	vakuumi	-	noun	6	-	back	i	-	-
 -	vakuus	-	noun	40	-	back	u	-	-
 -	vakuutettu	-	noun	1	tt:t	back	u	-	-
+-	vakuuttaja	-	noun	10	-	-	-	-	-
 -	vakuuttavuus	-	noun	40	-	back	u	-	-
 -	vakuuttelu	-	noun	2	-	back	u	-	-
 -	vakuutus	-	noun	39	-	back	u	-	-
@@ -43388,6 +43413,7 @@
 -	vallesmanni	-	noun	5	-	back	i	dated|jocul	-
 -	vallettalainen	-	noun	38	-	-	-	-	-
 -	valli	-	noun	5	-	back	i	-	-
+-	vallitus	-	noun	39	-	-	-	-	-
 -	valloittaja	-	noun	10	-	back	a	-	-
 -	valloitus	-	noun	39	-	back	u	-	-
 -	valloni	-	noun	6	-	back	i	-	-
@@ -43985,6 +44011,7 @@
 -	vietto	-	noun	1	tt:t	back	o	-	-
 -	viettymys	-	noun	39	-	front	y	-	-
 -	viettäjä	-	noun	10	-	front	ä	-	-
+-	viettävyys	-	noun	40	-	-	-	-	-
 -	vigilia	-	noun	12	-	back	a	-	-
 -	vigvami	-	noun	5	-	-	-	-	-
 -	viha	-	noun	9	-	back	a	-	-
@@ -44164,6 +44191,7 @@
 -	villiys	-	noun	40	-	front	y	-	-
 -	villoitus	-	noun	39	-	back	u	-	-
 -	vilnalainen	-	noun	38	-	-	-	-	-
+-	vilpillisyys	-	noun	40	-	-	-	-	-
 -	vilpistelijä	-	noun	12	-	front	ä	-	-
 -	vilpistely	-	noun	2	-	front	y	-	-
 -	vilpittömyys	-	noun	40	-	front	y	-	-
@@ -44684,6 +44712,7 @@
 -	yhdistelmä	-	noun	10	-	front	ä	-	-
 -	yhdistely	-	noun	2	-	front	y	-	-
 -	yhdistetty	-	noun	1	tt:t	front	y	-	-
+-	yhdistin	-	noun	33	-	-	-	-	-
 -	yhdistymä	-	noun	10	-	front	ä	-	-
 -	yhdistys	-	noun	39	-	front	y	-	-
 -	yhdistäjä	-	noun	10	-	front	ä	-	-
@@ -45470,6 +45499,7 @@
 -	hallinto-organisaatio	-	noun	3	-	-	-	-	-
 -	halpa-arvoisuus	-	noun	40	-	-	-	-	-
 -	hankinta-aika	-	noun	9	k:j	-	-	-	-
+-	hankinta-arvo	-	noun	1	-	-	-	-	-
 -	harha-aistimus	-	noun	39	-	-	-	-	-
 -	harha-askel	-	noun	49	-	-	-	-	-
 -	harkinta-aika	-	noun	9	k:j	-	-	-	-
@@ -45634,6 +45664,7 @@
 -	koti-ihminen	-	noun	38	-	-	-	-	-
 -	koti-ikävä	-	noun	10	-	-	-	-	-
 -	koti-ilta	-	noun	9	lt:ll	-	-	-	-
+-	koti-irtaimisto	-	noun	1	-	-	-	-	-
 -	koti-isä	-	noun	10	-	-	-	-	-
 -	koulu-uudistus	-	noun	39	-	-	-	-	-
 -	krapula-aamu	-	noun	1	-	-	-	-	-
@@ -45662,6 +45693,7 @@
 -	kuu-ukko	-	noun	1	kk:k	-	-	child	-
 -	kuva-aihe	-	noun	48	-	-	-	-	-
 -	kuva-ala	-	noun	9	-	-	-	-	-
+-	kuva-alkio	-	noun	3	-	-	-	-	-
 -	kuva-arkisto	-	noun	2	-	-	-	-	-
 -	kuva-arvoitus	-	noun	39	-	-	-	-	-
 -	kyllä-mies	-	noun	42	-	-	-	-	-
@@ -45814,6 +45846,7 @@
 -	osake-enemmistö	-	noun	1	-	-	-	-	-
 -	osuma-alue	-	noun	48	-	-	-	-	-
 -	p-kausi	-	noun	27	-	-	-	-	-
+-	pH-arvo	-	noun	1	-	-	-	-	-
 -	pH-asteikko	-	noun	4	kk:k	-	-	-	-
 -	paikka-aine	-	noun	48	-	-	-	-	-
 -	paikka-arvo	-	noun	1	-	-	-	-	-
@@ -46143,6 +46176,7 @@
 -	vasta-aihe	-	noun	48	-	-	-	-	-
 -	vasta-aine	-	noun	48	-	-	-	-	-
 -	vasta-alkaja	-	noun	10	-	-	-	-	-
+-	vasta-arvo	-	noun	1	-	-	-	-	-
 -	vasta-aurinko	-	noun	1	nk:ng	-	-	-	-
 -	vatsa-aortta	-	noun	9	tt:t	-	-	-	-
 -	verkko-opetus	-	noun	39	-	-	-	-	-
@@ -48935,6 +48969,7 @@
 -	elatus|apu	-	noun	1	p:v	-	-	-	-
 -	elatus|maksu	-	noun	1	-	-	-	-	-
 -	elatus|tuki	-	noun	7	k:	-	-	-	-
+-	elatus|velvollinen	-	noun	38	-	-	-	-	-
 -	elatus|velvollisuus	-	noun	40	-	-	-	-	-
 -	elefantti|tauti	-	noun	5	t:d	-	-	-	-
 -	elektroniikka|insinööri	-	noun	5	-	-	-	-	-
@@ -77027,6 +77062,7 @@
 -	päijät|hämäläinen	-	noun	38	-	-	-	-	-
 -	päikkö|pari	-	noun	5	-	-	-	-	-
 -	päin|makuu	-	noun	17	-	-	-	-	-
+-	päittäis|liitos	-	noun	39	-	-	-	-	-
 -	päivittäis|käyttäjä	-	noun	10	-	-	-	-	-
 -	päivittäis|käyttö	-	noun	1	tt:t	-	-	-	-
 -	päivittäis|tavara	-	noun	12	-	-	-	-	-
@@ -88381,6 +88417,7 @@
 -	tweed|kangas	-	noun	41	nk:ng	-	-	-	-
 -	tweed|takki	-	noun	5	kk:k	-	-	-	-
 -	twist|naru	-	noun	1	-	-	-	-	-
+-	tyhjennys|ejektori	-	noun	6	-	-	-	-	-
 -	tyhjennys|harjoitus	-	noun	39	-	-	-	-	-
 -	tyhjennys|myynti	-	noun	5	nt:nn	-	-	-	-
 -	tyhjennys|pumppu	-	noun	1	pp:p	-	-	-	-
@@ -100481,6 +100518,7 @@
 -	yhdys|kunta|tekniikka	-	noun	14	kk:k	-	-	-	-
 -	yhdys|kunta|työ	-	noun	19	-	-	-	-	-
 -	yhteen|kuuluvuuden|tunne	-	noun	48	nt:nn	-	-	-	-
+-	yhteis|emitteri|kytkentä	-	noun	9	nt:nn	-	-	-	-
 -	yhteis|kellunta|järjestelmä	-	noun	10	-	-	-	-	-
 -	yhteis|kunnan|parantaja	-	noun	10	-	-	-	-	-
 -	yhteis|kunta|eläin	-	noun	33	-	-	-	-	-
@@ -101256,6 +101294,7 @@
 -	tuparit	-	noun-pl	6	-	back	i	coll	-
 -	turnajaiset	-	noun-pl	38	-	back	e	-	-
 -	tuttavukset	-	noun-pl	39	-	back	e	-	-
+-	tähteet	-	noun-pl	48	t:d	-	-	-	-
 -	tärät	-	noun-pl	10	-	-	-	-	-
 -	uikkarit	-	noun-pl	6	-	back	i	coll	-
 -	universiadit	-	noun-pl	5	-	back	i	-	-
@@ -101312,6 +101351,7 @@
 -	aamu-uutiset	-	noun-pl	38	-	-	-	-	-
 -	asunto-olot	-	noun-pl	1	-	-	-	-	-
 -	jatko-opinnot	-	noun-pl	1	nt:nn	-	-	-	-
+-	kilpa-ajot	-	noun-pl	1	-	-	-	-	-
 -	neuvoa-antavat	-	noun-pl	10	-	-	-	-	-
 -	open house -kutsut	-	noun-pl	1	-	-	-	-	-
 -	pika-aidat	-	noun-pl	9	t:d	-	-	-	-
