@@ -25514,6 +25514,7 @@
 -	hydroksidi	-	noun	5	-	back	i	-	-
 -	hydroksyyli	-	noun	5	-	front|back	i	-	-
 -	hydrologia	-	noun	12	-	back	a	-	-
+-	hydrometri	-	noun	5	-	-	-	-	-
 -	hydrosfääri	-	noun	5	-	front	i	-	-
 -	hydrospinning	-	noun	5	-	-	-	-	-
 -	hyeena	-	noun	13	-	back	a	-	-
@@ -29434,6 +29435,7 @@
 -	kryptologi	-	noun	5	-	back	i	-	-
 -	kryptologia	-	noun	12	-	back	a	-	-
 -	krypton	-	noun	5	-	back	o	-	-
+-	kryptoniitti	-	noun	5	tt:t	-	-	-	-
 -	krysanteemi	-	noun	5	-	back	i	-	-
 -	kryssi	-	noun	5	-	front	i	coll	-
 -	kräkki	-	noun	5	kk:k	front	i	-	-
@@ -46276,6 +46278,7 @@
 -	aalto|pahvi	-	noun	5	-	-	-	-	-
 -	aalto|pelti	-	noun	5	lt:ll	-	-	-	-
 -	aalto|pituus	-	noun	40	-	-	-	-	-
+-	aalto|rintama	-	noun	10	-	-	-	-	-
 -	aalto|sulje	-	noun	48	k:j	-	-	-	-
 -	aalto|sulku	-	noun	1	k:	-	-	-	-
 -	aalto|viiva	-	noun	9	-	-	-	-	-
@@ -46823,6 +46826,7 @@
 -	ala|kerta	-	noun	9	rt:rr	-	-	-	-
 -	ala|kierre	-	noun	48	rt:rr	-	-	-	-
 -	ala|kohta	-	noun	10	t:d	-	-	-	-
+-	ala|konserni	-	noun	5	-	-	-	-	-
 -	ala|koukku	-	noun	1	kk:k	-	-	-	-
 -	ala|koulu	-	noun	1	-	-	-	-	-
 -	ala|koululainen	-	noun	38	-	-	-	-	-
@@ -46922,8 +46926,10 @@
 -	ali|käytävä	-	noun	10	-	-	-	-	-
 -	ali|luutnantti	-	noun	5	tt:t	-	-	-	-
 -	ali|lämpö	-	noun	1	mp:mm	-	-	-	-
+-	ali|merkintä	-	noun	9	nt:nn	-	-	-	-
 -	ali|nopeus	-	noun	40	-	-	-	-	-
 -	ali|ohjautuvuus	-	noun	40	-	-	-	-	-
+-	ali|ohjelma	-	noun	10	-	-	-	-	-
 -	ali|oikeus	-	noun	40	-	-	-	-	-
 -	ali|paine	-	noun	48	-	-	-	-	-
 -	ali|paino	-	noun	1	-	-	-	-	-
@@ -47215,6 +47221,7 @@
 -	alus|lattia	-	noun	12	-	-	-	-	-
 -	alus|lautanen	-	noun	38	-	-	-	-	-
 -	alus|lehti	-	noun	7	t:d	-	-	-	-
+-	alus|levy	-	noun	1	-	-	-	-	-
 -	alus|liikenne	-	noun	48	nt:nn	-	-	-	-
 -	alus|maa	-	noun	18	-	-	-	-	-
 -	alus|paita	-	noun	9	t:d	-	-	-	-
@@ -47513,6 +47520,7 @@
 -	apu|harvennus	-	noun	39	-	-	-	-	-
 -	apu|hoitaja	-	noun	10	-	-	-	-	-
 -	apu|joukko	-	noun	1	kk:k	-	-	-	-
+-	apu|jäsen	-	noun	32	-	-	-	-	-
 -	apu|keino	-	noun	1	-	-	-	-	-
 -	apu|keittiö	-	noun	3	-	-	-	-	-
 -	apu|kinos	-	noun	39	-	-	-	-	-
@@ -47523,6 +47531,7 @@
 -	apu|mies	-	noun	42	-	-	-	-	-
 -	apu|moottori	-	noun	6	-	-	-	-	-
 -	apu|neuvo	-	noun	1	-	-	-	-	-
+-	apu|ohjelma	-	noun	10	-	-	-	-	-
 -	apu|pisto	-	noun	1	-	-	-	-	-
 -	apu|puolue	-	noun	48	-	-	-	-	-
 -	apu|pyörä	-	noun	10	-	-	-	-	-
@@ -47661,12 +47670,14 @@
 -	arvioimis|peruste	-	noun	48	-	-	-	-	-
 -	arviointi|keskustelu	-	noun	2	-	-	-	-	-
 -	arvio|hinta	-	noun	9	nt:nn	-	-	-	-
+-	arvio|laskelma	-	noun	10	-	-	-	-	-
 -	arvio|luku	-	noun	1	k:v	-	-	-	-
 -	arvio|peruste	-	noun	48	-	-	-	-	-
 -	arvio|summa	-	noun	10	-	-	-	-	-
 -	arvio|verotus	-	noun	39	-	-	-	-	-
 -	arvon|alennus	-	noun	39	-	-	-	-	-
 -	arvon|anto	-	noun	1	nt:nn	-	-	-	-
+-	arvon|korotus	-	noun	39	-	-	-	-	-
 -	arvon|lisä	-	noun	10	-	-	-	-	-
 -	arvon|lisäys	-	noun	39	-	-	-	-	-
 -	arvon|nousu	-	noun	1	-	-	-	-	-
@@ -48112,6 +48123,7 @@
 -	auton|asentaja	-	noun	10	-	-	-	-	-
 -	auton|huoltaja	-	noun	10	-	-	-	-	-
 -	auton|huolto	-	noun	1	lt:ll	-	-	-	-
+-	auton|kori	-	noun	5	-	-	-	-	-
 -	auton|kuljettaja	-	noun	10	-	-	-	-	-
 -	auton|perä	-	noun	10	-	-	-	-	-
 -	auton|pyörä	-	noun	10	-	-	-	-	-
@@ -48175,6 +48187,7 @@
 -	auto|tehdas	-	noun	41	t:d	-	-	-	-
 -	auto|teollisuus	-	noun	40	-	-	-	-	-
 -	auto|termiitti	-	noun	5	tt:t	-	-	-	-
+-	auto|tie	-	noun	19	-	-	-	-	-
 -	auto|turma	-	noun	10	-	-	-	-	-
 -	auto|urheilu	-	noun	2	-	-	-	-	-
 -	auto|vaha	-	noun	9	-	-	-	-	-
@@ -48278,6 +48291,7 @@
 -	avio|suhde	-	noun	48	t:d	-	-	-	-
 -	avio|sääty	-	noun	1	t:d	-	-	-	-
 -	avio|vaimo	-	noun	1	-	-	-	-	-
+-	avista|kurssi	-	noun	5	-	-	-	-	-
 -	avista|vekseli	-	noun	6	-	-	-	-	-
 -	avokas|sukka	-	noun	10	kk:k	-	-	-	-
 -	avorio|riisi	-	noun	5	-	-	-	-	-
@@ -48594,9 +48608,11 @@
 -	broileri|poliitikko	-	noun	4	kk:k	-	-	-	-
 -	broileri|pyörykkä	-	noun	14	kk:k	-	-	-	-
 -	brutto|hinta	-	noun	9	nt:nn	-	-	-	-
+-	brutto|kate	-	noun	48	tt:t	-	-	-	-
 -	brutto|paino	-	noun	1	-	-	-	-	-
 -	brutto|palkka	-	noun	9	kk:k	-	-	-	-
 -	brutto|tulo	-	noun	1	-	-	-	-	-
+-	brutto|tuotto	-	noun	1	tt:t	-	-	-	-
 -	brysselin|kaali	-	noun	5	-	-	-	-	-
 -	brändi|nimi	-	noun	7	-	-	-	-	-
 -	budjetti|esitys	-	noun	39	-	-	-	-	-
@@ -48695,11 +48711,13 @@
 -	data|journalismi	-	noun	5	-	-	-	-	-
 -	data|keskus	-	noun	39	-	-	-	-	-
 -	data|projektori	-	noun	6	-	-	-	-	-
+-	data|siirto	-	noun	1	rt:rr	-	-	-	-
 -	data|verkko	-	noun	1	kk:k	-	-	-	-
 -	datiivi|adverbiaali	-	noun	5	-	-	-	-	-
 -	debatti|kirjallisuus	-	noun	40	-	-	-	-	-
 -	debentuuri|laina	-	noun	9	-	-	-	-	-
 -	debet|puoli	-	noun	26	-	-	-	-	-
+-	debet|saldo	-	noun	1	-	-	-	-	-
 -	deitti|palvelu	-	noun	2	-	-	-	coll	-
 -	deitti|sovellus	-	noun	39	-	-	-	coll	-
 -	dekantteri|lasi	-	noun	5	-	-	-	-	-
@@ -48849,6 +48867,7 @@
 -	edamin|juusto	-	noun	1	-	-	-	-	-
 -	edam|juusto	-	noun	1	-	-	-	-	-
 -	edelleen|kuljetus	-	noun	39	-	-	-	-	-
+-	edelleen|lähetys	-	noun	39	-	-	-	-	-
 -	edelleen|vuokraus	-	noun	39	-	-	-	-	-
 -	edellis|ilta	-	noun	9	lt:ll	-	-	-	-
 -	edellis|kerta	-	noun	9	rt:rr	-	-	-	-
@@ -48885,6 +48904,7 @@
 -	edustus|laitos	-	noun	39	-	-	-	-	-
 -	edustus|lounas	-	noun	41	-	-	-	-	-
 -	edustus|oikeus	-	noun	40	-	-	-	-	-
+-	edustus|sopimus	-	noun	39	-	-	-	-	-
 -	edustus|tehtävä	-	noun	10	-	-	-	-	-
 -	edustus|tila	-	noun	9	-	-	-	-	-
 -	edustus|tilaisuus	-	noun	40	-	-	-	-	-
@@ -49065,6 +49085,7 @@
 -	elo|valkea	-	noun	15	-	-	-	-	-
 -	elo|yhteisö	-	noun	2	-	-	-	-	-
 -	elo–syys|kuu	-	noun	18	-	-	-	-	-
+-	elpymis|aika	-	noun	9	ik:j	-	-	-	-
 -	elvytys|kielto	-	noun	1	lt:ll	-	-	-	-
 -	eläinten|hoitaja	-	noun	10	-	-	-	-	-
 -	eläinten|kasvattaja	-	noun	10	-	-	-	-	-
@@ -49115,6 +49136,7 @@
 -	eläke|karttuma	-	noun	10	-	-	-	-	-
 -	eläke|kassa	-	noun	9	-	-	-	-	-
 -	eläke|kertymä	-	noun	10	-	-	-	-	-
+-	eläke|laitos	-	noun	39	-	-	-	-	-
 -	eläke|maksu	-	noun	1	-	-	-	-	-
 -	eläke|oikeus	-	noun	40	-	-	-	-	-
 -	eläke|pommi	-	noun	5	-	-	-	-	-
@@ -49251,6 +49273,7 @@
 -	enemmistö|hallitus	-	noun	39	-	-	-	-	-
 -	enemmistö|kansallisuus	-	noun	40	-	-	-	-	-
 -	enemmistö|kieli	-	noun	26	-	-	-	-	-
+-	enemmistö|osakas	-	noun	41	kk:k	-	-	-	-
 -	enemmistö|päätös	-	noun	39	-	-	-	-	-
 -	enemmistö|vaali	-	noun	5	-	-	-	-	-
 -	enemmistö|valta	-	noun	9	lt:ll	-	-	-	-
@@ -49314,6 +49337,7 @@
 -	ennakko|arvio	-	noun	3	-	-	-	-	-
 -	ennakko|asenne	-	noun	48	nt:nn	-	-	-	-
 -	ennakko|ehkäisy	-	noun	2	-	-	-	-	-
+-	ennakko|ehto	-	noun	1	t:d	-	-	-	-
 -	ennakko|esitys	-	noun	39	-	-	-	-	-
 -	ennakko|ilmoittautuminen	-	noun	38	-	-	-	-	-
 -	ennakko|ilmoitus	-	noun	39	-	-	-	-	-
@@ -49339,6 +49363,7 @@
 -	ennakko|raivaus	-	noun	39	-	-	-	-	-
 -	ennakko|ratkaisu	-	noun	2	-	-	-	-	-
 -	ennakko|sensuuri	-	noun	6	-	-	-	-	-
+-	ennakko|sopimus	-	noun	39	-	-	-	-	-
 -	ennakko|suoritus	-	noun	39	-	-	-	-	-
 -	ennakko|suosikki	-	noun	5	kk:k	-	-	-	-
 -	ennakko|säästäminen	-	noun	38	-	-	-	-	-
@@ -49603,6 +49628,7 @@
 -	eristys|huone	-	noun	48	-	-	-	-	-
 -	eristys|huopa	-	noun	10	p:v	-	-	-	-
 -	eristys|laitos	-	noun	39	-	-	-	-	-
+-	eristys|levy	-	noun	1	-	-	-	-	-
 -	eristys|massa	-	noun	9	-	-	-	-	-
 -	eristys|nauha	-	noun	9	-	-	-	-	-
 -	eristys|selli	-	noun	5	-	-	-	-	-
@@ -49733,6 +49759,7 @@
 -	esillä|olo	-	noun	1	-	-	-	-	-
 -	esine|kooste	-	noun	48	-	-	-	-	-
 -	esine|tulostus	-	noun	39	-	-	-	-	-
+-	esine|vahinko	-	noun	1	nk:ng	-	-	-	-
 -	esitelmän|pitäjä	-	noun	10	-	-	-	-	-
 -	esitelmä|matka	-	noun	9	-	-	-	-	-
 -	esitelmä|moniste	-	noun	48	-	-	-	-	-
@@ -49760,6 +49787,7 @@
 -	esi|koulu	-	noun	1	-	-	-	-	-
 -	esi|koululainen	-	noun	38	-	-	-	-	-
 -	esi|kunta	-	noun	10	nt:nn	-	-	-	-
+-	esi|kuumennus	-	noun	39	-	-	-	-	-
 -	esi|kuva	-	noun	10	-	-	-	-	-
 -	esi|kuvallisuus	-	noun	40	-	-	-	-	-
 -	esi|kypsennys	-	noun	39	-	-	-	-	-
@@ -49808,6 +49836,7 @@
 -	esi|upseeri	-	noun	6	-	-	-	-	-
 -	esi|vaali	-	noun	5	-	-	-	-	-
 -	esi|vaihe	-	noun	48	-	-	-	-	-
+-	esi|valinta	-	noun	9	nt:nn	-	-	-	-
 -	esi|valmistelu	-	noun	2	-	-	-	-	-
 -	esi|valta	-	noun	9	lt:ll	-	-	poet	-
 -	esi|vanhempi	-	noun	16	mp:mm	-	-	-	-
@@ -49826,6 +49855,7 @@
 -	essee|tentti	-	noun	5	tt:t	-	-	-	-
 -	essee|vastaus	-	noun	39	-	-	-	-	-
 -	essu|mekko	-	noun	1	kk:k	-	-	-	-
+-	esteettömyys|todistus	-	noun	39	-	-	-	-	-
 -	este|juoksija	-	noun	12	-	-	-	-	-
 -	este|juoksu	-	noun	1	-	-	-	-	-
 -	este|rata	-	noun	9	t:d	-	-	-	-
@@ -49991,6 +50021,7 @@
 -	etä|kauppa	-	noun	9	pp:p	-	-	-	-
 -	etä|kokous	-	noun	39	-	-	-	-	-
 -	etä|kurssi	-	noun	5	-	-	-	-	-
+-	etä|käsittely	-	noun	2	-	-	-	-	-
 -	etä|käyttö	-	noun	1	tt:t	-	-	-	-
 -	etä|lamautin	-	noun	33	tt:t	-	-	-	-
 -	etä|luettavuus	-	noun	40	-	-	-	-	-
@@ -50499,6 +50530,7 @@
 -	haka|sulku	-	noun	1	k:	-	-	-	-
 -	haka|viivain	-	noun	33	-	-	-	-	-
 -	haka|viivoitin	-	noun	33	tt:t	-	-	-	-
+-	hakemus|lomake	-	noun	48	kk:k	-	-	-	-
 -	hake|lämmitys	-	noun	39	-	-	-	-	-
 -	hake|puu	-	noun	18	-	-	-	-	-
 -	hakkuu|ala	-	noun	9	-	-	-	-	-
@@ -50700,6 +50732,7 @@
 -	hammas|tarkastus	-	noun	39	-	-	-	-	-
 -	hammas|teknikko	-	noun	4	kk:k	-	-	-	-
 -	hammas|tikku	-	noun	1	kk:k	-	-	-	-
+-	hammas|vaihde	-	noun	48	t:d	-	-	-	-
 -	hammas|valas	-	noun	41	-	-	-	-	-
 -	hammas|valli	-	noun	5	-	-	-	-	-
 -	hammas|väli	-	noun	5	-	-	-	-	-
@@ -50761,6 +50794,7 @@
 -	hankinta|kauppa	-	noun	9	pp:p	-	-	-	-
 -	hankinta|laki	-	noun	5	k:	-	-	-	-
 -	hankinta|luettelo	-	noun	2	-	-	-	-	-
+-	hankinta|meno	-	noun	1	-	-	-	-	-
 -	hankinta|sopimus	-	noun	39	-	-	-	-	-
 -	hanki|kanto	-	noun	1	nt:nn	-	-	-	-
 -	hanki|keli	-	noun	5	-	-	-	-	-
@@ -50780,6 +50814,7 @@
 -	hapan|juuri	-	noun	26	-	-	-	-	-
 -	hapan|kaali	-	noun	5	-	-	-	-	-
 -	hapan|kerma	-	noun	9	-	-	-	-	-
+-	hapan|kirsikka	-	noun	14	kk:k	-	-	-	-
 -	hapan|korppu	-	noun	1	pp:p	-	-	-	-
 -	hapan|leipä	-	noun	10	p:v	-	-	-	-
 -	hapan|naama	-	noun	9	-	-	-	coll	-
@@ -51106,6 +51141,7 @@
 -	heijastin|kalvo	-	noun	1	-	-	-	-	-
 -	heijastin|nauha	-	noun	9	-	-	-	-	-
 -	heijastin|tarra	-	noun	9	-	-	-	-	-
+-	heijastus|kerroin	-	noun	33	rt:rr	-	-	-	-
 -	heijastus|kulma	-	noun	10	-	-	-	-	-
 -	heijastus|kyky	-	noun	1	k:v	-	-	-	-
 -	heijastus|pinta	-	noun	9	nt:nn	-	-	-	-
@@ -51790,6 +51826,7 @@
 -	hinta|eroosio	-	noun	3	-	-	-	-	-
 -	hinta|haarukka	-	noun	14	kk:k	-	-	-	-
 -	hinta|haitari	-	noun	6	-	-	-	-	-
+-	hinta|ilmoitus	-	noun	39	-	-	-	-	-
 -	hinta|indeksi	-	noun	5	-	-	-	-	-
 -	hinta|jousto	-	noun	1	-	-	-	-	-
 -	hinta|kartelli	-	noun	5	-	-	-	-	-
@@ -51806,6 +51843,7 @@
 -	hinta|sulku	-	noun	1	k:	-	-	-	-
 -	hinta|säännöstely	-	noun	2	-	-	-	-	-
 -	hinta|takuu	-	noun	17	-	-	-	-	-
+-	hinta|tarjous	-	noun	39	-	-	-	-	-
 -	hinta|tarkastaja	-	noun	10	-	-	-	-	-
 -	hinta|taso	-	noun	1	-	-	-	-	-
 -	hinta|tieto	-	noun	1	t:d	-	-	-	-
@@ -52332,6 +52370,7 @@
 -	huolto|moduuli	-	noun	6	-	-	-	-	-
 -	huolto|päällikkö	-	noun	4	kk:k	-	-	-	-
 -	huolto|riita	-	noun	9	t:d	-	-	-	-
+-	huolto|sopimus	-	noun	39	-	-	-	-	-
 -	huolto|suhde	-	noun	48	t:d	-	-	-	-
 -	huolto|tila	-	noun	9	-	-	-	-	-
 -	huolto|tunneli	-	noun	6	-	-	-	-	-
@@ -52524,6 +52563,7 @@
 -	hylky|aine	-	noun	48	-	-	-	-	-
 -	hylky|aukko	-	noun	1	kk:k	-	-	-	-
 -	hylky|auto	-	noun	1	-	-	-	-	-
+-	hylky|puu	-	noun	18	-	-	-	-	-
 -	hylky|tavara	-	noun	12	-	-	-	-	-
 -	hylkäys|päätös	-	noun	39	-	-	-	-	-
 -	hylkäys|tuomio	-	noun	3	-	-	-	-	-
@@ -52639,6 +52679,7 @@
 -	hyönteis|toukka	-	noun	10	kk:k	-	-	-	-
 -	hyönteis|tuho	-	noun	1	-	-	-	-	-
 -	hyönteis|vahinko	-	noun	1	nk:ng	-	-	-	-
+-	hyöty|aika	-	noun	9	ik:j	-	-	-	-
 -	hyöty|eläin	-	noun	33	-	-	-	-	-
 -	hyöty|kasvi	-	noun	5	-	-	-	-	-
 -	hyöty|kuorma	-	noun	10	-	-	-	-	-
@@ -52655,6 +52696,7 @@
 -	häikäisy|suoja	-	noun	10	-	-	-	-	-
 -	häirintä|tuli	-	noun	23	-	-	-	-	-
 -	häiriö|käyttäytyminen	-	noun	38	-	-	-	-	-
+-	häiriö|signaali	-	noun	6	-	-	-	-	-
 -	häiriö|tekijä	-	noun	12	-	-	-	-	-
 -	häiriö|tila	-	noun	9	-	-	-	-	-
 -	häive|hävittäjä	-	noun	10	-	-	-	-	-
@@ -52889,6 +52931,7 @@
 -	höyry|sulku	-	noun	1	k:	-	-	-	-
 -	höyry|turbiini	-	noun	6	-	-	-	-	-
 -	höyry|uuni	-	noun	5	-	-	-	-	-
+-	höyry|vasara	-	noun	12	-	-	-	-	-
 -	höyry|venttiili	-	noun	6	-	-	-	-	-
 -	höyry|veturi	-	noun	6	-	-	-	-	-
 -	höyry|voima	-	noun	10	-	-	-	-	-
@@ -53187,11 +53230,13 @@
 -	ilmais|lehti	-	noun	7	t:d	-	-	-	-
 -	ilmais|lääke	-	noun	48	kk:k	-	-	-	-
 -	ilmais|ohjelma	-	noun	10	-	-	-	-	-
+-	ilmais|osake	-	noun	48	kk:k	-	-	-	-
 -	ilmais|palvelu	-	noun	2	-	-	-	-	-
 -	ilman|ala	-	noun	9	-	-	-	-	-
 -	ilman|henki	-	noun	7	nk:ng	-	-	-	-
 -	ilman|jäähdytin	-	noun	33	tt:t	-	-	-	-
 -	ilman|kansi	-	noun	28	nt:nn	-	-	poet	-
+-	ilman|kosteus	-	noun	40	-	-	-	-	-
 -	ilman|kostutin	-	noun	33	tt:t	-	-	-	-
 -	ilman|kuivain	-	noun	33	-	-	-	-	-
 -	ilman|laatu	-	noun	1	t:d	-	-	-	-
@@ -53454,17 +53499,20 @@
 -	impulssi|kontrolli	-	noun	5	-	-	-	-	-
 -	impulssi|osto	-	noun	1	-	-	-	-	-
 -	impulssi|puhallin	-	noun	33	lt:ll	-	-	-	-
+-	imu|aukko	-	noun	1	kk:k	-	-	-	-
 -	imu|kala	-	noun	9	-	-	-	-	-
 -	imu|keräily	-	noun	2	-	-	-	-	-
 -	imu|kudos	-	noun	39	-	-	-	-	-
 -	imu|kuppi	-	noun	5	pp:p	-	-	-	-
 -	imu|kyky	-	noun	1	k:v	-	-	-	-
 -	imu|kärsä	-	noun	10	-	-	-	-	-
+-	imu|laite	-	noun	48	tt:t	-	-	-	-
 -	imu|mato	-	noun	1	t:d	-	-	-	-
 -	imu|neste	-	noun	48	-	-	-	-	-
 -	imu|paperi	-	noun	6	-	-	-	-	-
 -	imu|pilli	-	noun	5	-	-	-	-	-
 -	imu|pumppu	-	noun	1	pp:p	-	-	-	-
+-	imu|putki	-	noun	7	-	-	-	-	-
 -	imu|rauhanen	-	noun	38	-	-	-	dated	-
 -	imu|solmuke	-	noun	48	kk:k	-	-	-	-
 -	imu|solu	-	noun	1	-	-	-	-	-
@@ -53498,6 +53546,7 @@
 -	inflaatio|kierre	-	noun	48	rt:rr	-	-	-	-
 -	inflaatio|paine	-	noun	48	-	-	-	-	-
 -	inflaatio|tarkistus	-	noun	39	-	-	-	-	-
+-	inflaatio|vauhti	-	noun	5	t:d	-	-	-	-
 -	influenssa|epidemia	-	noun	12	-	-	-	-	-
 -	influenssa|potilas	-	noun	41	-	-	-	-	-
 -	influenssa|rokote	-	noun	48	tt:t	-	-	-	-
@@ -53595,6 +53644,7 @@
 -	inva|taksi	-	noun	5	-	-	-	-	-
 -	inventointi|alue	-	noun	48	-	-	-	-	-
 -	invertti|sokeri	-	noun	6	-	-	-	-	-
+-	investointi|avustus	-	noun	39	-	-	-	-	-
 -	investointi|pankki	-	noun	5	kk:k	-	-	-	-
 -	investointi|rahasto	-	noun	2	-	-	-	-	-
 -	investointi|talletus	-	noun	39	-	-	-	-	-
@@ -53639,6 +53689,7 @@
 -	irto|parta	-	noun	9	rt:rr	-	-	-	-
 -	irto|pinna	-	noun	9	-	-	-	coll	-
 -	irto|piste	-	noun	48	-	-	-	-	-
+-	irto|pohja	-	noun	10	-	-	-	-	-
 -	irto|puuteri	-	noun	6	-	-	-	-	-
 -	irto|päällinen	-	noun	38	-	-	-	-	-
 -	irto|seksi	-	noun	5	-	-	-	-	-
@@ -53894,6 +53945,7 @@
 -	itse|suojelu	-	noun	2	-	-	-	-	-
 -	itse|syttyminen	-	noun	38	-	-	-	-	-
 -	itse|sytyntä	-	noun	9	nt:nn	-	-	-	-
+-	itse|sytytys	-	noun	39	-	-	-	-	-
 -	itse|syytös	-	noun	39	-	-	-	-	-
 -	itse|säilytys	-	noun	39	-	-	-	-	-
 -	itse|sääli	-	noun	5	-	-	-	-	-
@@ -54003,14 +54055,17 @@
 -	jako|linja	-	noun	9	-	-	-	-	-
 -	jako|merkki	-	noun	5	kk:k	-	-	-	-
 -	jako|mielisyys	-	noun	40	-	-	-	dated	-
+-	jako|peruste	-	noun	48	-	-	-	-	-
 -	jako|politiikka	-	noun	9	kk:k	-	-	-	-
 -	jako|pyörästö	-	noun	2	-	-	-	-	-
 -	jako|pää	-	noun	18	-	-	-	-	-
 -	jako|rasia	-	noun	12	-	-	-	-	-
 -	jako|summa	-	noun	10	-	-	-	-	-
 -	jako|suodatin	-	noun	33	tt:t	-	-	-	-
+-	jako|taulu	-	noun	1	-	-	-	-	-
 -	jako|tislaus	-	noun	39	-	-	-	-	-
 -	jako|tisle	-	noun	48	-	-	-	-	-
+-	jako|toimitus	-	noun	39	-	-	-	-	-
 -	jako|tukki	-	noun	5	kk:k	-	-	-	-
 -	jako|tunti	-	noun	5	nt:nn	-	-	-	-
 -	jako|uurre	-	noun	48	rt:rr	-	-	-	-
@@ -54278,6 +54333,7 @@
 -	johto|putki	-	noun	7	-	-	-	-	-
 -	johto|puudutus	-	noun	39	-	-	-	-	-
 -	johto|päätös	-	noun	39	-	-	-	-	-
+-	johto|ryhmä	-	noun	10	-	-	-	-	-
 -	johto|solukko	-	noun	4	kk:k	-	-	-	-
 -	johto|sääntö	-	noun	1	nt:nn	-	-	-	-
 -	johto|teema	-	noun	9	-	-	-	-	-
@@ -55191,7 +55247,9 @@
 -	jäykistys|leikkaus	-	noun	39	-	-	-	-	-
 -	jäykkä|kouristus	-	noun	39	-	-	-	-	-
 -	jäykkä|niska	-	noun	9	-	-	-	-	-
+-	jäähdytys|aine	-	noun	48	-	-	-	-	-
 -	jäähdytys|energia	-	noun	12	-	-	-	-	-
+-	jäähdytys|huone	-	noun	48	-	-	-	-	-
 -	jäähdytys|ilma	-	noun	9	-	-	-	-	-
 -	jäähdytys|järjestelmä	-	noun	10	-	-	-	-	-
 -	jäähdytys|kone	-	noun	48	-	-	-	-	-
@@ -55214,6 +55272,7 @@
 -	jääkäri|upseeri	-	noun	6	-	-	-	-	-
 -	jäämä|maksu	-	noun	1	-	-	-	-	-
 -	jäänne|massiainen	-	noun	38	-	-	-	-	-
+-	jäännös|arvo	-	noun	1	-	-	-	-	-
 -	jäännös|erä	-	noun	10	-	-	-	-	-
 -	jäännös|kappale	-	noun	48	-	-	-	-	-
 -	jäännös|lopuke	-	noun	48	kk:k	-	-	dated	-
@@ -55404,6 +55463,7 @@
 -	kaarto|liike	-	noun	48	kk:k	-	-	-	-
 -	kaasun|jäähdytin	-	noun	33	tt:t	-	-	-	-
 -	kaasun|paine	-	noun	48	-	-	-	-	-
+-	kaasun|poisto	-	noun	1	-	-	-	-	-
 -	kaasun|sytytin	-	noun	33	tt:t	-	-	-	-
 -	kaasutin|moottori	-	noun	6	-	-	-	-	-
 -	kaasu|ammus	-	noun	39	-	-	-	-	-
@@ -55617,6 +55677,7 @@
 -	kairaus|putki	-	noun	7	-	-	-	-	-
 -	kaisla|matto	-	noun	1	tt:t	-	-	-	-
 -	kaistale|hakkuu	-	noun	17	-	-	-	-	-
+-	kaistan|leveys	-	noun	40	-	-	-	-	-
 -	kaista|pää	-	noun	18	-	-	-	-	-
 -	kaista|viiva	-	noun	9	-	-	-	-	-
 -	kaita|filmaaja	-	noun	10	-	-	-	-	-
@@ -55645,6 +55706,7 @@
 -	kaivos|pölkky	-	noun	1	kk:k	-	-	-	-
 -	kaivos|teollisuus	-	noun	40	-	-	-	-	-
 -	kaivos|toiminta	-	noun	9	nt:nn	-	-	-	-
+-	kaivos|työ	-	noun	19	-	-	-	-	-
 -	kaivos|työläinen	-	noun	38	-	-	-	-	-
 -	kaivos|yhtiö	-	noun	3	-	-	-	-	-
 -	kaivo|vesi	-	noun	27	-	-	-	-	-
@@ -55700,6 +55762,7 @@
 -	kaksin|puhelu	-	noun	2	-	-	-	-	-
 -	kaksin|taistelija	-	noun	12	-	-	-	-	-
 -	kaksin|taistelu	-	noun	2	-	-	-	-	-
+-	kaksi|arvoisuus	-	noun	40	-	-	-	-	-
 -	kaksi|avioisuus	-	noun	40	-	-	-	-	-
 -	kaksi|haarainen	-	noun	38	-	-	-	coll	-
 -	kaksi|jakoisuus	-	noun	40	-	-	-	-	-
@@ -56210,6 +56273,7 @@
 -	kannattaja|kortti	-	noun	5	tt:t	-	-	-	-
 -	kannattaja|nikama	-	noun	10	-	-	-	-	-
 -	kannattavuus|laskelma	-	noun	10	-	-	-	-	-
+-	kannattavuus|raja	-	noun	9	-	-	-	-	-
 -	kannatus|ilmoitus	-	noun	39	-	-	-	-	-
 -	kannatus|kulttuuri	-	noun	6	-	-	-	-	-
 -	kannatus|kysely	-	noun	2	-	-	-	-	-
@@ -56456,6 +56520,7 @@
 -	kanta|muoto	-	noun	1	t:d	-	-	-	-
 -	kanta|ohjelmisto	-	noun	1	-	-	-	-	-
 -	kanta|osa	-	noun	10	-	-	-	-	-
+-	kanta|osake	-	noun	48	kk:k	-	-	-	-
 -	kanta|paikka	-	noun	9	kk:k	-	-	-	-
 -	kanta|pala	-	noun	9	-	-	-	-	-
 -	kanta|peikko	-	noun	1	kk:k	-	-	slang	-
@@ -57111,8 +57176,10 @@
 -	katsanto|tapa	-	noun	9	p:v	-	-	-	-
 -	katsastus|insinööri	-	noun	5	-	-	-	-	-
 -	katsastus|kilpailu	-	noun	2	-	-	-	-	-
+-	katsastus|konttori	-	noun	6	-	-	-	-	-
 -	katsastus|mies	-	noun	42	-	-	-	-	-
 -	katsastus|ottelu	-	noun	2	-	-	-	-	-
+-	katsastus|todistus	-	noun	39	-	-	-	-	-
 -	katsaus|artikkeli	-	noun	6	-	-	-	-	-
 -	katseen|vangitsija	-	noun	12	-	-	-	-	-
 -	katselija|joukko	-	noun	1	kk:k	-	-	-	-
@@ -57231,6 +57298,7 @@
 -	kauas|kantoisuus	-	noun	40	-	-	-	-	-
 -	kauha|jokelainen	-	noun	38	-	-	-	-	-
 -	kauha|jokinen	-	noun	38	-	-	-	-	-
+-	kauha|kaivuri	-	noun	6	-	-	-	-	-
 -	kauha|ketju	-	noun	1	-	-	-	-	-
 -	kauha|kuljetin	-	noun	33	tt:t	-	-	-	-
 -	kauha|kuormaaja	-	noun	10	-	-	-	coll	-
@@ -57354,7 +57422,9 @@
 -	kauno|sielu	-	noun	1	-	-	-	-	-
 -	kauno|silmä	-	noun	10	-	-	-	-	-
 -	kauno|taide	-	noun	48	t:d	-	-	dated	-
+-	kaupan|harjoittaja	-	noun	10	-	-	-	-	-
 -	kaupan|hieronta	-	noun	9	nt:nn	-	-	coll	-
+-	kaupan|hoitaja	-	noun	10	-	-	-	-	-
 -	kaupan|kävijä	-	noun	12	-	-	-	-	-
 -	kaupan|käynti	-	noun	5	nt:nn	-	-	-	-
 -	kaupan|päällinen	-	noun	38	-	-	-	-	-
@@ -57362,6 +57432,7 @@
 -	kaupan|vahvistaja	-	noun	10	-	-	-	-	-
 -	kaupan|vahvistus	-	noun	39	-	-	-	-	-
 -	kaupan|välittäjä	-	noun	10	-	-	-	-	-
+-	kaupan|välitys	-	noun	39	-	-	-	-	-
 -	kauppa|edustaja	-	noun	10	-	-	-	-	-
 -	kauppa|ehto	-	noun	1	t:d	-	-	-	-
 -	kauppa|etu	-	noun	1	t:d	-	-	-	-
@@ -57386,6 +57457,7 @@
 -	kauppa|laiva	-	noun	9	-	-	-	-	-
 -	kauppa|laivasto	-	noun	2	-	-	-	-	-
 -	kauppa|lappu	-	noun	1	pp:p	-	-	coll	-
+-	kauppa|lasku	-	noun	1	-	-	-	-	-
 -	kauppa|lippu	-	noun	1	pp:p	-	-	-	-
 -	kauppa|matka	-	noun	9	-	-	-	-	-
 -	kauppa|matkustaja	-	noun	10	-	-	-	dated	-
@@ -57410,6 +57482,7 @@
 -	kauppa|sota	-	noun	10	t:d	-	-	-	-
 -	kauppa|suhde	-	noun	48	t:d	-	-	-	-
 -	kauppa|sulku	-	noun	1	k:	-	-	-	-
+-	kauppa|summa	-	noun	10	-	-	-	-	-
 -	kauppa|sunnuntai	-	noun	18	-	-	-	-	-
 -	kauppa|tapa	-	noun	9	p:v	-	-	-	-
 -	kauppa|tase	-	noun	48	-	-	-	-	-
@@ -57925,6 +57998,7 @@
 -	kenttä|keitin	-	noun	33	tt:t	-	-	-	-
 -	kenttä|keittiö	-	noun	3	-	-	-	-	-
 -	kenttä|kelpoisuus	-	noun	40	-	-	-	-	-
+-	kenttä|koe	-	noun	48	k:	-	-	-	-
 -	kenttä|käymälä	-	noun	12	-	-	-	-	-
 -	kenttä|laji	-	noun	5	-	-	-	-	-
 -	kenttä|lapio	-	noun	3	-	-	-	-	-
@@ -58041,9 +58115,11 @@
 -	kerta|maksu	-	noun	1	-	-	-	-	-
 -	kerta|muovi	-	noun	5	-	-	-	-	-
 -	kerta|pakkaus	-	noun	39	-	-	-	-	-
+-	kerta|poisto	-	noun	1	-	-	-	-	-
 -	kerta|pullo	-	noun	1	-	-	-	-	-
 -	kerta|rysäys	-	noun	39	-	-	-	coll	-
 -	kerta|sinko	-	noun	1	nk:ng	-	-	-	-
+-	kerta|suoritus	-	noun	39	-	-	-	-	-
 -	kerta|tuli	-	noun	23	-	-	-	-	-
 -	kerta|vaippa	-	noun	9	pp:p	-	-	-	-
 -	kertoma|kirjallisuus	-	noun	40	-	-	-	-	-
@@ -58646,6 +58722,7 @@
 -	kierto|koulu	-	noun	1	-	-	-	-	-
 -	kierto|kulku	-	noun	1	k:	-	-	-	-
 -	kierto|kysely	-	noun	2	-	-	-	-	-
+-	kierto|kytkin	-	noun	33	-	-	-	-	-
 -	kierto|käynti	-	noun	5	nt:nn	-	-	-	-
 -	kierto|liike	-	noun	48	kk:k	-	-	-	-
 -	kierto|liittymä	-	noun	10	-	-	-	-	-
@@ -58790,6 +58867,7 @@
 -	kiinteistö|huolto	-	noun	1	lt:ll	-	-	-	-
 -	kiinteistö|jäte	-	noun	48	tt:t	-	-	-	-
 -	kiinteistö|kauppa	-	noun	9	pp:p	-	-	-	-
+-	kiinteistö|kiinnitys	-	noun	39	-	-	-	-	-
 -	kiinteistö|laina	-	noun	9	-	-	-	-	-
 -	kiinteistö|luettelo	-	noun	2	-	-	-	-	-
 -	kiinteistö|luotto	-	noun	1	tt:t	-	-	-	-
@@ -59008,6 +59086,7 @@
 -	kipinä|suoja	-	noun	10	-	-	-	-	-
 -	kipinä|työstö	-	noun	1	-	-	-	-	-
 -	kipinä|verkko	-	noun	1	kk:k	-	-	-	-
+-	kipinä|väli	-	noun	5	-	-	-	-	-
 -	kipparin|lakki	-	noun	5	kk:k	-	-	-	-
 -	kipparin|parta	-	noun	9	rt:rr	-	-	-	-
 -	kipparin|takki	-	noun	5	kk:k	-	-	-	-
@@ -59049,6 +59128,7 @@
 -	kipu|stimulaattori	-	noun	5	-	-	-	-	-
 -	kipu|tila	-	noun	9	-	-	-	-	-
 -	kiristys|kirje	-	noun	48	-	-	-	-	-
+-	kiristys|laite	-	noun	48	tt:t	-	-	-	-
 -	kiristys|nauha	-	noun	9	-	-	-	-	-
 -	kiristys|nyöri	-	noun	5	-	-	-	-	-
 -	kiristys|politiikka	-	noun	9	kk:k	-	-	-	-
@@ -59438,6 +59518,7 @@
 -	kiven|louhinta	-	noun	9	nt:nn	-	-	-	-
 -	kiven|mukura	-	noun	12	-	-	-	-	-
 -	kiven|murikka	-	noun	14	kk:k	-	-	-	-
+-	kiven|murskain	-	noun	33	-	-	-	-	-
 -	kiven|muru	-	noun	1	-	-	-	-	-
 -	kiven|murunen	-	noun	38	-	-	-	-	-
 -	kiven|möhkäle	-	noun	48	-	-	-	-	-
@@ -59607,6 +59688,7 @@
 -	koe|ajaja	-	noun	10	-	-	-	-	-
 -	koe|ajo	-	noun	1	-	-	-	-	-
 -	koe|ala	-	noun	9	-	-	-	-	-
+-	koe|asema	-	noun	10	-	-	-	-	-
 -	koe|ateria	-	noun	12	-	-	-	-	-
 -	koe|filmaus	-	noun	39	-	-	-	-	-
 -	koe|henkilö	-	noun	2	-	-	-	-	-
@@ -59819,13 +59901,16 @@
 -	kokonais|tarve	-	noun	48	p:v	-	-	-	-
 -	kokonais|teho	-	noun	1	-	-	-	-	-
 -	kokonais|tilavuus	-	noun	40	-	-	-	-	-
+-	kokonais|tulo	-	noun	1	-	-	-	-	-
 -	kokonais|tulos	-	noun	39	-	-	-	-	-
 -	kokonais|tuotanto	-	noun	1	nt:nn	-	-	-	-
+-	kokonais|tuotto	-	noun	1	tt:t	-	-	-	-
 -	kokonais|vaikutelma	-	noun	10	-	-	-	-	-
 -	kokonais|vaikutus	-	noun	39	-	-	-	-	-
 -	kokonais|valtaisuus	-	noun	40	-	-	-	-	-
 -	kokooja|kaivo	-	noun	1	-	-	-	-	-
 -	kokooja|katu	-	noun	1	t:d	-	-	-	-
+-	kokooja|oja	-	noun	10	-	-	-	-	-
 -	kokooja|tie	-	noun	19	-	-	-	-	-
 -	kokooma|teos	-	noun	39	-	-	-	-	-
 -	kokoomus|hallitus	-	noun	39	-	-	-	-	-
@@ -59836,6 +59921,7 @@
 -	kokoontumis|paikka	-	noun	9	kk:k	-	-	-	-
 -	kokoontumis|vapaus	-	noun	40	-	-	-	-	-
 -	kokoon|kutsuja	-	noun	10	-	-	-	-	-
+-	kokoon|kutsuminen	-	noun	38	-	-	-	-	-
 -	kokoon|panija	-	noun	12	-	-	-	-	-
 -	kokoon|pano	-	noun	1	-	-	-	-	-
 -	kokous|huone	-	noun	48	-	-	-	-	-
@@ -60220,6 +60306,7 @@
 -	kori|tuoli	-	noun	5	-	-	-	-	-
 -	kori|työ	-	noun	19	-	-	-	-	-
 -	korjaus|ehdotus	-	noun	39	-	-	-	-	-
+-	korjaus|kerroin	-	noun	33	rt:rr	-	-	-	-
 -	korjaus|lakka	-	noun	9	kk:k	-	-	-	-
 -	korjaus|leikkaus	-	noun	39	-	-	-	-	-
 -	korjaus|liike	-	noun	48	kk:k	-	-	-	-
@@ -60229,6 +60316,7 @@
 -	korjaus|merkintä	-	noun	9	nt:nn	-	-	-	-
 -	korjaus|merkki	-	noun	5	kk:k	-	-	-	-
 -	korjaus|nauha	-	noun	9	-	-	-	-	-
+-	korjaus|paja	-	noun	9	-	-	-	-	-
 -	korjaus|rakentaminen	-	noun	38	-	-	-	-	-
 -	korjaus|sarja	-	noun	9	-	-	-	-	-
 -	korjaus|työ	-	noun	19	-	-	-	-	-
@@ -60276,6 +60364,7 @@
 -	korko|ehto	-	noun	1	t:d	-	-	-	-
 -	korko|erotus	-	noun	39	-	-	-	-	-
 -	korko|erä	-	noun	10	-	-	-	-	-
+-	korko|futuuri	-	noun	6	-	-	-	-	-
 -	korko|kanta	-	noun	9	nt:nn	-	-	-	-
 -	korko|kartta	-	noun	9	tt:t	-	-	-	-
 -	korko|katto	-	noun	1	tt:t	-	-	-	-
@@ -60419,6 +60508,7 @@
 -	korvaus|peruste	-	noun	48	-	-	-	-	-
 -	korvaus|summa	-	noun	10	-	-	-	-	-
 -	korvaus|vaatimus	-	noun	39	-	-	-	-	-
+-	korvaus|vastuu	-	noun	17	-	-	-	-	-
 -	korvaus|velvollisuus	-	noun	40	-	-	-	-	-
 -	korva|hylje	-	noun	48	k:j	-	-	-	-
 -	korva|kipu	-	noun	1	p:v	-	-	-	-
@@ -60677,6 +60767,7 @@
 -	koulutus|ammatti	-	noun	5	tt:t	-	-	-	-
 -	koulutus|aste	-	noun	48	-	-	-	-	-
 -	koulutus|järjestelmä	-	noun	10	-	-	-	-	-
+-	koulutus|keskus	-	noun	39	-	-	-	-	-
 -	koulutus|ohjelma	-	noun	10	-	-	-	-	-
 -	koulutus|paikka	-	noun	9	kk:k	-	-	-	-
 -	koulutus|palvelu	-	noun	2	-	-	-	-	-
@@ -60909,6 +61000,7 @@
 -	ksero|kopio	-	noun	3	-	-	-	-	-
 -	kude|lanka	-	noun	9	nk:ng	-	-	-	-
 -	kude|neulos	-	noun	39	-	-	-	-	-
+-	kude|raita	-	noun	9	-	-	-	-	-
 -	kudin|puikko	-	noun	1	kk:k	-	-	-	-
 -	kudoksen|siirto	-	noun	1	rt:rr	-	-	-	-
 -	kudonta|ohje	-	noun	48	-	-	-	-	-
@@ -60986,6 +61078,7 @@
 -	kuiva|telakka	-	noun	14	kk:k	-	-	-	-
 -	kuiva|tislaus	-	noun	39	-	-	-	-	-
 -	kuivumis|aika	-	noun	9	ik:j	-	-	-	-
+-	kuivumis|halkeama	-	noun	10	-	-	-	-	-
 -	kuivuus|kausi	-	noun	27	-	-	-	-	-
 -	kujan|juoksu	-	noun	1	-	-	-	-	-
 -	kukan|nuppu	-	noun	1	pp:p	-	-	-	-
@@ -61079,6 +61172,7 @@
 -	kuljetus|liike	-	noun	48	kk:k	-	-	-	-
 -	kuljetus|maksu	-	noun	1	-	-	-	-	-
 -	kuljetus|neuvo	-	noun	1	-	-	-	-	-
+-	kuljetus|pakkaus	-	noun	39	-	-	-	-	-
 -	kuljetus|palvelu	-	noun	2	-	-	-	-	-
 -	kuljetus|pyörä	-	noun	10	-	-	-	-	-
 -	kuljetus|vakuutus	-	noun	39	-	-	-	-	-
@@ -61112,6 +61206,7 @@
 -	kulku|vuoro	-	noun	1	-	-	-	-	-
 -	kulku|väline	-	noun	48	-	-	-	-	-
 -	kulku|väylä	-	noun	10	-	-	-	-	-
+-	kulku|yhteys	-	noun	40	-	-	-	-	-
 -	kullan|etsijä	-	noun	12	-	-	-	-	-
 -	kullan|etsintä	-	noun	9	nt:nn	-	-	-	-
 -	kullan|himo	-	noun	1	-	-	-	-	-
@@ -61820,6 +61915,7 @@
 -	kustannus|laskenta	-	noun	9	nt:nn	-	-	-	-
 -	kustannus|liike	-	noun	48	kk:k	-	-	-	-
 -	kustannus|oikeus	-	noun	40	-	-	-	-	-
+-	kustannus|paikka	-	noun	9	kk:k	-	-	-	-
 -	kustannus|paine	-	noun	48	-	-	-	-	-
 -	kustannus|palvelu	-	noun	2	-	-	-	-	-
 -	kustannus|sopimus	-	noun	39	-	-	-	-	-
@@ -61912,6 +62008,7 @@
 -	kuula|laakeri	-	noun	6	-	-	-	-	-
 -	kuula|mörssäri	-	noun	6	-	-	-	coll	-
 -	kuula|rinki	-	noun	5	nk:ng	-	-	-	-
+-	kuulemis|menettely	-	noun	2	-	-	-	-	-
 -	kuuliaisuuden|lupaus	-	noun	39	-	-	-	-	-
 -	kuuliaisuuden|vala	-	noun	9	-	-	-	-	-
 -	kuulija|kunta	-	noun	10	nt:nn	-	-	-	-
@@ -63146,6 +63243,7 @@
 -	laho|vikaisuus	-	noun	40	-	-	-	-	-
 -	lahti|penkki	-	noun	5	kk:k	-	-	dial	-
 -	lahti|valas	-	noun	41	-	-	-	-	-
+-	laiduntamis|oikeus	-	noun	40	-	-	-	-	-
 -	laidun|halvaus	-	noun	39	-	-	-	-	-
 -	laidun|kausi	-	noun	27	-	-	-	-	-
 -	laidun|kouristus	-	noun	39	-	-	-	-	-
@@ -63275,6 +63373,7 @@
 -	laivan|isännistö	-	noun	1	-	-	-	-	-
 -	laivan|isäntä	-	noun	10	nt:nn	-	-	-	-
 -	laivan|rakennus	-	noun	39	-	-	-	-	-
+-	laivan|rakentaja	-	noun	10	-	-	-	-	-
 -	laivan|selvittäjä	-	noun	10	-	-	-	-	-
 -	laivan|selvitys	-	noun	39	-	-	-	-	-
 -	laivan|varustaja	-	noun	10	-	-	-	-	-
@@ -63283,6 +63382,7 @@
 -	laivasto|asema	-	noun	10	-	-	-	-	-
 -	laivasto|saarto	-	noun	1	rt:rr	-	-	-	-
 -	laivasto|vierailu	-	noun	2	-	-	-	-	-
+-	laivaus|satama	-	noun	10	-	-	-	-	-
 -	laiva|emäntä	-	noun	10	nt:nn	-	-	-	-
 -	laiva|hylky	-	noun	1	k:	-	-	-	-
 -	laiva|juna	-	noun	10	-	-	-	-	-
@@ -63303,6 +63403,7 @@
 -	laiva|matka	-	noun	9	-	-	-	-	-
 -	laiva|matkailu	-	noun	2	-	-	-	-	-
 -	laiva|meklari	-	noun	6	-	-	-	-	-
+-	laiva|miehistö	-	noun	2	-	-	-	-	-
 -	laiva|mies	-	noun	42	-	-	-	-	-
 -	laiva|muonittaja	-	noun	10	-	-	-	-	-
 -	laiva|muonitus	-	noun	39	-	-	-	-	-
@@ -63311,10 +63412,12 @@
 -	laiva|rahti	-	noun	5	t:d	-	-	-	-
 -	laiva|ranta	-	noun	9	nt:nn	-	-	-	-
 -	laiva|reitti	-	noun	5	tt:t	-	-	-	-
+-	laiva|rekisteri	-	noun	6	-	-	-	-	-
 -	laiva|saattue	-	noun	48	-	-	-	-	-
 -	laiva|satama	-	noun	10	-	-	-	-	-
 -	laiva|seminaari	-	noun	5	-	-	-	-	-
 -	laiva|silta	-	noun	9	lt:ll	-	-	-	-
+-	laiva|telakka	-	noun	14	kk:k	-	-	-	-
 -	laiva|tokka	-	noun	10	kk:k	-	-	-	-
 -	laiva|tykistö	-	noun	2	-	-	-	-	-
 -	laiva|tykki	-	noun	5	kk:k	-	-	-	-
@@ -63481,6 +63584,7 @@
 -	lampun|valo	-	noun	1	-	-	-	-	-
 -	lampun|varjostin	-	noun	33	-	-	-	-	-
 -	lampuoti|tila	-	noun	9	-	-	-	-	-
+-	langan|ohjain	-	noun	33	-	-	-	-	-
 -	langan|pätkä	-	noun	10	-	-	-	-	-
 -	langan|pää	-	noun	18	-	-	-	-	-
 -	lanka|juoksu	-	noun	1	-	-	-	-	-
@@ -63738,6 +63842,7 @@
 -	lasi|siru	-	noun	1	-	-	-	-	-
 -	lasi|taide	-	noun	48	t:d	-	-	-	-
 -	lasi|taiteilija	-	noun	12	-	-	-	-	-
+-	lasi|tavara	-	noun	12	-	-	-	-	-
 -	lasi|tehdas	-	noun	41	t:d	-	-	-	-
 -	lasi|teollisuus	-	noun	40	-	-	-	-	-
 -	lasi|tiili	-	noun	23	-	-	-	-	-
@@ -63750,6 +63855,8 @@
 -	lasi|veitsi	-	noun	30	-	-	-	-	-
 -	lasi|veranta	-	noun	9	nt:nn	-	-	-	-
 -	lasi|villa	-	noun	9	-	-	-	-	-
+-	laskenta|keskus	-	noun	39	-	-	-	-	-
+-	laskenta|päällikkö	-	noun	4	kk:k	-	-	-	-
 -	laskenta|sovellus	-	noun	39	-	-	-	-	-
 -	laskenta|teho	-	noun	1	-	-	-	-	-
 -	laskenta|toimi	-	noun	25	-	-	-	-	-
@@ -63776,6 +63883,8 @@
 -	laskos|sauma	-	noun	9	-	-	-	-	-
 -	laskutus|lisä	-	noun	10	-	-	-	-	-
 -	laskutus|päivä	-	noun	10	-	-	-	-	-
+-	lasku|aika	-	noun	9	ik:j	-	-	-	-
+-	lasku|aukko	-	noun	1	kk:k	-	-	-	-
 -	lasku|automaatti	-	noun	5	tt:t	-	-	-	-
 -	lasku|hana	-	noun	9	-	-	-	-	-
 -	lasku|humala	-	noun	10|11	-	-	-	-	-
@@ -63788,6 +63897,7 @@
 -	lasku|kulma	-	noun	10	-	-	-	-	-
 -	lasku|kunto	-	noun	1	nt:nn	-	-	-	-
 -	lasku|lomake	-	noun	48	kk:k	-	-	-	-
+-	lasku|oja	-	noun	10	-	-	-	-	-
 -	lasku|oppi	-	noun	5	pp:p	-	-	dated	-
 -	lasku|peruste	-	noun	48	-	-	-	-	-
 -	lasku|putki	-	noun	7	-	-	-	-	-
@@ -63808,6 +63918,8 @@
 -	lasku|virhe	-	noun	48	-	-	-	-	-
 -	lastaus|laituri	-	noun	6	-	-	-	-	-
 -	lastaus|paikka	-	noun	9	kk:k	-	-	-	-
+-	lastaus|satama	-	noun	10	-	-	-	-	-
+-	lastaus|silta	-	noun	9	lt:ll	-	-	-	-
 -	lasta|sidos	-	noun	39	-	-	-	-	-
 -	lasten|hoitaja	-	noun	10	-	-	-	-	-
 -	lasten|hoito	-	noun	1	t:d	-	-	-	-
@@ -64553,6 +64665,7 @@
 -	lepo|päivä	-	noun	10	-	-	-	-	-
 -	lepo|side	-	noun	48	t:d	-	-	-	-
 -	lepo|sija	-	noun	9	-	-	-	poet	-
+-	lepo|sohva	-	noun	10	-	-	-	-	-
 -	lepo|sävel	-	noun	32	-	-	-	-	-
 -	lepo|tauko	-	noun	1	k:	-	-	-	-
 -	lepo|tila	-	noun	9	-	-	-	-	-
@@ -64845,6 +64958,7 @@
 -	liikenne|merkki	-	noun	5	kk:k	-	-	-	-
 -	liikenne|ministeri	-	noun	6	-	-	-	-	-
 -	liikenne|ministeriö	-	noun	3	-	-	-	-	-
+-	liikenne|määrä	-	noun	10	-	-	-	-	-
 -	liikenne|neuvos	-	noun	39	-	-	-	-	-
 -	liikenne|onnettomuus	-	noun	40	-	-	-	-	-
 -	liikenne|opettaja	-	noun	10	-	-	-	-	-
@@ -64996,6 +65110,7 @@
 -	liima|lappu	-	noun	1	pp:p	-	-	-	-
 -	liima|liitos	-	noun	39	-	-	-	-	-
 -	liima|maali	-	noun	5	-	-	-	-	-
+-	liima|nauha	-	noun	9	-	-	-	-	-
 -	liima|paperi	-	noun	6	-	-	-	-	-
 -	liima|pinta	-	noun	9	nt:nn	-	-	-	-
 -	liima|puikko	-	noun	1	kk:k	-	-	-	-
@@ -65037,6 +65152,7 @@
 -	liitto|valtio	-	noun	3	-	-	-	-	-
 -	liitto|valtuusto	-	noun	2	-	-	-	-	-
 -	liittymis|maksu	-	noun	1	-	-	-	-	-
+-	liittymis|sopimus	-	noun	39	-	-	-	-	-
 -	liittymä|kohta	-	noun	10	t:d	-	-	-	-
 -	liitu|jauhe	-	noun	48	-	-	-	-	-
 -	liitu|kausi	-	noun	27	-	-	-	-	-
@@ -65267,6 +65383,8 @@
 -	lisä|munuainen	-	noun	38	-	-	-	-	-
 -	lisä|nimi	-	noun	7	-	-	-	-	-
 -	lisä|opetus	-	noun	39	-	-	-	-	-
+-	lisä|osa	-	noun	10	-	-	-	-	-
+-	lisä|palkkio	-	noun	3	-	-	-	-	-
 -	lisä|rakennus	-	noun	39	-	-	-	-	-
 -	lisä|rakentaminen	-	noun	38	-	-	-	-	-
 -	lisä|ravinne	-	noun	48	nt:nn	-	-	-	-
@@ -65824,6 +65942,7 @@
 -	lumppu|sellu	-	noun	1	-	-	-	-	-
 -	lumppu|villa	-	noun	9	-	-	-	-	-
 -	lumpun|keräys	-	noun	39	-	-	-	-	-
+-	lunastus|hinta	-	noun	9	-	-	-	-	-
 -	lunastus|maksu	-	noun	1	-	-	-	-	-
 -	lunastus|oikeus	-	noun	40	-	-	-	-	-
 -	lunastus|oppi	-	noun	5	pp:p	-	-	-	-
@@ -66099,6 +66218,7 @@
 -	luottamus|toimi	-	noun	25	-	-	-	-	-
 -	luottamus|väli	-	noun	5	-	-	-	-	-
 -	luotto|ehto	-	noun	1	t:d	-	-	-	-
+-	luotto|hakemus	-	noun	39	-	-	-	-	-
 -	luotto|hana	-	noun	9	-	-	-	-	-
 -	luotto|henkilö	-	noun	2	-	-	-	-	-
 -	luotto|kanta	-	noun	9	nt:nn	-	-	-	-
@@ -66113,11 +66233,14 @@
 -	luotto|mies	-	noun	42	-	-	-	-	-
 -	luotto|raja	-	noun	9	-	-	-	-	-
 -	luotto|riski	-	noun	5	-	-	-	-	-
+-	luotto|takuu	-	noun	17	-	-	-	-	-
 -	luotto|tappio	-	noun	3	-	-	-	-	-
 -	luotto|tuote	-	noun	48	tt:t	-	-	-	-
+-	luotto|vakuutus	-	noun	39	-	-	-	-	-
 -	luotto|vanki	-	noun	5	nk:ng	-	-	-	-
 -	luotto|varaus	-	noun	39	-	-	-	-	-
 -	luotto|ystävä	-	noun	10	-	-	-	-	-
+-	luovutus|kirja	-	noun	9	-	-	-	-	-
 -	luovutus|pyyntö	-	noun	1	nt:nn	-	-	-	-
 -	luovutus|sopimus	-	noun	39	-	-	-	-	-
 -	luovutus|voitto	-	noun	1	tt:t	-	-	-	-
@@ -66474,10 +66597,12 @@
 -	lämpö|johto	-	noun	1	t:d	-	-	-	-
 -	lämpö|jännitys	-	noun	39	-	-	-	-	-
 -	lämpö|kamera	-	noun	12	-	-	-	-	-
+-	lämpö|kapasiteetti	-	noun	5	tt:t	-	-	-	-
 -	lämpö|kemia	-	noun	12	-	-	-	-	-
 -	lämpö|kerrasto	-	noun	2	-	-	-	-	-
 -	lämpö|keskus	-	noun	39	-	-	-	-	-
 -	lämpö|kiharrin	-	noun	33	rt:rr	-	-	-	-
+-	lämpö|kirjoitin	-	noun	33	tt:t	-	-	-	-
 -	lämpö|kuvaus	-	noun	39	-	-	-	-	-
 -	lämpö|kynttilä	-	noun	12	-	-	-	-	-
 -	lämpö|käsittely	-	noun	2	-	-	-	-	-
@@ -66692,6 +66817,7 @@
 -	löytö|tavara	-	noun	12	-	-	-	-	-
 -	maadoitus|johdin	-	noun	33	t:d	-	-	-	-
 -	maadoitus|johto	-	noun	1	t:d	-	-	-	-
+-	maadoitus|liitin	-	noun	33	tt:t	-	-	-	-
 -	maahan|hyökkäys	-	noun	39	-	-	-	-	-
 -	maahan|lasku	-	noun	1	-	-	-	-	-
 -	maahan|lyönti	-	noun	5	nt:nn	-	-	-	-
@@ -66993,6 +67119,7 @@
 -	maa|kerrostuma	-	noun	10	-	-	-	-	-
 -	maa|kiintiö	-	noun	3	-	-	-	-	-
 -	maa|kiitäjäinen	-	noun	38	-	-	-	-	-
+-	maa|kirja	-	noun	9	-	-	-	-	-
 -	maa|kotka	-	noun	10	-	-	-	-	-
 -	maa|krapu	-	noun	1	p:v	-	-	jocul	-
 -	maa|kuljetus	-	noun	39	-	-	-	-	-
@@ -67392,12 +67519,15 @@
 -	maksi|muoti	-	noun	5	t:d	-	-	-	-
 -	maksi|vene	-	noun	48	-	-	-	-	-
 -	maksujen|perijä	-	noun	12	-	-	-	-	-
+-	maksun|lykkäys	-	noun	39	-	-	-	-	-
+-	maksun|palautus	-	noun	39	-	-	-	-	-
 -	maksun|saaja	-	noun	10	-	-	-	-	-
 -	maksuun|pano	-	noun	1	-	-	-	-	-
 -	maksu|aika	-	noun	9	ik:j	-	-	-	-
 -	maksu|automaatti	-	noun	5	tt:t	-	-	-	-
 -	maksu|ehto	-	noun	1	t:d	-	-	-	-
 -	maksu|erä	-	noun	10	-	-	-	-	-
+-	maksu|helpotus	-	noun	39	-	-	-	-	-
 -	maksu|häiriö	-	noun	3	-	-	-	-	-
 -	maksu|järjestely	-	noun	2	-	-	-	-	-
 -	maksu|kanava	-	noun	10	-	-	-	-	-
@@ -67405,6 +67535,7 @@
 -	maksu|kehotus	-	noun	39	-	-	-	-	-
 -	maksu|kielto	-	noun	1	lt:ll	-	-	-	-
 -	maksu|kortti	-	noun	5	tt:t	-	-	-	-
+-	maksu|kuitti	-	noun	5	tt:t	-	-	-	-
 -	maksu|kyky	-	noun	1	k:v	-	-	-	-
 -	maksu|kykyisyys	-	noun	40	-	-	-	-	-
 -	maksu|kyvyttömyys	-	noun	40	-	-	-	-	-
@@ -67419,14 +67550,17 @@
 -	maksu|määräys	-	noun	39	-	-	-	-	-
 -	maksu|ohjelma	-	noun	10	-	-	-	-	-
 -	maksu|osoitus	-	noun	39	-	-	-	-	-
+-	maksu|paikka	-	noun	9	kk:k	-	-	-	-
 -	maksu|palvelu	-	noun	2	-	-	-	-	-
 -	maksu|peruste	-	noun	48	-	-	-	-	-
 -	maksu|puoli	-	noun	26	-	-	-	-	-
+-	maksu|päivä	-	noun	10	-	-	-	-	-
 -	maksu|pääte	-	noun	48	tt:t	-	-	-	-
 -	maksu|sitoumus	-	noun	39	-	-	-	-	-
 -	maksu|sopimus	-	noun	39	-	-	-	-	-
 -	maksu|suoritus	-	noun	39	-	-	-	-	-
 -	maksu|sykäys	-	noun	39	-	-	-	-	-
+-	maksu|tapa	-	noun	9	p:v	-	-	-	-
 -	maksu|tapahtuma	-	noun	10	-	-	-	-	-
 -	maksu|tase	-	noun	48	-	-	-	-	-
 -	maksu|televisio	-	noun	3	-	-	-	-	-
@@ -67487,6 +67621,7 @@
 -	malli|kappale	-	noun	48	-	-	-	-	-
 -	malli|kelpoisuus	-	noun	40	-	-	-	-	-
 -	malli|kerta	-	noun	9	rt:rr	-	-	-	-
+-	malli|kirja	-	noun	9	-	-	-	-	-
 -	malli|kirjain	-	noun	33	-	-	-	-	-
 -	malli|koe	-	noun	48	k:	-	-	-	-
 -	malli|maa	-	noun	18	-	-	-	-	-
@@ -67668,6 +67803,7 @@
 -	markkina|rako	-	noun	1	k:	-	-	-	-
 -	markkina|riski	-	noun	5	-	-	-	-	-
 -	markkina|talous	-	noun	40	-	-	-	-	-
+-	markkina|tilanne	-	noun	48	nt:nn	-	-	-	-
 -	markkina|tunnelma	-	noun	10	-	-	-	-	-
 -	markkina|tutkimus	-	noun	39	-	-	-	-	-
 -	markkina|ykkönen	-	noun	38	-	-	-	-	-
@@ -68037,6 +68173,7 @@
 -	melu|saaste	-	noun	48	-	-	-	-	-
 -	melu|seinä	-	noun	10	-	-	-	-	-
 -	melu|suoja	-	noun	10	-	-	-	-	-
+-	melu|taso	-	noun	1	-	-	-	-	-
 -	melu|valli	-	noun	5	-	-	-	-	-
 -	melu|vamma	-	noun	9	-	-	-	-	-
 -	menekin|edistäminen	-	noun	38	-	-	-	-	-
@@ -68182,9 +68319,11 @@
 -	meri|saarto	-	noun	1	rt:rr	-	-	-	-
 -	meri|sairaus	-	noun	40	-	-	-	-	-
 -	meri|sara	-	noun	9	-	-	-	-	-
+-	meri|satama	-	noun	10	-	-	-	-	-
 -	meri|saunio	-	noun	3	-	-	-	-	-
 -	meri|savu	-	noun	1	-	-	-	-	-
 -	meri|selitys	-	noun	39	-	-	-	-	-
+-	meri|siili	-	noun	5	-	-	-	-	-
 -	meri|siira	-	noun	9	-	-	-	-	-
 -	meri|sinappi	-	noun	5	pp:p	-	-	-	-
 -	meri|sirri	-	noun	5	-	-	-	-	-
@@ -68226,6 +68365,7 @@
 -	merkantiili|järjestelmä	-	noun	10	-	-	-	-	-
 -	merkeli|kivi	-	noun	7	-	-	-	-	-
 -	merkille|pano	-	noun	1	-	-	-	-	-
+-	merkintä|aika	-	noun	9	ik:j	-	-	-	-
 -	merkintä|hinta	-	noun	9	nt:nn	-	-	-	-
 -	merkintä|oikeus	-	noun	40	-	-	-	-	-
 -	merkintä|tapa	-	noun	9	p:v	-	-	-	-
@@ -68252,6 +68392,7 @@
 -	merkki|tapaus	-	noun	39	-	-	-	-	-
 -	merkki|tavara	-	noun	12	-	-	-	-	-
 -	merkki|teos	-	noun	39	-	-	-	-	-
+-	merkki|tiheys	-	noun	40	-	-	-	-	-
 -	merkki|tuli	-	noun	23	-	-	-	-	-
 -	merkki|tuote	-	noun	48	tt:t	-	-	-	-
 -	merkki|uskollisuus	-	noun	40	-	-	-	-	-
@@ -68358,6 +68499,7 @@
 -	metalli|päällyste	-	noun	48	-	-	-	-	-
 -	metalli|raha	-	noun	9	-	-	-	-	-
 -	metalli|rakenne	-	noun	48	nt:nn	-	-	-	-
+-	metalli|romu	-	noun	1	-	-	-	-	-
 -	metalli|seos	-	noun	39	-	-	-	-	-
 -	metalli|sulatto	-	noun	1	tt:t	-	-	-	-
 -	metalli|suola	-	noun	9	-	-	-	-	-
@@ -68426,6 +68568,7 @@
 -	metsän|suojelu	-	noun	2	-	-	-	-	-
 -	metsän|tutkimus	-	noun	39	-	-	-	-	-
 -	metsän|uudistus	-	noun	39	-	-	-	-	-
+-	metsän|vartija	-	noun	12	-	-	-	-	-
 -	metsän|viljely	-	noun	2	-	-	-	-	-
 -	metsästys|aika	-	noun	9	ik:j	-	-	-	-
 -	metsästys|ammunta	-	noun	9	nt:nn	-	-	-	-
@@ -68884,6 +69027,7 @@
 -	mittaus|laite	-	noun	48	tt:t	-	-	-	-
 -	mittaus|menetelmä	-	noun	10	-	-	-	-	-
 -	mittaus|oppi	-	noun	5	pp:p	-	-	dated	-
+-	mittaus|piste	-	noun	48	-	-	-	-	-
 -	mittaus|tarkkuus	-	noun	40	-	-	-	-	-
 -	mittaus|tekniikka	-	noun	14	kk:k	-	-	-	-
 -	mittaus|teknikko	-	noun	4	kk:k	-	-	-	-
@@ -68904,6 +69048,7 @@
 -	mitta|nauha	-	noun	9	-	-	-	-	-
 -	mitta|puku	-	noun	1	k:v	-	-	-	-
 -	mitta|puu	-	noun	18	-	-	-	-	-
+-	mitta|suhde	-	noun	48	t:d	-	-	-	-
 -	mitta|tappio	-	noun	3	-	-	-	-	-
 -	mitta|tikku	-	noun	1	kk:k	-	-	-	-
 -	mitta|työ	-	noun	19	-	-	-	-	-
@@ -69784,6 +69929,7 @@
 -	myynti|kielto	-	noun	1	lt:ll	-	-	-	-
 -	myynti|kirje	-	noun	48	-	-	-	-	-
 -	myynti|koju	-	noun	1	-	-	-	-	-
+-	myynti|konttori	-	noun	6	-	-	-	-	-
 -	myynti|kurssi	-	noun	5	-	-	-	-	-
 -	myynti|lista	-	noun	9	-	-	-	-	-
 -	myynti|luku	-	noun	1	k:v	-	-	-	-
@@ -69802,6 +69948,7 @@
 -	myynti|päiväys	-	noun	39	-	-	-	-	-
 -	myynti|päällikkö	-	noun	4	kk:k	-	-	-	-
 -	myynti|pöytä	-	noun	10	t:d	-	-	-	-
+-	myynti|sopimus	-	noun	39	-	-	-	-	-
 -	myynti|tarjous	-	noun	39	-	-	-	-	-
 -	myynti|tuote	-	noun	48	tt:t	-	-	-	-
 -	myynti|tykki	-	noun	5	kk:k	-	-	jocul	-
@@ -69968,6 +70115,7 @@
 -	määrä|mitta	-	noun	9	tt:t	-	-	-	-
 -	määrä|muoto	-	noun	1	t:d	-	-	-	-
 -	määrä|osuus	-	noun	40	-	-	-	-	-
+-	määrä|paikka	-	noun	9	kk:k	-	-	-	-
 -	määrä|päivä	-	noun	10	-	-	-	-	-
 -	määrä|raha	-	noun	9	-	-	-	-	-
 -	määrä|satama	-	noun	10	-	-	-	-	-
@@ -70272,6 +70420,7 @@
 -	naudan|paisti	-	noun	5	-	-	-	-	-
 -	naudan|vuota	-	noun	10	t:d	-	-	-	-
 -	nauha|johto	-	noun	1	t:d	-	-	-	-
+-	nauha|kaapeli	-	noun	6	-	-	-	-	-
 -	nauha|kasetti	-	noun	5	tt:t	-	-	-	-
 -	nauha|kaupunki	-	noun	5	nk:ng	-	-	-	-
 -	nauha|kenkä	-	noun	10	nk:ng	-	-	-	-
@@ -70475,9 +70624,11 @@
 -	netto|saaja	-	noun	10	-	-	-	-	-
 -	netto|tilavuus	-	noun	40	-	-	-	-	-
 -	netto|tulo	-	noun	1	-	-	-	-	-
+-	netto|tulos	-	noun	39	-	-	-	-	-
 -	netto|tuotto	-	noun	1	tt:t	-	-	-	-
 -	netto|vetoisuus	-	noun	40	-	-	-	-	-
 -	netto|vienti	-	noun	5	nt:nn	-	-	-	-
+-	netto|voitto	-	noun	1	tt:t	-	-	-	-
 -	neulan|kärki	-	noun	7	k:j	-	-	-	-
 -	neulan|pisto	-	noun	1	-	-	-	-	-
 -	neulan|silmä	-	noun	10	-	-	-	-	-
@@ -70526,6 +70677,7 @@
 -	neuvosto|valtio	-	noun	3	-	-	-	-	-
 -	neuvosto|vastaisuus	-	noun	40	-	-	-	-	-
 -	neuvos|mies	-	noun	42	-	-	-	-	-
+-	neuvottelu|asema	-	noun	10	-	-	-	-	-
 -	neuvottelu|kierros	-	noun	39	-	-	-	-	-
 -	neuvottelu|kosketus	-	noun	39	-	-	-	-	-
 -	neuvottelu|kunta	-	noun	10	nt:nn	-	-	-	-
@@ -70843,6 +70995,7 @@
 -	norsu|tauti	-	noun	5	t:d	-	-	-	-
 -	nostatus|aine	-	noun	48	-	-	-	-	-
 -	nosto|kauha	-	noun	9	-	-	-	-	-
+-	nosto|kone	-	noun	48	-	-	-	-	-
 -	nosto|korkeus	-	noun	40	-	-	-	-	-
 -	nosto|koukku	-	noun	1	kk:k	-	-	-	-
 -	nosto|kurki	-	noun	7	k:j	-	-	-	-
@@ -70939,6 +71092,7 @@
 -	numero|asteikko	-	noun	4	kk:k	-	-	-	-
 -	numero|johtaminen	-	noun	38	-	-	-	-	-
 -	numero|järjestys	-	noun	39	-	-	-	-	-
+-	numero|levy	-	noun	1	-	-	-	-	-
 -	numero|lukko	-	noun	1	kk:k	-	-	-	-
 -	numero|merkintä	-	noun	9	nt:nn	-	-	-	-
 -	numero|merkki	-	noun	5	kk:k	-	-	-	-
@@ -71202,6 +71356,7 @@
 -	näive|kasvi	-	noun	5	-	-	-	-	-
 -	näkemis|tapa	-	noun	9	p:v	-	-	-	-
 -	näkemys|ero	-	noun	1	-	-	-	-	-
+-	näkemä|alue	-	noun	48	-	-	-	-	-
 -	näkin|kenkä	-	noun	10	nk:ng	-	-	-	-
 -	näkin|kuori	-	noun	26	-	-	-	-	-
 -	näkin|ruoho	-	noun	1	-	-	-	-	-
@@ -71288,6 +71443,7 @@
 -	näyte|pakkaus	-	noun	39	-	-	-	-	-
 -	näyte|pala	-	noun	9	-	-	-	-	-
 -	näyte|tunti	-	noun	5	nt:nn	-	-	-	-
+-	näytteen|otin	-	noun	33	tt:t	-	-	-	-
 -	näytteen|otto	-	noun	1	tt:t	-	-	-	-
 -	näytteille|asettaja	-	noun	10	-	-	-	-	-
 -	näytteille|panija	-	noun	12	-	-	-	-	-
@@ -71301,6 +71457,7 @@
 -	näyttely|esine	-	noun	48	-	-	-	-	-
 -	näyttely|halli	-	noun	5	-	-	-	-	-
 -	näyttely|luettelo	-	noun	2	-	-	-	-	-
+-	näyttely|osasto	-	noun	2	-	-	-	-	-
 -	näyttely|tila	-	noun	9	-	-	-	-	-
 -	näyttely|valvoja	-	noun	10	-	-	-	-	-
 -	näyttely|vieras	-	noun	41	-	-	-	-	-
@@ -71355,6 +71512,7 @@
 -	odotus|lista	-	noun	9	-	-	-	-	-
 -	odotus|päivä	-	noun	10	-	-	-	-	-
 -	odotus|sali	-	noun	5	-	-	-	-	-
+-	odotus|tila	-	noun	9	-	-	-	-	-
 -	offset|menetelmä	-	noun	10	-	-	-	-	-
 -	offset|painate	-	noun	48	tt:t	-	-	-	-
 -	offset|paino	-	noun	1	-	-	-	-	-
@@ -71405,8 +71563,12 @@
 -	ohjas|kelkkailu	-	noun	2	-	-	-	-	-
 -	ohjaus|airo	-	noun	1	-	-	-	-	-
 -	ohjaus|akseli	-	noun	6	-	-	-	-	-
+-	ohjaus|hytti	-	noun	5	tt:t	-	-	-	-
 -	ohjaus|järjestelmä	-	noun	10	-	-	-	-	-
+-	ohjaus|keskus	-	noun	39	-	-	-	-	-
+-	ohjaus|kisko	-	noun	1	-	-	-	-	-
 -	ohjaus|korko	-	noun	1	k:	-	-	-	-
+-	ohjaus|kytkin	-	noun	33	-	-	-	-	-
 -	ohjaus|käsky	-	noun	1	-	-	-	-	-
 -	ohjaus|laite	-	noun	48	tt:t	-	-	-	-
 -	ohjaus|lukko	-	noun	1	kk:k	-	-	-	-
@@ -71418,6 +71580,7 @@
 -	ohjaus|pöytä	-	noun	10	t:d	-	-	-	-
 -	ohjaus|sauva	-	noun	9	-	-	-	-	-
 -	ohjaus|tanko	-	noun	1	nk:ng	-	-	-	-
+-	ohjaus|tappi	-	noun	5	pp:p	-	-	-	-
 -	ohjaus|taulu	-	noun	1	-	-	-	-	-
 -	ohjaus|tehostin	-	noun	33	-	-	-	-	-
 -	ohjaus|vaihde	-	noun	48	t:d	-	-	-	-
@@ -71539,6 +71702,7 @@
 -	oikeus|notaari	-	noun	6	-	-	-	-	-
 -	oikeus|ohje	-	noun	48	-	-	-	-	-
 -	oikeus|oppinut	-	noun	47	-	-	-	-	-
+-	oikeus|paikka	-	noun	9	kk:k	-	-	-	-
 -	oikeus|pormestari	-	noun	6	-	-	-	-	-
 -	oikeus|psykiatria	-	noun	12	-	-	-	-	-
 -	oikeus|sali	-	noun	5	-	-	-	-	-
@@ -71826,6 +71990,7 @@
 -	omistus|liite	-	noun	48	tt:t	-	-	-	-
 -	omistus|muoto	-	noun	1	t:d	-	-	-	-
 -	omistus|oikeus	-	noun	40	-	-	-	-	-
+-	omistus|osuus	-	noun	40	-	-	-	-	-
 -	omistus|pohja	-	noun	10	-	-	-	-	-
 -	omistus|suhde	-	noun	48	t:d	-	-	-	-
 -	omistus|tontti	-	noun	5	tt:t	-	-	-	-
@@ -71857,6 +72022,7 @@
 -	ongelma|vyyhti	-	noun	7	t:d	-	-	-	-
 -	ongen|koho	-	noun	1	-	-	-	-	-
 -	ongen|koukku	-	noun	1	kk:k	-	-	-	-
+-	ongen|siima	-	noun	9	-	-	-	-	-
 -	ongen|vapa	-	noun	9	p:v	-	-	-	-
 -	onki|liero	-	noun	1	-	-	-	-	-
 -	onki|mato	-	noun	1	t:d	-	-	-	-
@@ -72206,6 +72372,7 @@
 -	osa|sävel	-	noun	32	-	-	-	-	-
 -	osa|tavoite	-	noun	48	tt:t	-	-	-	-
 -	osa|tekijä	-	noun	12	-	-	-	-	-
+-	osa|toimitus	-	noun	39	-	-	-	-	-
 -	osa|totuus	-	noun	40	-	-	-	-	-
 -	osa|valtio	-	noun	3	-	-	-	-	-
 -	osa|vastuu	-	noun	17	-	-	-	-	-
@@ -72250,6 +72417,8 @@
 -	osto|kurssi	-	noun	5	-	-	-	-	-
 -	osto|kyky	-	noun	1	k:v	-	-	-	-
 -	osto|liike	-	noun	48	kk:k	-	-	-	-
+-	osto|määräys	-	noun	39	-	-	-	-	-
+-	osto|pakko	-	noun	1	kk:k	-	-	-	-
 -	osto|palautus	-	noun	39	-	-	-	-	-
 -	osto|palvelu	-	noun	2	-	-	-	-	-
 -	osto|paratiisi	-	noun	5	-	-	-	jocul	-
@@ -72525,10 +72694,12 @@
 -	paine|aalto	-	noun	1	lt:ll	-	-	-	-
 -	paine|astia	-	noun	12	-	-	-	-	-
 -	paine|haava	-	noun	9	-	-	-	-	-
+-	paine|häviö	-	noun	3	-	-	-	-	-
 -	paine|ilma	-	noun	9	-	-	-	-	-
 -	paine|kammio	-	noun	3	-	-	-	-	-
 -	paine|kattila	-	noun	12	-	-	-	-	-
 -	paine|keitin	-	noun	33	tt:t	-	-	-	-
+-	paine|korkeus	-	noun	40	-	-	-	-	-
 -	paine|kyllästys	-	noun	39	-	-	-	-	-
 -	paine|mittari	-	noun	6	-	-	-	-	-
 -	paine|pakkaus	-	noun	39	-	-	-	-	-
@@ -72610,6 +72781,7 @@
 -	paino|voima	-	noun	10	-	-	-	-	-
 -	paino|vuosi	-	noun	27	-	-	-	-	-
 -	paino|väri	-	noun	5	-	-	-	-	-
+-	paino|yksikkö	-	noun	4	kk:k	-	-	-	-
 -	paiste|rinne	-	noun	48	nt:nn	-	-	-	-
 -	paistin|kastike	-	noun	48	kk:k	-	-	-	-
 -	paistin|lasta	-	noun	9	-	-	-	-	-
@@ -72618,6 +72790,7 @@
 -	paistin|peruna	-	noun	12	-	-	-	-	-
 -	paistin|rasva	-	noun	9	-	-	-	-	-
 -	paistin|uuni	-	noun	5	-	-	-	-	-
+-	paistin|varras	-	noun	41	rt:rr	-	-	-	-
 -	paisti|haarukka	-	noun	14	kk:k	-	-	-	-
 -	paisti|kastike	-	noun	48	kk:k	-	-	-	-
 -	paisti|vati	-	noun	5	t:d	-	-	-	-
@@ -72682,6 +72855,7 @@
 -	paketti|naru	-	noun	1	-	-	-	-	-
 -	paketti|pelto	-	noun	1	lt:ll	-	-	-	-
 -	paketti|pommi	-	noun	5	-	-	-	-	-
+-	paketti|posti	-	noun	5	-	-	-	-	-
 -	paketti|ratkaisu	-	noun	2	-	-	-	-	-
 -	pakina|kokoelma	-	noun	10	-	-	-	-	-
 -	pakina|tyyli	-	noun	5	-	-	-	-	-
@@ -72709,9 +72883,11 @@
 -	pakkaus|kartonki	-	noun	5	nk:ng	-	-	-	-
 -	pakkaus|kenno	-	noun	1	-	-	-	-	-
 -	pakkaus|koko	-	noun	1	k:	-	-	-	-
+-	pakkaus|kone	-	noun	48	-	-	-	-	-
 -	pakkaus|materiaali	-	noun	5	-	-	-	-	-
 -	pakkaus|merkintä	-	noun	9	nt:nn	-	-	-	-
 -	pakkaus|palvelu	-	noun	2	-	-	-	-	-
+-	pakkaus|paperi	-	noun	6	-	-	-	-	-
 -	pakkaus|seloste	-	noun	48	-	-	-	-	-
 -	pakki|laatikko	-	noun	4	kk:k	-	-	-	-
 -	pakko|ajatus	-	noun	39	-	-	-	-	-
@@ -72779,6 +72955,7 @@
 -	palan|painike	-	noun	48	kk:k	-	-	-	-
 -	palan|painin	-	noun	33	-	-	-	-	-
 -	palaute|keskustelu	-	noun	2	-	-	-	-	-
+-	palautumis|aika	-	noun	9	ik:j	-	-	-	-
 -	palautumis|juoma	-	noun	10	-	-	-	-	-
 -	palautus|aika	-	noun	9	ik:j	-	-	-	-
 -	palautus|automaatti	-	noun	5	tt:t	-	-	-	-
@@ -72814,6 +72991,7 @@
 -	palkan|maksu	-	noun	1	-	-	-	-	-
 -	palkan|nauttija	-	noun	12	-	-	-	-	-
 -	palkan|nousu	-	noun	1	-	-	-	-	-
+-	palkan|pidätys	-	noun	39	-	-	-	-	-
 -	palkan|saaja	-	noun	10	-	-	-	-	-
 -	palkeen|kieli	-	noun	26	-	-	-	-	-
 -	palkinnon|saaja	-	noun	10	-	-	-	-	-
@@ -72829,6 +73007,7 @@
 -	palkinto|tuomari	-	noun	6	-	-	-	-	-
 -	palkkaus|järjestelmä	-	noun	10	-	-	-	-	-
 -	palkkaus|luokka	-	noun	10	kk:k	-	-	-	-
+-	palkka|ennakko	-	noun	4	kk:k	-	-	-	-
 -	palkka|ero	-	noun	1	-	-	-	-	-
 -	palkka|etu	-	noun	1	t:d	-	-	-	-
 -	palkka|haitari	-	noun	6	-	-	-	coll	-
@@ -72860,6 +73039,7 @@
 -	palkka|ratkaisu	-	noun	2	-	-	-	-	-
 -	palkka|renki	-	noun	5	nk:ng	-	-	-	-
 -	palkka|saatava	-	noun	10	-	-	-	-	-
+-	palkka|sopimus	-	noun	39	-	-	-	-	-
 -	palkka|sotilas	-	noun	41	-	-	-	-	-
 -	palkka|soturi	-	noun	6	-	-	-	-	-
 -	palkka|sulku	-	noun	1	k:	-	-	-	-
@@ -72993,6 +73173,7 @@
 -	palo|vakuutus	-	noun	39	-	-	-	-	-
 -	palo|vamma	-	noun	9	-	-	-	-	-
 -	palo|varoitin	-	noun	33	tt:t	-	-	-	-
+-	palo|vartija	-	noun	12	-	-	-	-	-
 -	palo|viina	-	noun	9	-	-	-	dated|jocul	-
 -	palo|öljy	-	noun	1	-	-	-	-	-
 -	palsa|suo	-	noun	19	-	-	-	-	-
@@ -73088,6 +73269,8 @@
 -	pankki|automaatti	-	noun	5	tt:t	-	-	-	-
 -	pankki|holvi	-	noun	5	-	-	-	-	-
 -	pankki|kirja	-	noun	9	-	-	-	-	-
+-	pankki|konttori	-	noun	6	-	-	-	-	-
+-	pankki|korko	-	noun	1	k:	-	-	-	-
 -	pankki|kortti	-	noun	5	tt:t	-	-	-	-
 -	pankki|laina	-	noun	9	-	-	-	-	-
 -	pankki|lokero	-	noun	2	-	-	-	-	-
@@ -73784,6 +73967,7 @@
 -	pergamentti|paperi	-	noun	6	-	-	-	-	-
 -	pergamiini|paperi	-	noun	6	-	-	-	-	-
 -	perheen|emäntä	-	noun	10	nt:nn	-	-	-	-
+-	perheen|huoltaja	-	noun	10	-	-	-	-	-
 -	perheen|isä	-	noun	10	-	-	-	-	-
 -	perheen|jäsen	-	noun	32	-	-	-	-	-
 -	perheen|kokoaja	-	noun	10	-	-	-	-	-
@@ -74037,6 +74221,7 @@
 -	perustaja|valtio	-	noun	3	-	-	-	-	-
 -	perustamis|kirja	-	noun	9	-	-	-	-	-
 -	perustamis|kokous	-	noun	39	-	-	-	-	-
+-	perustamis|sopimus	-	noun	39	-	-	-	-	-
 -	perustamis|työ	-	noun	19	-	-	-	-	-
 -	perustamis|vuosi	-	noun	27	-	-	-	-	-
 -	perustus|laillinen	-	noun	38	-	-	-	-	-
@@ -74120,6 +74305,7 @@
 -	perus|suure	-	noun	48	-	-	-	-	-
 -	perus|sävel	-	noun	32	-	-	-	-	-
 -	perus|sävy	-	noun	1	-	-	-	-	-
+-	perus|sääntö	-	noun	1	nt:nn	-	-	-	-
 -	perus|taito	-	noun	1	t:d	-	-	-	-
 -	perus|tarve	-	noun	48	p:v	-	-	-	-
 -	perus|tase	-	noun	48	-	-	-	-	-
@@ -74129,6 +74315,7 @@
 -	perus|tehtävä	-	noun	10	-	-	-	-	-
 -	perus|tekijä	-	noun	12	-	-	-	-	-
 -	perus|teos	-	noun	39	-	-	-	-	-
+-	perus|tila	-	noun	9	-	-	-	-	-
 -	perus|tulo	-	noun	1	-	-	-	-	-
 -	perus|tuotanto	-	noun	1	nt:nn	-	-	-	-
 -	perus|turva	-	noun	10	-	-	-	-	-
@@ -74138,6 +74325,7 @@
 -	perus|tyyppi	-	noun	5	pp:p	-	-	-	-
 -	perus|työ	-	noun	19	-	-	-	-	-
 -	perus|viiva	-	noun	9	-	-	-	-	-
+-	perus|virhe	-	noun	48	-	-	-	-	-
 -	perus|voide	-	noun	48	t:d	-	-	-	-
 -	perus|voima	-	noun	10	-	-	-	-	-
 -	perus|vuosi	-	noun	27	-	-	-	-	-
@@ -74524,6 +74712,7 @@
 -	piilo|vaikuttaja	-	noun	10	-	-	-	-	-
 -	piilo|vaikuttaminen	-	noun	38	-	-	-	-	-
 -	piilo|vaikutus	-	noun	39	-	-	-	-	-
+-	piilo|varaus	-	noun	39	-	-	-	-	-
 -	piilo|vesi	-	noun	27	-	-	-	-	-
 -	piilo|viesti	-	noun	5	-	-	-	-	-
 -	piilu|kirves	-	noun	41	-	-	-	-	-
@@ -74554,6 +74743,7 @@
 -	piirakka|vuoka	-	noun	10	uok:uu|k:	-	-	-	-
 -	piirin|mestari	-	noun	6	-	-	-	-	-
 -	piirin|mestaruus	-	noun	40	-	-	-	-	-
+-	piiritys|tila	-	noun	9	-	-	-	-	-
 -	piiri|jako	-	noun	1	k:	-	-	-	-
 -	piiri|järjestö	-	noun	2	-	-	-	-	-
 -	piiri|kokous	-	noun	39	-	-	-	-	-
@@ -74909,6 +75099,7 @@
 -	pino|motti	-	noun	5	tt:t	-	-	-	-
 -	pinsetti|ote	-	noun	48	tt:t	-	-	-	-
 -	pinta|haava	-	noun	9	-	-	-	-	-
+-	pinta|halkeama	-	noun	10	-	-	-	-	-
 -	pinta|hiiva	-	noun	9	-	-	-	-	-
 -	pinta|ilmiö	-	noun	3	-	-	-	-	-
 -	pinta|jengi	-	noun	5	-	-	-	coll	-
@@ -74929,6 +75120,7 @@
 -	pinta|kuviointi	-	noun	5	nt:nn	-	-	-	-
 -	pinta|käsittelijä	-	noun	12	-	-	-	-	-
 -	pinta|käsittely	-	noun	2	-	-	-	-	-
+-	pinta|lannoitus	-	noun	39	-	-	-	-	-
 -	pinta|lauta	-	noun	9	t:d	-	-	-	-
 -	pinta|liidin	-	noun	33	t:d	-	-	-	-
 -	pinta|liito	-	noun	1	t:d	-	-	-	-
@@ -75201,6 +75393,7 @@
 -	pohja|maalaus	-	noun	39	-	-	-	-	-
 -	pohja|maali	-	noun	5	-	-	-	-	-
 -	pohja|muta	-	noun	10	t:d	-	-	-	-
+-	pohja|nahka	-	noun	9	-	-	-	-	-
 -	pohja|noteeraus	-	noun	39	-	-	-	-	-
 -	pohja|nuotta	-	noun	10	tt:t	-	-	-	-
 -	pohja|ompelu	-	noun	2	-	-	-	-	-
@@ -76519,6 +76712,7 @@
 -	purjo|laukka	-	noun	9	kk:k	-	-	dated	-
 -	purjo|sipuli	-	noun	6	-	-	-	-	-
 -	purkamis|työ	-	noun	19	-	-	-	-	-
+-	purkaus|aika	-	noun	9	ik:j	-	-	-	-
 -	purkaus|aukko	-	noun	1	kk:k	-	-	-	-
 -	purkaus|lamppu	-	noun	1	pp:p	-	-	-	-
 -	purkaus|työ	-	noun	19	-	-	-	-	-
@@ -76612,6 +76806,7 @@
 -	putki|eriste	-	noun	48	-	-	-	-	-
 -	putki|huivi	-	noun	5	-	-	-	-	-
 -	putki|jalka	-	noun	9	k:	-	-	-	-
+-	putki|johto	-	noun	1	t:d	-	-	-	-
 -	putki|kassi	-	noun	5	-	-	-	-	-
 -	putki|katka	-	noun	9	-	-	-	-	-
 -	putki|lamppu	-	noun	1	pp:p	-	-	-	-
@@ -76749,6 +76944,7 @@
 -	puu|massa	-	noun	9	-	-	-	-	-
 -	puu|merkki	-	noun	5	kk:k	-	-	-	-
 -	puu|nuija	-	noun	10	-	-	-	-	-
+-	puu|pahvi	-	noun	5	-	-	-	-	-
 -	puu|pakkaus	-	noun	39	-	-	-	-	-
 -	puu|pala	-	noun	9	-	-	-	-	-
 -	puu|palanen	-	noun	38	-	-	-	-	-
@@ -76913,6 +77109,7 @@
 -	pysyväis|näyttely	-	noun	2	-	-	-	-	-
 -	pysähdys|aika	-	noun	9	ik:j	-	-	-	-
 -	pysähdys|paikka	-	noun	9	kk:k	-	-	-	-
+-	pysähtymis|kielto	-	noun	1	lt:ll	-	-	-	-
 -	pysähtymis|käsky	-	noun	1	-	-	-	-	-
 -	pysähtymis|merkki	-	noun	5	kk:k	-	-	-	-
 -	pysähtymis|näkemä	-	noun	10	-	-	-	-	-
@@ -77352,6 +77549,7 @@
 -	pää|jehu	-	noun	1	-	-	-	coll	-
 -	pää|johtaja	-	noun	10	-	-	-	-	-
 -	pää|johtajuus	-	noun	40	-	-	-	-	-
+-	pää|johto	-	noun	1	t:d	-	-	-	-
 -	pää|joki	-	noun	7	k:	-	-	-	-
 -	pää|joukko	-	noun	1	kk:k	-	-	-	-
 -	pää|juuri	-	noun	26	-	-	-	-	-
@@ -77360,6 +77558,7 @@
 -	pää|kampa	-	noun	9	mp:mm	-	-	-	-
 -	pää|kappale	-	noun	48	-	-	-	-	-
 -	pää|kassa	-	noun	9	-	-	-	-	-
+-	pää|katkaisija	-	noun	12	-	-	-	-	-
 -	pää|katsomo	-	noun	2	-	-	-	-	-
 -	pää|katu	-	noun	1	t:d	-	-	-	-
 -	pää|kaupunki	-	noun	5	nk:ng	-	-	-	-
@@ -77404,6 +77603,7 @@
 -	pää|ovi	-	noun	7	-	-	-	-	-
 -	pää|paino	-	noun	1	-	-	-	-	-
 -	pää|palkinto	-	noun	1	nt:nn	-	-	-	-
+-	pää|palkki	-	noun	5	kk:k	-	-	-	-
 -	pää|pelaaja	-	noun	10	-	-	-	-	-
 -	pää|peli	-	noun	5	-	-	-	-	-
 -	pää|piirre	-	noun	48	rt:rr	-	-	-	-
@@ -77422,6 +77622,7 @@
 -	pää|sisällys	-	noun	39	-	-	-	-	-
 -	pää|sisältö	-	noun	1	lt:ll	-	-	-	-
 -	pää|suunta	-	noun	10	nt:nn	-	-	-	-
+-	pää|syy	-	noun	18	-	-	-	-	-
 -	pää|syyllinen	-	noun	38	-	-	-	-	-
 -	pää|sääntö	-	noun	1	nt:nn	-	-	-	-
 -	pää|tapahtuma	-	noun	10	-	-	-	-	-
@@ -77729,6 +77930,7 @@
 -	rahan|käyttö	-	noun	1	tt:t	-	-	-	-
 -	rahan|lainaaja	-	noun	10	-	-	-	-	-
 -	rahan|lainaus	-	noun	39	-	-	-	-	-
+-	rahan|lyönti	-	noun	5	nt:nn	-	-	-	-
 -	rahan|lähde	-	noun	48	t:d	-	-	-	-
 -	rahan|meno	-	noun	1	-	-	-	-	-
 -	rahan|pesu	-	noun	1	-	-	-	-	-
@@ -77791,11 +77993,13 @@
 -	raha|talous	-	noun	40	-	-	-	-	-
 -	raha|tilanne	-	noun	48	nt:nn	-	-	-	-
 -	raha|toimi	-	noun	25	-	-	-	-	-
+-	raha|toimisto	-	noun	2	-	-	-	-	-
 -	raha|tulo	-	noun	1	-	-	-	-	-
 -	raha|uudistus	-	noun	39	-	-	-	-	-
 -	raha|vaikeus	-	noun	40	-	-	-	-	-
 -	raha|valta	-	noun	9	lt:ll	-	-	-	-
 -	raha|valtaisuus	-	noun	40	-	-	-	-	-
+-	raha|varanto	-	noun	1	nt:nn	-	-	-	-
 -	raha|virta	-	noun	9	rt:rr	-	-	-	-
 -	raha|yksikkö	-	noun	4	kk:k	-	-	-	-
 -	rahdin|antaja	-	noun	10	-	-	-	-	-
@@ -77816,9 +78020,12 @@
 -	rahoitus|omaisuus	-	noun	40	-	-	-	-	-
 -	rahoitus|osuus	-	noun	40	-	-	-	-	-
 -	rahoitus|riski	-	noun	5	-	-	-	-	-
+-	rahoitus|suunnitelma	-	noun	10	-	-	-	-	-
 -	rahoitus|vastike	-	noun	48	kk:k	-	-	-	-
 -	rahoitus|yhtiö	-	noun	3	-	-	-	-	-
+-	rahtaus|kirja	-	noun	9	-	-	-	-	-
 -	rahtaus|liike	-	noun	48	kk:k	-	-	-	-
+-	rahtaus|sopimus	-	noun	39	-	-	-	-	-
 -	rahti|alus	-	noun	39	-	-	-	-	-
 -	rahti|ennakko	-	noun	4	kk:k	-	-	-	-
 -	rahti|kirja	-	noun	9	-	-	-	-	-
@@ -77964,6 +78171,7 @@
 -	rakennus|insinööri	-	noun	5	-	-	-	-	-
 -	rakennus|järjestys	-	noun	39	-	-	-	-	-
 -	rakennus|jäte	-	noun	48	tt:t	-	-	-	-
+-	rakennus|kaava	-	noun	9	-	-	-	-	-
 -	rakennus|kanta	-	noun	9	nt:nn	-	-	-	-
 -	rakennus|kelo	-	noun	1	-	-	-	-	-
 -	rakennus|keramiikka	-	noun	9	kk:k	-	-	-	-
@@ -78005,9 +78213,11 @@
 -	rakennus|tarvike	-	noun	48	kk:k	-	-	-	-
 -	rakennus|tekniikka	-	noun	14	kk:k	-	-	-	-
 -	rakennus|teline	-	noun	48	-	-	-	-	-
+-	rakennus|teollisuus	-	noun	40	-	-	-	-	-
 -	rakennus|teräs	-	noun	39	-	-	-	-	-
 -	rakennus|toimi	-	noun	25	-	-	-	-	-
 -	rakennus|toiminta	-	noun	9	nt:nn	-	-	-	-
+-	rakennus|tontti	-	noun	5	tt:t	-	-	-	-
 -	rakennus|tuotanto	-	noun	1	nt:nn	-	-	-	-
 -	rakennus|tyyli	-	noun	5	-	-	-	-	-
 -	rakennus|työ	-	noun	19	-	-	-	-	-
@@ -78191,6 +78401,7 @@
 -	ranta|palpakko	-	noun	4	kk:k	-	-	-	-
 -	ranta|palsta	-	noun	9	-	-	-	-	-
 -	ranta|patja	-	noun	9	-	-	-	-	-
+-	ranta|pato	-	noun	1	t:d	-	-	-	-
 -	ranta|penger	-	noun	49	nk:ng	-	-	-	-
 -	ranta|puku	-	noun	1	k:v	-	-	-	-
 -	ranta|putki	-	noun	7	-	-	-	-	-
@@ -78484,6 +78695,7 @@
 -	rauta|sulfaatti	-	noun	5	tt:t	-	-	-	-
 -	rauta|sälpä	-	noun	10	p:v	-	-	-	-
 -	rauta|sänky	-	noun	1	nk:ng	-	-	-	-
+-	rauta|tehdas	-	noun	41	t:d	-	-	-	-
 -	rauta|tie	-	noun	19	-	-	-	-	-
 -	rauta|tieläinen	-	noun	38	-	-	-	-	-
 -	rauta|tiestö	-	noun	1	-	-	-	-	-
@@ -78604,6 +78816,7 @@
 -	refluksi|tauti	-	noun	5	t:d	-	-	-	-
 -	reformi|puolue	-	noun	48	-	-	-	-	-
 -	reggae|yhtye	-	noun	48	-	-	-	-	-
+-	regressi|oikeus	-	noun	40	-	-	-	-	-
 -	rehtorin|kanslia	-	noun	12	-	-	-	-	-
 -	rehtori|kausi	-	noun	27	-	-	-	-	-
 -	rehun|tuotanto	-	noun	1	nt:nn	-	-	-	-
@@ -79229,6 +79442,7 @@
 -	risti|riitaisuus	-	noun	40	-	-	-	-	-
 -	risti|ritari	-	noun	6	-	-	-	-	-
 -	risti|rouva	-	noun	10	-	-	-	-	-
+-	risti|rulla	-	noun	10	-	-	-	-	-
 -	risti|saatto	-	noun	1	tt:t	-	-	-	-
 -	risti|selkä	-	noun	10	k:	-	-	-	-
 -	risti|side	-	noun	48	t:d	-	-	-	-
@@ -80024,6 +80238,7 @@
 -	ryhmä|lähtö	-	noun	1	t:d	-	-	-	-
 -	ryhmä|matka	-	noun	9	-	-	-	-	-
 -	ryhmä|matkailu	-	noun	2	-	-	-	-	-
+-	ryhmä|nopeus	-	noun	40	-	-	-	-	-
 -	ryhmä|opetus	-	noun	39	-	-	-	-	-
 -	ryhmä|piiskuri	-	noun	6	-	-	-	-	-
 -	ryhmä|puhuja	-	noun	10	-	-	-	-	-
@@ -80216,6 +80431,7 @@
 -	saamelais|nainen	-	noun	38	-	-	-	-	-
 -	saamelais|puku	-	noun	1	k:v	-	-	-	-
 -	saamen|puku	-	noun	1	k:v	-	-	-	-
+-	saanti|todistus	-	noun	39	-	-	-	-	-
 -	saanto|kelpoisuus	-	noun	40	-	-	-	-	-
 -	saanto|kirja	-	noun	9	-	-	-	-	-
 -	saapas|maa	-	noun	18	-	-	-	jocul	-
@@ -80400,6 +80616,7 @@
 -	sairaus|eläke	-	noun	48	kk:k	-	-	-	-
 -	sairaus|kertomus	-	noun	39	-	-	-	-	-
 -	sairaus|kohtaus	-	noun	39	-	-	-	-	-
+-	sairaus|korvaus	-	noun	39	-	-	-	-	-
 -	sairaus|loma	-	noun	10	-	-	-	-	-
 -	sairaus|päivä	-	noun	10	-	-	-	-	-
 -	sairaus|tapaus	-	noun	39	-	-	-	-	-
@@ -80814,6 +81031,7 @@
 -	satama|laitos	-	noun	39	-	-	-	-	-
 -	satama|laituri	-	noun	6	-	-	-	-	-
 -	satama|luotsi	-	noun	5	-	-	-	-	-
+-	satama|maksu	-	noun	1	-	-	-	-	-
 -	satama|nosturi	-	noun	6	-	-	-	-	-
 -	satama|päällikkö	-	noun	4	kk:k	-	-	-	-
 -	satama|terminaali	-	noun	5	-	-	-	-	-
@@ -81140,6 +81358,7 @@
 -	seisoma|työ	-	noun	19	-	-	-	-	-
 -	seisomis|aika	-	noun	9	ik:j	-	-	-	-
 -	seisonta|jarru	-	noun	1	-	-	-	-	-
+-	seisonta|päivä	-	noun	10	-	-	-	-	-
 -	seisonta|tuki	-	noun	7	k:	-	-	-	-
 -	seisonta|valo	-	noun	1	-	-	-	-	-
 -	seitsemäs|luokkalainen	-	noun	38	-	-	-	-	-
@@ -82104,6 +82323,7 @@
 -	sirkka|silmu	-	noun	1	-	-	-	-	-
 -	sirkka|taimi	-	noun	25	-	-	-	-	-
 -	sirkka|varsi	-	noun	28	rt:rr	-	-	-	-
+-	sirkkeli|saha	-	noun	9	-	-	-	-	-
 -	sirkun|jyvä	-	noun	10	-	-	-	-	-
 -	sirkus|areena	-	noun	13	-	-	-	-	-
 -	sirkus|eläin	-	noun	33	-	-	-	-	-
@@ -82290,6 +82510,7 @@
 -	sisään|heittäjä	-	noun	10	-	-	-	coll	-
 -	sisään|hengitys	-	noun	39	-	-	-	-	-
 -	sisään|jättö	-	noun	1	tt:t	-	-	-	-
+-	sisään|kirjaus	-	noun	39	-	-	-	-	-
 -	sisään|kirjautuminen	-	noun	38	-	-	-	-	-
 -	sisään|kirjoitus	-	noun	39	-	-	-	-	-
 -	sisään|käynti	-	noun	5	nt:nn	-	-	-	-
@@ -82713,6 +82934,7 @@
 -	sopimuksen|teko	-	noun	1	k:	-	-	-	-
 -	sopimus|aika	-	noun	9	ik:j	-	-	-	-
 -	sopimus|ehdotus	-	noun	39	-	-	-	-	-
+-	sopimus|ehto	-	noun	1	t:d	-	-	-	-
 -	sopimus|hinta	-	noun	9	nt:nn	-	-	-	-
 -	sopimus|kausi	-	noun	27	-	-	-	-	-
 -	sopimus|kierros	-	noun	39	-	-	-	-	-
@@ -82983,6 +83205,7 @@
 -	sota|vuosi	-	noun	27	-	-	-	-	-
 -	sota|väki	-	noun	7	k:	-	-	-	-
 -	sota|väsymys	-	noun	39	-	-	-	-	-
+-	sotilas|alue	-	noun	48	-	-	-	-	-
 -	sotilas|ammatti	-	noun	5	tt:t	-	-	-	-
 -	sotilas|ansio	-	noun	3	-	-	-	-	-
 -	sotilas|arvo	-	noun	1	-	-	-	-	-
@@ -83041,6 +83264,7 @@
 -	sotilas|passi	-	noun	5	-	-	-	-	-
 -	sotilas|pastori	-	noun	6	-	-	-	-	-
 -	sotilas|penkki	-	noun	5	kk:k	-	-	coll	-
+-	sotilas|piiri	-	noun	5	-	-	-	-	-
 -	sotilas|pistooli	-	noun	6	-	-	-	-	-
 -	sotilas|poliisi	-	noun	6	-	-	-	-	-
 -	sotilas|politiikka	-	noun	9	kk:k	-	-	-	-
@@ -83102,12 +83326,15 @@
 -	sovinto|menettely	-	noun	2	-	-	-	-	-
 -	sovinto|neuvottelu	-	noun	2	-	-	-	-	-
 -	sovinto|politiikka	-	noun	9	kk:k	-	-	-	-
+-	sovinto|ratkaisu	-	noun	2	-	-	-	-	-
+-	sovinto|tuomari	-	noun	6	-	-	-	-	-
 -	sovinto|veri	-	noun	26	-	-	-	-	-
 -	sovittelun|halu	-	noun	1	-	-	-	-	-
 -	sovittelu|ehdotus	-	noun	39	-	-	-	-	-
 -	sovittelu|esitys	-	noun	39	-	-	-	-	-
 -	sovittelu|järjestelmä	-	noun	10	-	-	-	-	-
 -	sovittelu|kyky	-	noun	1	k:v	-	-	-	-
+-	sovittelu|menettely	-	noun	2	-	-	-	-	-
 -	sovittelu|politiikka	-	noun	9	kk:k	-	-	-	-
 -	sovittelu|ratkaisu	-	noun	2	-	-	-	-	-
 -	sovittelu|yritys	-	noun	39	-	-	-	-	-
@@ -83121,6 +83348,7 @@
 -	spagetti|olkain	-	noun	33	-	-	-	-	-
 -	spagetti|western	-	noun	5	-	-	-	jocul	-
 -	spektri|analyysi	-	noun	5	-	-	-	-	-
+-	spektri|tiheys	-	noun	40	-	-	-	-	-
 -	speltti|vehnä	-	noun	10	-	-	-	-	-
 -	sperma|pankki	-	noun	5	kk:k	-	-	-	-
 -	spinaali|puudutus	-	noun	39	-	-	-	-	-
@@ -83255,6 +83483,7 @@
 -	suihku|moottori	-	noun	6	-	-	-	-	-
 -	suihku|myssy	-	noun	1	-	-	-	-	-
 -	suihku|pullo	-	noun	1	-	-	-	-	-
+-	suihku|putki	-	noun	7	-	-	-	-	-
 -	suihku|saippua	-	noun	12	-	-	-	-	-
 -	suihku|seinä	-	noun	10	-	-	-	-	-
 -	suihku|seinäke	-	noun	48	kk:k	-	-	-	-
@@ -83416,6 +83645,7 @@
 -	sulate|väri	-	noun	5	-	-	-	-	-
 -	sulatus|aine	-	noun	48	-	-	-	-	-
 -	sulatus|uuni	-	noun	5	-	-	-	-	-
+-	sulautumis|sopimus	-	noun	39	-	-	-	-	-
 -	sula|hitsaus	-	noun	39	-	-	-	-	-
 -	sula|vesi	-	noun	27	-	-	-	-	-
 -	sulfaatti|menetelmä	-	noun	10	-	-	-	-	-
@@ -83450,6 +83680,7 @@
 -	sulku|lista	-	noun	9	-	-	-	-	-
 -	sulku|merkki	-	noun	5	kk:k	-	-	-	-
 -	sulku|portti	-	noun	5	tt:t	-	-	-	-
+-	sulku|puomi	-	noun	5	-	-	-	-	-
 -	sulku|pyydys	-	noun	39	-	-	-	-	-
 -	sulku|tili	-	noun	5	-	-	-	-	-
 -	sulku|tuli	-	noun	23	-	-	-	-	-
@@ -83516,6 +83747,7 @@
 -	suoja|kaasu	-	noun	1	-	-	-	-	-
 -	suoja|kaide	-	noun	48	t:d	-	-	-	-
 -	suoja|kaista	-	noun	9	-	-	-	-	-
+-	suoja|kansi	-	noun	28	-	-	-	-	-
 -	suoja|kasvi	-	noun	5	-	-	-	-	-
 -	suoja|katos	-	noun	39	-	-	-	-	-
 -	suoja|keino	-	noun	1	-	-	-	-	-
@@ -83714,6 +83946,7 @@
 -	suora|myynti	-	noun	5	nt:nn	-	-	-	-
 -	suora|ommel	-	noun	49	mp:mm	-	-	-	-
 -	suora|pankki	-	noun	5	kk:k	-	-	-	-
+-	suora|saanti	-	noun	5	nt:nn	-	-	-	-
 -	suora|selkäisyys	-	noun	40	-	-	-	-	-
 -	suora|suihkutus	-	noun	39	-	-	-	-	-
 -	suora|sukaisuus	-	noun	40	-	-	-	-	-
@@ -83723,6 +83956,7 @@
 -	suora|veloitus	-	noun	39	-	-	-	-	-
 -	suora|viivaisuus	-	noun	40	-	-	-	-	-
 -	suoristus|rauta	-	noun	9	t:d	-	-	-	-
+-	suorite|peruste	-	noun	48	-	-	-	-	-
 -	suoritus|aika	-	noun	9	ik:j	-	-	-	-
 -	suoritus|arvo	-	noun	1	-	-	-	-	-
 -	suoritus|kyky	-	noun	1	k:v	-	-	-	-
@@ -83775,6 +84009,7 @@
 -	suo|saareke	-	noun	48	kk:k	-	-	-	-
 -	suo|sirri	-	noun	5	-	-	-	-	-
 -	suo|tatti	-	noun	5	tt:t	-	-	-	-
+-	suo|turve	-	noun	48	p:v	-	-	-	-
 -	suo|tyyppi	-	noun	5	pp:p	-	-	-	-
 -	suo|valkku	-	noun	1	kk:k	-	-	-	-
 -	suo|viljely	-	noun	2	-	-	-	-	-
@@ -83954,6 +84189,7 @@
 -	suur|onnettomuus	-	noun	40	-	-	-	-	-
 -	suur|paine	-	noun	48	-	-	-	-	-
 -	suur|pakkaus	-	noun	39	-	-	-	-	-
+-	suur|palo	-	noun	1	-	-	-	-	-
 -	suur|perhe	-	noun	48	-	-	-	-	-
 -	suur|peto	-	noun	1	t:d	-	-	-	-
 -	suur|piirteisyys	-	noun	40	-	-	-	-	-
@@ -83977,6 +84213,7 @@
 -	suur|teos	-	noun	39	-	-	-	-	-
 -	suur|tila	-	noun	9	-	-	-	-	-
 -	suur|tilallinen	-	noun	38	-	-	-	-	-
+-	suur|tuotanto	-	noun	1	nt:nn	-	-	-	-
 -	suur|työ	-	noun	19	-	-	-	-	-
 -	suur|valta	-	noun	9	lt:ll	-	-	-	-
 -	suur|visiiri	-	noun	6	-	-	-	-	-
@@ -84342,6 +84579,7 @@
 -	syy|pää	-	noun	18	-	-	-	-	-
 -	syy|suhde	-	noun	48	t:d	-	-	-	-
 -	syöjä|solu	-	noun	1	-	-	-	-	-
+-	syöksy|aalto	-	noun	1	lt:ll	-	-	-	-
 -	syöksy|hammas	-	noun	41	mp:mm	-	-	-	-
 -	syöksy|kaivo	-	noun	1	-	-	-	-	-
 -	syöksy|kierre	-	noun	48	rt:rr	-	-	-	-
@@ -84422,6 +84660,7 @@
 -	säde|hoito	-	noun	1	t:d	-	-	-	-
 -	säde|kaisla	-	noun	9	-	-	-	-	-
 -	säde|kehä	-	noun	10	-	-	-	-	-
+-	säde|kimppu	-	noun	1	pp:p	-	-	-	-
 -	säde|kukka	-	noun	10	kk:k	-	-	-	-
 -	säde|latva	-	noun	9	-	-	-	-	-
 -	säde|lihas	-	noun	39	-	-	-	-	-
@@ -84606,6 +84845,7 @@
 -	säilyke|tölkki	-	noun	5	kk:k	-	-	-	-
 -	säilymis|laki	-	noun	5	k:	-	-	-	-
 -	säilytys|lokero	-	noun	2	-	-	-	-	-
+-	säilytys|paikka	-	noun	9	kk:k	-	-	-	-
 -	säilytys|palvelu	-	noun	2	-	-	-	-	-
 -	säilytys|tila	-	noun	9	-	-	-	-	-
 -	säilä|miekkailija	-	noun	12	-	-	-	-	-
@@ -84742,6 +84982,7 @@
 -	säästämis|aste	-	noun	48	-	-	-	-	-
 -	säästö|budjetti	-	noun	5	tt:t	-	-	-	-
 -	säästö|kassa	-	noun	9	-	-	-	-	-
+-	säästö|kirja	-	noun	9	-	-	-	-	-
 -	säästö|kuuri	-	noun	5	-	-	-	-	-
 -	säästö|liekki	-	noun	5	kk:k	-	-	-	-
 -	säästö|linja	-	noun	9	-	-	-	-	-
@@ -84761,6 +85002,7 @@
 -	sääty|kierto	-	noun	1	rt:rr	-	-	-	-
 -	sääty|raja	-	noun	9	-	-	-	-	-
 -	säätämis|järjestys	-	noun	39	-	-	-	-	-
+-	säätö|alue	-	noun	48	-	-	-	-	-
 -	säätö|auraus	-	noun	39	-	-	-	-	-
 -	säätö|järjestelmä	-	noun	10	-	-	-	-	-
 -	säätö|laite	-	noun	48	tt:t	-	-	-	-
@@ -85066,6 +85308,7 @@
 -	taivutus|kaava	-	noun	9	-	-	-	-	-
 -	taivutus|lujuus	-	noun	40	-	-	-	-	-
 -	taivutus|luokka	-	noun	10	kk:k	-	-	-	-
+-	taivutus|momentti	-	noun	5	tt:t	-	-	-	-
 -	taivutus|muoto	-	noun	1	t:d	-	-	-	-
 -	taivutus|oppi	-	noun	5	pp:p	-	-	-	-
 -	taivutus|pääte	-	noun	48	tt:t	-	-	-	-
@@ -85076,8 +85319,10 @@
 -	tajunnan|virta	-	noun	9	rt:rr	-	-	-	-
 -	tajunta|teollisuus	-	noun	40	-	-	-	-	-
 -	tajuttomuus|tila	-	noun	9	-	-	-	-	-
+-	takaisin|kelaus	-	noun	39	-	-	-	-	-
 -	takaisin|kutsu	-	noun	1	-	-	-	-	-
 -	takaisin|kytkentä	-	noun	9	nt:nn	-	-	-	-
+-	takaisin|lainaus	-	noun	39	-	-	-	-	-
 -	takaisin|maksu	-	noun	1	-	-	-	-	-
 -	takaisin|osto	-	noun	1	-	-	-	-	-
 -	takaisin|pääsy	-	noun	1	-	-	-	-	-
@@ -85085,9 +85330,11 @@
 -	takaisin|soitto	-	noun	1	tt:t	-	-	-	-
 -	takaisin|valtaus	-	noun	39	-	-	-	-	-
 -	takaisin|veto	-	noun	1	t:d	-	-	-	-
+-	takaisin|virtaus	-	noun	39	-	-	-	-	-
 -	takaus|rengas	-	noun	41	nk:ng	-	-	-	-
 -	takaus|sitoumus	-	noun	39	-	-	-	-	-
 -	takautumis|oikeus	-	noun	40	-	-	-	-	-
+-	takautumis|vaade	-	noun	48	t:d	-	-	-	-
 -	taka|halkio	-	noun	3	-	-	-	-	-
 -	taka|hammas	-	noun	41	mp:mm	-	-	-	-
 -	taka|heijastin	-	noun	33	-	-	-	-	-
@@ -85583,6 +85830,7 @@
 -	tappelu|halu	-	noun	1	-	-	-	-	-
 -	tappelu|kukko	-	noun	1	kk:k	-	-	-	-
 -	tappelu|pukari	-	noun	6	-	-	-	-	-
+-	tappion|tasaus	-	noun	39	-	-	-	-	-
 -	tappio|asema	-	noun	10	-	-	-	-	-
 -	tappio|putki	-	noun	7	-	-	-	coll	-
 -	tappi|liitos	-	noun	39	-	-	-	-	-
@@ -85785,6 +86033,7 @@
 -	tasa|väkisyys	-	noun	40	-	-	-	-	-
 -	tasa|väli	-	noun	5	-	-	-	-	-
 -	tasa|välisyys	-	noun	40	-	-	-	-	-
+-	tase|kaava	-	noun	9	-	-	-	-	-
 -	taskun|kansi	-	noun	28	nt:nn	-	-	-	-
 -	taskun|pohja	-	noun	10	-	-	-	-	-
 -	taskun|suu	-	noun	18	-	-	-	-	-
@@ -85913,6 +86162,7 @@
 -	tavaran|tarkastaja	-	noun	10	-	-	-	-	-
 -	tavaran|vaihto	-	noun	1	t:d	-	-	-	-
 -	tavaran|valmistaja	-	noun	10	-	-	-	-	-
+-	tavara|erä	-	noun	10	-	-	-	-	-
 -	tavara|hissi	-	noun	5	-	-	-	-	-
 -	tavara|juna	-	noun	10	-	-	-	-	-
 -	tavara|kauppa	-	noun	9	pp:p	-	-	-	-
@@ -86613,6 +86863,7 @@
 -	tiedon|kulku	-	noun	1	k:	-	-	-	-
 -	tiedon|käsittely	-	noun	2	-	-	-	-	-
 -	tiedon|louhinta	-	noun	9	nt:nn	-	-	-	-
+-	tiedon|lähde	-	noun	48	t:d	-	-	-	-
 -	tiedon|muru	-	noun	1	-	-	-	-	-
 -	tiedon|murunen	-	noun	38	-	-	-	-	-
 -	tiedon|nälkä	-	noun	10	k:	-	-	-	-
@@ -86626,6 +86877,7 @@
 -	tiedotus|lehti	-	noun	7	t:d	-	-	-	-
 -	tiedotus|oppi	-	noun	5	pp:p	-	-	-	-
 -	tiedotus|piste	-	noun	48	-	-	-	-	-
+-	tiedotus|päällikkö	-	noun	4	kk:k	-	-	-	-
 -	tiedotus|sihteeri	-	noun	6	-	-	-	-	-
 -	tiedotus|tilaisuus	-	noun	40	-	-	-	-	-
 -	tiedotus|toiminta	-	noun	9	nt:nn	-	-	-	-
@@ -86820,6 +87072,7 @@
 -	tiivistys|aine	-	noun	48	-	-	-	-	-
 -	tiivistys|kitti	-	noun	5	tt:t	-	-	-	-
 -	tiivistys|nauha	-	noun	9	-	-	-	-	-
+-	tiivistys|rengas	-	noun	41	nk:ng	-	-	-	-
 -	tiivis|kurssi	-	noun	5	-	-	-	-	-
 -	tiivis|luu	-	noun	18	-	-	-	-	-
 -	tikan|heitto	-	noun	1	tt:t	-	-	-	-
@@ -86885,6 +87138,7 @@
 -	tilaus|hinta	-	noun	9	nt:nn	-	-	-	-
 -	tilaus|kanta	-	noun	9	nt:nn	-	-	-	-
 -	tilaus|kausi	-	noun	27	-	-	-	-	-
+-	tilaus|kirja	-	noun	9	-	-	-	-	-
 -	tilaus|kirje	-	noun	48	-	-	-	-	-
 -	tilaus|lasku	-	noun	1	-	-	-	-	-
 -	tilaus|lento	-	noun	1	nt:nn	-	-	-	-
@@ -86919,6 +87173,7 @@
 -	tilille|pano	-	noun	1	-	-	-	-	-
 -	tililtä|otto	-	noun	1	tt:t	-	-	-	-
 -	tilin|avaus	-	noun	39	-	-	-	-	-
+-	tilin|haltija	-	noun	12	-	-	-	-	-
 -	tilin|käyttäjä	-	noun	10	-	-	-	-	-
 -	tilin|maksu	-	noun	1	-	-	-	-	-
 -	tilin|omistaja	-	noun	10	-	-	-	-	-
@@ -86928,8 +87183,10 @@
 -	tilin|tarkastaja	-	noun	10	-	-	-	-	-
 -	tilin|tarkastus	-	noun	39	-	-	-	-	-
 -	tilin|teko	-	noun	1	k:	-	-	-	-
+-	tilin|ylitys	-	noun	39	-	-	-	-	-
 -	tilitys|romaani	-	noun	6	-	-	-	-	-
 -	tili|asiakas	-	noun	41	kk:k	-	-	-	-
+-	tili|kartta	-	noun	9	tt:t	-	-	-	-
 -	tili|kausi	-	noun	27	-	-	-	-	-
 -	tili|kirja	-	noun	9	-	-	-	-	-
 -	tili|nauha	-	noun	9	-	-	-	-	-
@@ -86959,6 +87216,7 @@
 -	tilus|raja	-	noun	9	-	-	-	-	-
 -	tilus|rauhoitus	-	noun	39	-	-	-	-	-
 -	tilus|tie	-	noun	19	-	-	-	-	-
+-	tilus|vaihto	-	noun	1	t:d	-	-	-	-
 -	timantin|hionta	-	noun	9	nt:nn	-	-	-	-
 -	timantti|ananas	-	noun	39	-	-	-	-	-
 -	timantti|kaivos	-	noun	39	-	-	-	-	-
@@ -87013,6 +87271,8 @@
 -	tiski|vesi	-	noun	27	-	-	-	-	-
 -	tislaus|astia	-	noun	12	-	-	-	-	-
 -	tislaus|jäte	-	noun	48	tt:t	-	-	-	-
+-	tislaus|kolonni	-	noun	5	-	-	-	-	-
+-	tislaus|laite	-	noun	48	tt:t	-	-	-	-
 -	tislaus|laitos	-	noun	39	-	-	-	-	-
 -	tislaus|pullo	-	noun	1	-	-	-	-	-
 -	titteli|ottelu	-	noun	2	-	-	-	-	-
@@ -87080,6 +87340,7 @@
 -	toiminnan|tarkastaja	-	noun	10	-	-	-	-	-
 -	toiminta|edellytys	-	noun	39	-	-	-	-	-
 -	toiminta|häiriö	-	noun	3	-	-	-	-	-
+-	toiminta|jakso	-	noun	1	-	-	-	-	-
 -	toiminta|jännäri	-	noun	6	-	-	-	coll	-
 -	toiminta|kausi	-	noun	27	-	-	-	-	-
 -	toiminta|kertomus	-	noun	39	-	-	-	-	-
@@ -87103,6 +87364,7 @@
 -	toiminta|tarmo	-	noun	1	-	-	-	-	-
 -	toiminta|terapeutti	-	noun	5	tt:t	-	-	-	-
 -	toiminta|terapia	-	noun	12	-	-	-	-	-
+-	toiminta|tila	-	noun	9	-	-	-	-	-
 -	toiminta|valmius	-	noun	40	-	-	-	-	-
 -	toiminta|vapaus	-	noun	40	-	-	-	-	-
 -	toiminta|varmuus	-	noun	40	-	-	-	-	-
@@ -87146,8 +87408,10 @@
 -	toimitus|osoite	-	noun	48	tt:t	-	-	-	-
 -	toimitus|paikka	-	noun	9	kk:k	-	-	-	-
 -	toimitus|palkkio	-	noun	3	-	-	-	-	-
+-	toimitus|päivä	-	noun	10	-	-	-	-	-
 -	toimitus|päällikkö	-	noun	4	kk:k	-	-	-	-
 -	toimitus|sihteeri	-	noun	6	-	-	-	-	-
+-	toimitus|sopimus	-	noun	39	-	-	-	-	-
 -	toimitus|tekniikka	-	noun	14	kk:k	-	-	-	-
 -	toimitus|työ	-	noun	19	-	-	-	-	-
 -	toimi|aika	-	noun	9	ik:j	-	-	-	-
@@ -87467,11 +87731,13 @@
 -	tuki|kohta	-	noun	10	t:d	-	-	-	-
 -	tuki|koti	-	noun	5	t:d	-	-	-	-
 -	tuki|kudos	-	noun	39	-	-	-	-	-
+-	tuki|laakeri	-	noun	6	-	-	-	-	-
 -	tuki|lakko	-	noun	1	kk:k	-	-	-	-
 -	tuki|liivi	-	noun	5	-	-	-	-	-
 -	tuki|linja	-	noun	9	-	-	-	-	-
 -	tuki|mies	-	noun	42	-	-	-	-	-
 -	tuki|muoto	-	noun	1	t:d	-	-	-	-
+-	tuki|muuri	-	noun	5	-	-	-	-	-
 -	tuki|opettaja	-	noun	10	-	-	-	-	-
 -	tuki|opetus	-	noun	39	-	-	-	-	-
 -	tuki|oppilas	-	noun	41	-	-	-	-	-
@@ -87534,6 +87800,7 @@
 -	tukku|myyjä	-	noun	10	-	-	-	-	-
 -	tukku|myynti	-	noun	5	nt:nn	-	-	-	-
 -	tukku|ostaja	-	noun	10	-	-	-	-	-
+-	tukku|osto	-	noun	1	-	-	-	-	-
 -	tukku|tori	-	noun	5	-	-	-	-	-
 -	tulehdus|erite	-	noun	48	tt:t	-	-	-	-
 -	tulehdus|neste	-	noun	48	-	-	-	-	-
@@ -87611,6 +87878,7 @@
 -	tullin|kanto	-	noun	1	nt:nn	-	-	-	-
 -	tulli|alue	-	noun	48	-	-	-	-	-
 -	tulli|asema	-	noun	10	-	-	-	-	-
+-	tulli|etuus	-	noun	40	-	-	-	-	-
 -	tulli|helpotus	-	noun	39	-	-	-	-	-
 -	tulli|kamari	-	noun	6	-	-	-	-	-
 -	tulli|käsittely	-	noun	2	-	-	-	-	-
@@ -87626,6 +87894,7 @@
 -	tulli|raja	-	noun	9	-	-	-	-	-
 -	tulli|rikos	-	noun	39	-	-	-	-	-
 -	tulli|selvitys	-	noun	39	-	-	-	-	-
+-	tulli|sinetti	-	noun	5	tt:t	-	-	-	-
 -	tulli|sopimus	-	noun	39	-	-	-	-	-
 -	tulli|suoja	-	noun	10	-	-	-	-	-
 -	tulli|taksa	-	noun	9	-	-	-	-	-
@@ -87680,6 +87949,7 @@
 -	tulo|matka	-	noun	9	-	-	-	-	-
 -	tulo|neuvottelu	-	noun	2	-	-	-	-	-
 -	tulo|politiikka	-	noun	9	kk:k	-	-	-	-
+-	tulo|puoli	-	noun	26	-	-	-	-	-
 -	tulo|päivä	-	noun	10	-	-	-	-	-
 -	tulo|rahoitus	-	noun	39	-	-	-	-	-
 -	tulo|raja	-	noun	9	-	-	-	-	-
@@ -87727,6 +87997,7 @@
 -	tundra|urpiainen	-	noun	38	-	-	-	-	-
 -	tundra|vyöhyke	-	noun	48	kk:k	-	-	-	-
 -	tungos|aika	-	noun	9	ik:j	-	-	-	-
+-	tunkeutumis|syvyys	-	noun	40	-	-	-	-	-
 -	tunneli|teltta	-	noun	9	tt:t	-	-	-	-
 -	tunneli|varjo	-	noun	1	-	-	-	-	-
 -	tunnelma|kuva	-	noun	10	-	-	-	-	-
@@ -87950,6 +88221,7 @@
 -	tuonti|rajoitus	-	noun	39	-	-	-	-	-
 -	tuonti|säännöstely	-	noun	2	-	-	-	-	-
 -	tuonti|tavara	-	noun	12	-	-	-	-	-
+-	tuonti|tulli	-	noun	5	-	-	-	-	-
 -	tuonti|vero	-	noun	1	-	-	-	-	-
 -	tuonti|vilja	-	noun	9	-	-	-	-	-
 -	tuon|puoleinen	-	noun	38	-	-	-	-	-
@@ -87992,6 +88264,7 @@
 -	tuotanto|kyky	-	noun	1	k:v	-	-	-	-
 -	tuotanto|laitos	-	noun	39	-	-	-	-	-
 -	tuotanto|linja	-	noun	9	-	-	-	-	-
+-	tuotanto|määrä	-	noun	10	-	-	-	-	-
 -	tuotanto|palkkio	-	noun	3	-	-	-	-	-
 -	tuotanto|prosessi	-	noun	5	-	-	-	-	-
 -	tuotanto|päällikkö	-	noun	4	kk:k	-	-	-	-
@@ -88002,8 +88275,10 @@
 -	tuotanto|tavoite	-	noun	48	tt:t	-	-	-	-
 -	tuotanto|teho	-	noun	1	-	-	-	-	-
 -	tuotanto|tekniikka	-	noun	14	kk:k	-	-	-	-
+-	tuotanto|tuki	-	noun	7	k:	-	-	-	-
 -	tuotanto|väline	-	noun	48	-	-	-	-	-
 -	tuotanto|yhtiö	-	noun	3	-	-	-	-	-
+-	tuotanto|yksikkö	-	noun	4	kk:k	-	-	-	-
 -	tuote|idea	-	noun	12	-	-	-	-	-
 -	tuote|informaatio	-	noun	3	-	-	-	-	-
 -	tuote|kehittely	-	noun	2	-	-	-	-	-
@@ -88312,6 +88587,7 @@
 -	tutkinnon|uudistus	-	noun	39	-	-	-	-	-
 -	tutkinta|menettely	-	noun	2	-	-	-	-	-
 -	tutkinta|pyyntö	-	noun	1	nt:nn	-	-	-	-
+-	tutkinta|tuomari	-	noun	6	-	-	-	-	-
 -	tutkinta|vankeus	-	noun	40	-	-	-	-	-
 -	tutkinta|vanki	-	noun	5	nk:ng	-	-	-	-
 -	tutkinta|vankila	-	noun	12	-	-	-	-	-
@@ -88474,6 +88750,7 @@
 -	tynkä|kokous	-	noun	39	-	-	-	-	-
 -	tynnyrin|ala	-	noun	9	-	-	-	-	-
 -	tynnyrin|tappi	-	noun	5	pp:p	-	-	-	-
+-	tynnyrin|tekijä	-	noun	12	-	-	-	-	-
 -	tynnyrin|vanne	-	noun	48	nt:nn	-	-	-	-
 -	tynnyri|holvi	-	noun	5	-	-	-	-	-
 -	tynnyri|lauta	-	noun	9	t:d	-	-	-	-
@@ -88589,7 +88866,9 @@
 -	työhön|opastaja	-	noun	10	-	-	-	-	-
 -	työhön|opastus	-	noun	39	-	-	-	-	-
 -	työhön|ottaja	-	noun	10	-	-	-	-	-
+-	työhön|otto	-	noun	1	tt:t	-	-	-	-
 -	työhön|valmennus	-	noun	39	-	-	-	-	-
+-	työllistämis|tuki	-	noun	7	k:	-	-	-	-
 -	työllisyys|aste	-	noun	48	-	-	-	-	-
 -	työllisyys|koulutus	-	noun	39	-	-	-	-	-
 -	työllisyys|kurssi	-	noun	5	-	-	-	-	-
@@ -89016,6 +89295,7 @@
 -	täyte|keksi	-	noun	5	-	-	-	-	-
 -	täyte|kynä	-	noun	10	-	-	-	-	-
 -	täyte|maa	-	noun	18	-	-	-	-	-
+-	täyte|merkki	-	noun	5	kk:k	-	-	-	-
 -	täyte|numero	-	noun	2	-	-	-	-	-
 -	täyte|pohja	-	noun	10	-	-	-	-	-
 -	täyte|sana	-	noun	9	-	-	-	-	-
@@ -89443,9 +89723,11 @@
 -	uraani|esiintymä	-	noun	10	-	-	-	-	-
 -	uraani|kaivos	-	noun	39	-	-	-	-	-
 -	uraani|malmi	-	noun	5	-	-	-	-	-
+-	urakka|hinta	-	noun	9	-	-	-	-	-
 -	urakka|palkka	-	noun	9	kk:k	-	-	-	-
 -	urakka|sopimus	-	noun	39	-	-	-	-	-
 -	urakka|summa	-	noun	10	-	-	-	-	-
+-	urakka|tarjous	-	noun	39	-	-	-	-	-
 -	urakka|työ	-	noun	19	-	-	-	-	-
 -	urakointi|liike	-	noun	48	kk:k	-	-	-	-
 -	uran|uurtaja	-	noun	10	-	-	-	-	-
@@ -89595,8 +89877,10 @@
 -	uudelleen|arviointi	-	noun	5	nt:nn	-	-	-	-
 -	uudelleen|järjestely	-	noun	2	-	-	-	-	-
 -	uudelleen|koulutus	-	noun	39	-	-	-	-	-
+-	uudelleen|käsittely	-	noun	2	-	-	-	-	-
 -	uudelleen|käyttö	-	noun	1	tt:t	-	-	-	-
 -	uudelleen|ohjelmointi	-	noun	5	nt:nn	-	-	-	-
+-	uudelleen|sijoitus	-	noun	39	-	-	-	-	-
 -	uudelleen|valinta	-	noun	9	nt:nn	-	-	-	-
 -	uudesti|syntyminen	-	noun	38	-	-	-	-	-
 -	uudistus|ala	-	noun	9	-	-	-	-	-
@@ -89960,6 +90244,7 @@
 -	vahingon|tekijä	-	noun	12	-	-	-	-	-
 -	vahingon|teko	-	noun	1	k:	-	-	-	-
 -	vahinko|eläin	-	noun	33	-	-	-	-	-
+-	vahinko|ilmoitus	-	noun	39	-	-	-	-	-
 -	vahinko|laukaus	-	noun	39	-	-	-	-	-
 -	vahinko|vakuutus	-	noun	39	-	-	-	-	-
 -	vahti|koira	-	noun	10	-	-	-	-	-
@@ -89982,6 +90267,7 @@
 -	vaihettumis|vyöhyke	-	noun	48	kk:k	-	-	-	-
 -	vaihe|johdin	-	noun	33	t:d	-	-	-	-
 -	vaihe|jännite	-	noun	48	tt:t	-	-	-	-
+-	vaihe|siirto	-	noun	1	rt:rr	-	-	-	-
 -	vaihe|työ	-	noun	19	-	-	-	-	-
 -	vaihteisto|öljy	-	noun	1	-	-	-	-	-
 -	vaihtelun|halu	-	noun	1	-	-	-	-	-
@@ -89999,6 +90285,7 @@
 -	vaihto|kassa	-	noun	9	-	-	-	-	-
 -	vaihto|kauppa	-	noun	9	pp:p	-	-	-	-
 -	vaihto|kurssi	-	noun	5	-	-	-	-	-
+-	vaihto|kytkin	-	noun	33	-	-	-	-	-
 -	vaihto|lava	-	noun	9	-	-	-	-	-
 -	vaihto|lyöjä	-	noun	10	-	-	-	-	-
 -	vaihto|lyönti	-	noun	5	nt:nn	-	-	-	-
@@ -90032,6 +90319,7 @@
 -	vaikeus|aste	-	noun	48	-	-	-	-	-
 -	vaikuttaja|yksilö	-	noun	2	-	-	-	-	-
 -	vaikutus|aika	-	noun	9	ik:j	-	-	-	-
+-	vaikutus|ala	-	noun	9	-	-	-	-	-
 -	vaikutus|alue	-	noun	48	-	-	-	-	-
 -	vaikutus|kanava	-	noun	10	-	-	-	-	-
 -	vaikutus|keino	-	noun	1	-	-	-	-	-
@@ -90044,6 +90332,8 @@
 -	vaikutus|suunta	-	noun	10	nt:nn	-	-	-	-
 -	vaikutus|valta	-	noun	9	lt:ll	-	-	-	-
 -	vaikutus|voima	-	noun	10	-	-	-	-	-
+-	vaimennus|kerroin	-	noun	33	rt:rr	-	-	-	-
+-	vaimennus|suhde	-	noun	48	t:d	-	-	-	-
 -	vaimo|ihminen	-	noun	38	-	-	-	coll|dial	-
 -	vainajain|palvonta	-	noun	9	nt:nn	-	-	-	-
 -	vaino|harha	-	noun	9	-	-	-	-	-
@@ -90161,6 +90451,7 @@
 -	vakuutus|sopimus	-	noun	39	-	-	-	-	-
 -	vakuutus|summa	-	noun	10	-	-	-	-	-
 -	vakuutus|tapahtuma	-	noun	10	-	-	-	-	-
+-	vakuutus|tarkastaja	-	noun	10	-	-	-	-	-
 -	vakuutus|turva	-	noun	10	-	-	-	-	-
 -	vakuutus|yhdistelmä	-	noun	10	-	-	-	-	-
 -	vakuutus|yhtiö	-	noun	3	-	-	-	-	-
@@ -90212,6 +90503,7 @@
 -	valinnan|vara	-	noun	9	-	-	-	-	-
 -	valinta|koe	-	noun	48	k:	-	-	-	-
 -	valinta|kriteeri	-	noun	6	-	-	-	-	-
+-	valinta|kytkin	-	noun	33	-	-	-	-	-
 -	valinta|levy	-	noun	1	-	-	-	-	-
 -	valinta|mahdollisuus	-	noun	40	-	-	-	-	-
 -	valinta|myymälä	-	noun	12	-	-	-	-	-
@@ -90349,13 +90641,16 @@
 -	valmistus|aine	-	noun	48	-	-	-	-	-
 -	valmistus|erä	-	noun	10	-	-	-	-	-
 -	valmistus|hakkuu	-	noun	17	-	-	-	-	-
+-	valmistus|hinta	-	noun	9	-	-	-	-	-
 -	valmistus|lisenssi	-	noun	5	-	-	-	-	-
 -	valmistus|maa	-	noun	18	-	-	-	-	-
 -	valmistus|menetelmä	-	noun	10	-	-	-	-	-
+-	valmistus|numero	-	noun	2	-	-	-	-	-
 -	valmistus|ohje	-	noun	48	-	-	-	-	-
 -	valmistus|paikka	-	noun	9	kk:k	-	-	-	-
 -	valmistus|prosessi	-	noun	5	-	-	-	-	-
 -	valmistus|päivä	-	noun	10	-	-	-	-	-
+-	valmistus|tapa	-	noun	9	p:v	-	-	-	-
 -	valmistus|tekniikka	-	noun	14	kk:k	-	-	-	-
 -	valmistus|vaihe	-	noun	48	-	-	-	-	-
 -	valmistus|vika	-	noun	9	k:	-	-	-	-
@@ -90494,6 +90789,7 @@
 -	valta|enemmistö	-	noun	1	-	-	-	-	-
 -	valta|istuin	-	noun	33	-	-	-	-	-
 -	valta|kamppailu	-	noun	2	-	-	-	-	-
+-	valta|katu	-	noun	1	t:d	-	-	-	-
 -	valta|kausi	-	noun	27	-	-	-	-	-
 -	valta|kieli	-	noun	26	-	-	-	-	-
 -	valta|kirja	-	noun	9	-	-	-	-	-
@@ -90534,6 +90830,7 @@
 -	valtimo|veri	-	noun	26	-	-	-	-	-
 -	valtion|apu	-	noun	1	p:v	-	-	-	-
 -	valtion|arkeologi	-	noun	5	-	-	-	-	-
+-	valtion|arkisto	-	noun	2	-	-	-	-	-
 -	valtion|avustus	-	noun	39	-	-	-	-	-
 -	valtion|hallinto	-	noun	1	nt:nn	-	-	-	-
 -	valtion|hoitaja	-	noun	10	-	-	-	-	-
@@ -90545,6 +90842,7 @@
 -	valtion|obligaatio	-	noun	3	-	-	-	-	-
 -	valtion|osuus	-	noun	40	-	-	-	-	-
 -	valtion|palkinto	-	noun	1	nt:nn	-	-	-	-
+-	valtion|pankki	-	noun	5	kk:k	-	-	-	-
 -	valtion|perintö	-	noun	1	nt:nn	-	-	-	-
 -	valtion|syyttäjä	-	noun	10	-	-	-	-	-
 -	valtion|takaus	-	noun	39	-	-	-	-	-
@@ -90617,6 +90915,7 @@
 -	valu|metalli	-	noun	5	-	-	-	-	-
 -	valu|muotti	-	noun	5	tt:t	-	-	-	-
 -	valu|rauta	-	noun	9	t:d	-	-	-	-
+-	valu|sauma	-	noun	9	-	-	-	-	-
 -	valu|teräs	-	noun	39	-	-	-	-	-
 -	valu|tuote	-	noun	48	tt:t	-	-	-	-
 -	valu|vika	-	noun	9	k:	-	-	-	-
@@ -90649,6 +90948,7 @@
 -	vaneri|teollisuus	-	noun	40	-	-	-	-	-
 -	vangin|puku	-	noun	1	k:v	-	-	-	-
 -	vangin|vartija	-	noun	12	-	-	-	-	-
+-	vangitsemis|määräys	-	noun	39	-	-	-	-	-
 -	vanhain|koti	-	noun	5	t:d	-	-	-	-
 -	vanhan|aikainen	-	noun	38	-	-	-	-	-
 -	vanhan|aikaisuus	-	noun	40	-	-	-	-	-
@@ -90660,6 +90960,7 @@
 -	vanhempain|raha	-	noun	9	-	-	-	-	-
 -	vanhempain|vapaa	-	noun	17	-	-	-	-	-
 -	vanhempain|yhdistys	-	noun	39	-	-	-	-	-
+-	vanhentumis|aika	-	noun	9	ik:j	-	-	-	-
 -	vanhoillis|lestadiolainen	-	noun	38	-	-	-	-	-
 -	vanhoillis|lestadiolaisuus	-	noun	40	-	-	-	-	-
 -	vanhojen|päivä	-	noun	10	-	-	-	-	-
@@ -90716,6 +91017,7 @@
 -	vapaa|kauppa	-	noun	9	pp:p	-	-	-	-
 -	vapaa|kaupunki	-	noun	5	nk:ng	-	-	-	-
 -	vapaa|kiipeily	-	noun	2	-	-	-	-	-
+-	vapaa|kirja	-	noun	9	-	-	-	-	-
 -	vapaa|kirkko	-	noun	1	kk:k	-	-	-	-
 -	vapaa|kirkollinen	-	noun	38	-	-	-	-	-
 -	vapaa|kirkollisuus	-	noun	40	-	-	-	-	-
@@ -90928,12 +91230,14 @@
 -	varkaus|juttu	-	noun	1	tt:t	-	-	-	-
 -	varkaus|vakuutus	-	noun	39	-	-	-	-	-
 -	varmuus|etäisyys	-	noun	40	-	-	-	-	-
+-	varmuus|kerroin	-	noun	33	rt:rr	-	-	-	-
 -	varmuus|ketju	-	noun	1	-	-	-	-	-
 -	varmuus|kopio	-	noun	3	-	-	-	-	-
 -	varmuus|kopiointi	-	noun	5	nt:nn	-	-	-	-
 -	varmuus|lanka	-	noun	9	nk:ng	-	-	-	-
 -	varmuus|lasi	-	noun	5	-	-	-	-	-
 -	varmuus|lukko	-	noun	1	kk:k	-	-	-	-
+-	varmuus|vara	-	noun	9	-	-	-	-	-
 -	varmuus|varasto	-	noun	2	-	-	-	-	-
 -	varmuus|varastointi	-	noun	5	nt:nn	-	-	-	-
 -	varmuus|väline	-	noun	48	-	-	-	coll	-
@@ -91678,6 +91982,7 @@
 -	verolle|pano	-	noun	1	-	-	-	-	-
 -	veron|alennus	-	noun	39	-	-	-	-	-
 -	veron|huojennus	-	noun	39	-	-	-	-	-
+-	veron|kantaja	-	noun	10	-	-	-	-	-
 -	veron|kanto	-	noun	1	nt:nn	-	-	-	-
 -	veron|kavallus	-	noun	39	-	-	-	dated	-
 -	veron|kevennys	-	noun	39	-	-	-	-	-
@@ -91745,6 +92050,7 @@
 -	vero|suunnittelu	-	noun	2	-	-	-	-	-
 -	vero|taakka	-	noun	9	kk:k	-	-	-	-
 -	vero|talous	-	noun	40	-	-	-	-	-
+-	vero|tarkastaja	-	noun	10	-	-	-	-	-
 -	vero|tarkastus	-	noun	39	-	-	-	-	-
 -	vero|toimisto	-	noun	2	-	-	-	-	-
 -	vero|tulo	-	noun	1	-	-	-	-	-
@@ -91775,6 +92081,7 @@
 -	verso|syöpä	-	noun	10	p:v	-	-	dated	-
 -	vertailu|aineisto	-	noun	2	-	-	-	-	-
 -	vertailu|analyysi	-	noun	5	-	-	-	-	-
+-	vertailu|arvo	-	noun	1	-	-	-	-	-
 -	vertailu|aste	-	noun	48	-	-	-	-	-
 -	vertailu|kehittäminen	-	noun	38	-	-	-	-	-
 -	vertailu|kelpoisuus	-	noun	40	-	-	-	-	-
@@ -91783,6 +92090,7 @@
 -	vertailu|luku	-	noun	1	k:v	-	-	-	-
 -	vertailu|menetelmä	-	noun	10	-	-	-	-	-
 -	vertailu|muoto	-	noun	1	t:d	-	-	-	-
+-	vertailu|piste	-	noun	48	-	-	-	-	-
 -	vertailu|pohja	-	noun	10	-	-	-	-	-
 -	vertailu|ryhmä	-	noun	10	-	-	-	-	-
 -	vertais|arvioija	-	noun	10	-	-	-	-	-
@@ -92045,6 +92353,7 @@
 -	veto|auto	-	noun	1	-	-	-	-	-
 -	veto|härkä	-	noun	10	k:	-	-	-	-
 -	veto|juhta	-	noun	10	t:d	-	-	-	-
+-	veto|jännitys	-	noun	39	-	-	-	-	-
 -	veto|kaappi	-	noun	5	pp:p	-	-	-	-
 -	veto|kalusto	-	noun	1	-	-	-	-	-
 -	veto|ketju	-	noun	1	-	-	-	-	-
@@ -92065,7 +92374,9 @@
 -	veto|nuppi	-	noun	5	pp:p	-	-	-	-
 -	veto|pasuuna	-	noun	13	-	-	-	-	-
 -	veto|poro	-	noun	1	-	-	-	-	-
+-	veto|pyörä	-	noun	10	-	-	-	-	-
 -	veto|pyörästö	-	noun	2	-	-	-	-	-
+-	veto|rasitus	-	noun	39	-	-	-	-	-
 -	veto|solmu	-	noun	1	-	-	-	-	-
 -	veto|suunta	-	noun	10	nt:nn	-	-	-	-
 -	veto|teline	-	noun	48	-	-	-	-	-
@@ -92090,6 +92401,7 @@
 -	vety|sidos	-	noun	39	-	-	-	-	-
 -	vetäytymis|operaatio	-	noun	3	-	-	-	-	-
 -	vetäytymis|taistelu	-	noun	2	-	-	-	-	-
+-	vian|etsintä	-	noun	9	nt:nn	-	-	-	-
 -	vichy|vesi	-	noun	27	-	-	-	-	-
 -	video|blogi	-	noun	5	-	-	-	-	-
 -	video|filmi	-	noun	5	-	-	-	-	-
@@ -92144,6 +92456,7 @@
 -	viemäri|putkisto	-	noun	2	-	-	-	-	-
 -	viemäri|suoli	-	noun	26	-	-	-	-	-
 -	viemäri|verkko	-	noun	1	kk:k	-	-	-	-
+-	viemäri|vesi	-	noun	27	-	-	-	-	-
 -	viemäröinti|liitin	-	noun	33	tt:t	-	-	-	-
 -	viemäröinti|palvelu	-	noun	2	-	-	-	-	-
 -	vienan|karjala	-	noun	12	-	-	-	-	-
@@ -92178,6 +92491,7 @@
 -	vienti|tavara	-	noun	12	-	-	-	-	-
 -	vienti|teollisuus	-	noun	40	-	-	-	-	-
 -	vienti|tuki	-	noun	7	k:	-	-	-	-
+-	vienti|tulli	-	noun	5	-	-	-	-	-
 -	vienti|tuote	-	noun	48	tt:t	-	-	-	-
 -	vienti|voittoisuus	-	noun	40	-	-	-	-	-
 -	vieraan|vara	-	noun	9	-	-	-	-	-
@@ -92513,6 +92827,8 @@
 -	viini|karahvi	-	noun	5	-	-	-	-	-
 -	viini|kassa	-	noun	9	-	-	-	-	-
 -	viini|kellari	-	noun	6	-	-	-	-	-
+-	viini|kirva	-	noun	9	-	-	-	-	-
+-	viini|kivi	-	noun	5	-	-	-	-	-
 -	viini|kulttuuri	-	noun	6	-	-	-	-	-
 -	viini|kumi	-	noun	5	-	-	-	-	-
 -	viini|köynnös	-	noun	39	-	-	-	-	-
@@ -92593,6 +92909,7 @@
 -	viiva|spektri	-	noun	5	-	-	-	-	-
 -	viiva|syövytys	-	noun	39	-	-	-	-	-
 -	viiva|varjostus	-	noun	39	-	-	-	-	-
+-	viive|aika	-	noun	9	ik:j	-	-	-	-
 -	viivytys|taistelu	-	noun	2	-	-	-	-	-
 -	viivästymis|aika	-	noun	9	ik:j	-	-	-	-
 -	viivästys|korko	-	noun	1	k:	-	-	-	-
@@ -92774,8 +93091,10 @@
 -	vipu|varsi	-	noun	28	rt:rr	-	-	-	-
 -	viraapeli|työ	-	noun	19	-	-	-	coll	-
 -	viralta|pano	-	noun	1	-	-	-	-	-
+-	viran|hakija	-	noun	12	-	-	-	-	-
 -	viran|haku	-	noun	1	k:	-	-	-	-
 -	viran|haltija	-	noun	12	-	-	-	-	-
+-	viran|hoito	-	noun	1	t:d	-	-	-	-
 -	viran|omainen	-	noun	38	-	-	-	-	-
 -	viran|sijainen	-	noun	38	-	-	-	-	-
 -	viran|sijaisuus	-	noun	40	-	-	-	-	-
@@ -92841,6 +93160,7 @@
 -	virka|kieli	-	noun	26	-	-	-	-	-
 -	virka|kielto	-	noun	1	lt:ll	-	-	-	-
 -	virka|koneisto	-	noun	2	-	-	-	-	-
+-	virka|kunta	-	noun	10	nt:nn	-	-	-	-
 -	virka|lakki	-	noun	5	kk:k	-	-	-	-
 -	virka|leima	-	noun	9	-	-	-	-	-
 -	virka|matka	-	noun	9	-	-	-	-	-
@@ -92931,6 +93251,7 @@
 -	virta|mittari	-	noun	6	-	-	-	-	-
 -	virta|paikka	-	noun	9	kk:k	-	-	-	-
 -	virta|piiri	-	noun	5	-	-	-	-	-
+-	virta|vahvistus	-	noun	39	-	-	-	-	-
 -	virta|viivaistus	-	noun	39	-	-	-	-	-
 -	virta|västäräkki	-	noun	5	kk:k	-	-	-	-
 -	virtsaamis|pakko	-	noun	1	kk:k	-	-	-	-
@@ -93296,6 +93617,7 @@
 -	vuori|jono	-	noun	1	-	-	-	-	-
 -	vuori|kangas	-	noun	41	nk:ng	-	-	-	-
 -	vuori|kaunokki	-	noun	5	kk:k	-	-	-	-
+-	vuori|kauris	-	noun	41	-	-	-	-	-
 -	vuori|kide	-	noun	48	t:d	-	-	-	-
 -	vuori|kiipeilijä	-	noun	12	-	-	-	-	-
 -	vuori|kiipeily	-	noun	2	-	-	-	-	-
@@ -93328,6 +93650,7 @@
 -	vuoro|keskustelu	-	noun	2	-	-	-	-	-
 -	vuoro|kone	-	noun	48	-	-	-	-	-
 -	vuoro|laulu	-	noun	1	-	-	-	-	-
+-	vuoro|lento	-	noun	1	-	-	-	-	-
 -	vuoro|luku	-	noun	1	k:v	-	-	-	-
 -	vuoro|numero	-	noun	2	-	-	-	-	-
 -	vuoro|paikoitus	-	noun	39	-	-	-	-	-
@@ -93415,6 +93738,7 @@
 -	vyöhyke|hakkuu	-	noun	17	-	-	-	-	-
 -	vyöhyke|jako	-	noun	1	k:	-	-	-	-
 -	vyöhyke|raja	-	noun	9	-	-	-	-	-
+-	vyöhyke|tariffi	-	noun	5	-	-	-	-	-
 -	vyöhyke|terapia	-	noun	12	-	-	-	-	-
 -	vyötärö|hame	-	noun	48	-	-	-	-	-
 -	vyötärö|kaitale	-	noun	48	-	-	-	-	-
@@ -93487,6 +93811,7 @@
 -	vähimmäis|eläke	-	noun	48	kk:k	-	-	-	-
 -	vähimmäis|hinta	-	noun	9	nt:nn	-	-	-	-
 -	vähimmäis|ikä	-	noun	10	k:	-	-	-	-
+-	vähimmäis|maksu	-	noun	1	-	-	-	-	-
 -	vähimmäis|määrä	-	noun	10	-	-	-	-	-
 -	vähimmäis|nopeus	-	noun	40	-	-	-	-	-
 -	vähimmäis|paino	-	noun	1	-	-	-	-	-
@@ -93496,6 +93821,8 @@
 -	vähimmäis|vaatimus	-	noun	39	-	-	-	-	-
 -	vähittäis|hinta	-	noun	9	nt:nn	-	-	-	-
 -	vähittäis|kauppa	-	noun	9	pp:p	-	-	-	-
+-	vähittäis|kauppias	-	noun	41	-	-	-	-	-
+-	vähittäis|maksu	-	noun	1	-	-	-	-	-
 -	vähittäis|myyjä	-	noun	10	-	-	-	-	-
 -	vähittäis|myymälä	-	noun	12	-	-	-	-	-
 -	vähittäis|myynti	-	noun	5	nt:nn	-	-	-	-
@@ -93538,6 +93865,7 @@
 -	väki|valta	-	noun	9	lt:ll	-	-	-	-
 -	väki|valtaisuus	-	noun	40	-	-	-	-	-
 -	väki|viina	-	noun	9	-	-	-	-	-
+-	väki|vipu	-	noun	1	p:v	-	-	-	-
 -	väkä|leuka	-	noun	9	k:	-	-	-	-
 -	välien|selvittely	-	noun	2	-	-	-	-	-
 -	välien|selvitys	-	noun	39	-	-	-	-	-
@@ -93556,9 +93884,11 @@
 -	välittäjä|aine	-	noun	48	-	-	-	-	-
 -	välitys|ehdotus	-	noun	39	-	-	-	-	-
 -	välitys|kauppa	-	noun	9	pp:p	-	-	-	-
+-	välitys|liike	-	noun	48	kk:k	-	-	-	-
 -	välitys|oikeus	-	noun	40	-	-	-	-	-
 -	välitys|palkkio	-	noun	3	-	-	-	-	-
 -	välitys|palvelin	-	noun	33	-	-	-	-	-
+-	välitys|sopimus	-	noun	39	-	-	-	-	-
 -	välitys|suhde	-	noun	48	t:d	-	-	-	-
 -	välitys|toiminta	-	noun	9	nt:nn	-	-	-	-
 -	välitys|tuomio	-	noun	3	-	-	-	-	-
@@ -93647,6 +93977,7 @@
 -	värin|kesto	-	noun	1	-	-	-	-	-
 -	värin|muutos	-	noun	39	-	-	-	-	-
 -	värin|pitävyys	-	noun	40	-	-	-	-	-
+-	värin|poisto	-	noun	1	-	-	-	-	-
 -	värin|toisto	-	noun	1	-	-	-	-	-
 -	värin|vaihtelu	-	noun	2	-	-	-	-	-
 -	värinä|hälytys	-	noun	39	-	-	-	-	-
@@ -93873,6 +94204,7 @@
 -	yhdys|elämä	-	noun	10	-	-	-	-	-
 -	yhdys|henkilö	-	noun	2	-	-	-	-	-
 -	yhdys|jana	-	noun	9	-	-	-	-	-
+-	yhdys|johto	-	noun	1	t:d	-	-	-	-
 -	yhdys|järjestö	-	noun	2	-	-	-	-	-
 -	yhdys|kunta	-	noun	10	nt:nn	-	-	-	-
 -	yhdys|käytävä	-	noun	10	-	-	-	-	-
@@ -93906,6 +94238,7 @@
 -	yhteen|sopimattomuus	-	noun	40	-	-	-	-	-
 -	yhteen|sopivuus	-	noun	40	-	-	-	-	-
 -	yhteen|sovittaminen	-	noun	38	-	-	-	-	-
+-	yhteen|sulautuminen	-	noun	38	-	-	-	-	-
 -	yhteen|törmäys	-	noun	39	-	-	-	-	-
 -	yhteen|veto	-	noun	1	t:d	-	-	-	-
 -	yhteis|alue	-	noun	48	-	-	-	-	-
@@ -93948,6 +94281,7 @@
 -	yhteis|majoitus	-	noun	39	-	-	-	-	-
 -	yhteis|metsä	-	noun	10	-	-	-	-	-
 -	yhteis|mitattomuus	-	noun	40	-	-	-	-	-
+-	yhteis|määrä	-	noun	10	-	-	-	-	-
 -	yhteis|nimitys	-	noun	39	-	-	-	-	-
 -	yhteis|näyttely	-	noun	2	-	-	-	-	-
 -	yhteis|omaisuus	-	noun	40	-	-	-	-	-
@@ -93962,6 +94296,7 @@
 -	yhteis|toiminta	-	noun	9	nt:nn	-	-	-	-
 -	yhteis|toimivuus	-	noun	40	-	-	-	-	-
 -	yhteis|tulos	-	noun	39	-	-	-	-	-
+-	yhteis|tuotanto	-	noun	1	nt:nn	-	-	-	-
 -	yhteis|tutkinto	-	noun	1	nt:nn	-	-	-	-
 -	yhteis|työ	-	noun	19	-	-	-	-	-
 -	yhteis|vaikutus	-	noun	39	-	-	-	-	-
@@ -93985,6 +94320,7 @@
 -	yhtenäis|kulttuuri	-	noun	6	-	-	-	-	-
 -	yhtenäis|päällystö	-	noun	2	-	-	-	-	-
 -	yhtenäis|valtio	-	noun	3	-	-	-	-	-
+-	yhtenäis|valuutta	-	noun	9	tt:t	-	-	-	-
 -	yhteyden|otto	-	noun	1	tt:t	-	-	-	-
 -	yhteyden|pito	-	noun	1	t:d	-	-	-	-
 -	yhteys|alus	-	noun	39	-	-	-	-	-
@@ -94003,6 +94339,7 @@
 -	yhtiö|muoto	-	noun	1	t:d	-	-	-	-
 -	yhtiö|sopimus	-	noun	39	-	-	-	-	-
 -	yhtiö|vastike	-	noun	48	kk:k	-	-	-	-
+-	yhtiö|vero	-	noun	1	-	-	-	-	-
 -	yhtymä|kohta	-	noun	10	t:d	-	-	-	-
 -	yht|aikaisuus	-	noun	40	-	-	-	-	-
 -	yht|äkkisyys	-	noun	40	-	-	-	-	-
@@ -94180,6 +94517,7 @@
 -	yleis|merkitys	-	noun	39	-	-	-	-	-
 -	yleis|merkki	-	noun	5	kk:k	-	-	-	-
 -	yleis|mies	-	noun	42	-	-	-	-	-
+-	yleis|mittari	-	noun	6	-	-	-	-	-
 -	yleis|nero	-	noun	1	-	-	-	-	-
 -	yleis|nimi	-	noun	7	-	-	-	-	-
 -	yleis|nimitys	-	noun	39	-	-	-	-	-
@@ -94245,6 +94583,7 @@
 -	yleisö|äänestys	-	noun	39	-	-	-	-	-
 -	ylellisyys|esine	-	noun	48	-	-	-	-	-
 -	ylellisyys|tavara	-	noun	12	-	-	-	-	-
+-	ylellisyys|vero	-	noun	1	-	-	-	-	-
 -	ylemmyyden|tunne	-	noun	48	nt:nn	-	-	-	-
 -	ylemmyyden|tunto	-	noun	1	nt:nn	-	-	-	-
 -	ylennys|merkki	-	noun	5	kk:k	-	-	-	-
@@ -94275,6 +94614,7 @@
 -	yli|edustus	-	noun	39	-	-	-	-	-
 -	yli|enkeli	-	noun	6	-	-	-	-	-
 -	yli|herkkyys	-	noun	40	-	-	-	-	-
+-	yli|herruus	-	noun	40	-	-	-	-	-
 -	yli|hinta	-	noun	9	nt:nn	-	-	-	-
 -	yli|hoitaja	-	noun	10	-	-	-	-	-
 -	yli|huomen	-	noun	32	-	-	-	-	-
@@ -94771,6 +95111,7 @@
 -	äänen|muodostus	-	noun	39	-	-	-	-	-
 -	äänen|muokkaus	-	noun	39	-	-	-	-	-
 -	äänen|murros	-	noun	39	-	-	-	-	-
+-	äänen|nopeus	-	noun	40	-	-	-	-	-
 -	äänen|paine	-	noun	48	-	-	-	-	-
 -	äänen|paino	-	noun	1	-	-	-	-	-
 -	äänen|pitävyys	-	noun	40	-	-	-	-	-
@@ -94852,6 +95193,7 @@
 -	ääni|rooli	-	noun	5	-	-	-	-	-
 -	ääni|saalis	-	noun	41	-	-	-	-	-
 -	ääni|signaali	-	noun	6	-	-	-	-	-
+-	ääni|taajuus	-	noun	40	-	-	-	-	-
 -	ääni|taide	-	noun	48	t:d	-	-	-	-
 -	ääni|tallenne	-	noun	48	nt:nn	-	-	-	-
 -	ääni|tarkkaamo	-	noun	2	-	-	-	-	-
@@ -95287,6 +95629,7 @@
 -	adventti|seura|kunta	-	noun	10	nt:nn	-	-	-	-
 -	afgaanin|vintti|koira	-	noun	10	-	-	-	-	-
 -	aie|pöytä|kirja	-	noun	9	-	-	-	-	-
+-	aiheuttamis|peri|aate	-	noun	48	tt:t	-	-	-	-
 -	aika|ero|rasitus	-	noun	39	-	-	-	-	-
 -	aika|kaus|julkaisu	-	noun	2	-	-	-	-	-
 -	aika|kaus|kirja	-	noun	9	-	-	-	-	-
@@ -95369,6 +95712,7 @@
 -	alku|sammutus|väline	-	noun	48	-	-	-	-	-
 -	alku|seura|kunta	-	noun	10	nt:nn	-	-	-	-
 -	alku|vuosi|kymmen	-	noun	32	-	-	-	-	-
+-	alle|kirjoittaja|valtio	-	noun	3	-	-	-	-	-
 -	alta|kastelu|ruukku	-	noun	1	kk:k	-	-	-	-
 -	alue|hallinto|virasto	-	noun	1	-	-	-	-	-
 -	alue|hälytys|keskus	-	noun	39	-	-	-	dated	-
@@ -95412,6 +95756,7 @@
 -	apulais|pää|sihteeri	-	noun	6	-	-	-	-	-
 -	apu|neuvo|teknikko	-	noun	4	kk:k	-	-	-	-
 -	apu|tila|hana	-	noun	9	-	-	-	-	-
+-	apu|toimi|nimi	-	noun	7	-	-	-	-	-
 -	apu|työ|voima	-	noun	10	-	-	-	-	-
 -	apu|väline|teknikko	-	noun	4	kk:k	-	-	-	-
 -	arabi|emiiri|kunta	-	noun	10	nt:nn	-	-	-	-
@@ -95420,10 +95765,12 @@
 -	arkki|hiippa|kunta	-	noun	10	nt:nn	-	-	-	-
 -	arrow|juuri|jauho	-	noun	1	-	-	-	-	-
 -	arvio|määrä|raha	-	noun	9	-	-	-	-	-
+-	arvon|korotus|rahasto	-	noun	2	-	-	-	-	-
 -	arvon|lisä|vero	-	noun	1	-	-	-	-	-
 -	arvon|nousu|vero	-	noun	1	-	-	-	-	-
 -	arvostelu|lauta|kunta	-	noun	10	nt:nn	-	-	-	-
 -	arvo|paperi|kauppa	-	noun	9	pp:p	-	-	-	-
+-	arvo|paperi|kauppias	-	noun	41	-	-	-	-	-
 -	arvo|paperi|pörssi	-	noun	5	-	-	-	-	-
 -	arvo|paperi|salkku	-	noun	1	kk:k	-	-	-	-
 -	arvo|valta|kysymys	-	noun	39	-	-	-	-	-
@@ -95446,6 +95793,7 @@
 -	asian|tuntijan|apu	-	noun	1	p:v	-	-	-	-
 -	asian|tuntijan|lausunto	-	noun	1	nt:nn	-	-	-	-
 -	asian|tuntija|järjestelmä	-	noun	10	-	-	-	-	-
+-	asian|tuntija|lausunto	-	noun	1	nt:nn	-	-	-	-
 -	asia|kirja|salkku	-	noun	1	kk:k	-	-	-	-
 -	asia|kirja|tieto	-	noun	1	t:d	-	-	-	-
 -	asia|mies|posti	-	noun	5	-	-	-	-	-
@@ -95567,6 +95915,7 @@
 -	elin|keino|palvelu	-	noun	2	-	-	-	-	-
 -	elin|keino|rakenne	-	noun	48	nt:nn	-	-	-	-
 -	elin|keino|toimisto	-	noun	2	-	-	-	-	-
+-	elin|keino|tulo	-	noun	1	-	-	-	-	-
 -	elin|keino|vapaus	-	noun	40	-	-	-	-	-
 -	elin|keino|vero	-	noun	1	-	-	-	-	-
 -	elin|kustannus|indeksi	-	noun	5	-	-	-	-	-
@@ -95590,6 +95939,7 @@
 -	elin|tarvike|teollisuus	-	noun	40	-	-	-	-	-
 -	elin|tarvike|tiede	-	noun	48	t:d	-	-	-	-
 -	elin|tarvike|tuotanto	-	noun	1	nt:nn	-	-	-	-
+-	elin|tarvike|valvonta	-	noun	9	nt:nn	-	-	-	-
 -	elin|tarvike|väri	-	noun	5	-	-	-	-	-
 -	elin|taso|kilpa	-	noun	9	p:v	-	-	-	-
 -	elin|taso|kilpailu	-	noun	2	-	-	-	-	-
@@ -95661,6 +96011,7 @@
 -	ennakko|vero|lippu	-	noun	1	pp:p	-	-	-	-
 -	ennakko|äänestys|paikka	-	noun	9	kk:k	-	-	-	-
 -	ennakon|pidätys|todistus	-	noun	39	-	-	-	-	-
+-	ensi|apu|asema	-	noun	10	-	-	-	-	-
 -	ensi|apu|kurssi	-	noun	5	-	-	-	-	-
 -	ensi|apu|laukku	-	noun	1	kk:k	-	-	-	-
 -	ensi|apu|pakkaus	-	noun	39	-	-	-	-	-
@@ -95707,6 +96058,7 @@
 -	eruptiivi|kivi|laji	-	noun	5	-	-	-	-	-
 -	erä|maa|puhelin	-	noun	33	-	-	-	-	-
 -	erä|maa|taival	-	noun	49	p:v	-	-	-	-
+-	esi|kaupunki|alue	-	noun	48	-	-	-	-	-
 -	esi|kunta|komppania	-	noun	12	-	-	-	-	-
 -	esi|kunta|päällikkö	-	noun	4	kk:k	-	-	-	-
 -	esi|kunta|upseeri	-	noun	6	-	-	-	-	-
@@ -95864,6 +96216,7 @@
 -	hiiva|oire|yhtymä	-	noun	10	-	-	-	-	-
 -	hiiva|sieni|tulehdus	-	noun	39	-	-	-	-	-
 -	hinnan|alennus|korvaus	-	noun	39	-	-	-	-	-
+-	hinnan|ero|korvaus	-	noun	39	-	-	-	-	-
 -	hinta|lauta|kunta	-	noun	10	nt:nn	-	-	-	-
 -	hinta|viran|omainen	-	noun	38	-	-	-	-	-
 -	hirven|kaato|lupa	-	noun	10	p:v	-	-	-	-
@@ -96124,6 +96477,7 @@
 -	jalkine|työn|tekijä	-	noun	12	-	-	-	-	-
 -	jalo|kivi|hioja	-	noun	10	-	-	-	-	-
 -	jalo|kivi|hiomo	-	noun	2	-	-	-	-	-
+-	jalo|kivi|kauppias	-	noun	41	-	-	-	-	-
 -	jalo|kivi|koru	-	noun	1	-	-	-	-	-
 -	jalo|kivi|oppi	-	noun	5	pp:p	-	-	-	-
 -	jalo|kivi|seppä	-	noun	10	pp:p	-	-	-	-
@@ -96184,6 +96538,7 @@
 -	jälki|ruoka|viini	-	noun	5	-	-	-	-	-
 -	jälki|uuni|leipä	-	noun	10	p:v	-	-	-	-
 -	jälki|vaatimus|lähetys	-	noun	39	-	-	-	-	-
+-	jälleen|hankinta|varaus	-	noun	39	-	-	-	-	-
 -	jälleen|myynti|arvo	-	noun	1	-	-	-	-	-
 -	jälleen|myynti|hinta	-	noun	9	nt:nn	-	-	-	-
 -	jälleen|vakuutus|palvelu	-	noun	2	-	-	-	-	-
@@ -96681,6 +97036,7 @@
 -	kone|tiski|aine	-	noun	48	-	-	-	-	-
 -	kone|tuli|ase	-	noun	48	-	-	-	-	-
 -	konkurssi|huuto|kauppa	-	noun	9	pp:p	-	-	-	-
+-	konserni|tilin|päätös	-	noun	39	-	-	-	-	-
 -	koraali|alku|soitto	-	noun	1	tt:t	-	-	-	-
 -	koraali|virsi|kirja	-	noun	9	-	-	-	-	-
 -	kori|huone|kalu	-	noun	1	-	-	-	-	-
@@ -97098,6 +97454,7 @@
 -	lento|pallo|joukkue	-	noun	48	-	-	-	-	-
 -	lento|perä|mies	-	noun	42	-	-	-	-	-
 -	lento|päivä|kirja	-	noun	9	-	-	-	-	-
+-	lento|rahti|kirja	-	noun	9	-	-	-	-	-
 -	lento|sää|palvelu	-	noun	2	-	-	-	-	-
 -	lento|tuki|alus	-	noun	39	-	-	-	-	-
 -	lento|tuki|kohta	-	noun	10	t:d	-	-	-	-
@@ -97202,6 +97559,7 @@
 -	luottamus|lause|äänestys	-	noun	39	-	-	-	-	-
 -	luotto|kortti|lompakko	-	noun	4	kk:k	-	-	-	-
 -	luotto|kortti|puhelin	-	noun	33	-	-	-	-	-
+-	luotto|tappio|varaus	-	noun	39	-	-	-	-	-
 -	luotto|tieto|palvelu	-	noun	2	-	-	-	-	-
 -	luotto|tieto|toimisto	-	noun	2	-	-	-	-	-
 -	luotto|vakuutus|palvelu	-	noun	2	-	-	-	-	-
@@ -97263,6 +97621,7 @@
 -	läpi|kulku|liikenne	-	noun	48	nt:nn	-	-	-	-
 -	läpi|kulku|matka	-	noun	9	-	-	-	-	-
 -	läpi|kulku|tie	-	noun	19	-	-	-	-	-
+-	läpi|lyönti|jännite	-	noun	48	tt:t	-	-	-	-
 -	läpi|lyönti|kipu	-	noun	1	p:v	-	-	-	-
 -	läpi|murto|teos	-	noun	39	-	-	-	-	-
 -	läpi|paino|pakkaus	-	noun	39	-	-	-	-	-
@@ -97594,6 +97953,8 @@
 -	meri|rosvo|lippu	-	noun	1	pp:p	-	-	-	-
 -	meri|rosvo|radio	-	noun	3	-	-	-	-	-
 -	meri|sodan|käynti	-	noun	5	nt:nn	-	-	-	-
+-	meri|sota|koulu	-	noun	1	-	-	-	-	-
+-	meri|vahingon|laskija	-	noun	12	-	-	-	-	-
 -	meri|vakuutus|yhtiö	-	noun	3	-	-	-	-	-
 -	meri|vartio|alus	-	noun	39	-	-	-	-	-
 -	meri|vartio|asema	-	noun	10	-	-	-	-	-
@@ -97776,6 +98137,7 @@
 -	muun|suku|puolisuus	-	noun	40	-	-	-	-	-
 -	muurin|pohja|lettu	-	noun	1	tt:t	-	-	-	-
 -	muurin|pohja|pannu	-	noun	1	-	-	-	-	-
+-	muutoksen|haku|menettely	-	noun	2	-	-	-	-	-
 -	muutoksen|haku|oikeus	-	noun	40	-	-	-	-	-
 -	muutos|lämpö|tila	-	noun	9	-	-	-	-	-
 -	muutos|vasta|rinta	-	noun	9	nt:nn	-	-	-	-
@@ -97980,6 +98342,7 @@
 -	oma|toimi|matka	-	noun	9	-	-	-	-	-
 -	oma|toimi|matkaaja	-	noun	10	-	-	-	-	-
 -	oma|toimi|matkailija	-	noun	12	-	-	-	-	-
+-	oma|varaisuus|aste	-	noun	48	-	-	-	-	-
 -	oma|varais|talous	-	noun	40	-	-	-	-	-
 -	oma|vastuu|aika	-	noun	9	ik:j	-	-	-	-
 -	oma|vastuu|osuus	-	noun	40	-	-	-	-	-
@@ -98007,6 +98370,7 @@
 -	ordinaali|luku|sana	-	noun	9	-	-	-	-	-
 -	orjan|tappura|kruunu	-	noun	1	-	-	-	-	-
 -	osake|pää|oma	-	noun	10	-	-	-	-	-
+-	osake|yhtiö|laki	-	noun	5	k:	-	-	-	-
 -	osan|ottaja|maa	-	noun	18	-	-	-	-	-
 -	osan|otto|kukka	-	noun	10	kk:k	-	-	-	-
 -	osan|otto|maksu	-	noun	1	-	-	-	-	-
@@ -98048,6 +98412,7 @@
 -	paikallis|liikenne|palvelu	-	noun	2	-	-	-	-	-
 -	paikallis|puolustus|järjestelmä	-	noun	10	-	-	-	-	-
 -	paikka|tieto|kartta	-	noun	9	tt:t	-	-	-	-
+-	paineen|alennus|venttiili	-	noun	6	-	-	-	-	-
 -	paineen|korotus|asema	-	noun	10	-	-	-	-	-
 -	paineen|korotus|pumppu	-	noun	1	pp:p	-	-	-	-
 -	paineen|säätö|venttiili	-	noun	6	-	-	-	-	-
@@ -98074,6 +98439,7 @@
 -	paketti|osoite|kortti	-	noun	5	tt:t	-	-	-	-
 -	pakko|avio|liitto	-	noun	1	tt:t	-	-	-	-
 -	pakko|huuto|kauppa	-	noun	9	pp:p	-	-	-	-
+-	pakko|toimen|pide	-	noun	48	t:d	-	-	-	-
 -	pakko|työ|leiri	-	noun	5	-	-	-	-	-
 -	pakko|työ|vanki	-	noun	5	nk:ng	-	-	-	-
 -	pako|huone|peli	-	noun	5	-	-	-	-	-
@@ -98232,6 +98598,7 @@
 -	pien|talo|alue	-	noun	48	-	-	-	-	-
 -	pien|talo|asunto	-	noun	1	nt:nn	-	-	-	-
 -	pien|talo|tontti	-	noun	5	tt:t	-	-	-	-
+-	pien|tieto|kone	-	noun	48	-	-	-	-	-
 -	pien|vene|satama	-	noun	10	-	-	-	-	-
 -	pien|viljelijä|koulu	-	noun	1	-	-	-	-	-
 -	pien|viljelijä|väestö	-	noun	2	-	-	-	-	-
@@ -98321,6 +98688,7 @@
 -	polku|pyörä|lähetti	-	noun	5	tt:t	-	-	-	-
 -	polku|pyörä|poliisi	-	noun	6	-	-	-	-	-
 -	polku|pyörä|taksi	-	noun	5	-	-	-	-	-
+-	polku|pyörä|tie	-	noun	19	-	-	-	-	-
 -	poltto|aineen|kulutus	-	noun	39	-	-	-	-	-
 -	poltto|aine|mittari	-	noun	6	-	-	-	-	-
 -	poltto|aine|säiliö	-	noun	3	-	-	-	-	-
@@ -98574,6 +98942,7 @@
 -	pää|oman|siirto	-	noun	1	rt:rr	-	-	-	-
 -	pää|oma|kustannus	-	noun	39	-	-	-	-	-
 -	pää|oma|meno	-	noun	1	-	-	-	-	-
+-	pää|oma|tase	-	noun	48	-	-	-	-	-
 -	pää|oma|tulo	-	noun	1	-	-	-	-	-
 -	pää|oma|valta	-	noun	9	lt:ll	-	-	-	-
 -	pää|oma|valtaisuus	-	noun	40	-	-	-	-	-
@@ -98720,6 +99089,7 @@
 -	rikka|kasvi|hävite	-	noun	48	tt:t	-	-	-	-
 -	rikkuri|työ|voima	-	noun	10	-	-	-	-	-
 -	rikos|elo|kuva	-	noun	10	-	-	-	-	-
+-	rikos|lain|säädäntö	-	noun	1	nt:nn	-	-	-	-
 -	rikos|oikeuden|käynti	-	noun	5	nt:nn	-	-	-	-
 -	rikos|rekisteri|ote	-	noun	48	tt:t	-	-	-	-
 -	rikos|tuomio|istuin	-	noun	33	-	-	-	-	-
@@ -99089,6 +99459,7 @@
 -	sisä|tauti|oppi	-	noun	5	pp:p	-	-	-	-
 -	sisä|vesi|alue	-	noun	48	-	-	-	-	-
 -	sisä|vesi|alus	-	noun	39	-	-	-	-	-
+-	sisä|vesi|kalastus	-	noun	39	-	-	-	-	-
 -	sisä|vesi|laiva	-	noun	9	-	-	-	-	-
 -	sisä|vesi|liikenne	-	noun	48	nt:nn	-	-	-	-
 -	sisä|vesi|reitti	-	noun	5	tt:t	-	-	-	-
@@ -99273,6 +99644,7 @@
 -	suoja|metsä|vyöhyke	-	noun	48	kk:k	-	-	-	-
 -	suoja|ravinto|aine	-	noun	48	-	-	-	-	-
 -	suoja|tie|sääntö	-	noun	1	nt:nn	-	-	-	-
+-	suoja|toimen|pide	-	noun	48	t:d	-	-	-	-
 -	suoja|työn|tekijä	-	noun	12	-	-	-	-	-
 -	suoja|työ|keskus	-	noun	39	-	-	-	-	-
 -	suoja|työ|paikka	-	noun	9	kk:k	-	-	-	-
@@ -99291,6 +99663,7 @@
 -	suonen|veto|kohtaus	-	noun	39	-	-	-	-	-
 -	suora|haku|konsultti	-	noun	5	tt:t	-	-	-	-
 -	suora|ommel|kone	-	noun	48	-	-	-	-	-
+-	suora|saanti|muisti	-	noun	5	-	-	-	-	-
 -	suora|suihkutus|moottori	-	noun	6	-	-	-	-	-
 -	suora|suuntaus|tykki	-	noun	5	kk:k	-	-	-	-
 -	suora|toisto|palvelu	-	noun	2	-	-	-	-	-
@@ -99300,6 +99673,7 @@
 -	super|suur|pujottelu	-	noun	2	-	-	-	-	-
 -	super|tieto|kone	-	noun	48	-	-	-	-	-
 -	super|tuli|vuori	-	noun	26	-	-	-	-	-
+-	super|vastaan|otin	-	noun	33	tt:t	-	-	-	-
 -	super|vuoro|pari	-	noun	5	-	-	-	-	-
 -	surun|valittelu|adressi	-	noun	5	-	-	-	-	-
 -	surun|valittelu|kirja	-	noun	9	-	-	-	-	-
@@ -99592,6 +99966,7 @@
 -	terävä|piirto|televisio	-	noun	3	-	-	-	-	-
 -	teuras|siipi|karja	-	noun	9	-	-	-	-	-
 -	tiede|korkea|koulu	-	noun	1	-	-	-	-	-
+-	tiedon|anto|velvollisuus	-	noun	40	-	-	-	-	-
 -	tiedon|haku|järjestelmä	-	noun	10	-	-	-	-	-
 -	tiedon|siirto|verkko	-	noun	1	kk:k	-	-	-	-
 -	tiedon|siirto|yhteys	-	noun	40	-	-	-	-	-
@@ -99640,6 +100015,7 @@
 -	tieto|liikenne|satelliitti	-	noun	5	tt:t	-	-	-	-
 -	tieto|liikenne|verkko	-	noun	1	kk:k	-	-	-	-
 -	tieto|liikenne|yhteys	-	noun	40	-	-	-	-	-
+-	tieto|palvelu|keskus	-	noun	39	-	-	-	-	-
 -	tieto|palvelu|yksikkö	-	noun	4	kk:k	-	-	-	-
 -	tieto|sana|kirja	-	noun	9	-	-	-	-	-
 -	tieto|suoja|rikos	-	noun	39	-	-	-	-	-
@@ -99743,6 +100119,7 @@
 -	tulkinta|eri|mielisyys	-	noun	40	-	-	-	-	-
 -	tulkki|sana|kirja	-	noun	9	-	-	-	-	-
 -	tulli|huuto|kauppa	-	noun	9	pp:p	-	-	-	-
+-	tulli|toimi|paikka	-	noun	9	kk:k	-	-	-	-
 -	tulli|virka|mies	-	noun	42	-	-	-	-	-
 -	tulo|ilma|kone	-	noun	48	-	-	-	-	-
 -	tulo|ilma|puhallin	-	noun	33	lt:ll	-	-	-	-
@@ -99793,6 +100170,7 @@
 -	tuuli|voima|laitos	-	noun	39	-	-	-	-	-
 -	tuuli|voima|puisto	-	noun	1	-	-	-	-	-
 -	tuuli|voima|rakentaminen	-	noun	38	-	-	-	-	-
+-	tyhjä|käynti|jännite	-	noun	48	tt:t	-	-	-	-
 -	tykki|vene|diplomatia	-	noun	12	-	-	-	jocul	-
 -	tynkä|edus|kunta	-	noun	10	nt:nn	-	-	-	-
 -	typen|sitoja|bakteeri	-	noun	6	-	-	-	-	-
@@ -99805,6 +100183,7 @@
 -	työllisyys|määrä|raha	-	noun	9	-	-	-	-	-
 -	työläis|kaupungin|osa	-	noun	10	-	-	-	-	-
 -	työn|antaja|järjestö	-	noun	2	-	-	-	-	-
+-	työn|antaja|liitto	-	noun	1	tt:t	-	-	-	-
 -	työn|antaja|puoli	-	noun	26	-	-	-	-	-
 -	työn|tekijä|järjestö	-	noun	2	-	-	-	-	-
 -	työn|tekijä|pula	-	noun	10	-	-	-	-	-
@@ -99836,6 +100215,7 @@
 -	työ|kyvyttömyys|aste	-	noun	48	-	-	-	-	-
 -	työ|kyvyttömyys|eläke	-	noun	48	kk:k	-	-	-	-
 -	työ|kyvyttömyys|päivä	-	noun	10	-	-	-	-	-
+-	työ|lain|säädäntö	-	noun	1	nt:nn	-	-	-	-
 -	työ|lääke|tiede	-	noun	48	t:d	-	-	-	-
 -	työ|maa|juopottelu	-	noun	2	-	-	-	-	-
 -	työ|maa|kokous	-	noun	39	-	-	-	-	-
@@ -100178,6 +100558,7 @@
 -	varhais|keski|aika	-	noun	9	ik:j	-	-	-	-
 -	varjo|aine|tutkimus	-	noun	39	-	-	-	-	-
 -	varovaisuus|toimen|pide	-	noun	48	t:d	-	-	-	-
+-	varo|toimen|pide	-	noun	48	t:d	-	-	-	-
 -	varsi|käsi|kranaatti	-	noun	5	tt:t	-	-	-	-
 -	varus|kunta|kaupunki	-	noun	5	nk:ng	-	-	-	-
 -	varus|kunta|sairaala	-	noun	13	-	-	-	-	-
@@ -100306,6 +100687,7 @@
 -	vesi|urheilu|laji	-	noun	5	-	-	-	-	-
 -	vesi|vaippa|takka	-	noun	9	kk:k	-	-	-	-
 -	vesi|voima|kone	-	noun	48	-	-	-	-	-
+-	vesi|voima|laitos	-	noun	39	-	-	-	-	-
 -	vesi|väri|maalaus	-	noun	39	-	-	-	-	-
 -	vesi|väri|nappi	-	noun	5	pp:p	-	-	-	-
 -	vesi|väri|työ	-	noun	19	-	-	-	-	-
@@ -100518,6 +100900,7 @@
 -	yhdys|kunta|tekniikka	-	noun	14	kk:k	-	-	-	-
 -	yhdys|kunta|työ	-	noun	19	-	-	-	-	-
 -	yhteen|kuuluvuuden|tunne	-	noun	48	nt:nn	-	-	-	-
+-	yhteen|lasku|merkki	-	noun	5	kk:k	-	-	-	-
 -	yhteis|emitteri|kytkentä	-	noun	9	nt:nn	-	-	-	-
 -	yhteis|kellunta|järjestelmä	-	noun	10	-	-	-	-	-
 -	yhteis|kunnan|parantaja	-	noun	10	-	-	-	-	-
@@ -100890,6 +101273,7 @@
 -	tieto|kone|kerros|kuvaus	-	noun	39	-	-	-	-	-
 -	tieto|kone|ohjelmointi|palvelu	-	noun	2	-	-	-	-	-
 -	tieto|liikenne|teko|kuu	-	noun	18	-	-	-	-	-
+-	tilin|tarkastus|tuomio|istuin	-	noun	33	-	-	-	-	-
 -	tuhannes|osa|milli|metri	-	noun	5	-	-	-	-	-
 -	tuomio|istuin|laki|mies	-	noun	42	-	-	-	-	-
 -	tuomio|kirkko|seura|kunta	-	noun	10	nt:nn	-	-	-	-
@@ -100903,6 +101287,7 @@
 -	työ|suhde|matka|lippu	-	noun	1	pp:p	-	-	-	-
 -	työ|suojelu|asia|mies	-	noun	42	-	-	-	-	-
 -	työ|suojelu|toimi|kunta	-	noun	10	nt:nn	-	-	-	-
+-	työ|tapa|turma|vakuutus	-	noun	39	-	-	-	-	-
 -	täys|jyvä|vehnä|jauho	-	noun	1	-	-	-	-	-
 -	täytäntöön|pano|viran|omainen	-	noun	38	-	-	-	-	-
 -	ulko|asiain|valio|kunta	-	noun	10	nt:nn	-	-	-	-
@@ -101417,6 +101802,7 @@
 -	grilli|pihdit	-	noun-pl	5	t:d	-	-	-	-
 -	haaremi|housut	-	noun-pl	1	-	-	-	-	-
 -	hajotus|vaalit	-	noun-pl	5	-	-	-	-	-
+-	hakkuu|tähteet	-	noun-pl	48	t:d	-	-	-	-
 -	haku|paperit	-	noun-pl	6	-	-	-	-	-
 -	hallitus|neuvottelut	-	noun-pl	2	-	-	-	-	-
 -	hallitus|tunnustelut	-	noun-pl	2	-	-	-	-	-
@@ -101428,6 +101814,7 @@
 -	harjan|nostajaiset	-	noun-pl	38	-	-	-	-	-
 -	hengen|lahjat	-	noun-pl	9	-	-	-	-	-
 -	hengitys|elimet	-	noun-pl	33	-	-	-	-	-
+-	henkilöstö|kulut	-	noun-pl	1	-	-	-	-	-
 -	henkilö|paperit	-	noun-pl	6	-	-	-	-	-
 -	henkilö|tiedot	-	noun-pl	1	t:d	-	-	-	-
 -	henki|savut	-	noun-pl	1	-	-	-	-	-
@@ -101442,6 +101829,7 @@
 -	hiihto|housut	-	noun-pl	1	-	-	-	-	-
 -	hiili|varat	-	noun-pl	9	-	-	-	-	-
 -	hiki|laudat	-	noun-pl	9	t:d	-	-	jocul	-
+-	hoito|kulut	-	noun-pl	1	-	-	-	-	-
 -	hoito|kustannukset	-	noun-pl	39	-	-	-	-	-
 -	hopea|hapset	-	noun-pl	29|7	-	-	-	poet	-
 -	hopea|häät	-	noun-pl	18	-	-	-	-	-
@@ -101486,6 +101874,7 @@
 -	joulu|markkinat	-	noun-pl	12	-	-	-	-	-
 -	joulu|valmistelut	-	noun-pl	2	-	-	-	-	-
 -	juhannus|tanssit	-	noun-pl	5	-	-	-	-	-
+-	juhla|menot	-	noun-pl	1	-	-	-	-	-
 -	juhla|valmistelut	-	noun-pl	2	-	-	-	-	-
 -	juonto|sakset	-	noun-pl	7	-	-	-	-	-
 -	jälki|markkinat	-	noun-pl	12	-	-	-	-	-
@@ -101520,6 +101909,7 @@
 -	kansan|käräjät	-	noun-pl	10	-	-	-	-	-
 -	karhun|peijaiset	-	noun-pl	38	-	-	-	-	-
 -	karjan|kellot	-	noun-pl	1	-	-	-	-	-
+-	kassa|varat	-	noun-pl	9	-	-	-	-	-
 -	kasvatti|vanhemmat	-	noun-pl	16	mp:mm	-	-	-	-
 -	kasvatus|vanhemmat	-	noun-pl	16	mp:mm	-	-	-	-
 -	katkaisu|pihdit	-	noun-pl	5	t:d	-	-	-	-
@@ -101691,6 +102081,7 @@
 -	markkina|voimat	-	noun-pl	10	-	-	-	-	-
 -	materiaali|toiminnot	-	noun-pl	1	nt:nn	-	-	-	-
 -	matkailu|tulot	-	noun-pl	1	-	-	-	-	-
+-	matka|kustannukset	-	noun-pl	39	-	-	-	-	-
 -	meikki|lasit	-	noun-pl	5	-	-	-	-	-
 -	menekki|vaikeudet	-	noun-pl	40	-	-	-	-	-
 -	meren|antimet	-	noun-pl	33	nt:nn	-	-	-	-
@@ -101757,6 +102148,7 @@
 -	palkka|kulut	-	noun-pl	1	-	-	-	-	-
 -	palkka|kustannukset	-	noun-pl	39	-	-	-	-	-
 -	palkka|menot	-	noun-pl	1	-	-	-	-	-
+-	palkka|neuvottelut	-	noun-pl	2	-	-	-	-	-
 -	palo|portaat	-	noun-pl	41	rt:rr	-	-	-	-
 -	palo|tikkaat	-	noun-pl	41	kk:k	-	-	-	-
 -	palvonta|menot	-	noun-pl	1	-	-	-	-	-
@@ -101778,6 +102170,7 @@
 -	perintä|kulut	-	noun-pl	1	-	-	-	-	-
 -	perintä|kustannukset	-	noun-pl	39	-	-	-	-	-
 -	perintö|hopeat	-	noun-pl	15	-	-	-	-	-
+-	perustamis|kustannukset	-	noun-pl	39	-	-	-	-	-
 -	perus|hankinnat	-	noun-pl	9	nt:nn	-	-	-	-
 -	perus|opinnot	-	noun-pl	1	nt:nn	-	-	-	-
 -	perus|tiedot	-	noun-pl	1	t:d	-	-	-	-
@@ -101841,7 +102234,9 @@
 -	radio|aallot	-	noun-pl	1	lt:ll	-	-	-	-
 -	radio|uutiset	-	noun-pl	38	-	-	-	-	-
 -	raha|markkinat	-	noun-pl	12	-	-	-	-	-
+-	raha|vaikeudet	-	noun-pl	40	-	-	-	-	-
 -	raha|varat	-	noun-pl	9	-	-	-	-	-
+-	rahoitus|kulut	-	noun-pl	1	-	-	-	-	-
 -	rahoitus|markkinat	-	noun-pl	12	-	-	-	-	-
 -	rahti|kulut	-	noun-pl	1	-	-	-	-	-
 -	raja|joukot	-	noun-pl	1	kk:k	-	-	-	-
@@ -101874,6 +102269,7 @@
 -	ruoka|menot	-	noun-pl	1	-	-	-	-	-
 -	ruoka|pidot	-	noun-pl	1	t:d	-	-	-	-
 -	ruoka|tarpeet	-	noun-pl	48	p:v	-	-	-	-
+-	ruoka|tavarat	-	noun-pl	12	-	-	-	-	-
 -	ruoka|varat	-	noun-pl	9	-	-	-	-	-
 -	ruuhka|vuodet	-	noun-pl	27	-	-	-	-	-
 -	ruumis|vaatteet	-	noun-pl	48	-	-	-	-	-
@@ -101940,6 +102336,7 @@
 -	stereo|kuulokkeet	-	noun-pl	48	kk:k	-	-	-	-
 -	sukka|housut	-	noun-pl	1	-	-	-	-	-
 -	suoja|joukot	-	noun-pl	1	kk:k	-	-	-	-
+-	suoja|lasit	-	noun-pl	5	-	-	-	-	-
 -	suur|käräjät	-	noun-pl	10	-	-	-	-	-
 -	sydän|juuret	-	noun-pl	26	-	-	-	-	-
 -	synnytin|elimet	-	noun-pl	33	-	-	-	-	-
@@ -101989,6 +102386,7 @@
 -	tukki|pihdit	-	noun-pl	5	t:d	-	-	-	-
 -	tukki|sakset	-	noun-pl	7	-	-	-	-	-
 -	tuomarin|ohjeet	-	noun-pl	48	-	-	-	-	-
+-	tuotanto|kustannukset	-	noun-pl	39	-	-	-	-	-
 -	tupaan|tuliaiset	-	noun-pl	38	-	-	-	-	-
 -	tupla|rattaat	-	noun-pl	41	tt:t	-	-	coll	-
 -	turpa|käräjät	-	noun-pl	10	-	-	-	jocul	-
@@ -102042,6 +102440,7 @@
 -	veikkaus|varat	-	noun-pl	9	-	-	-	-	-
 -	velka|menot	-	noun-pl	1	-	-	-	-	-
 -	verkko|vaalit	-	noun-pl	5	-	-	-	-	-
+-	vero|tulot	-	noun-pl	1	-	-	-	-	-
 -	vero|varat	-	noun-pl	9	-	-	-	-	-
 -	verryttely|housut	-	noun-pl	1	-	-	-	-	-
 -	vesi|urut	-	noun-pl	1	k:	-	-	-	-
@@ -102067,6 +102466,7 @@
 -	yhteis|pisteet	-	noun-pl	48	-	-	-	-	-
 -	yhteys|tiedot	-	noun-pl	1	t:d	-	-	-	-
 -	yksityis|olot	-	noun-pl	1	-	-	-	-	-
+-	yleis|kustannukset	-	noun-pl	39	-	-	-	-	-
 -	yleis|opinnot	-	noun-pl	1	nt:nn	-	-	-	-
 -	ylä|osattomat	-	noun-pl	34	tt:t	-	-	-	-
 -	yy|teet	-	noun-pl	18	-	-	-	coll	-
@@ -102095,6 +102495,7 @@
 -	euro|parlamentti|vaalit	-	noun-pl	5	-	-	-	-	-
 -	ikä|kausi|kilpailut	-	noun-pl	2	-	-	-	-	-
 -	ilma|torjunta|joukot	-	noun-pl	1	kk:k	-	-	-	-
+-	joukko|tiedotus|välineet	-	noun-pl	48	-	-	-	-	-
 -	jää|pala|pihdit	-	noun-pl	5	t:d	-	-	-	-
 -	kaksi|teho|lasit	-	noun-pl	5	-	-	-	-	-
 -	keli|olo|suhteet	-	noun-pl	48	t:d	-	-	-	-
@@ -102108,6 +102509,7 @@
 -	kriisin|hallinta|joukot	-	noun-pl	1	kk:k	-	-	-	-
 -	kunnossa|pito|kulut	-	noun-pl	1	-	-	-	-	-
 -	kunnossa|pito|kustannukset	-	noun-pl	39	-	-	-	-	-
+-	laivaus|asia|kirjat	-	noun-pl	9	-	-	-	-	-
 -	lasku|varjo|joukot	-	noun-pl	1	kk:k	-	-	-	-
 -	luento|muistiin|panot	-	noun-pl	1	-	-	-	-	-
 -	maahan|lasku|joukot	-	noun-pl	1	kk:k	-	-	-	-
@@ -102159,7 +102561,9 @@
 -	yksi|teho|lasit	-	noun-pl	5	-	-	-	-	-
 -	yli|oppilas|kirjoitukset	-	noun-pl	39	-	-	-	-	-
 -	yllä|pito|kustannukset	-	noun-pl	39	-	-	-	-	-
+-	ympäristö|olo|suhteet	-	noun-pl	48	t:d	-	-	-	-
 -	eri|taso|noja|puut	-	noun-pl	18	-	-	-	-	-
+-	työ|markkina|osa|puolet	-	noun-pl	8	-	-	-	-	-
 -	isot%aivot	-	noun-pl	1	-	-	-	-	-
 -	pitkät%housut	-	noun-pl	1	-	-	-	-	-
 -	0	-	numeral	10B	-	back	a	-	-
