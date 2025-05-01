@@ -180,6 +180,21 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['pl|ess'] = [f"{d}:in{a}"]
 		all_forms['@stem:clitics'] = [f"{d}:"]
 
+	# "Zeus", "Kypros", "Pegasos" (archaic inflection)
+	elif kotus_class == "1S":
+		ouroboro = word[:-1]
+		all_forms['sg|nom'] = [f"{ouroboro}s"]
+		all_forms['sg|gen|arch'] = [f"{ouroboro}n"]
+		all_forms['sg|par|arch'] = [f"{ouroboro}{a}"]
+		all_forms['sg|ill|arch'] = [f"{ouroboro}{o}n"]
+		all_forms['pl|gen|arch'] = [f"{ouroboro}jen"]
+		all_forms['pl|par|arch'] = [f"{ouroboro}j{a}"]
+		all_forms['pl|ill|arch'] = [f"{ouroboro}ihin"]
+		all_forms['pl|ine|arch'] = [f"{ouroboro}iss{a}"]
+		all_forms['sg|ess|arch'] = [f"{ouroboro}n{a}"]
+		all_forms['pl|ess|arch'] = [f"{ouroboro}in{a}"]
+		all_forms['@stem:clitics|arch'] = [f"{ouroboro}"]
+
 	# "palvelu"
 	elif kotus_class == "2":
 		palvelu = word
@@ -1190,28 +1205,29 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		return {'@base': [word], '': [word]}
 
 	# Derive remaining cases from existing ones
+	for style in '', '|dated':
 
-	for kaupa in [f[:-1] for f in all_forms['sg|gen']]:
-		all_forms['sg|all'] += [f"{kaupa}lle"]
-		all_forms['sg|ade'] += [f"{kaupa}ll{a}"]
-		all_forms['sg|abl'] += [f"{kaupa}lt{a}"]
-		all_forms['sg|ine'] += [f"{kaupa}ss{a}"]
-		all_forms['sg|ela'] += [f"{kaupa}st{a}"]
-		all_forms['sg|tra'] += [f"{kaupa}ksi"]
-		all_forms['sg|abe'] += [f"{kaupa}tt{a}"]
-		all_forms['pl|nom'] += [f"{kaupa}t"]
+		for kaupa in [f[:-1] for f in all_forms[f'sg|gen{style}']]:
+			all_forms['sg|all'] += [f"{kaupa}lle"]
+			all_forms['sg|ade'] += [f"{kaupa}ll{a}"]
+			all_forms['sg|abl'] += [f"{kaupa}lt{a}"]
+			all_forms['sg|ine'] += [f"{kaupa}ss{a}"]
+			all_forms['sg|ela'] += [f"{kaupa}st{a}"]
+			all_forms['sg|tra'] += [f"{kaupa}ksi"]
+			all_forms['sg|abe'] += [f"{kaupa}tt{a}"]
+			all_forms['pl|nom'] += [f"{kaupa}t"]
 
-	for kaupoi in [f[:-3] for f in all_forms['pl|ine']]:
-		all_forms['pl|all'] += [f"{kaupoi}lle"]
-		all_forms['pl|ade'] += [f"{kaupoi}ll{a}"]
-		all_forms['pl|abl'] += [f"{kaupoi}lt{a}"]
-		all_forms['pl|ela'] += [f"{kaupoi}st{a}"]
-		all_forms['pl|tra'] += [f"{kaupoi}ksi"]
-		all_forms['pl|abe'] += [f"{kaupoi}tt{a}"]
-		all_forms['pl|ins'] += [f"{kaupoi}n"]
+		for kaupoi in [f[:-3] for f in all_forms[f'pl|ine{style}']]:
+			all_forms['pl|all'] += [f"{kaupoi}lle"]
+			all_forms['pl|ade'] += [f"{kaupoi}ll{a}"]
+			all_forms['pl|abl'] += [f"{kaupoi}lt{a}"]
+			all_forms['pl|ela'] += [f"{kaupoi}st{a}"]
+			all_forms['pl|tra'] += [f"{kaupoi}ksi"]
+			all_forms['pl|abe'] += [f"{kaupoi}tt{a}"]
+			all_forms['pl|ins'] += [f"{kaupoi}n"]
 
-	for kauppoi in [f[:-2] for f in all_forms['pl|ess']]:
-		all_forms['pl|com'] += [f"{kauppoi}ne"]
+		for kauppoi in [f[:-2] for f in all_forms[f'pl|ess{style}']]:
+			all_forms['pl|com'] += [f"{kauppoi}ne"]
 
 	# Auxiliary forms
 	poss_stem = all_forms['sg|ess'][0][:-2]

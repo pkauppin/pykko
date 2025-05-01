@@ -147,8 +147,12 @@ def is_plural(word):
 	for _, _, lemma, pos, _, _, morphtags, weight in analyze(word, only_best=True):
 		if morphtags == '+pl+nom':
 			return lemma
+		if pos == 'noun-pl' and morphtags == '+nom':
+			return lemma
 	return False
 
+def singularize(word):
+	return is_plural(word) or word
 
 def pos_tag(word, force_match=False):
 

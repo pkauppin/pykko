@@ -649,13 +649,6 @@ jommoiseenkin	jommoinenkin	adjective	-	+sg+ill
 jommoisessakin	jommoinenkin	adjective	-	+sg+ine
 jommoistakin	jommoinenkin	adjective	-	+sg+par
 jommoiseksikin	jommoinenkin	adjective	-	+sg+tra
-
-Zeun	Zeus	noun	-	+sg+gen+arch
-Kypron	Kypros	noun	-	+sg+gen+arch
-ouroboron	ouroboros	noun	-	+sg+gen+arch
-Pegason	Pegasos	noun	-	+sg+gen+arch
-Peloponneson	Peloponnesos	proper	-	+sg+gen+arch
-
 paras	hyvä	adjective	-	+superlative+sg+nom
 parhaan	hyvä	adjective	-	+superlative+sg+gen
 parasta	hyvä	adjective	-	+superlative+sg+par
@@ -688,6 +681,7 @@ Thaimaaseen	Thai|maa	proper	-	+sg+ill+nstd
 isämeitä	isä|meitä	noun	-	+sg+nom
 isämeidän	isä|meitä	noun	-	+sg+gen
 isämeitää	isä|meitä	noun	-	+sg+par
+isämeidän	isä|meidän	noun	-	+sg+nom
 tuta	tuta	verb	arch	+inf1
 lähtä	lähtä	verb	arch	+inf1
 raketa	raketa	verb	arch	+inf1
@@ -824,3 +818,8 @@ nää	tää	pronoun	dial|coll	+pl+nom
 #näissä	tää	pronoun	dial|coll	+pl+ine
 #näitä	tää	pronoun	dial|coll	+pl+par
 #näiksi	tää	pronoun	dial|coll	+pl+tra
+verta	verta	noun	-	+sg+nom
+vertaa	verta	noun	-	+sg+par
+verran	verta	noun	-	+sg+ins
+verroin	verta	noun	-	+pl+ins
+vertoja	verta	noun	-	+pl+par

@@ -12,7 +12,7 @@ DUBIOUS = {
 	'kik', 'käs', 'lei', 'leu', 'lev', 'lux', 'mis', 'mys', 'net', 'new', 'non', 'off', 'out', 'pan', 'par', 'pre',
 	'pro', 'rai', 'sen', 'tag', 'tec', 'tic', 'vip', 'yht', 'yin', 'zen', 'lais', 'vent', 'kalais', 'salais', 'jollais',
 	'kuplais', 'mahlais', 'millais', 'sellais', 'suklais', 'suolais', 'tällais', 'jumalais', 'kuoppais', 'tuollais',
-	'piikkis', 'karvais',
+	'piikkis', 'karvais', 'kat', 'pai'
 }
 
 RARE = {
