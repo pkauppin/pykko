@@ -822,7 +822,7 @@
 -	erillinen	-	adjective	38	-	front	e	-	-
 -	erinäinen	-	adjective	38	-	front	e	-	-
 -	eristeinen	-	adjective	38	-	front	e	-	-
--	eristetty	-	adjective	1	-	-	-	-	-
+-	eristetty	-	adjective	1	tt:t	-	-	-	-
 -	eritrealainen	-	adjective	38	-	-	-	-	-
 -	eritteinen	-	adjective	38	-	-	-	-	-
 -	erityinen	-	adjective	38	-	front	e	-	-
@@ -2886,7 +2886,7 @@
 -	kuvauksellinen	-	adjective	38	-	back	e	-	-
 -	kuvioinen	-	adjective	38	-	back	e	-	-
 -	kuviollinen	-	adjective	38	-	back	e	-	-
--	kuvitettu	-	adjective	1	-	-	-	-	-
+-	kuvitettu	-	adjective	1	tt:t	-	-	-	-
 -	kuvitteellinen	-	adjective	38	-	back	e	-	-
 -	kuvottava	-	adjective	10	-	-	-	-	-
 -	kuwaitilainen	-	adjective	38	-	-	-	-	-
@@ -5031,12 +5031,12 @@
 -	ratkaisematon	-	adjective	34	tt:t	back	o	-	-
 -	ratkaiseva	-	adjective	10	-	back	a	-	-
 -	rattoisa	-	adjective	10	-	back	a	-	-
--	raudoitettu	-	adjective	1	-	-	-	-	-
+-	raudoitettu	-	adjective	1	tt:t	-	-	-	-
 -	rauhainen	-	adjective	38	-	back	e	poet|rare	-
 -	rauhaisa	-	adjective	10	-	back	a	poet	-
 -	rauhallinen	-	adjective	38	-	back	e	-	-
 -	rauhaton	-	adjective	34	tt:t	back	o	-	-
--	rauhoitettu	-	adjective	1	-	-	-	-	-
+-	rauhoitettu	-	adjective	1	tt:t	-	-	-	-
 -	raukea	-	adjective	15	-	back	a	-	-
 -	raukka	-	adjective	9	kk:k	-	-	poet	-
 -	raukkamainen	-	adjective	38	-	back	e	-	-
@@ -5842,7 +5842,7 @@
 -	suojaton	-	adjective	34	tt:t	back	o	-	-
 -	suolainen	-	adjective	38	-	back	e	-	-
 -	suolaton	-	adjective	34	tt:t	back	o	-	-
--	suolattu	-	adjective	1	-	-	-	-	-
+-	suolattu	-	adjective	1	tt:t	-	-	-	-
 -	suolimainen	-	adjective	38	-	-	-	-	-
 -	suomalainen	-	adjective	38	-	back	e	-	-
 -	suomuinen	-	adjective	38	-	back	e	-	-
@@ -8444,7 +8444,7 @@
 -	kaakkois|aasialainen	-	adjective	38	-	-	-	-	-
 -	kaapeli|välitteinen	-	adjective	38	-	-	-	-	-
 -	kaareva|teräinen	-	adjective	38	-	-	-	stacked	-
--	kaasu|tiivis	-	adjective	39	-	-	-	-	-
+-	kaasu|tiivis	-	adjective	41	-	-	-	-	-
 -	kaatuma|tautinen	-	adjective	38	-	-	-	-	-
 -	kade|mielinen	-	adjective	38	-	-	-	-	-
 -	kadun|puoleinen	-	adjective	38	-	-	-	-	-
@@ -8483,7 +8483,7 @@
 -	kaikki|näkevä	-	adjective	10	-	-	-	-	-
 -	kaikki|ruokainen	-	adjective	38	-	-	-	-	-
 -	kaikki|tietävä	-	adjective	10	-	-	-	-	-
--	kaikki|valtias	-	adjective	39	-	-	-	-	-
+-	kaikki|valtias	-	adjective	41	-	-	-	-	-
 -	kaikki|voipa	-	adjective	10	p:v	-	-	-	-
 -	kaista|päinen	-	adjective	38	-	-	-	coll	-
 -	kaita|kasvoinen	-	adjective	38	-	-	-	stacked	-
@@ -22940,7 +22940,7 @@
 -	diminutiivi	-	noun	5	-	back	i	-	-
 -	dinaari	-	noun	6	-	back	i	-	-
 -	dingo	-	noun	1	-	-	-	-	-
--	dinka	-	noun	9	nk	-	-	-	-
+-	dinka	-	noun	9	-	-	-	-	-
 -	dino	-	noun	1	-	-	-	child	-
 -	dinosaurus	-	noun	39	-	back	u	-	-
 -	diodi	-	noun	5	-	back	i	-	-
@@ -29279,7 +29279,7 @@
 -	kommutatiivisuus	-	noun	40	-	-	-	-	-
 -	kommutointi	-	noun	5	nt:nn	-	-	-	-
 -	kommuuni	-	noun	6	-	back	i	-	-
--	komori	-	noun	?6	-	-	-	-	-
+-	komori	-	noun	6	-	-	-	-	-
 -	komorilainen	-	noun	38	-	-	-	-	-
 -	kompa	-	noun	10	mp:mm	back	a	-	-
 -	komparaatio	-	noun	3	-	back	o	-	-
@@ -29358,7 +29358,7 @@
 -	konjunktiivi	-	noun	5	-	-	-	-	-
 -	konjunktio	-	noun	3	-	back	o	-	-
 -	konjunktuuri	-	noun	5	-	back	i	-	-
--	konkani	-	noun	?6	-	-	-	-	-
+-	konkani	-	noun	6	-	-	-	-	-
 -	konkari	-	noun	6	-	back	i	-	-
 -	konkeli	-	noun	6	-	-	-	slang	-
 -	konkelo	-	noun	2	-	back	o	-	-
@@ -31802,7 +31802,7 @@
 -	lojaalius	-	noun	40	-	back	u	-	-
 -	lojahdus	-	noun	39	-	back	u	-	-
 -	lojaliteetti	-	noun	5	tt:t	back	i	-	-
--	lojban	-	noun	?6	-	-	-	-	-
+-	lojban	-	noun	5	-	-	-	-	-
 -	loka	-	noun	10	k:	back	a	-	-
 -	lokaalisuus	-	noun	40	-	back	u	-	-
 -	lokalisaatio	-	noun	3	-	back	o	-	-
@@ -32405,7 +32405,7 @@
 -	maisti	-	noun	5	-	back	i	coll	-
 -	maistraatti	-	noun	5	tt:t	back	i	-	-
 -	maite	-	noun	8	tt:t	-	-	-	-
--	maithili	-	noun	?6	-	-	-	-	-
+-	maithili	-	noun	5	-	-	-	-	-
 -	maiti	-	noun	5	t:d	back	i	-	-
 -	maitiainen	-	noun	38	-	back	e	-	-
 -	maitikka	-	noun	14	kk:k	back	a	-	-
@@ -32533,7 +32533,7 @@
 -	manchester	-	noun	5	-	-	-	foreign	-
 -	mandaatti	-	noun	5	tt:t	back	i	-	-
 -	mandala	-	noun	11	-	back	a	-	-
--	mandar	-	noun	?6	-	-	-	-	-
+-	mandar	-	noun	6	-	-	-	-	-
 -	mandariini	-	noun	5	-	back	i	-	-
 -	mandingo	-	noun	1	-	-	-	-	-
 -	mandinka	-	noun	9	-	-	-	-	-
@@ -32567,7 +32567,7 @@
 -	manipulaattori	-	noun	6	-	back	i	-	-
 -	manipuloija	-	noun	10	-	back	a	-	-
 -	manipulointi	-	noun	5	nt:nn	back	i	-	-
--	manipuri	-	noun	?6	-	-	-	-	-
+-	manipuri	-	noun	5	-	-	-	-	-
 -	maniska	-	noun	13	-	back	a	coll	-
 -	mankeli	-	noun	6	-	back	i	-	-
 -	mankelointi	-	noun	5	nt:nn	back	i	-	-
@@ -32672,7 +32672,7 @@
 -	marttyyrius	-	noun	40	-	back	u	-	-
 -	marttyyriys	-	noun	40	-	front	y	-	-
 -	maruna	-	noun	11	-	back	a	-	-
--	marwari	-	noun	?6	-	-	-	-	-
+-	marwari	-	noun	6	-	-	-	-	-
 -	marxilainen	-	noun	38	-	-	-	-	-
 -	marxilaisuus	-	noun	40	-	back	u	-	-
 -	marxismi	-	noun	5	-	back	i	-	-
@@ -32774,7 +32774,7 @@
 -	mau’unta	-	noun	9	nt:nn	back	a	-	-
 -	mave	-	noun	8	-	-	-	slang	-
 -	maya	-	noun	9	-	back	a	-	-
--	mazandarani	-	noun	?6	-	-	-	-	-
+-	mazandarani	-	noun	5	-	-	-	-	-
 -	mbabanelainen	-	noun	38	-	-	-	-	-
 -	mbundu	-	noun	1	-	-	-	-	-
 -	medaljonki	-	noun	5	nk:ng	back	i	-	-
@@ -34186,7 +34186,7 @@
 -	neuvottomuus	-	noun	40	-	back	u	-	-
 -	neva	-	noun	9	-	back	a	-	-
 -	new age	-	noun	8	-	-	-	-	-
--	newari	-	noun	?6	-	-	-	-	-
+-	newari	-	noun	6	-	-	-	-	-
 -	newton	-	noun	5|†6	-	back	o	-	-
 -	newyorkilainen	-	noun	38	-	-	-	-	-
 -	ngambay	-	noun	21	-	-	-	-	-
@@ -36072,7 +36072,7 @@
 -	pieli	-	noun	26	-	front	e	-	-
 -	pielikki	-	noun	5	kk:k	front	i	-	-
 -	pielus	-	noun	39	-	back	u	dated	-
--	piemonte	-	noun	8	??	-	-	-	-
+-	piemonte	-	noun	8	-	-	-	-	-
 -	piena	-	noun	9	-	back	a	-	-
 -	pienennys	-	noun	39	-	front	y	-	-
 -	pienennös	-	noun	39	-	front	ö	-	-
@@ -39424,7 +39424,7 @@
 -	sanskritisti	-	noun	5	-	front|back	i	-	-
 -	sanssi	-	noun	5	-	-	-	slang|dated	-
 -	santa	-	noun	9	nt:nn	back	a	-	-
--	santali	-	noun	?6	-	-	-	-	-
+-	santali	-	noun	5	-	-	-	-	-
 -	santarmi	-	noun	5	-	back	i	-	-
 -	santiagolainen	-	noun	38	-	-	-	-	-
 -	santsari	-	noun	6	-	back	i	slang	-
@@ -39829,7 +39829,7 @@
 -	seremonia	-	noun	12	-	back	a	-	-
 -	seremoniallisuus	-	noun	40	-	back	u	-	-
 -	serenadi	-	noun	5	-	back	i	-	-
--	serer	-	noun	?6	-	-	-	-	-
+-	serer	-	noun	5	-	-	-	-	-
 -	seri	-	noun	5	-	-	-	-	-
 -	seriffi	-	noun	5	-	front	i	-	-
 -	serigrafia	-	noun	12	-	back	a	-	-
@@ -40566,7 +40566,7 @@
 -	sonatiini	-	noun	5	-	back	i	-	-
 -	sondi	-	noun	5	-	back	i	-	-
 -	sonetti	-	noun	5	tt:t	back	i	-	-
--	soninke	-	noun	8	??	-	-	-	-
+-	soninke	-	noun	8	-	-	-	-	-
 -	sonni	-	noun	5	-	back	i	-	-
 -	sonnustus	-	noun	39	-	back	u	-	-
 -	sonta	-	noun	10	nt:nn	back	a	-	-
@@ -40795,7 +40795,7 @@
 -	spurtti	-	noun	5	tt:t	back	i	coll	-
 -	spämmi	-	noun	5	-	front	i	coll	-
 -	squash	-	noun	5	-	back	a	-	-
--	sranan	-	noun	?6	-	-	-	-	-
+-	sranan	-	noun	6	-	-	-	-	-
 -	srilankalainen	-	noun	38	-	-	-	-	-
 -	staagi	-	noun	5	-	back	i	-	-
 -	staaki	-	noun	5	-	back	i	dated	-
@@ -42809,7 +42809,7 @@
 -	torveilu	-	noun	2	-	back	u	coll	-
 -	torvelo	-	noun	2	-	back	o	coll	-
 -	torvi	-	noun	7	-	back	i	-	-
--	torwali	-	noun	?6	-	-	-	-	-
+-	torwali	-	noun	6	-	-	-	-	-
 -	tosi	-	noun	27	-	-	-	-	-
 -	tosikko	-	noun	4	kk:k	back	o	-	-
 -	tosikkomaisuus	-	noun	40	-	back	u	-	-
@@ -42996,7 +42996,7 @@
 -	tryptofaani	-	noun	5	-	-	-	-	-
 -	tsaari	-	noun	5	-	back	i	-	-
 -	tsaaritar	-	noun	32	tt:t	back	a	-	-
--	tsahuri	-	noun	?6	-	-	-	-	-
+-	tsahuri	-	noun	6	-	-	-	-	-
 -	tsakonia	-	noun	12	-	-	-	-	-
 -	tsarismi	-	noun	5	-	back	i	-	-
 -	tsasouna	-	noun	10	-	back	a	-	-
@@ -43841,7 +43841,7 @@
 -	urbaanius	-	noun	40	-	back	u	-	-
 -	urbanisaatio	-	noun	3	-	back	o	-	-
 -	urdu	-	noun	1	-	back	u	-	-
--	urduni	-	noun	?6	-	-	-	-	-
+-	urduni	-	noun	6	-	-	-	-	-
 -	urea	-	noun	12	-	back	a	-	-
 -	urheilija	-	noun	12	-	back	a	-	-
 -	urheilu	-	noun	2	-	back	u	-	-
@@ -45442,7 +45442,7 @@
 -	waifu	-	noun	1	-	-	-	-	-
 -	wales	-	noun	5	-	-	-	-	-
 -	walesilainen	-	noun	38	-	-	-	-	-
--	walser	-	noun	?6	-	-	-	-	-
+-	walser	-	noun	6	-	-	-	-	-
 -	waray	-	noun	21	-	-	-	-	-
 -	warlpiri	-	noun	5	-	-	-	-	-
 -	wasabi	-	noun	5	-	back	i	-	-
@@ -45490,7 +45490,7 @@
 -	yamk	-	noun	18B	-	-	-	abbr	-
 -	yamoussoukrolainen	-	noun	38	-	-	-	-	-
 -	yang	-	noun	5	-	-	-	non-compounding|foreign	-
--	yangben	-	noun	?6	-	-	-	-	-
+-	yangben	-	noun	5	-	-	-	-	-
 -	yaoundélainen	-	noun	38	-	-	-	-	-
 -	yarenilainen	-	noun	38	-	-	-	-	-
 -	ydin	-	noun	33	t:d	front	i	-	-
@@ -51173,7 +51173,7 @@
 -	glögi|juhla	-	noun	10	-	-	-	-	-
 -	glögi|tilaisuus	-	noun	40	-	-	-	-	-
 -	gneissi|graniitti	-	noun	5	tt:t	-	-	-	-
--	goan|konkani	-	noun	?6	-	-	-	-	-
+-	goan|konkani	-	noun	6	-	-	-	-	-
 -	goji|marja	-	noun	9	-	-	-	-	-
 -	golfin|pelaaja	-	noun	10	-	-	-	-	-
 -	golf|auto	-	noun	1	-	-	-	-	-

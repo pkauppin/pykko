@@ -72,6 +72,8 @@ STYLE_TAGS = [
 	('+dial', ''),
 	('+nstd', ''),
 	('+arch', ''),
+	('+poet', ''),
+	('+dated', ''),
 ]
 
 MORPH_ENDINGS = {
@@ -582,7 +584,7 @@ def get_pivot_stem(inflections, pos):
 
 def getf(inflections, tag):
 	forms = []
-	for style in '', '|rare', '|nstd', '|poet', '|arch', '|dial':
+	for style in '', '|rare', '|nstd', '|poet', '|arch', '|dial', '|dated':
 		for form in inflections.get(f'{tag}{style}', []):
 			forms.append(form)
 	return sorted(forms, key=lambda f: -len(f))

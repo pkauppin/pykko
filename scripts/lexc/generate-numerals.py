@@ -12,15 +12,16 @@ for row in read_list_tsv('aux-numerals.tsv'):
 	_, lemma, _, pos, kotus_classes, gradations, harmonies, vowels, _, _ = row
 	for kotus_class, gradation, harmony, vowel in unpack(kotus_classes, gradations, harmonies, vowels):
 		inflections = inflect(lemma, pos, kotus_class, gradation)
+		inflections = {key: val for key, val in inflections.items() if val}
 		FORMS[lemma] = ddict(align_all_inflections(inflections, pos='numeral'))
 
 FORMS_EQUALIZED = {
 	lemma: ddict(equalize_inflections(inflections)) for lemma, inflections in FORMS.items()
 }
 
-TAGS = {
+TAGS = sorted({
 	tag for inflections in FORMS.values() for tag in inflections.keys() if not tag.startswith('@')
-} - {'pl|gen|nstd'}
+} - {'pl|gen|nstd'})
 
 MULTIPLIER_PARTITIVE = {
 	'kymmenen': FORMS_EQUALIZED['kymmenen']['sg|par'][0],

@@ -184,16 +184,16 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	elif kotus_class == "1S":
 		ouroboro = word[:-1]
 		all_forms['sg|nom'] = [f"{ouroboro}s"]
-		all_forms['sg|gen|arch'] = [f"{ouroboro}n"]
-		all_forms['sg|par|arch'] = [f"{ouroboro}{a}"]
-		all_forms['sg|ill|arch'] = [f"{ouroboro}{o}n"]
-		all_forms['pl|gen|arch'] = [f"{ouroboro}jen"]
-		all_forms['pl|par|arch'] = [f"{ouroboro}j{a}"]
-		all_forms['pl|ill|arch'] = [f"{ouroboro}ihin"]
-		all_forms['pl|ine|arch'] = [f"{ouroboro}iss{a}"]
-		all_forms['sg|ess|arch'] = [f"{ouroboro}n{a}"]
-		all_forms['pl|ess|arch'] = [f"{ouroboro}in{a}"]
-		all_forms['@stem:clitics|arch'] = [f"{ouroboro}"]
+		all_forms['sg|gen|dated'] = [f"{ouroboro}n"]
+		all_forms['sg|par|dated'] = [f"{ouroboro}{a}"]
+		all_forms['sg|ill|dated'] = [f"{ouroboro}{o}n"]
+		all_forms['pl|gen|dated'] = [f"{ouroboro}jen"]
+		all_forms['pl|par|dated'] = [f"{ouroboro}j{a}"]
+		all_forms['pl|ill|dated'] = [f"{ouroboro}ihin"]
+		all_forms['pl|ine|dated'] = [f"{ouroboro}iss{a}"]
+		all_forms['sg|ess|dated'] = [f"{ouroboro}n{a}"]
+		all_forms['pl|ess|dated'] = [f"{ouroboro}in{a}"]
+		all_forms['@stem:clitics'] = [f"{ouroboro}"]  # TODO: Fix missing style tag
 
 	# "palvelu"
 	elif kotus_class == "2":
@@ -659,7 +659,6 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['pl|ine'] = [f"{parfait}’iss{a}"]
 		all_forms['sg|ess'] = [f"{parfait}’n{a}"]
 		all_forms['pl|ess'] = [f"{parfait}’in{a}"]
-
 		# TODO: Add nonstandard inflections *here*!
 
 	# "tiili"
@@ -1208,29 +1207,30 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	for style in '', '|dated':
 
 		for kaupa in [f[:-1] for f in all_forms[f'sg|gen{style}']]:
-			all_forms['sg|all'] += [f"{kaupa}lle"]
-			all_forms['sg|ade'] += [f"{kaupa}ll{a}"]
-			all_forms['sg|abl'] += [f"{kaupa}lt{a}"]
-			all_forms['sg|ine'] += [f"{kaupa}ss{a}"]
-			all_forms['sg|ela'] += [f"{kaupa}st{a}"]
-			all_forms['sg|tra'] += [f"{kaupa}ksi"]
-			all_forms['sg|abe'] += [f"{kaupa}tt{a}"]
-			all_forms['pl|nom'] += [f"{kaupa}t"]
+			all_forms[f'sg|all{style}'] += [f"{kaupa}lle"]
+			all_forms[f'sg|ade{style}'] += [f"{kaupa}ll{a}"]
+			all_forms[f'sg|abl{style}'] += [f"{kaupa}lt{a}"]
+			all_forms[f'sg|ine{style}'] += [f"{kaupa}ss{a}"]
+			all_forms[f'sg|ela{style}'] += [f"{kaupa}st{a}"]
+			all_forms[f'sg|tra{style}'] += [f"{kaupa}ksi"]
+			all_forms[f'sg|abe{style}'] += [f"{kaupa}tt{a}"]
+			all_forms[f'pl|nom{style}'] += [f"{kaupa}t"]
 
 		for kaupoi in [f[:-3] for f in all_forms[f'pl|ine{style}']]:
-			all_forms['pl|all'] += [f"{kaupoi}lle"]
-			all_forms['pl|ade'] += [f"{kaupoi}ll{a}"]
-			all_forms['pl|abl'] += [f"{kaupoi}lt{a}"]
-			all_forms['pl|ela'] += [f"{kaupoi}st{a}"]
-			all_forms['pl|tra'] += [f"{kaupoi}ksi"]
-			all_forms['pl|abe'] += [f"{kaupoi}tt{a}"]
-			all_forms['pl|ins'] += [f"{kaupoi}n"]
+			all_forms[f'pl|all{style}'] += [f"{kaupoi}lle"]
+			all_forms[f'pl|ade{style}'] += [f"{kaupoi}ll{a}"]
+			all_forms[f'pl|abl{style}'] += [f"{kaupoi}lt{a}"]
+			all_forms[f'pl|ela{style}'] += [f"{kaupoi}st{a}"]
+			all_forms[f'pl|tra{style}'] += [f"{kaupoi}ksi"]
+			all_forms[f'pl|abe{style}'] += [f"{kaupoi}tt{a}"]
+			all_forms[f'pl|ins{style}'] += [f"{kaupoi}n"]
 
 		for kauppoi in [f[:-2] for f in all_forms[f'pl|ess{style}']]:
-			all_forms['pl|com'] += [f"{kauppoi}ne"]
+			all_forms[f'pl|com{style}'] += [f"{kauppoi}ne"]
 
 	# Auxiliary forms
-	poss_stem = all_forms['sg|ess'][0][:-2]
+	poss_stem = (all_forms['sg|ess'] or all_forms['sg|ess|dated'])[0][:-2]
+	# TODO: Fix missing style tag for inflection class 1S
 	all_forms['@stem:possessives'] = [poss_stem]
 	all_forms['@stem:clitics'] = all_forms.get('@stem:clitics') or all_forms['sg|nom']
 	all_forms['@base'] = [word]
@@ -1875,6 +1875,7 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 		all_forms['poten|3sg|poet'] = ['lie']
 
 	# Verb type "erkanee" does not actually have this participle
+	# TODO: Dubious?
 	if kotus_class == 'ERKANEE':
 		all_forms['part_ma'] = []
 

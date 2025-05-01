@@ -52,7 +52,7 @@ def grad_weak(s, gradtype=None):
 		weak = "’"
 
 	s = 'a' + s
-	s = re.sub(f'(.+)?{strong}({V})', f'\g<1>{weak}\g<2>', s)
+	s = re.sub(f'(.+)?{strong}({V})', rf'\1{weak}\2', s)
 	return s[1:]
 
 

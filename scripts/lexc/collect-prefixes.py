@@ -41,7 +41,7 @@ def prefix_form_gen(genitive):
 	"""
 
 	pfx = genitive.lower()
-	pfx = re.sub('([aeiouyäö])-\1', '\g<1> | \g<1>', pfx)
+	pfx = re.sub(r'([aeiouyäö])-\1', r'\1 | \1', pfx)
 	pfx = pfx.replace('-', '|').replace(' | ', '-')
 	pfx = pfx.replace('0', '')
 
