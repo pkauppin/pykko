@@ -2910,6 +2910,7 @@
 -	kyproslainen	-	adjective	38	-	-	-	-	-
 -	kypsymätön	-	adjective	34	tt:t	front	ö	-	-
 -	kypsä	-	adjective	10	-	front	ä	-	-
+-	kyreneläinen	-	adjective	38	-	-	-	-	-
 -	kyrillinen	-	adjective	38	-	front	e	-	-
 -	kyrpä	-	adjective	10	p:v	front	ä	vulg	-
 -	kyseinen	-	adjective	38	-	front	e	-	-
@@ -30277,6 +30278,7 @@
 -	kypsyys	-	noun	40	-	front	y	-	-
 -	kypä	-	noun	10	-	-	-	slang	-
 -	kypärä	-	noun	10	-	front	ä	-	-
+-	kyreneläinen	-	noun	38	-	-	-	-	-
 -	kyrpä	-	noun	10	-	-	-	-	-
 -	kyrsä	-	noun	10	-	front	ä	-	-
 -	kyräily	-	noun	2	-	front	y	-	-
@@ -34813,6 +34815,7 @@
 -	oudokki	-	noun	5	kk:k	back	i	-	-
 -	oudoksunta	-	noun	9	nt:nn	back	a	-	-
 -	oululainen	-	noun	38	-	-	-	-	-
+-	ouroboros	-	noun	39|1S	-	-	-	-	-
 -	outlet	-	noun	5	-	-	-	-	-
 -	outous	-	noun	40	-	back	u	-	-
 -	output	-	noun	5	-	back	u	-	-
@@ -35438,7 +35441,7 @@
 -	peeveli	-	noun	6	-	front	i	coll	-
 -	peffa	-	noun	9	-	back	a	coll	-
 -	pefletti	-	noun	5	tt:t	-	-	-	-
--	pegasos	-	noun	39	-	back	o	-	-
+-	pegasos	-	noun	39|1S	-	back	o	-	-
 -	pegasus	-	noun	39	-	-	-	-	-
 -	pegmatiitti	-	noun	5	tt:t	back	i	-	-
 -	peherrys	-	noun	39	-	front	y	-	-
@@ -39791,6 +39794,7 @@
 -	siloisuus	-	noun	40	-	back	u	rare	-
 -	silote	-	noun	48	tt:t	back	e	-	-
 -	silotus	-	noun	39	-	back	u	-	-
+-	silphium	-	noun	5	-	-	-	-	-
 -	silpominen	-	noun	38	-	back	e	-	-
 -	silppu	-	noun	1	pp:p	back	u	-	-
 -	silppuri	-	noun	6	-	back	i	-	-
@@ -43472,6 +43476,7 @@
 -	urkkija	-	noun	12	-	back	a	-	-
 -	urku	-	noun	1	k:	back	u	-	-
 -	urkuri	-	noun	6	-	back	i	-	-
+-	uroboros	-	noun	39|1S	-	-	-	-	-
 -	urologi	-	noun	5	-	back	i	-	-
 -	urologia	-	noun	12	-	back	a	-	-
 -	uros	-	noun	39|41	-	back	o	-	-
