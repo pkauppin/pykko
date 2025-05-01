@@ -108,7 +108,7 @@
 -	åt	-	none	!	-	-	-	foreign	-
 -	öfver	-	none	-	-	-	-	foreign	-
 -	över	-	none	-	-	-	-	foreign	-
--	AC	-	noun	?18B	-	-	-	foreign	-
+-	AC	-	noun	18B	-	front	-	foreign	-
 -	About	-	noun	5	-	-	-	foreign	-
 -	Academy	-	noun	1	-	-	-	foreign	-
 -	Act	-	noun	5	-	-	-	foreign	-
@@ -165,7 +165,7 @@
 -	Award	-	noun	5	-	-	-	foreign	-
 -	Awards	-	noun	5	-	-	-	foreign	-
 -	Azure	-	noun	8	-	-	-	foreign	-
--	B&B	-	noun	?18B	-	-	-	foreign	-
+-	B&B	-	noun	18B	-	front	-	foreign	-
 -	Back	-	noun	5	-	-	-	foreign	-
 -	Background	-	noun	5	-	-	-	foreign	-
 -	Backstory	-	noun	1	-	-	-	foreign	-
@@ -535,7 +535,7 @@
 -	Jet	-	noun	5	-	-	-	foreign	-
 -	Jets	-	noun	5	-	-	-	foreign	-
 -	Jewish	-	noun	5	-	-	-	foreign	-
--	Joker	-	noun	?6	-	-	-	foreign	-
+-	Joker	-	noun	6	-	-	-	foreign	-
 -	Journal	-	noun	6	-	-	-	foreign	-
 -	Juice	-	noun	8	-	-	-	foreign	-
 -	Julmust	-	noun	5	-	-	-	foreign	-
@@ -629,8 +629,8 @@
 -	Moomin	-	noun	5	-	-	-	foreign	-
 -	Moon	-	noun	5	-	-	-	foreign	-
 -	More	-	noun	8	-	-	-	foreign	-
--	Moscow	-	noun	22|5	-	-	-	foreign	-
--	Motel	-	noun	?6	-	-	-	foreign	-
+-	Moscow	-	noun	22|†5	-	-	-	foreign	-
+-	Motel	-	noun	5	-	-	-	foreign	-
 -	Motor	-	noun	6	-	-	-	foreign	-
 -	Motors	-	noun	5	-	-	-	foreign	-
 -	Mount	-	noun	5	-	-	-	foreign	-
@@ -681,7 +681,7 @@
 -	Open	-	noun	6	-	-	-	foreign	-
 -	Opinion	-	noun	5	-	-	-	foreign	-
 -	Orchestra	-	noun	10|12	-	-	-	foreign	-
--	Order	-	noun	?6	-	-	-	foreign	-
+-	Order	-	noun	6	-	-	-	foreign	-
 -	Organic	-	noun	5	-	-	-	foreign	-
 -	Organisation	-	noun	5	-	-	-	foreign	-
 -	Organization	-	noun	5	-	-	-	foreign	-
@@ -984,7 +984,7 @@
 -	Twin	-	noun	5	-	-	-	foreign	-
 -	Two	-	noun	21	-	-	-	foreign	-
 -	U.S.	-	noun	!	-	-	-	abbr|foreign	-
--	US	-	noun	?10B	-	-	-	foreign	-
+-	US	-	noun	10B	-	-	-	foreign	-
 -	Ukraine	-	noun	8	-	-	-	foreign	-
 -	Union	-	noun	5	-	-	-	foreign	-
 -	United	-	noun	5	-	-	-	foreign	-
