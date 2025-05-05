@@ -143,7 +143,6 @@ def add_compound_separators(word, pos=None, normalize_separators=True, pick_firs
 
 
 def is_plural(word):
-
 	for _, _, lemma, pos, _, _, morphtags, weight in analyze(word, only_best=True):
 		if morphtags == '+pl+nom':
 			return lemma
@@ -222,3 +221,15 @@ def add_compound_separators_to_proper_name(name):
 			return separated
 
 	return {name}
+
+
+def transfer_separators(source, target):
+	segments = []
+	for part in source.split('|'):
+		if target.startswith(part):
+			segments.append(part)
+			target = target[len(part):]
+		else:
+			segments.append(target)
+			break
+	return '|'.join(segments)
