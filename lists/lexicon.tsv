@@ -90,6 +90,7 @@
 -	akallinen	-	adjective	38	-	back	e	jocul	-
 -	akantoottinen	-	adjective	38	-	-	-	-	-
 -	akateeminen	-	adjective	38	-	back	e	-	-
+-	akineettinen	-	adjective	38	-	-	-	-	-
 -	akkamainen	-	adjective	38	-	back	e	-	-
 -	akkumulatiivinen	-	adjective	38	-	-	-	-	-
 -	akmolalainen	-	adjective	38	-	-	-	-	-
@@ -176,6 +177,7 @@
 -	amoraalinen	-	adjective	38	-	-	-	-	-
 -	amorfinen	-	adjective	38	-	back	e	-	-
 -	amsterdamilainen	-	adjective	38	-	-	-	-	-
+-	amyotrofinen	-	adjective	38	-	-	-	-	-
 -	anaalinen	-	adjective	38	-	back	e	-	-
 -	anabolinen	-	adjective	38	-	back	e	-	-
 -	anaerobinen	-	adjective	38	-	-	-	-	-
@@ -231,6 +233,7 @@
 -	antibakteerinen	-	adjective	38	-	back	e	-	-
 -	antibioottinen	-	adjective	38	-	back	e	-	-
 -	antidepressiivinen	-	adjective	38	-	-	-	-	-
+-	antidiureettinen	-	adjective	38	-	-	-	-	-
 -	antiepileptinen	-	adjective	38	-	-	-	-	-
 -	antihypertensiivinen	-	adjective	38	-	-	-	-	-
 -	antiikkinen	-	adjective	38	-	back	e	-	-
@@ -260,6 +263,7 @@
 -	apea	-	adjective	15	-	back	a	-	-
 -	apialainen	-	adjective	38	-	-	-	-	-
 -	apikaalinen	-	adjective	38	-	-	-	-	-
+-	aplastinen	-	adjective	38	-	-	-	-	-
 -	apokalyptinen	-	adjective	38	-	front|back	e	-	-
 -	apokriininen	-	adjective	38	-	-	-	-	-
 -	apokryfinen	-	adjective	38	-	front|back	e	-	-
@@ -377,6 +381,7 @@
 -	aulis	-	adjective	41	-	back	i	-	-
 -	auringoton	-	adjective	34	tt:t	back	o	-	-
 -	aurinkoinen	-	adjective	38	-	back	e	-	-
+-	auropalpebraalinen	-	adjective	38	-	-	-	-	-
 -	australialainen	-	adjective	38	-	back	e	-	-
 -	autenttinen	-	adjective	38	-	back	e	-	-
 -	autereinen	-	adjective	38	-	back	e	-	-
@@ -599,6 +604,7 @@
 -	dialektinen	-	adjective	38	-	back	e	-	-
 -	dialyyttinen	-	adjective	38	-	-	-	-	-
 -	diastolinen	-	adjective	38	-	back	e	-	-
+-	diastrofinen	-	adjective	38	-	-	-	-	-
 -	diataktinen	-	adjective	38	-	-	-	-	-
 -	diatoninen	-	adjective	38	-	back	e	-	-
 -	didaktinen	-	adjective	38	-	back	e	-	-
@@ -622,6 +628,8 @@
 -	diskordantti	-	adjective	5	tt:t	-	-	-	-
 -	diskreetti	-	adjective	5	tt:t	front	i	-	-
 -	diskursiivinen	-	adjective	38	-	back	e	-	-
+-	dispergoituva	-	adjective	10	-	-	-	-	-
+-	dissosiatiivinen	-	adjective	38	-	-	-	-	-
 -	distaalinen	-	adjective	38	-	-	-	-	-
 -	distinkti	-	adjective	5	-	-	-	-	-
 -	distinktiivi	-	adjective	5	-	-	-	-	-
@@ -660,6 +668,7 @@
 -	dysfaattinen	-	adjective	38	-	back	e	-	-
 -	dyskineettinen	-	adjective	38	-	-	-	-	-
 -	dysmetabolinen	-	adjective	38	-	-	-	-	-
+-	dysplastinen	-	adjective	38	-	-	-	-	-
 -	dystoninen	-	adjective	38	-	-	-	-	-
 -	dystooppinen	-	adjective	38	-	back	e	-	-
 -	ecuadorilainen	-	adjective	38	-	-	-	-	-
@@ -834,6 +843,7 @@
 -	epileptinen	-	adjective	38	-	front	e	-	-
 -	epis	-	adjective	39	-	front	i	-	-
 -	episkopaalinen	-	adjective	38	-	back	e	-	-
+-	episodinen	-	adjective	38	-	-	-	-	-
 -	episteeminen	-	adjective	38	-	-	-	-	-
 -	epistemologinen	-	adjective	38	-	-	-	-	-
 -	epistolaarinen	-	adjective	38	-	-	-	-	-
@@ -962,6 +972,7 @@
 -	fetaalinen	-	adjective	38	-	-	-	-	-
 -	fetidi	-	adjective	5	-	-	-	-	-
 -	fetisistinen	-	adjective	38	-	front	e	-	-
+-	fibrinolyyttinen	-	adjective	38	-	-	-	-	-
 -	fibromuskulaarinen	-	adjective	38	-	-	-	-	-
 -	fibroottinen	-	adjective	38	-	-	-	-	-
 -	fibulaarinen	-	adjective	38	-	-	-	-	-
@@ -1016,6 +1027,7 @@
 -	forssalainen	-	adjective	38	-	-	-	-	-
 -	fossiilinen	-	adjective	38	-	back	e	-	-
 -	fossiiliton	-	adjective	34	tt:t	back	o	-	-
+-	fotoelektrinen	-	adjective	38	-	-	-	-	-
 -	fotogeeninen	-	adjective	38	-	back	e	-	-
 -	fotometrinen	-	adjective	38	-	-	-	-	-
 -	fototrooppinen	-	adjective	38	-	-	-	-	-
@@ -1064,6 +1076,7 @@
 -	gallialainen	-	adjective	38	-	back	e	-	-
 -	galvaaninen	-	adjective	38	-	back	e	-	-
 -	gambialainen	-	adjective	38	-	-	-	-	-
+-	gastroesofageaalinen	-	adjective	38	-	-	-	-	-
 -	gastrointestinaalinen	-	adjective	38	-	-	-	-	-
 -	gastronominen	-	adjective	38	-	back	e	-	-
 -	gaullelainen	-	adjective	38	-	back	e	-	-
@@ -1309,6 +1322,7 @@
 -	hematogeeninen	-	adjective	38	-	-	-	-	-
 -	hematologinen	-	adjective	38	-	-	-	-	-
 -	hemodynaaminen	-	adjective	38	-	-	-	-	-
+-	hemolyyttinen	-	adjective	38	-	-	-	-	-
 -	hemorraaginen	-	adjective	38	-	-	-	-	-
 -	hemorraginen	-	adjective	38	-	-	-	-	-
 -	hemostaattinen	-	adjective	38	-	-	-	-	-
@@ -1567,6 +1581,7 @@
 -	hypoteettinen	-	adjective	38	-	back	e	-	-
 -	hypoterminen	-	adjective	38	-	back	e	-	-
 -	hypotoninen	-	adjective	38	-	-	-	-	-
+-	hypovoleeminen	-	adjective	38	-	-	-	-	-
 -	hyppäyksellinen	-	adjective	38	-	front	e	-	-
 -	hyppäyksittäinen	-	adjective	38	-	front	e	-	-
 -	hyrskyinen	-	adjective	38	-	front	e	-	-
@@ -2985,6 +3000,7 @@
 -	kyrillinen	-	adjective	38	-	front	e	-	-
 -	kyrpä	-	adjective	10	p:v	front	ä	vulg	-
 -	kyseinen	-	adjective	38	-	front	e	-	-
+-	kystinen	-	adjective	38	-	-	-	-	-
 -	kysytty	-	adjective	1	tt:t	-	-	-	-
 -	kysyvä	-	adjective	10	-	front	ä	-	-
 -	kyvykäs	-	adjective	41	kk:k	front	ä	-	-
@@ -3249,6 +3265,7 @@
 -	lilongwelainen	-	adjective	38	-	-	-	-	-
 -	limainen	-	adjective	38	-	back	e	-	-
 -	limalainen	-	adjective	38	-	-	-	-	-
+-	limbinen	-	adjective	38	-	-	-	-	-
 -	limbo	-	adjective	1	-	back	o	coll	-
 -	limburgilainen	-	adjective	38	-	-	-	-	-
 -	liminkalainen	-	adjective	38	-	-	-	-	-
@@ -3870,6 +3887,7 @@
 -	myelooinen	-	adjective	38	-	-	-	-	-
 -	mykeneläinen	-	adjective	38	-	-	-	-	-
 -	mykkä	-	adjective	10	kk:k	front	ä	-	-
+-	myokloninen	-	adjective	38	-	-	-	-	-
 -	myrkyllinen	-	adjective	38	-	front	e	-	-
 -	myrkytön	-	adjective	34	tt:t	front	ö	-	-
 -	myrskyinen	-	adjective	38	-	front	e	-	-
@@ -3986,6 +4004,7 @@
 -	naypyidawilainen	-	adjective	38	-	-	-	-	-
 -	neandertalilainen	-	adjective	38	-	back	e	-	-
 -	nearktinen	-	adjective	38	-	-	-	-	-
+-	nefroottinen	-	adjective	38	-	-	-	-	-
 -	nefrotoksinen	-	adjective	38	-	-	-	-	-
 -	negatiivinen	-	adjective	38	-	back	e	-	-
 -	negridinen	-	adjective	38	-	front	e	dated	-
@@ -4013,6 +4032,7 @@
 -	neuroleptinen	-	adjective	38	-	-	-	-	-
 -	neurologinen	-	adjective	38	-	back	e	-	-
 -	neuromuskulaarinen	-	adjective	38	-	-	-	-	-
+-	neuronaalinen	-	adjective	38	-	-	-	-	-
 -	neuroottinen	-	adjective	38	-	back	e	-	-
 -	neuropaattinen	-	adjective	38	-	back	e	-	-
 -	neurotrooppinen	-	adjective	38	-	-	-	-	-
@@ -4748,7 +4768,9 @@
 -	polyglottinen	-	adjective	38	-	-	-	-	-
 -	polygonaalinen	-	adjective	38	-	-	-	-	-
 -	polygyyninen	-	adjective	38	-	-	-	-	-
+-	polyklooritettu	-	adjective	1	tt:t	-	-	-	-
 -	polykrominen	-	adjective	38	-	-	-	-	-
+-	polykystinen	-	adjective	38	-	-	-	-	-
 -	polymorfinen	-	adjective	38	-	-	-	-	-
 -	polynesialainen	-	adjective	38	-	back	e	-	-
 -	polyseeminen	-	adjective	38	-	-	-	-	-
@@ -4799,6 +4821,7 @@
 -	posturaalinen	-	adjective	38	-	-	-	-	-
 -	postuumi	-	adjective	6	-	back	i	-	-
 -	potentiaalinen	-	adjective	38	-	back	e	-	-
+-	potentoiva	-	adjective	10	-	-	-	-	-
 -	potentti	-	adjective	5	tt:t	back	i	-	-
 -	potra	-	adjective	10	-	back	a	jocul	-
 -	pottumainen	-	adjective	38	-	back	e	coll	-
@@ -4819,6 +4842,7 @@
 -	prekliininen	-	adjective	38	-	-	-	-	-
 -	prekolumbiaaninen	-	adjective	38	-	-	-	-	-
 -	preliminaarinen	-	adjective	38	-	-	-	-	-
+-	premenstruaalinen	-	adjective	38	-	-	-	-	-
 -	premortaalinen	-	adjective	38	-	-	-	-	-
 -	prenataalinen	-	adjective	38	-	back	e	-	-
 -	preoperatiivinen	-	adjective	38	-	-	-	-	-
@@ -4875,6 +4899,7 @@
 -	prosodinen	-	adjective	38	-	-	-	-	-
 -	prosoma	-	adjective	10	-	-	-	-	-
 -	prospektiivinen	-	adjective	38	-	-	-	-	-
+-	prosteettinen	-	adjective	38	-	-	-	-	-
 -	protektiivinen	-	adjective	38	-	-	-	-	-
 -	protektionistinen	-	adjective	38	-	back	e	-	-
 -	protestanttinen	-	adjective	38	-	back	e	-	-
@@ -5611,6 +5636,7 @@
 -	sensitiivinen	-	adjective	38	-	front	e	-	-
 -	sensomotorinen	-	adjective	38	-	-	-	-	-
 -	sensorinen	-	adjective	38	-	back	e	-	-
+-	sensorineuraalinen	-	adjective	38	-	-	-	-	-
 -	sensuaalinen	-	adjective	38	-	back	e	-	-
 -	sensuelli	-	adjective	5	-	back	i	-	-
 -	sensuroimaton	-	adjective	34	tt:t	back	o	-	-
@@ -6024,6 +6050,7 @@
 -	suvuton	-	adjective	34	tt:t	back	o	-	-
 -	sveitsiläinen	-	adjective	38	-	front	e	-	-
 -	svetisistinen	-	adjective	38	-	-	-	-	-
+-	syanoottinen	-	adjective	38	-	-	-	-	-
 -	sydämellinen	-	adjective	38	-	front	e	-	-
 -	sydämetön	-	adjective	34	tt:t	front	ö	-	-
 -	syherö	-	adjective	2	-	front	ö	-	-
@@ -6450,6 +6477,7 @@
 -	trisyklinen	-	adjective	38	-	-	-	-	-
 -	triviaali	-	adjective	5	-	back	i	-	-
 -	trombogeeninen	-	adjective	38	-	-	-	-	-
+-	trombolyyttinen	-	adjective	38	-	-	-	-	-
 -	trooppinen	-	adjective	38	-	back	e	-	-
 -	tropofiilinen	-	adjective	38	-	-	-	-	-
 -	trotskilainen	-	adjective	38	-	back	e	-	-
@@ -6685,6 +6713,7 @@
 -	ulommainen	-	adjective	38	-	back	e	-	-
 -	ulompi	-	adjective	16	mp:mm	back	i	-	-
 -	ulotteikas	-	adjective	41	kk:k	back	a	-	-
+-	ulseratiivinen	-	adjective	38	-	-	-	-	-
 -	ultrasooninen	-	adjective	38	-	-	-	-	-
 -	ulvilalainen	-	adjective	38	-	-	-	-	-
 -	umaminen	-	adjective	38	-	-	-	-	-
@@ -6971,6 +7000,7 @@
 -	vertebrobasilaarinen	-	adjective	38	-	-	-	-	-
 -	vertikaalinen	-	adjective	38	-	back	e	-	-
 -	vesakkoinen	-	adjective	38	-	back	e	-	-
+-	vesikoureteraalinen	-	adjective	38	-	-	-	-	-
 -	vesimäinen	-	adjective	38	-	-	-	-	-
 -	vesinen	-	adjective	38	-	front	e	-	-
 -	vesistöinen	-	adjective	38	-	front	e	-	-
@@ -7319,12 +7349,16 @@
 -	Turing-täydellinen	-	adjective	38	-	-	-	-	-
 -	aamu-uninen	-	adjective	38	-	-	-	-	-
 -	ala-arvoinen	-	adjective	38	-	-	-	-	-
+-	alfa-adrenerginen	-	adjective	38	-	-	-	-	-
 -	alma-atalainen	-	adjective	38	-	-	-	-	-
 -	anti-inflammatorinen	-	adjective	38	-	-	-	-	-
 -	atk-pohjainen	-	adjective	38	-	-	-	-	-
+-	beeta-adrenerginen	-	adjective	38	-	-	-	-	-
+-	c-reaktiivinen	-	adjective	38	-	-	-	-	-
 -	ei-binäärinen	-	adjective	38	-	-	-	-	-
 -	ei-esittävä	-	adjective	10	-	-	-	-	-
 -	ei-sotilaallinen	-	adjective	38	-	-	-	-	-
+-	ei-steroidaalinen	-	adjective	38	-	-	-	-	-
 -	ei-toivottu	-	adjective	1	tt:t	-	-	-	-
 -	ennalta-arvattava	-	adjective	10	-	-	-	-	-
 -	eri-ikäinen	-	adjective	38	-	-	-	-	-
@@ -8154,6 +8188,7 @@
 -	hoikka|vartaloinen	-	adjective	38	-	-	-	stacked	-
 -	hoikka|vartinen	-	adjective	38	-	-	-	stacked	-
 -	hoikka|vyötäröinen	-	adjective	38	-	-	-	stacked	-
+-	hoito|rajoitteinen	-	adjective	38	-	-	-	-	-
 -	holhouksen|alainen	-	adjective	38	-	-	-	dated	-
 -	hollannin|kielinen	-	adjective	38	-	-	-	-	-
 -	holvi|kaarinen	-	adjective	38	-	-	-	-	-
@@ -8656,6 +8691,7 @@
 -	kaksi|piippuinen	-	adjective	38	-	-	-	-	-
 -	kaksi|puolinen	-	adjective	38	-	-	-	-	-
 -	kaksi|pyöräinen	-	adjective	38	-	-	-	-	-
+-	kaksi|päinen	-	adjective	38	-	-	-	-	-
 -	kaksi|päiväinen	-	adjective	38	-	-	-	-	-
 -	kaksi|raiteinen	-	adjective	38	-	-	-	-	-
 -	kaksi|rivinen	-	adjective	38	-	-	-	-	-
@@ -9049,6 +9085,7 @@
 -	koko|valkoinen	-	adjective	38	-	-	-	-	-
 -	koko|vuotinen	-	adjective	38	-	-	-	-	-
 -	koko|öinen	-	adjective	38	-	-	-	-	-
+-	kolloidi|osmoottinen	-	adjective	38	-	-	-	-	-
 -	kolmas|luokkalainen	-	adjective	38	-	-	-	-	-
 -	kolmen|arvoinen	-	adjective	38	-	-	-	-	-
 -	kolmen|kertainen	-	adjective	38	-	-	-	-	-
@@ -10528,6 +10565,7 @@
 -	pata|laiska	-	adjective	9	-	-	-	coll	-
 -	pata|valmis	-	adjective	41	-	-	-	-	-
 -	pata|vanhoillinen	-	adjective	38	-	-	-	-	-
+-	patologis|anatominen	-	adjective	38	-	-	-	-	-
 -	patti|jalkainen	-	adjective	38	-	-	-	-	-
 -	patti|polvinen	-	adjective	38	-	-	-	-	-
 -	peevelin|moinen	-	adjective	38	-	-	-	coll	-
@@ -10780,6 +10818,7 @@
 -	pronssi|kautinen	-	adjective	38	-	-	-	-	-
 -	proosa|muotoinen	-	adjective	38	-	-	-	-	-
 -	prosentti|määräinen	-	adjective	38	-	-	-	-	-
+-	prostata|spesifinen	-	adjective	38	-	-	-	-	-
 -	proto|tyyppinen	-	adjective	38	-	-	-	-	-
 -	pseudo|tieteellinen	-	adjective	38	-	-	-	-	-
 -	puhdas|henkinen	-	adjective	38	-	-	-	-	-
@@ -21012,8 +21051,10 @@
 -	adekvaattius	-	noun	40	-	back	u	-	-
 -	adeniini	-	noun	5	-	-	-	-	-
 -	adenokromi	-	noun	5	-	-	-	-	-
+-	adenomatoosi	-	noun	5	-	-	-	-	-
 -	adenomyoosi	-	noun	5	-	-	-	-	-
 -	adenooma	-	noun	10	-	back	a	-	-
+-	adenopatia	-	noun	12	-	-	-	-	-
 -	adenotomia	-	noun	12	-	-	-	-	-
 -	adessiivi	-	noun	5	-	back	i	-	-
 -	adheesio	-	noun	3	-	back	o	-	-
@@ -21266,9 +21307,12 @@
 -	aksiomi	-	noun	5	-	back	i	-	-
 -	aksiooma	-	noun	10	-	back	a	-	-
 -	akti	-	noun	5	-	back	i	-	-
+-	aktiini	-	noun	6	-	-	-	-	-
 -	aktiivi	-	noun	5	-	back	i	-	-
 -	aktiivisuus	-	noun	40	-	back	u	-	-
 -	aktinium	-	noun	5	-	-	-	-	-
+-	aktinomykeetti	-	noun	5	tt:t	-	-	-	-
+-	aktinomyseetti	-	noun	5	tt:t	-	-	-	-
 -	aktio	-	noun	3	-	back	o	-	-
 -	aktivismi	-	noun	5	-	back	i	-	-
 -	aktivisti	-	noun	5	-	back	i	-	-
@@ -21314,6 +21358,7 @@
 -	albinismi	-	noun	5	-	back	i	-	-
 -	albumi	-	noun	6	-	back	i	-	-
 -	albumiini	-	noun	5	-	back	i	-	-
+-	albuminuria	-	noun	12	-	-	-	-	-
 -	aldehydi	-	noun	5	-	-	-	-	-
 -	aldosteroni	-	noun	?6	-	-	-	-	-
 -	ale	-	noun	8	-	back	e	-	-
@@ -21328,6 +21373,7 @@
 -	aleutti	-	noun	5	tt:t	-	-	-	-
 -	alfa	-	noun	9	-	back	a	-	-
 -	alfalfa	-	noun	9	-	back	a	-	-
+-	alfareduktaasi	-	noun	5	-	-	-	-	-
 -	alfatalassemia	-	noun	12	-	-	-	-	-
 -	alfutsosiini	-	noun	5	-	-	-	-	-
 -	algebra	-	noun	11	-	back	a	-	-
@@ -21467,6 +21513,7 @@
 -	amfora	-	noun	10	-	back	a	-	-
 -	amhara	-	noun	12	-	-	-	-	-
 -	amidi	-	noun	5	-	-	-	-	-
+-	amiini	-	noun	6	-	-	-	-	-
 -	amikasiini	-	noun	5	-	-	-	-	-
 -	amiodaroni	-	noun	?6	-	-	-	-	-
 -	amiraali	-	noun	5	-	back	i	-	-
@@ -21509,10 +21556,12 @@
 -	amputointi	-	noun	5	nt:nn	back	i	-	-
 -	amsterdamilainen	-	noun	38	-	-	-	-	-
 -	amuletti	-	noun	5	tt:t	back	i	-	-
+-	amylaasi	-	noun	5	-	-	-	-	-
 -	amyloidi	-	noun	5	-	-	-	-	-
 -	amyloidoosi	-	noun	5	-	-	-	-	-
 -	anaali	-	noun	6	-	-	-	-	-
 -	anaboli	-	noun	5	-	back	i	coll	-
+-	anabolia	-	noun	12	-	-	-	-	-
 -	anafylaksi	-	noun	5	-	back	i	-	-
 -	anafylaksia	-	noun	12	-	back	a	-	-
 -	anagrammi	-	noun	5	-	back	i	-	-
@@ -21659,6 +21708,7 @@
 -	antibiootti	-	noun	5	tt:t	back	i	-	-
 -	antidepressiivi	-	noun	5	-	back	i	-	-
 -	antidootti	-	noun	5	tt:t	-	-	-	-
+-	antifibrinolyytti	-	noun	5	tt:t	-	-	-	-
 -	antigeeni	-	noun	5	-	back	i	-	-
 -	antihistamiini	-	noun	5	-	back	i	-	-
 -	antiikki	-	noun	5	kk:k	back	i	-	-
@@ -21679,6 +21729,7 @@
 -	antipatia	-	noun	12	-	back	a	-	-
 -	antiperspirantti	-	noun	5	tt:t	back	i	-	-
 -	antiprotoni	-	noun	5	-	back	i	-	-
+-	antipyreetti	-	noun	5	tt:t	-	-	-	-
 -	antirasismi	-	noun	5	-	-	-	-	-
 -	antirasisti	-	noun	5	-	-	-	-	-
 -	antisemiitti	-	noun	5	tt:t	back	i	-	-
@@ -21688,6 +21739,7 @@
 -	antiseptiikka	-	noun	9	kk:k	-	-	-	-
 -	antistreptolysiini	-	noun	5	-	-	-	-	-
 -	antiteesi	-	noun	5	-	back	i	-	-
+-	antitrombootti	-	noun	5	tt:t	-	-	-	-
 -	anto	-	noun	1	nt:nn	back	o	-	-
 -	antoisuus	-	noun	40	-	back	u	-	-
 -	antologia	-	noun	12	-	back	a	-	-
@@ -22021,6 +22073,7 @@
 -	astronomi	-	noun	5	-	back	i	-	-
 -	astronomia	-	noun	12	-	back	a	-	-
 -	astrosytooma	-	noun	10	-	-	-	-	-
+-	astrosyytti	-	noun	5	tt:t	-	-	-	-
 -	astuja	-	noun	10	-	back	a	-	-
 -	astunta	-	noun	9	nt:nn	back	a	-	-
 -	asturia	-	noun	12	-	-	-	-	-
@@ -22048,6 +22101,7 @@
 -	asymmetria	-	noun	12	-	-	-	-	-
 -	asymmetrisyys	-	noun	40	-	-	-	-	-
 -	asystolia	-	noun	12	-	-	-	-	-
+-	ataksia	-	noun	12	-	-	-	-	-
 -	atamaani	-	noun	5	-	back	i	-	-
 -	atari	-	noun	6	-	back	i	-	-
 -	atavismi	-	noun	5	-	back	i	-	-
@@ -22056,9 +22110,11 @@
 -	ateismi	-	noun	5	-	back	i	-	-
 -	ateisti	-	noun	5	-	back	i	-	-
 -	ateistisuus	-	noun	40	-	back	u	-	-
+-	atelektaasi	-	noun	5	-	-	-	-	-
 -	ateljee	-	noun	20	-	back	e	-	-
 -	ateria	-	noun	12	-	back	a	-	-
 -	ateriointi	-	noun	5	nt:nn	back	i	-	-
+-	ateromatoosi	-	noun	5	-	-	-	-	-
 -	aterooma	-	noun	10	-	-	-	-	-
 -	atetoosi	-	noun	5	-	-	-	-	-
 -	atikamekw	-	noun	5	-	-	-	-	-
@@ -23031,6 +23087,7 @@
 -	deksametasoni	-	noun	?6	-	-	-	-	-
 -	dekstraani	-	noun	6	-	-	-	-	-
 -	dekstropropoksifeeni	-	noun	5	-	-	-	-	-
+-	dekubitus	-	noun	39	-	-	-	-	-
 -	delaware	-	noun	8	-	-	-	-	-
 -	delegaatio	-	noun	3	-	back	o	-	-
 -	delegaatti	-	noun	5	tt:t	back	i	-	-
@@ -23099,6 +23156,7 @@
 -	dermografismi	-	noun	5	-	-	-	-	-
 -	dervissi	-	noun	5	-	front	i	-	-
 -	desantti	-	noun	5	tt:t	back	i	-	-
+-	desaturaasi	-	noun	5	-	-	-	-	-
 -	desentralisaatio	-	noun	3	-	back	o	-	-
 -	desentralisointi	-	noun	5	nt:nn	back	i	-	-
 -	desi	-	noun	5	-	front	i	coll	-
@@ -23173,6 +23231,7 @@
 -	diffraktio	-	noun	3	-	back	o	-	-
 -	diffuusio	-	noun	3	-	back	o	-	-
 -	diftongi	-	noun	5	-	back	i	-	-
+-	difyllobotriaasi	-	noun	5	-	-	-	-	-
 -	digestiivi	-	noun	5	-	front	i	-	-
 -	digestio	-	noun	3	-	-	-	-	-
 -	digi	-	noun	5	-	-	-	coll	-
@@ -23362,6 +23421,7 @@
 -	dreeveri	-	noun	6	-	front	i	-	-
 -	dreija	-	noun	9	-	back	a	-	-
 -	dreijaus	-	noun	39	-	back	u	-	-
+-	drenaasi	-	noun	5	-	-	-	-	-
 -	drilli	-	noun	5	-	front	i	-	-
 -	drinkki	-	noun	5	kk:k	front	i	-	-
 -	drinksu	-	noun	1	-	-	-	slang	-
@@ -23628,6 +23688,7 @@
 -	elektrodi	-	noun	5	-	back	i	-	-
 -	elektroenkefalografia	-	noun	12	-	-	-	-	-
 -	elektroenkefalogrammi	-	noun	5	-	-	-	-	-
+-	elektroforeesi	-	noun	5	-	-	-	-	-
 -	elektrokardiografia	-	noun	12	-	-	-	-	-
 -	elektrolyysi	-	noun	5	-	front|back	i	-	-
 -	elektrolyytti	-	noun	5	tt:t	front|back	i	-	-
@@ -23659,6 +23720,7 @@
 -	eloisuus	-	noun	40	-	back	u	-	-
 -	eloksointi	-	noun	5	nt:nn	back	i	-	-
 -	elollisuus	-	noun	40	-	back	u	-	-
+-	elongaasi	-	noun	5	-	-	-	-	-
 -	elostelija	-	noun	12	-	back	a	-	-
 -	elostelu	-	noun	1	-	back	u	-	-
 -	elottomuus	-	noun	40	-	back	u	-	-
@@ -23921,6 +23983,7 @@
 -	erytromysiini	-	noun	5	-	-	-	-	-
 -	erytroplasia	-	noun	12	-	-	-	-	-
 -	erytropoietiini	-	noun	5	-	back	i	-	-
+-	erytrosyytti	-	noun	5	tt:t	-	-	-	-
 -	erä	-	noun	10	-	front	ä	-	-
 -	esanssi	-	noun	5	-	back	i	-	-
 -	esari	-	noun	6	-	-	-	slang	-
@@ -24264,6 +24327,7 @@
 -	fibrinolyysi	-	noun	5	-	-	-	-	-
 -	fibroaterooma	-	noun	10	-	-	-	-	-
 -	fibrogeneesi	-	noun	5	-	-	-	-	-
+-	fibromatoosi	-	noun	5	-	-	-	-	-
 -	fibroosi	-	noun	5	-	-	-	-	-
 -	fibula	-	noun	12	-	-	-	-	-
 -	fidži	-	noun	5	-	-	-	-	-
@@ -24467,10 +24531,13 @@
 -	fortissimo	-	noun	2	-	-	-	-	-
 -	fortuna	-	noun	12	-	back	a	-	-
 -	fosfaatti	-	noun	5	tt:t	back	i	-	-
+-	fosfataasi	-	noun	5	-	-	-	-	-
+-	fosfolipaasi	-	noun	5	-	-	-	-	-
 -	fosfolipidi	-	noun	5	-	-	-	-	-
 -	fosforesenssi	-	noun	5	-	back	i	-	-
 -	fosfori	-	noun	5	-	back	i	-	-
 -	fosforointi	-	noun	5	nt:nn	back	i	-	-
+-	fosforylaatio	-	noun	3	-	-	-	-	-
 -	fossiili	-	noun	6	-	back	i	-	-
 -	foto	-	noun	1	-	back	o	coll	-
 -	fotometria	-	noun	12	-	-	-	-	-
@@ -24804,6 +24871,7 @@
 -	glukagoni	-	noun	5	-	-	-	-	-
 -	glukokortikoidi	-	noun	5	-	-	-	-	-
 -	glukoosi	-	noun	6	-	back	i	-	-
+-	glukosidaasi	-	noun	5	-	-	-	-	-
 -	glukosuria	-	noun	12	-	-	-	-	-
 -	gluoni	-	noun	5	-	back	i	-	-
 -	glutamiini	-	noun	5	-	-	-	-	-
@@ -24814,6 +24882,7 @@
 -	glykokalyksi	-	noun	5	-	-	-	-	-
 -	glykoli	-	noun	5	-	back	i	-	-
 -	glykolipidi	-	noun	5	-	-	-	-	-
+-	glykolyysi	-	noun	5	-	-	-	-	-
 -	glykoneogeneesi	-	noun	5	-	-	-	-	-
 -	glykoproteiini	-	noun	5	-	-	-	-	-
 -	glykosidi	-	noun	5	-	-	-	-	-
@@ -24876,6 +24945,8 @@
 -	granita	-	noun	13	-	-	-	-	-
 -	granola	-	noun	12	-	back	a	-	-
 -	granulaatti	-	noun	5	tt:t	-	-	-	-
+-	granulooma	-	noun	10	-	-	-	-	-
+-	granulosyytti	-	noun	5	tt:t	-	-	-	-
 -	grape	-	noun	8	-	back	e	-	-
 -	grappa	-	noun	9	-	back	a	-	-
 -	grappa	-	noun	9	pp:p	back	a	-	-
@@ -26379,6 +26450,7 @@
 -	hypokloriitti	-	noun	5	tt:t	-	-	-	-
 -	hypokondria	-	noun	12	-	back	a	-	-
 -	hypoksemia	-	noun	12	-	-	-	-	-
+-	hypoksia	-	noun	12	-	-	-	-	-
 -	hypolaktasia	-	noun	12	-	-	-	-	-
 -	hypomania	-	noun	12	-	-	-	-	-
 -	hyponatremia	-	noun	12	-	-	-	-	-
@@ -28931,6 +29003,7 @@
 -	keratiini	-	noun	5	-	back	i	-	-
 -	keratinisaatio	-	noun	3	-	-	-	-	-
 -	keratoakantooma	-	noun	10	-	-	-	-	-
+-	keratokonjunktiviitti	-	noun	5	tt:t	-	-	-	-
 -	keravalainen	-	noun	38	-	-	-	-	-
 -	kerberos	-	noun	39	-	back	o	-	-
 -	kerettiläinen	-	noun	38	-	-	-	-	-
@@ -29778,6 +29851,7 @@
 -	kolekalsiferoli	-	noun	6	-	-	-	-	-
 -	kolektomia	-	noun	12	-	-	-	-	-
 -	kolera	-	noun	12	-	back	a	-	-
+-	kolestaasi	-	noun	5	-	-	-	-	-
 -	kolesteatooma	-	noun	10	-	-	-	-	-
 -	kolesteroli	-	noun	5	-	back	i	-	-
 -	kolestipoli	-	noun	6	-	-	-	-	-
@@ -29790,6 +29864,7 @@
 -	kolhu	-	noun	1	-	back	u	-	-
 -	kolibri	-	noun	5	-	back	i	-	-
 -	koliikki	-	noun	5	kk:k	back	i	-	-
+-	koliini	-	noun	6	-	-	-	-	-
 -	koliitti	-	noun	5	tt:t	back	i	-	-
 -	kolikko	-	noun	4	kk:k	back	o	-	-
 -	kolina	-	noun	12	-	back	a	-	-
@@ -30182,6 +30257,7 @@
 -	korintti	-	noun	5	tt:t	back	i	-	-
 -	korinttilainen	-	noun	38	-	-	-	-	-
 -	korinttolainen	-	noun	38	-	back	e	dated	-
+-	korion	-	noun	5	-	-	-	-	-
 -	korionamnioniitti	-	noun	5	tt:t	-	-	-	-
 -	koriongonadotropiini	-	noun	5	-	-	-	-	-
 -	koris	-	noun	39	-	back	i	coll	-
@@ -31122,6 +31198,7 @@
 -	kyssä	-	noun	10	-	front	ä	rare	-
 -	kyssäri	-	noun	6	-	-	-	coll	-
 -	kysta	-	noun	9|10	-	back	a	-	-
+-	kystiini	-	noun	6	-	-	-	-	-
 -	kystiitti	-	noun	5	tt:t	front	i	-	-
 -	kystikkä	-	noun	14	kk:k	-	-	-	-
 -	kystinuria	-	noun	12	-	-	-	-	-
@@ -31407,6 +31484,7 @@
 -	laama	-	noun	9	-	back	a	-	-
 -	laamanni	-	noun	5	-	back	i	-	-
 -	laapis	-	noun	39	-	back	i	-	-
+-	laapistus	-	noun	39	-	-	-	-	-
 -	laardi	-	noun	5	-	back	i	-	-
 -	laari	-	noun	5	-	back	i	-	-
 -	laastari	-	noun	6	-	back	i	-	-
@@ -32299,6 +32377,7 @@
 -	lintu	-	noun	1	nt:nn	back	u	-	-
 -	lintunen	-	noun	38	-	back	e	-	-
 -	liotus	-	noun	39	-	back	u	-	-
+-	lipaasi	-	noun	5	-	-	-	-	-
 -	lipaisu	-	noun	2	-	back	u	-	-
 -	lipare	-	noun	48	-	back	e	coll	-
 -	lipas	-	noun	41	pp:p	back	a	-	-
@@ -32313,6 +32392,7 @@
 -	liplatus	-	noun	39	-	back	u	-	-
 -	lipoidi	-	noun	5	-	back	i	-	-
 -	lipokas	-	noun	41	kk:k	back	a	-	-
+-	lipoksigenaasi	-	noun	5	-	-	-	-	-
 -	lipooma	-	noun	10	-	-	-	-	-
 -	lipopolysakkaridi	-	noun	5	-	-	-	-	-
 -	lipoproteiini	-	noun	5	-	-	-	-	-
@@ -33153,6 +33233,7 @@
 -	maksatus	-	noun	39	-	back	u	-	-
 -	maksi	-	noun	5	-	-	-	-	-
 -	maksiimi	-	noun	5	-	back	i	-	-
+-	maksilla	-	noun	13	-	-	-	-	-
 -	maksimi	-	noun	5	-	back	i	-	-
 -	maksimointi	-	noun	5	nt:nn	back	i	-	-
 -	maksoittuma	-	noun	10	-	back	a	-	-
@@ -33554,6 +33635,7 @@
 -	melankolisuus	-	noun	40	-	back	u	-	-
 -	melano	-	noun	2	-	-	-	rare	-
 -	melanooma	-	noun	10	-	back	a	-	-
+-	melanoosi	-	noun	5	-	-	-	-	-
 -	melanosyytti	-	noun	5	tt:t	front|back	i	-	-
 -	melassi	-	noun	5	-	back	i	-	-
 -	melatoniini	-	noun	5	-	back	i	-	-
@@ -33811,6 +33893,7 @@
 -	mikki	-	noun	5	kk:k	front	i	coll	-
 -	mikrenkefalia	-	noun	12	-	-	-	-	-
 -	mikro	-	noun	1	-	back	o	-	-
+-	mikroalbuminuria	-	noun	12	-	-	-	-	-
 -	mikrobi	-	noun	5	-	back	i	-	-
 -	mikrobisto	-	noun	1	-	-	-	-	-
 -	mikrofoni	-	noun	5	-	back	i	-	-
@@ -33891,6 +33974,7 @@
 -	minuus	-	noun	40	-	back	u	-	-
 -	minuutti	-	noun	5	tt:t	back	i	-	-
 -	minä	-	noun	10	-	front	ä	-	-
+-	mioosi	-	noun	5	-	-	-	-	-
 -	mirandeesi	-	noun	5	-	-	-	-	-
 -	mirha	-	noun	9	-	back	a	-	-
 -	mirhami	-	noun	6	-	back	i	-	-
@@ -34357,6 +34441,7 @@
 -	museointi	-	noun	5	nt:nn	back	i	-	-
 -	museologia	-	noun	12	-	back	a	-	-
 -	musiikki	-	noun	5	kk:k	back	i	-	-
+-	musiini	-	noun	6	-	-	-	-	-
 -	musikaali	-	noun	5	-	back	i	-	-
 -	musikaalisuus	-	noun	40	-	back	u	-	-
 -	musikantti	-	noun	5	tt:t	back	i	jocul	-
@@ -34436,6 +34521,7 @@
 -	muuttuvuus	-	noun	40	-	back	u	-	-
 -	myalgia	-	noun	12	-	back	a	-	-
 -	myanmarilainen	-	noun	38	-	-	-	-	-
+-	mydriaasi	-	noun	5	-	-	-	-	-
 -	myeliini	-	noun	5	-	-	-	-	-
 -	myelinisaatio	-	noun	3	-	-	-	-	-
 -	myelooma	-	noun	10	-	-	-	-	-
@@ -34945,6 +35031,7 @@
 -	neurodegeneraatio	-	noun	3	-	-	-	-	-
 -	neuroendokrinologia	-	noun	12	-	-	-	-	-
 -	neurofibrilli	-	noun	5	-	-	-	-	-
+-	neurofibromatoosi	-	noun	5	-	-	-	-	-
 -	neurolepti	-	noun	5	-	-	-	-	-
 -	neurolingvistiikka	-	noun	9	kk:k	-	-	-	-
 -	neurologi	-	noun	5	-	back	i	-	-
@@ -35880,13 +35967,16 @@
 -	osteiitti	-	noun	5	tt:t	-	-	-	-
 -	ostelu	-	noun	2	-	back	u	-	-
 -	osteoartroosi	-	noun	5	-	-	-	-	-
+-	osteoblasti	-	noun	5	-	-	-	-	-
 -	osteogeneesi	-	noun	5	-	-	-	-	-
+-	osteoklasti	-	noun	5	-	-	-	-	-
 -	osteokondrodysplasia	-	noun	12	-	-	-	-	-
 -	osteokondroosi	-	noun	5	-	-	-	-	-
 -	osteomalasia	-	noun	12	-	back	a	-	-
 -	osteopaatti	-	noun	5	tt:t	back	i	-	-
 -	osteopatia	-	noun	12	-	back	a	-	-
 -	osteoporoosi	-	noun	5	-	back	i	-	-
+-	osteosyytti	-	noun	5	tt:t	-	-	-	-
 -	osteri	-	noun	6	-	back	i	-	-
 -	ostjakki	-	noun	5	kk:k	back	i	-	-
 -	osto	-	noun	1	-	back	o	-	-
@@ -36358,9 +36448,12 @@
 -	paraplegia	-	noun	12	-	-	-	-	-
 -	parapsykologia	-	noun	12	-	-	-	-	-
 -	paras	-	noun	41	rh:r	back	a	-	-
+-	parasenteesi	-	noun	5	-	-	-	-	-
 -	parasetamoli	-	noun	5	-	back	i	-	-
 -	parasiitti	-	noun	5	tt:t	back	i	-	-
 -	parasomnia	-	noun	12	-	-	-	-	-
+-	parasympatolyytti	-	noun	5	tt:t	-	-	-	-
+-	parasympatomimeetti	-	noun	5	tt:t	-	-	-	-
 -	parataksi	-	noun	5	-	back	i	-	-
 -	paratiisi	-	noun	5	-	back	i	-	-
 -	paratyreoidea	-	noun	12	-	-	-	-	-
@@ -37320,6 +37413,7 @@
 -	plörö	-	noun	1	-	front	ö	coll	-
 -	pneumatiikka	-	noun	9	kk:k	back	a	-	-
 -	pneumokokki	-	noun	5	kk:k	-	-	-	-
+-	pneumokonioosi	-	noun	5	-	-	-	-	-
 -	pneumonia	-	noun	12	-	back	a	-	-
 -	pneumoniitti	-	noun	5	tt:t	-	-	-	-
 -	pneumonologia	-	noun	12	-	-	-	-	-
@@ -37488,6 +37582,7 @@
 -	polyteismi	-	noun	5	-	-	-	-	-
 -	polyteisti	-	noun	5	-	-	-	-	-
 -	polyuretaani	-	noun	5	-	-	-	-	-
+-	polyuria	-	noun	12	-	-	-	-	-
 -	polyyppi	-	noun	5	pp:p	front|back	i	-	-
 -	pomada	-	noun	10	-	back	a	-	-
 -	pomade	-	noun	8	-	-	-	foreign	-
@@ -37686,6 +37781,7 @@
 -	praseodyymi	-	noun	5	-	-	-	-	-
 -	pratsosiini	-	noun	5	-	-	-	-	-
 -	pravastatiini	-	noun	5	-	-	-	-	-
+-	prebiootti	-	noun	5	tt:t	-	-	-	-
 -	predestinaatio	-	noun	3	-	back	o	-	-
 -	predikaatti	-	noun	5	tt:t	back	i	-	-
 -	predikatiivi	-	noun	5	-	back	i	-	-
@@ -37875,6 +37971,7 @@
 -	prostituutio	-	noun	3	-	back	o	-	-
 -	protagonisti	-	noun	5	-	-	-	-	-
 -	protaktinium	-	noun	5	-	-	-	-	-
+-	proteaasi	-	noun	5	-	-	-	-	-
 -	proteesi	-	noun	6	-	back	i	-	-
 -	proteiini	-	noun	5	-	back	i	-	-
 -	proteinuria	-	noun	12	-	-	-	-	-
@@ -38977,6 +39074,7 @@
 -	reality	-	noun	1	-	-	-	-	-
 -	redemptoristi	-	noun	5	-	-	-	-	-
 -	redi	-	noun	5	-	front	i	-	-
+-	reduktaasi	-	noun	5	-	-	-	-	-
 -	reduktio	-	noun	3	-	back	o	-	-
 -	redundanssi	-	noun	5	-	back	i	-	-
 -	redusointi	-	noun	5	nt:nn	back	i	-	-
@@ -39185,6 +39283,7 @@
 -	resonanssi	-	noun	5	-	back	i	-	-
 -	resonointi	-	noun	5	nt:nn	back	i	-	-
 -	resori	-	noun	6	-	back	i	-	-
+-	resoribletti	-	noun	5	tt:t	-	-	-	-
 -	resorptio	-	noun	3	-	-	-	-	-
 -	respa	-	noun	9	-	back	a	coll	-
 -	respekti	-	noun	5	-	front	i	-	-
@@ -40816,6 +40915,7 @@
 -	seri	-	noun	5	-	-	-	-	-
 -	seriffi	-	noun	5	-	front	i	-	-
 -	serigrafia	-	noun	12	-	back	a	-	-
+-	serivastatiini	-	noun	5	-	-	-	-	-
 -	serkku	-	noun	1	kk:k	back	u	-	-
 -	serkkuus	-	noun	40	-	back	u	-	-
 -	serkus	-	noun	39	-	back	u	-	-
@@ -41936,6 +42036,7 @@
 -	stratosfääri	-	noun	5	-	front	i	-	-
 -	stratus	-	noun	39	-	-	-	-	-
 -	streittari	-	noun	6	-	-	-	slang	-
+-	streptokinaasi	-	noun	5	-	-	-	-	-
 -	streptomysiini	-	noun	5	-	-	-	-	-
 -	stressi	-	noun	5	-	front	i	-	-
 -	stretch	-	noun	5	-	-	-	foreign|slang	-
@@ -42418,6 +42519,8 @@
 -	sympaattisuus	-	noun	40	-	back	u	-	-
 -	sympatia	-	noun	12	-	back	a	-	-
 -	sympatisointi	-	noun	5	nt:nn	-	-	-	-
+-	sympatolyytti	-	noun	5	tt:t	-	-	-	-
+-	sympatomimeetti	-	noun	5	tt:t	-	-	-	-
 -	sympatotonia	-	noun	12	-	-	-	-	-
 -	symposio	-	noun	3	-	back	o	-	-
 -	symposiumi	-	noun	5	-	back	i	-	-
@@ -44068,6 +44171,7 @@
 -	triviaalius	-	noun	40	-	back	u	-	-
 -	trivialiteetti	-	noun	5	tt:t	back	i	-	-
 -	trofee	-	noun	20	-	-	-	-	-
+-	trofoblasti	-	noun	5	-	-	-	-	-
 -	troglitatsoni	-	noun	6	-	-	-	-	-
 -	troikka	-	noun	10	kk:k	back	a	-	-
 -	trokari	-	noun	6	-	back	i	coll	-
@@ -44077,6 +44181,7 @@
 -	trolli	-	noun	5	-	back	i	slang	-
 -	trollikka	-	noun	14	kk:k	back	a	coll	-
 -	trombi	-	noun	5	-	back	i	-	-
+-	trombiini	-	noun	6	-	-	-	-	-
 -	tromboembolia	-	noun	12	-	-	-	-	-
 -	tromboflebiitti	-	noun	5	tt:t	-	-	-	-
 -	tromboksaani	-	noun	5	-	-	-	-	-
@@ -44110,6 +44215,7 @@
 -	tryptofaani	-	noun	5	-	-	-	-	-
 -	tsaari	-	noun	5	-	back	i	-	-
 -	tsaaritar	-	noun	32	tt:t	back	a	-	-
+-	tsafirlukasti	-	noun	5	-	-	-	-	-
 -	tsahuri	-	noun	6	-	-	-	-	-
 -	tsakonia	-	noun	12	-	-	-	-	-
 -	tsarismi	-	noun	5	-	back	i	-	-
@@ -44975,6 +45081,7 @@
 -	urdu	-	noun	1	-	back	u	-	-
 -	urduni	-	noun	6	-	-	-	-	-
 -	urea	-	noun	12	-	back	a	-	-
+-	ureaasi	-	noun	5	-	-	-	-	-
 -	uremia	-	noun	12	-	-	-	-	-
 -	uretra	-	noun	9	-	-	-	-	-
 -	uretriitti	-	noun	5	tt:t	-	-	-	-
@@ -44997,6 +45104,7 @@
 -	urografia	-	noun	12	-	-	-	-	-
 -	urologi	-	noun	5	-	back	i	-	-
 -	urologia	-	noun	12	-	back	a	-	-
+-	uropatia	-	noun	12	-	-	-	-	-
 -	uros	-	noun	39|41	-	back	o	-	-
 -	urosepsis	-	noun	39	-	-	-	-	-
 -	urpiainen	-	noun	38	-	back	e	-	-
@@ -46653,6 +46761,7 @@
 -	yarenilainen	-	noun	38	-	-	-	-	-
 -	ydin	-	noun	33	t:d	front	i	-	-
 -	yemba	-	noun	9	-	-	-	-	-
+-	yersinioosi	-	noun	5	-	-	-	-	-
 -	yhdeksikkö	-	noun	4	kk:k	front	ö	-	-
 -	yhdeksäinen	-	noun	38	-	front	e	-	-
 -	yhdeksännes	-	noun	39	-	front	e	-	-
@@ -48650,7 +48759,7 @@
 -	aivo|infarkti	-	noun	5	-	-	-	-	-
 -	aivo|invalidi	-	noun	5	-	-	-	-	-
 -	aivo|jumppa	-	noun	10	pp:p	-	-	-	-
--	aivo|juovio	-	noun	.	-	-	-	-	-
+-	aivo|juovio	-	noun	3	-	-	-	-	-
 -	aivo|kalvo	-	noun	1	-	-	-	-	-
 -	aivo|kammio	-	noun	3	-	-	-	-	-
 -	aivo|kapasiteetti	-	noun	5	tt:t	-	-	-	-
@@ -48940,6 +49049,7 @@
 -	ala|virta	-	noun	9	rt:rr	-	-	-	-
 -	ala|yksikkö	-	noun	4	kk:k	-	-	-	-
 -	ala|ääni	-	noun	26	-	-	-	-	-
+-	aldehydi|dehydrogenaasi	-	noun	5	-	-	-	-	-
 -	aleksanterin|leivos	-	noun	39	-	-	-	-	-
 -	aleksanterin|torttu	-	noun	1	tt:t	-	-	-	-
 -	alemanni|saksa	-	noun	9	-	-	-	-	-
@@ -49848,6 +49958,7 @@
 -	asento|tunto	-	noun	1	nt:nn	-	-	-	-
 -	asento|virhe	-	noun	48	-	-	-	-	-
 -	asetaatti|kuitu	-	noun	1	t:d	-	-	-	-
+-	asetaldehydi|dehydrogenaasi	-	noun	5	-	-	-	-	-
 -	asetelma|maalaus	-	noun	39	-	-	-	-	-
 -	asetin|laite	-	noun	48	tt:t	-	-	-	-
 -	asetoni|tauti	-	noun	5	t:d	-	-	-	-
@@ -49855,6 +49966,7 @@
 -	asetus|kokoelma	-	noun	10	-	-	-	-	-
 -	asetyleeni|hitsaus	-	noun	39	-	-	-	-	-
 -	asetyleeni|liekki	-	noun	5	kk:k	-	-	-	-
+-	asetyyli|koliini	-	noun	6	-	-	-	-	-
 -	ase|apu	-	noun	1	p:v	-	-	-	-
 -	ase|huone	-	noun	48	-	-	-	-	-
 -	ase|kaappi	-	noun	5	pp:p	-	-	-	-
@@ -50525,6 +50637,7 @@
 -	beeta|karoteeni	-	noun	5	-	-	-	-	-
 -	beeta|metasoni	-	noun	?6	-	-	-	-	-
 -	beeta|salpaaja	-	noun	10	-	-	-	-	-
+-	beeta|sympatomimeetti	-	noun	5	tt:t	-	-	-	-
 -	beeta|säteily	-	noun	2	-	-	-	-	-
 -	beeta|versio	-	noun	3	-	-	-	-	-
 -	bella|donna	-	noun	10	-	-	-	-	-
@@ -52345,6 +52458,7 @@
 -	floretti|miekkailija	-	noun	12	-	-	-	-	-
 -	floretti|miekkailu	-	noun	2	-	-	-	-	-
 -	flunssa|lääke	-	noun	48	kk:k	-	-	-	-
+-	fluoreseiini|testi	-	noun	5	-	-	-	-	-
 -	fluori|hoito	-	noun	1	t:d	-	-	-	-
 -	fluori|loiste	-	noun	48	-	-	-	-	-
 -	fluori|sälpä	-	noun	10	p:v	-	-	-	-
@@ -62340,6 +62454,7 @@
 -	kolera|bakteeri	-	noun	6	-	-	-	-	-
 -	kolesteroli|arvo	-	noun	1	-	-	-	-	-
 -	kolesteroli|pitoisuus	-	noun	40	-	-	-	-	-
+-	koliini|esteraasi	-	noun	5	-	-	-	-	-
 -	kolikko|automaatti	-	noun	5	tt:t	-	-	-	-
 -	kolikko|kukkaro	-	noun	2	-	-	-	-	-
 -	kolikko|puhelin	-	noun	33	-	-	-	-	-
@@ -62838,6 +62953,7 @@
 -	korruptio|lounas	-	noun	41	-	-	-	coll	-
 -	korruptio|skandaali	-	noun	6	-	-	-	-	-
 -	korsi|vilja	-	noun	9	-	-	-	-	-
+-	kortikospinaali|rata	-	noun	9	t:d	-	-	-	-
 -	kortin|lukija	-	noun	12	-	-	-	-	-
 -	kortin|lyönti	-	noun	5	nt:nn	-	-	-	-
 -	kortin|pelaaja	-	noun	10	-	-	-	-	-
@@ -63309,6 +63425,7 @@
 -	krappi|lakka	-	noun	9	kk:k	-	-	-	-
 -	krapula|ryyppy	-	noun	1	pp:p	-	-	-	-
 -	kreatiini|fosfaatti	-	noun	5	tt:t	-	-	-	-
+-	kreatiini|kinaasi	-	noun	5	-	-	-	-	-
 -	kreatiini|monohydraatti	-	noun	5	tt:t	-	-	-	-
 -	kreemi|kakku	-	noun	1	kk:k	-	-	-	-
 -	kreikkalais|katolilainen	-	noun	38	-	-	-	-	-
@@ -63399,6 +63516,7 @@
 -	kryo|hoito	-	noun	1	t:d	-	-	-	-
 -	kryo|magneetti	-	noun	5	tt:t	-	-	-	-
 -	krypto|valuutta	-	noun	9	tt:t	-	-	-	-
+-	ksantiini|oksidaasi	-	noun	5	-	-	-	-	-
 -	ksero|kopio	-	noun	3	-	-	-	-	-
 -	ksylitoli|pastilli	-	noun	5	-	-	-	-	-
 -	kude|lanka	-	noun	9	nk:ng	-	-	-	-
@@ -78754,6 +78872,7 @@
 -	prosessi|teollisuus	-	noun	40	-	-	-	-	-
 -	prosessointi|virhe	-	noun	48	-	-	-	-	-
 -	prostata|hyperplasia	-	noun	12	-	-	-	-	-
+-	proteiini|kinaasi	-	noun	5	-	-	-	-	-
 -	proteiini|kuitu	-	noun	1	t:d	-	-	-	-
 -	proteiini|vanukas	-	noun	41	kk:k	-	-	-	-
 -	protesti|laulaja	-	noun	10	-	-	-	-	-
@@ -84427,6 +84546,7 @@
 -	seri|paino	-	noun	1	-	-	-	-	-
 -	serkku|poika	-	noun	10	ik:j	-	-	-	-
 -	serkku|tyttö	-	noun	1	tt:t	-	-	-	-
+-	seroidi|lipofuskinoosi	-	noun	5	-	-	-	-	-
 -	serpentiini|kivi	-	noun	7	-	-	-	-	-
 -	serpentiini|tie	-	noun	19	-	-	-	-	-
 -	servo|moottori	-	noun	6	-	-	-	-	-
@@ -98860,6 +98980,7 @@
 -	aseen|kanto|lupa	-	noun	10	p:v	-	-	dated	-
 -	aseiden|riisunta|neuvottelu	-	noun	2	-	-	-	-	-
 -	asema|kaava|oppi	-	noun	5	pp:p	-	-	-	-
+-	asetyyli|koliini|esteraasi	-	noun	5	-	-	-	-	-
 -	asetyyli|salisyyli|happo	-	noun	1	pp:p	-	-	-	-
 -	ase|lepo|neuvottelu	-	noun	2	-	-	-	-	-
 -	ase|lepo|sopimus	-	noun	39	-	-	-	-	-
@@ -98940,6 +99061,7 @@
 -	baptisti|seura|kunta	-	noun	10	nt:nn	-	-	-	-
 -	bataatti|sose|keitto	-	noun	1	tt:t	-	-	-	-
 -	bearnaise|kastike|jauhe	-	noun	48	-	-	-	-	-
+-	beeta|laktaami|antibiootti	-	noun	5	tt:t	-	-	-	-
 -	belgian|paimen|koira	-	noun	10	-	-	-	-	-
 -	bio|jäte|astia	-	noun	12	-	-	-	-	-
 -	bio|jäte|pussi	-	noun	5	-	-	-	-	-
