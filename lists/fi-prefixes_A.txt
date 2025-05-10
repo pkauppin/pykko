@@ -1,4 +1,6 @@
 ali
+binaari
+binääri
 ei-
 ennätys
 epä
@@ -10,6 +12,7 @@ julki
 keski
 läpi
 mega
+molempi
 moni
 muka
 peri
@@ -26,6 +29,7 @@ täys
 ulko
 ultra
 umpi
+väli
 yli
 yltiö
 äkki

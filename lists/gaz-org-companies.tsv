@@ -111,6 +111,7 @@
 -	Radisson	-	proper	6	-	-	-	-	-
 -	Rajala	-	proper	12	-	-	-	-	-
 -	Reima	-	proper	9	-	-	-	-	-
+-	Restel	-	proper	6	-	-	-	-	-
 -	Rosatom	-	proper	5	-	-	-	-	-
 -	SATS	-	proper	5B	-	-	-	-	-
 -	SOL	-	proper	5B	-	-	-	-	-
@@ -157,7 +158,6 @@
 -	Voglia	-	proper	12	-	-	-	-	-
 -	Wish	-	proper	5	-	-	-	-	-
 -	Wärtsilä	-	proper	12	-	-	-	-	-
--	XS Lelut	-	proper-pl	1	-	-	-	-	-
 -	YIT	-	proper	18B	-	-	-	-	-
 -	Zalando	-	proper	1	-	-	-	-	-
 -	Zara	-	proper	9	-	-	-	-	-
@@ -184,6 +184,7 @@
 -	Terveys|talo	-	proper	1	-	-	-	-	-
 -	Varuste|leka	-	proper	9	-	-	-	-	-
 -	Timanttiset	-	proper-pl	38	-	-	-	-	-
+-	XS Lelut	-	proper-pl	1	-	-	-	-	-
 -	Aurinko|matkat	-	proper-pl	9	-	-	-	-	-
 -	Elämys|lahjat	-	proper-pl	9	-	-	-	-	-
 -	Keihäs|matkat	-	proper-pl	9	-	-	-	-	-
@@ -195,4 +196,3 @@ Cap	soft	-	proper	5	-	-	-	-	4.000
 Cap	tec	-	proper	5	-	front|back	-	-	4.000
 Cap	tech	-	proper	5	-	front|back	-	-	4.000
 Cap	tex	-	proper	5	-	front|back	-	-	4.000
--	Restel	-	proper	6	-	-	-	-	-
