@@ -18,6 +18,7 @@
 -	Fimea	-	proper	12	-	-	-	-	-
 -	Finavia	-	proper	12	-	-	-	-	-
 -	Fingrid	-	proper	5	-	-	-	-	-
+-	Fiva	-	proper	9	-	-	-	-	-
 -	Folkhälsan	-	proper	6	-	-	-	-	-
 -	Gestapo	-	proper	13	-	-	-	-	-
 -	Greenpeace	-	proper	8	-	-	-	-	-
@@ -35,10 +36,14 @@
 -	KGB	-	proper	18B	-	-	-	-	-
 -	KHO	-	proper	18B	-	-	-	-	-
 -	KRP	-	proper	18B	-	-	-	-	-
+-	Karvi	-	proper	5	-	-	-	-	-
+-	Keva	-	proper	9	-	-	-	-	-
+-	Kotus	-	proper	39	-	-	-	-	-
 -	Kymsote	-	proper	8	-	-	-	-	-
 -	Loesje	-	proper	8	-	-	-	-	-
 -	MI6	-	proper	27B	-	-	-	-	-
 -	MTK	-	proper	18B	-	-	-	-	-
+-	Makera	-	proper	13	-	-	-	-	-
 -	Migri	-	proper	5	-	-	-	-	-
 -	NATO	-	proper	1B|1	-	-	-	-	-
 -	Nasa	-	proper	9	-	-	-	-	-
@@ -46,6 +51,7 @@
 -	OAJ	-	proper	18B	-	-	-	-	-
 -	OECD	-	proper	18B	-	-	-	-	-
 -	OPEC	-	proper	18B	-	-	-	-	-
+-	Oxfam	-	proper	5	-	-	-	-	-
 -	PAM	-	proper	5B|5	-	-	-	-	-
 -	PLO	-	proper	18B	-	-	-	-	-
 -	QAnon	-	proper	6	-	-	-	-	-
@@ -53,6 +59,7 @@
 -	SPR	-	proper	10B	-	-	-	-	-
 -	STM	-	proper	10B	-	-	-	-	-
 -	Seta	-	proper	9	-	-	-	-	-
+-	Sitra	-	proper	9	-	-	-	-	-
 -	Sosteri	-	proper	6	-	-	-	-	-
 -	Stasi	-	proper	5	-	-	-	-	-
 -	SuPer	-	proper	6	-	-	-	-	-
@@ -63,9 +70,11 @@
 -	Taleban	-	proper	6	-	-	-	-	-
 -	Taliban	-	proper	6	-	-	-	-	-
 -	Tehy	-	proper	1	-	-	-	-	-
+-	Telk	-	proper	5	-	-	-	-	-
 -	Teosto	-	proper	1	-	-	-	-	-
 -	Traficom	-	proper	5	-	-	-	-	-
 -	Tukes	-	proper	5	-	-	-	-	-
+-	Tulli	-	proper	5	-	-	-	-	-
 -	UNESCO	-	proper	1B|†1	-	-	-	-	-
 -	Unesco	-	proper	1	-	-	-	-	-
 -	Unicef	-	proper	5	-	-	-	-	-
@@ -115,11 +124,13 @@
 -	Oikeus|rekisteri|keskus	-	proper	39	-	-	-	-	-
 -	Reservi|upseeri|koulu	-	proper	1	-	-	-	-	-
 -	Rikos|seuraamus|laitos	-	proper	39	-	-	-	-	-
+-	Saamelais|valtuus|kunta	-	proper	10	nt:nn	-	-	-	-
 -	Suur|peto|keskus	-	proper	39	-	-	-	-	-
 -	Tie|liikenne|keskus	-	proper	39	-	-	-	-	-
 -	Ulko|maalais|virasto	-	proper	1	-	-	-	-	-
 -	Elin|tarvike|turvallisuus|virasto	-	proper	1	-	-	-	-	-
 -	Valta|kunnan|syyttäjän|virasto	-	proper	1	-	-	-	-	-
+-	Saamelais|käräjät	-	proper-pl	10	-	-	-	-	-
 Cap	bund	-	proper	5	-	-	-	-	4.000
 Cap	byrån	-	proper	5	-	back	-	-	4.000
 Cap	central	-	proper	5	-	-	-	-	4.000

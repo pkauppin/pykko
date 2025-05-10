@@ -2662,6 +2662,7 @@
 -	konemainen	-	adjective	38	-	back	e	-	-
 -	konfessionaalinen	-	adjective	38	-	-	-	-	-
 -	konfidentiaalinen	-	adjective	38	-	-	-	-	-
+-	konfidentsielli	-	adjective	5	-	-	-	arch	-
 -	konforminen	-	adjective	38	-	-	-	-	-
 -	konformistinen	-	adjective	38	-	-	-	-	-
 -	konfutselainen	-	adjective	38	-	back	e	-	-
@@ -2816,6 +2817,7 @@
 -	kristitty	-	adjective	1	tt:t	front	y	-	-
 -	kritiikitön	-	adjective	34	tt:t	front	ö	-	-
 -	kroatialainen	-	adjective	38	-	back	e	-	-
+-	kroatsialainen	-	adjective	38	-	-	-	arch	-
 -	kromaattinen	-	adjective	38	-	back	e	-	-
 -	kromogeeninen	-	adjective	38	-	back	e	-	-
 -	kromosomaalinen	-	adjective	38	-	-	-	-	-
@@ -14809,6 +14811,7 @@
 -	individualistisesti	-	adverb	-	-	-	-	-	-
 -	ineen	-	adverb	-	-	-	-	slang	-
 -	inessä	-	adverb	-	-	-	-	slang	-
+-	inestä	-	adverb	-	-	-	-	slang	-
 -	inhasti	-	adverb	-	-	-	-	coll	-
 -	inhimillisesti	-	adverb	-	-	-	-	-	-
 -	inhottavasti	-	adverb	-	-	-	-	-	-
@@ -20519,11 +20522,15 @@
 -	Mc	-	none	-	-	-	-	symbol	-
 -	Md	-	none	-	-	-	-	symbol	-
 -	Mg	-	none	-	-	-	-	symbol	-
+-	Miss	-	none	-	-	-	-	foreign	-
 -	Mn	-	none	-	-	-	-	symbol	-
 -	Mo	-	none	-	-	-	-	symbol	-
 -	Moos.	-	none	-	-	-	-	abbr	-
+-	Mr	-	none	-	-	-	-	foreign	-
 -	Mr.	-	none	-	-	-	-	abbr	-
+-	Mrs	-	none	-	-	-	-	foreign	-
 -	Mrs.	-	none	-	-	-	-	abbr	-
+-	Ms	-	none	-	-	-	-	foreign	-
 -	Ms.	-	none	-	-	-	-	abbr	-
 -	Mt	-	none	-	-	-	-	symbol	-
 -	N	-	none	-	-	-	-	symbol	-
@@ -21013,7 +21020,9 @@
 -	abhasialainen	-	noun	38	-	-	-	-	-
 -	abi	-	noun	5	-	back	i	coll	-
 -	abidjanilainen	-	noun	38	-	-	-	-	-
+-	abiguda	-	noun	10	-	-	-	-	-
 -	abiturientti	-	noun	5	tt:t	back	i	-	-
+-	abjad	-	noun	5	-	-	-	-	-
 -	ablaatio	-	noun	3	-	-	-	-	-
 -	ablatiivi	-	noun	5	-	back	i	-	-
 -	ableismi	-	noun	5	-	-	-	-	-
@@ -26817,6 +26826,7 @@
 -	illakko	-	noun	4	kk:k	back	o	-	-
 -	illallinen	-	noun	38	-	back	e	-	-
 -	illatiivi	-	noun	5	-	back	i	-	-
+-	illusioni	-	noun	5	-	-	-	arch	-
 -	illusionisti	-	noun	5	-	-	-	-	-
 -	illustraatio	-	noun	3	-	back	o	-	-
 -	illuusio	-	noun	3	-	back	o	-	-
@@ -29897,6 +29907,7 @@
 -	kollektivismi	-	noun	5	-	back	i	-	-
 -	kollektivisti	-	noun	5	-	back	i	-	-
 -	kollektori	-	noun	5	-	back	i	-	-
+-	kollektsioni	-	noun	5	-	-	-	arch	-
 -	kolli	-	noun	5	-	back	i	-	-
 -	kolloidi	-	noun	5	-	back	i	-	-
 -	kollokvio	-	noun	3	-	back	o	-	-
@@ -30222,6 +30233,7 @@
 -	kopaus	-	noun	39	-	back	u	-	-
 -	kopautus	-	noun	39	-	back	u	-	-
 -	kopeekka	-	noun	14	kk:k	back	a	-	-
+-	kopeikka	-	noun	9	kk:k	-	-	arch	-
 -	kopernikium	-	noun	5	-	back	u	-	-
 -	kopeus	-	noun	40	-	back	u	-	-
 -	kopina	-	noun	13	-	back	a	-	-
@@ -30541,6 +30553,7 @@
 -	kroaatti	-	noun	5	tt:t	back	i	-	-
 -	kroatia	-	noun	12	-	back	a	-	-
 -	kroatialainen	-	noun	38	-	back	e	-	-
+-	kroatsialainen	-	noun	38	-	-	-	arch	-
 -	kroisantti	-	noun	5	tt:t	-	-	coll	-
 -	kroisos	-	noun	39	-	back	o	-	-
 -	kroissantti	-	noun	5	tt:t	back	i	-	-
@@ -31190,6 +31203,7 @@
 -	kynä	-	noun	10	-	front	ä	-	-
 -	kynäilijä	-	noun	12	-	front	ä	-	-
 -	kynäily	-	noun	2	-	front	y	-	-
+-	kypressi	-	noun	5	-	-	-	arch	-
 -	kyproslainen	-	noun	38	-	-	-	-	-
 -	kypsennys	-	noun	39	-	front	y	-	-
 -	kypsymättömyys	-	noun	40	-	front	y	-	-
@@ -39416,6 +39430,7 @@
 -	riepu	-	noun	1	p:v	back	u	-	-
 -	riesa	-	noun	9	-	back	a	-	-
 -	rieska	-	noun	9	-	back	a	-	-
+-	riesling	-	noun	5	-	-	-	-	-
 -	rietastelu	-	noun	2	-	back	u	-	-
 -	riettaus	-	noun	40	-	back	u	-	-
 -	rievä	-	noun	10	-	front	ä	dial	-
@@ -41393,6 +41408,7 @@
 -	sitra	-	noun	9	-	back	a	-	-
 -	sitraatti	-	noun	5	tt:t	-	-	-	-
 -	sitronaatti	-	noun	5	tt:t	back	i	-	-
+-	sitroona	-	noun	10	-	-	-	arch	-
 -	sitruuna	-	noun	13	-	back	a	-	-
 -	sitsi	-	noun	5	-	front	i	coll	-
 -	sitteri	-	noun	6	-	-	-	-	-
@@ -43626,6 +43642,7 @@
 -	tetraplegia	-	noun	12	-	-	-	-	-
 -	tetravalentti	-	noun	5	tt:t	-	-	-	-
 -	tetsari	-	noun	6	-	-	-	slang	-
+-	tettiläinen	-	noun	38	-	-	-	-	-
 -	tetum	-	noun	5	-	-	-	-	-
 -	teuras	-	noun	41	-	back	a	-	-
 -	teurastaja	-	noun	10	-	back	a	-	-
@@ -47492,6 +47509,7 @@
 -	Y-tunnus	-	noun	39	-	-	-	-	-
 -	YT-neuvottelu	-	noun	2	-	-	-	-	-
 -	YTA-alue	-	noun	48	-	-	-	-	-
+-	YTA-neuvottelu	-	noun	2	-	-	-	-	-
 -	aamu-unisuus	-	noun	40	-	-	-	-	-
 -	action-peli	-	noun	5	-	-	-	coll	-
 -	adoptio-oikeus	-	noun	40	-	-	-	-	-
@@ -49139,6 +49157,7 @@
 -	alennus|vaihde	-	noun	48	t:d	-	-	-	-
 -	ale|halli	-	noun	5	-	-	-	-	-
 -	ale|hinta	-	noun	9	nt:nn	-	-	-	-
+-	ale|koodi	-	noun	5	-	-	-	-	-
 -	alfa|hiukkanen	-	noun	38	-	-	-	-	-
 -	alfa|naaras	-	noun	41	-	-	-	-	-
 -	alfa|säteily	-	noun	2	-	-	-	-	-
@@ -57186,6 +57205,7 @@
 -	jouto|väki	-	noun	7	k:	-	-	-	-
 -	joutsen|laulu	-	noun	1	-	-	-	-	-
 -	joutsen|lisko	-	noun	1	-	-	-	-	-
+-	joutsen|merkki	-	noun	5	kk:k	-	-	-	-
 -	jugend|talo	-	noun	1	-	-	-	-	-
 -	jugend|tyyli	-	noun	5	-	-	-	-	-
 -	jugurtti|juoma	-	noun	10	-	-	-	-	-
@@ -64607,6 +64627,7 @@
 -	kuormitus|koe	-	noun	48	k:	-	-	-	-
 -	kuoro|esitys	-	noun	39	-	-	-	-	-
 -	kuoro|kohtaus	-	noun	39	-	-	-	-	-
+-	kuoro|laulaja	-	noun	10	-	-	-	-	-
 -	kuoro|laulu	-	noun	1	-	-	-	-	-
 -	kuoro|lausunta	-	noun	9	nt:nn	-	-	-	-
 -	kuoro|musiikki	-	noun	5	kk:k	-	-	-	-

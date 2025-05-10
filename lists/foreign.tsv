@@ -229,6 +229,7 @@
 -	Canada	-	noun	10|12	-	-	-	foreign	-
 -	Canadian	-	noun	5	-	-	-	foreign	-
 -	Canon	-	noun	6	-	-	-	foreign	-
+-	Canyon	-	noun	5	-	-	-	foreign	-
 -	Cap	-	noun	5	-	-	-	foreign	-
 -	Cape	-	noun	8	-	-	-	foreign	-
 -	Captain	-	noun	5	-	-	-	foreign	-
@@ -282,6 +283,7 @@
 -	Computer	-	noun	6	-	-	-	foreign	-
 -	Cone	-	noun	8	-	-	-	foreign	-
 -	Conference	-	noun	8	-	-	-	foreign	-
+-	Confidential	-	noun	5	-	-	-	foreign	-
 -	Congress	-	noun	5	-	-	-	foreign	-
 -	Continental	-	noun	6	-	-	-	foreign	-
 -	Convention	-	noun	5	-	-	-	foreign	-
@@ -292,6 +294,7 @@
 -	Court	-	noun	5	-	-	-	foreign	-
 -	Cream	-	noun	5	-	-	-	foreign	-
 -	Credit	-	noun	5	-	-	-	foreign	-
+-	Creek	-	noun	5	-	-	-	foreign	-
 -	Crimson	-	noun	6	-	-	-	foreign	-
 -	Crown	-	noun	5	-	-	-	foreign	-
 -	Crystal	-	noun	6	-	-	-	foreign	-
@@ -391,6 +394,7 @@
 -	Expo	-	noun	1	-	-	-	foreign	-
 -	Eye	-	noun	8	-	-	-	foreign	-
 -	Fairytale	-	noun	8	-	-	-	foreign	-
+-	Falls	-	noun	5	-	-	-	foreign	-
 -	False	-	noun	8	-	-	-	foreign	-
 -	Family	-	noun	1	-	-	-	foreign	-
 -	Fan	-	noun	5	-	back	a	foreign	-
@@ -510,6 +514,7 @@
 -	Hut	-	noun	5	-	-	-	foreign	-
 -	Hydrogen	-	noun	6	-	-	-	foreign	-
 -	Ice	-	noun	8	-	-	-	foreign	-
+-	Illusion	-	noun	5	-	-	-	foreign	-
 -	Inc.	-	noun	XX	-	-	-	abbr|foreign	-
 -	Independent	-	noun	5	-	-	-	foreign	-
 -	Index	-	noun	5	-	-	-	foreign	-
@@ -560,6 +565,7 @@
 -	Left	-	noun	5	-	-	-	foreign	-
 -	Legacy	-	noun	1	-	-	-	foreign	-
 -	Legal	-	noun	6	-	-	-	foreign	-
+-	Lemon	-	noun	?6	-	-	-	foreign	-
 -	Lens	-	noun	5	-	-	-	foreign	-
 -	Lesson	-	noun	6	-	-	-	foreign	-
 -	Library	-	noun	1	-	-	-	foreign	-
@@ -670,6 +676,7 @@
 -	Novosti	-	noun	5	-	-	-	foreign	-
 -	Nyheter	-	noun	6	-	-	-	foreign	-
 -	OS	-	noun	10B	-	-	-	foreign	-
+-	Oaks	-	noun	5	-	-	-	foreign	-
 -	Object	-	noun	5	-	-	-	foreign	-
 -	Ocean	-	noun	5	-	-	-	foreign	-
 -	Office	-	noun	8	-	-	-	foreign	-
@@ -731,6 +738,7 @@
 -	Point	-	noun	5	-	-	-	foreign	-
 -	Poison	-	noun	6	-	-	-	foreign	-
 -	Polar	-	noun	6	-	-	-	foreign	-
+-	Policy	-	noun	1	-	-	-	foreign	-
 -	Political	-	noun	5	-	-	-	foreign	-
 -	Pont	-	noun	5	-	-	-	foreign	-
 -	Ponte	-	noun	8	-	-	-	foreign	-
@@ -774,12 +782,14 @@
 -	Race	-	noun	8	-	-	-	foreign	-
 -	Racing	-	noun	5	-	-	-	foreign	-
 -	Railroad	-	noun	5	-	-	-	foreign	-
+-	Rainbow	-	noun	22|†5	-	-	-	foreign	-
 -	Rainforest	-	noun	5	-	-	-	foreign	-
 -	Rajah	-	noun	5|22	-	-	-	foreign	-
 -	Ranch	-	noun	5	-	-	-	foreign	-
 -	Range	-	noun	8	-	-	-	foreign	-
 -	Rangers	-	noun	5	-	-	-	foreign	-
 -	Rapid	-	noun	5	-	-	-	foreign	-
+-	Rapids	-	noun	5	-	-	-	foreign	-
 -	Rat	-	noun	5	-	-	-	foreign	-
 -	Ratio	-	noun	3	-	-	-	foreign	-
 -	Ration	-	noun	6	-	-	-	foreign	-
@@ -838,6 +848,7 @@
 -	Science	-	noun	8	-	-	-	foreign	-
 -	Scientific	-	noun	5	-	-	-	foreign	-
 -	Sea	-	noun	9	-	-	-	foreign	-
+-	Season	-	noun	?6	-	-	-	foreign	-
 -	Second	-	noun	5	-	-	-	foreign	-
 -	Secret	-	noun	5	-	-	-	foreign	-
 -	Security	-	noun	1	-	-	-	foreign	-
@@ -881,7 +892,6 @@
 -	Something	-	noun	5	-	-	-	foreign	-
 -	Son	-	noun	5	-	-	-	foreign	-
 -	Song	-	noun	5	-	-	-	foreign	-
--	Sons	-	noun	5	-	-	-	foreign	-
 -	Sons	-	noun	5	-	-	-	foreign	-
 -	Sound	-	noun	5	-	-	-	foreign	-
 -	Soundtrack	-	noun	5	-	-	-	foreign	-

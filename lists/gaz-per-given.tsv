@@ -1114,6 +1114,7 @@
 -	Inari	-	proper	?6	-	-	-	-	-
 -	Indira	-	proper	13	-	-	-	-	-
 -	Indrek	-	proper	5	-	-	-	-	-
+-	Ines	-	proper	5|†39	-	-	-	-	-
 -	Inga	-	proper	9	-	-	-	-	-
 -	Inge	-	proper	8	-	-	-	-	-
 -	Ingeborg	-	proper	5	-	-	-	-	-
@@ -1166,7 +1167,7 @@
 -	Iwona	-	proper	10	-	-	-	-	-
 -	Izabella	-	proper	9	-	-	-	-	-
 -	Iñaki	-	proper	5	-	-	-	-	-
--	JP	-	proper	?18B	-	-	-	-	-
+-	JP	-	proper	18B	-	-	-	-	-
 -	Jaak	-	proper	5	-	-	-	-	-
 -	Jaakko	-	proper	1	kk:k	-	-	-	-
 -	Jaakob	-	proper	5	-	-	-	-	-
@@ -3184,4 +3185,4 @@ Cap	ilda	-	proper	9	-	-	-	-	4.000
 Cap	ilde	-	proper	8	-	front|back	-	-	4.000
 Cap	olf	-	proper	5	-	-	-	-	4.000
 Cap	slav	-	proper	5	-	-	-	-	4.000
-Cap	slava	-	proper	9|10	-	-	-	-	4.000
+Cap	slava	-	proper	9	-	-	-	-	4.000
