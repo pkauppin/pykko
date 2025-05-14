@@ -225,11 +225,11 @@ def add_compound_separators_to_proper_name(name):
 
 def transfer_separators(source, target):
 	segments = []
-	for part in source.split('|'):
+	for part in source.split('|')[:-1]:
 		if target.startswith(part):
 			segments.append(part)
 			target = target[len(part):]
 		else:
-			segments.append(target)
 			break
+	segments.append(target)
 	return '|'.join(segments)
