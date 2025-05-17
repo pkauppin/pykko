@@ -433,6 +433,7 @@
 -	azerbaidžanilainen	-	adjective	38	-	back	e	-	-
 -	ašgabatilainen	-	adjective	38	-	-	-	-	-
 -	ašhabadilainen	-	adjective	38	-	-	-	-	-
+-	baabelilainen	-	adjective	38	-	-	-	dated	-
 -	babylonialainen	-	adjective	38	-	back	e	-	-
 -	bagdadilainen	-	adjective	38	-	-	-	-	-
 -	bahamalainen	-	adjective	38	-	-	-	-	-
@@ -7601,6 +7602,7 @@
 -	yhtenevä	-	adjective	10	-	front	ä	-	-
 -	yhteneväinen	-	adjective	38	-	front	e	-	-
 -	yhtenäinen	-	adjective	38	-	front	e	-	-
+-	yhtälainen	-	adjective	38	-	-	-	nstd|rare	-
 -	yhtäläinen	-	adjective	38	-	front	e	-	-
 -	yksiköllinen	-	adjective	38	-	front	e	-	-
 -	yksilöittäinen	-	adjective	38	-	front	e	-	-
@@ -16663,6 +16665,7 @@
 -	mihinkin	-	adverb	-	-	-	-	#	-
 -	mihinkä	-	adverb	-	-	-	-	coll	-
 -	mihinkään	-	adverb	-	-	-	-	#	-
+-	mihkään	-	adverb	-	-	-	-	dial	-
 -	miimisesti	-	adverb	-	-	-	-	-	-
 -	mikroskooppisesti	-	adverb	-	-	-	-	-	-
 -	miksi	-	adverb	-	-	-	-	-	-
@@ -21574,6 +21577,8 @@
 -	TSV	-	noun	18B	-	-	-	abbr	-
 -	TV	-	noun	18B	-	-	e	abbr	-
 -	TXT	-	noun	18B	-	-	-	abbr	-
+-	Tl	-	noun	5	-	-	-	abbr|dated	-
+-	Tl.	-	noun	XX	-	-	-	abbr|dated	-
 -	U	-	noun	18B	-	back	u	symbol	1.000
 -	USD	-	noun	18B	-	front|back	-	unit	-
 -	UV	-	noun	18B	-	-	-	abbr	-
@@ -21615,6 +21620,7 @@
 -	aaltoisuus	-	noun	40	-	-	-	-	-
 -	aaltomaisuus	-	noun	40	-	-	-	-	-
 -	aamen	-	noun	32	-	back	e	-	-
+-	aami	-	noun	5	-	-	-	dated	-
 -	aamiainen	-	noun	38	-	back	e	-	-
 -	aamu	-	noun	1	-	back	u	-	-
 -	aapa	-	noun	9	p:v	back	a	-	-
@@ -22999,6 +23005,7 @@
 -	b6	-	noun	27B	-	-	-	foreign	-
 -	b7	-	noun	10B	-	-	-	foreign	-
 -	b8	-	noun	10B	-	-	-	foreign	-
+-	baabelilainen	-	noun	38	-	-	-	dated	-
 -	baabuska	-	noun	13	-	back	a	-	-
 -	baana	-	noun	9	-	back	a	coll	-
 -	baari	-	noun	5	-	back	i	-	-
@@ -23338,6 +23345,7 @@
 -	bokseri	-	noun	6	-	back	i	-	-
 -	boksi	-	noun	5	-	back	i	-	-
 -	bolero	-	noun	2	-	back	o	-	-
+-	bolgaari	-	noun	6	-	-	-	-	-
 -	bolidi	-	noun	5	-	-	-	-	-
 -	bolivialainen	-	noun	38	-	-	-	-	-
 -	bolognaise	-	noun	8	-	-	-	-	-
@@ -23809,6 +23817,7 @@
 -	deeku	-	noun	1	-	back	u	coll	-
 -	defekaatio	-	noun	3	-	-	-	-	-
 -	defekti	-	noun	5	-	front	i	-	-
+-	defenestraatio	-	noun	3	-	-	-	-	-
 -	defensiivisyys	-	noun	40	-	front	y	-	-
 -	defenssi	-	noun	5	-	-	-	-	-
 -	defibrillaatio	-	noun	3	-	-	-	-	-
@@ -25130,6 +25139,7 @@
 -	feodalismi	-	noun	5	-	back	i	-	-
 -	feodalistisuus	-	noun	40	-	back	u	-	-
 -	feresi	-	noun	5	-	front	i	-	-
+-	fermaani	-	noun	6	-	-	-	-	-
 -	fermaatti	-	noun	5	tt:t	back	i	-	-
 -	fermentori	-	noun	?6	-	-	-	-	-
 -	fermentti	-	noun	5	tt:t	-	-	-	-
@@ -25244,6 +25254,7 @@
 -	firenzeläinen	-	noun	38	-	-	-	-	-
 -	firewire	-	noun	8	-	-	-	foreign	-
 -	firma	-	noun	9	-	back	a	coll	-
+-	firmaani	-	noun	6	-	-	-	-	-
 -	firmware	-	noun	8	-	-	-	foreign	-
 -	fissio	-	noun	3	-	back	o	-	-
 -	fissuura	-	noun	10	-	-	-	-	-
@@ -25508,6 +25519,7 @@
 -	fysiatri	-	noun	5	-	back	i	-	-
 -	fysiatria	-	noun	12	-	back	a	-	-
 -	fysiikka	-	noun	14	kk:k	back	a	-	-
+-	fysiokratia	-	noun	12	-	-	-	-	-
 -	fysiologi	-	noun	5	-	back	i	-	-
 -	fysiologia	-	noun	12	-	back	a	-	-
 -	fysiologisuus	-	noun	40	-	back	u	-	-
@@ -25521,6 +25533,7 @@
 -	fääri	-	noun	5	-	front	i	-	-
 -	föglöläinen	-	noun	38	-	-	-	-	-
 -	föhn	-	noun	5	-	front	ö	-	-
+-	föri	-	noun	5	-	-	-	dated|dial	-
 -	förskotti	-	noun	5	tt:t	back	i	coll	-
 -	föönaus	-	noun	39	-	back	u	-	-
 -	fööni	-	noun	5	-	front	i	coll	-
@@ -26110,6 +26123,7 @@
 -	haléř	-	noun	6	-	-	-	rare	-
 -	hamara	-	noun	12	-	back	a	-	-
 -	hame	-	noun	48	-	back	e	-	-
+-	hamina	-	noun	13	-	-	-	dated|dial	-
 -	haminalainen	-	noun	38	-	-	-	-	-
 -	hammarlandilainen	-	noun	38	-	-	-	-	-
 -	hammas	-	noun	41	mp:mm	back	a	-	-
@@ -26222,7 +26236,6 @@
 -	harjoittelu	-	noun	2	-	back	u	-	-
 -	harjoitus	-	noun	39	-	back	u	-	-
 -	harju	-	noun	1	-	back	u	-	-
--	harju|akviferi	-	noun	-	-	-	-	-	-
 -	harjus	-	noun	39	-	back	u	-	-
 -	harkinta	-	noun	9	nt:nn	back	a	-	-
 -	harkitsemattomuus	-	noun	40	-	back	u	-	-
@@ -27054,6 +27067,7 @@
 -	hujaus	-	noun	39	-	back	u	-	-
 -	hujellus	-	noun	39	-	back	u	-	-
 -	hujoppi	-	noun	5	pp:p	back	i	-	-
+-	huke	-	noun	8	-	-	-	slang|rare	-
 -	huki	-	noun	5	-	back	i	coll	-
 -	hukka	-	noun	10	kk:k	back	a	-	-
 -	hula	-	noun	10	-	back	a	-	-
@@ -27673,9 +27687,11 @@
 -	ihosarkoidoosi	-	noun	5	-	-	-	-	-
 -	ihottuma	-	noun	10	-	back	a	-	-
 -	ihra	-	noun	9	-	back	a	-	-
+-	ihtiriekko	-	noun	4	kk:k	-	-	-	-
 -	ii	-	noun	18	-	-	-	coll|non-compounding	-
 -	iibis	-	noun	39	-	front	i	-	-
 -	iikka	-	noun	9	kk:k	back	a	coll	-
+-	iili	-	noun	5	-	-	-	dated|dial	-
 -	iiliäinen	-	noun	38	-	front	e	coll	-
 -	iiläinen	-	noun	38	-	-	-	-	-
 -	iiri	-	noun	5	-	front	i	-	-
@@ -28889,6 +28905,7 @@
 -	kabuki	-	noun	5	-	back	i	-	-
 -	kabulilainen	-	noun	38	-	-	-	-	-
 -	kabyyli	-	noun	5	-	-	-	-	-
+-	kadaaveri	-	noun	5	-	-	-	rare	-
 -	kadehtija	-	noun	12	-	back	a	-	-
 -	kadenssi	-	noun	5	-	back	i	-	-
 -	kadetti	-	noun	5	tt:t	back	i	-	-
@@ -30076,6 +30093,7 @@
 -	kesakko	-	noun	4	kk:k	back	o	-	-
 -	kesannointi	-	noun	5	nt:nn	back	i	-	-
 -	kesanto	-	noun	1	nt:nn	back	o	-	-
+-	kesi	-	noun	27	-	-	-	dated|rare	-
 -	keskari	-	noun	6	-	back	i	coll	-
 -	keskeisyys	-	noun	40	-	front	y	-	-
 -	keskeyte	-	noun	48	tt:t	front	e	-	-
@@ -30764,6 +30782,7 @@
 -	koetus	-	noun	39	-	back	u	-	-
 -	kofaktori	-	noun	5	-	-	-	-	-
 -	kofeiini	-	noun	5	-	back	i	-	-
+-	koffertti	-	noun	5	tt:t	-	-	dated|rare	-
 -	kofta	-	noun	10	-	-	-	-	-
 -	kognitio	-	noun	3	-	back	o	-	-
 -	kohahdus	-	noun	39	-	back	u	-	-
@@ -31494,6 +31513,7 @@
 -	kouristelu	-	noun	2	-	back	u	-	-
 -	kouristus	-	noun	39	-	back	u	-	-
 -	kouru	-	noun	1	-	back	u	-	-
+-	kousa	-	noun	10	-	-	-	dated	-
 -	koutsi	-	noun	5	-	back	i	coll	-
 -	kouvolainen	-	noun	38	-	-	-	-	-
 -	kouvolalainen	-	noun	38	-	-	-	-	-
@@ -31520,6 +31540,7 @@
 -	kpelle	-	noun	8	-	-	-	-	-
 -	kr	-	noun	XX	-	back	-	abbr	-
 -	kraana	-	noun	9	-	back	a	coll	-
+-	kraatari	-	noun	?6	-	-	-	dated|dial	-
 -	kraatteri	-	noun	6	-	back	i	-	-
 -	kraiveli	-	noun	6	-	back	i	coll	-
 -	kraka	-	noun	9	-	-	-	coll	-
@@ -32842,8 +32863,8 @@
 -	lapio	-	noun	3	-	back	o	-	-
 -	lapiointi	-	noun	5	nt:nn	back	i	-	-
 -	lapis	-	noun	39	-	-	-	-	-
--	lapislatsuli	-	noun	6	-	-	-	-	-
 -	lapis lazuli	-	noun	6	-	-	-	foreign	-
+-	lapislatsuli	-	noun	6	-	-	-	-	-
 -	lappalainen	-	noun	38	-	-	-	-	-
 -	lappeelainen	-	noun	38	-	-	-	-	-
 -	lappi	-	noun	5	pp:p	back	i	dated	-
@@ -34645,6 +34666,7 @@
 -	maskeeraaja	-	noun	10	-	back	a	-	-
 -	maskeeraus	-	noun	39	-	-	-	-	-
 -	maskelyniitti	-	noun	5	tt:t	-	-	-	-
+-	maskeradi	-	noun	5	-	-	-	dated	-
 -	maski	-	noun	5	-	back	i	-	-
 -	maskotti	-	noun	5	tt:t	back	i	-	-
 -	maskulainen	-	noun	38	-	-	-	-	-
@@ -35377,6 +35399,7 @@
 -	morfinismi	-	noun	5	-	back	i	-	-
 -	morfinisti	-	noun	5	-	back	i	-	-
 -	morfologia	-	noun	12	-	back	a	-	-
+-	morisko	-	noun	1	-	-	-	-	-
 -	morisyen	-	noun	5	-	-	-	-	-
 -	morkkaaja	-	noun	10	-	back	a	coll	-
 -	morkkaus	-	noun	39	-	back	u	coll	-
@@ -35884,6 +35907,7 @@
 -	mököttäjä	-	noun	10	-	front	ä	coll	-
 -	mökötys	-	noun	39	-	front	y	coll	-
 -	mölinä	-	noun	13	-	front	ä	-	-
+-	möljä	-	noun	10	-	-	-	dial	-
 -	mölkky	-	noun	1	kk:k	front	y	-	-
 -	möly	-	noun	1	-	front	y	-	-
 -	mölähdys	-	noun	39	-	front	y	-	-
@@ -37115,6 +37139,7 @@
 -	orkidea	-	noun	13	-	back	a	-	-
 -	orkka	-	noun	10	kk:k	back	a	coll	-
 -	orkku	-	noun	1	kk:k	back	u	slang	-
+-	orko	-	noun	1	-	-	-	rare	-
 -	orlistaatti	-	noun	5	tt:t	-	-	-	-
 -	ormio	-	noun	3	-	-	-	-	-
 -	ornamentiikka	-	noun	9	kk:k	back	a	-	-
@@ -37376,6 +37401,7 @@
 -	paitsio	-	noun	3	-	back	o	-	-
 -	paituli	-	noun	6	-	back	i	-	-
 -	paja	-	noun	9	-	back	a	-	-
+-	pajari	-	noun	6	-	-	-	-	-
 -	pajatso	-	noun	2	-	back	o	-	-
 -	pajatus	-	noun	39	-	back	u	-	-
 -	paju	-	noun	1	-	back	u	-	-
@@ -38670,6 +38696,7 @@
 -	podsoli	-	noun	5	-	back	i	-	-
 -	poeetta	-	noun	9	tt:t	-	-	poet	-
 -	poetiikka	-	noun	9	kk:k	back	a	-	-
+-	pogosta	-	noun	10	-	-	-	-	-
 -	pogromi	-	noun	6	-	back	i	-	-
 -	pohatta	-	noun	14	tt:t	back	a	-	-
 -	pohdin	-	noun	33	t:d	back	i	-	-
@@ -40306,6 +40333,7 @@
 -	raukkamaisuus	-	noun	40	-	back	u	-	-
 -	raukki	-	noun	5	kk:k	-	-	-	-
 -	raukkis	-	noun	39	-	back	i	slang	-
+-	rauma	-	noun	9	-	-	-	dial|rare	-
 -	raumalainen	-	noun	38	-	-	-	-	-
 -	raunikki	-	noun	5	kk:k	back	i	-	-
 -	raunio	-	noun	3	-	back	o	-	-
@@ -41244,6 +41272,7 @@
 -	ryhmäläinen	-	noun	38	-	-	-	-	-
 -	ryhti	-	noun	5	t:d	front	i	-	-
 -	ryhtymys	-	noun	39	-	front	y	-	-
+-	ryhä	-	noun	10	-	-	-	rare|dated	-
 -	ryijy	-	noun	1	-	front	y	-	-
 -	ryintä	-	noun	9	nt:nn	front	ä	-	-
 -	ryiskely	-	noun	2	-	front	y	-	-
@@ -42687,6 +42716,7 @@
 -	sitteri	-	noun	6	-	-	-	-	-
 -	sitti	-	noun	5	tt:t	-	-	-	-
 -	sittiäinen	-	noun	38	-	front	e	-	-
+-	siula	-	noun	9	-	-	-	dated	-
 -	siunaama	-	noun	10	-	back	a	-	-
 -	siunailu	-	noun	2	-	back	u	-	-
 -	siunauksellisuus	-	noun	40	-	back	u	-	-
@@ -43714,6 +43744,7 @@
 -	suula	-	noun	10	-	back	a	-	-
 -	suulake	-	noun	48	kk:k	back	e	-	-
 -	suulaus	-	noun	40	-	back	u	-	-
+-	suuli	-	noun	5	-	-	-	dial|rare	-
 -	suullinen	-	noun	38	-	back	e	-	-
 -	suullisuus	-	noun	40	-	back	u	-	-
 -	suulperi	-	noun	6	-	-	-	slang	-
@@ -47173,6 +47204,7 @@
 -	veitikka	-	noun	14	kk:k	back	a	-	-
 -	veitikkamaisuus	-	noun	40	-	back	u	-	-
 -	veitsi	-	noun	30	-	front	i	-	-
+-	veitti	-	noun	5	tt:t	-	-	coll|dial	-
 -	veivaus	-	noun	39	-	back	u	coll	-
 -	veivi	-	noun	5	-	front	i	coll	-
 -	vekara	-	noun	12	-	back	a	coll	-
@@ -47868,6 +47900,7 @@
 -	voittamattomuus	-	noun	40	-	back	u	-	-
 -	voitto	-	noun	1	tt:t	back	o	-	-
 -	voittoisuus	-	noun	40	-	back	u	-	-
+-	voivodi	-	noun	5	-	-	-	-	-
 -	voivottelu	-	noun	2	-	back	u	-	-
 -	voivotus	-	noun	39	-	back	u	-	-
 -	voivutus	-	noun	39	-	back	u	-	-
@@ -47881,6 +47914,7 @@
 -	volatiliteetti	-	noun	5	tt:t	back	i	-	-
 -	volframi	-	noun	6	-	back	i	-	-
 -	vollotus	-	noun	39	-	back	u	-	-
+-	volski	-	noun	5	-	-	-	-	-
 -	voltti	-	noun	5	tt:t	back	i	-	-
 -	volyymi	-	noun	6	-	front|back	i	-	-
 -	vompatti	-	noun	5	tt:t	back	i	-	-
@@ -54867,6 +54901,7 @@
 -	harjoitus|tunti	-	noun	5	nt:nn	-	-	-	-
 -	harjoitus|työ	-	noun	19	-	-	-	-	-
 -	harjus|lauta	-	noun	9	t:d	-	-	-	-
+-	harju|akviferi	-	noun	5	-	-	-	-	-
 -	harju|kuoppa	-	noun	10	pp:p	-	-	-	-
 -	harju|sora	-	noun	10	-	-	-	-	-
 -	harkinta|kyky	-	noun	1	k:v	-	-	-	-
@@ -91064,6 +91099,7 @@
 -	tankki|alus	-	noun	39	-	-	-	-	-
 -	tankki|auto	-	noun	1	-	-	-	-	-
 -	tankki|laiva	-	noun	9	-	-	-	-	-
+-	tanko|jako	-	noun	1	k:	-	-	-	-
 -	tanko|juoppo	-	noun	1	pp:p	-	-	-	-
 -	tanko|juoppous	-	noun	40	-	-	-	-	-
 -	tanko|tanssi	-	noun	5	-	-	-	-	-
@@ -99824,6 +99860,7 @@
 -	yhdeksäs|luokkalainen	-	noun	38	-	-	-	-	-
 -	yhdeksäs|osa	-	noun	10	-	-	-	-	-
 -	yhdentymis|asia	-	noun	12	-	-	-	-	-
+-	yhden|mukaistaminen	-	noun	38	-	-	-	-	-
 -	yhden|mukaisuus	-	noun	40	-	-	-	-	-
 -	yhden|näköisyys	-	noun	40	-	-	-	-	-
 -	yhden|suuntaistus	-	noun	39	-	-	-	-	-
@@ -109631,6 +109668,7 @@
 -	ehtyä	-	verb	52	t:d	front	-	-	-
 -	ehättää	-	verb	53	tt:t	front	-	-	-
 -	ei	-	verb	EI	-	-	-	-	-
+-	eittää	-	verb	53	tt:t	-	-	rare	1.000
 -	ejakuloida	-	verb	62	-	back	-	-	-
 -	eksaltoitua	-	verb	52	t:d	-	-	-	-
 -	eksaminoida	-	verb	62	-	-	-	-	-
@@ -115489,6 +115527,7 @@
 -	presentoida	-	verb	62	-	back	-	-	-
 -	preservoida	-	verb	62	-	-	-	-	-
 -	presisioida	-	verb	62	-	-	-	-	-
+-	presisoda	-	verb	-	-	-	-	rare	-
 -	presisoida	-	verb	62	-	back	-	-	-
 -	presumoida	-	verb	62	-	-	-	-	-
 -	printata	-	verb	73	tt:t	back	-	coll	-
@@ -119597,6 +119636,7 @@
 -	väsäillä	-	verb	67	-	-	-	-	-
 -	väsätä	-	verb	73	-	front	-	coll	-
 -	vätystellä	-	verb	67	-	front	-	-	-
+-	vääjätä	-	verb	73	-	-	-	rare	1.000
 -	väännellä	-	verb	67	nt:nn	front	-	-	-
 -	vääntelehtiä	-	verb	61	t:d	front	-	-	-
 -	vääntyillä	-	verb	67	-	front	-	-	-
