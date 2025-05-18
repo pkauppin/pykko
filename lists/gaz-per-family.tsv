@@ -3973,6 +3973,7 @@ Cap	creutz	-	proper	5	-	-	-	-	4.000
 Cap	czyk	-	proper	5	-	front|back	-	-	4.000
 Cap	dahl	-	proper	5	-	-	-	-	4.000
 Cap	dell	-	proper	5	-	front|back	-	-	4.000
+Cap	dman	-	proper	5	-	-	-	-	4.000
 Cap	dottir	-	proper	6	-	-	-	-	4.000
 Cap	dóttir	-	proper	6	-	back	-	-	4.000
 Cap	džiev	-	proper	5	-	front|back	-	-	4.000
@@ -3988,8 +3989,10 @@ Cap	ewska	-	proper	9	-	-	-	-	4.000
 Cap	ewski	-	proper	5	-	front|back	-	-	4.000
 Cap	feldt	-	proper	5	-	front|back	-	-	4.000
 Cap	felt	-	proper	5	-	front|back	-	-	4.000
+Cap	fman	-	proper	5	-	-	-	-	4.000
 Cap	fsson	-	proper	6	-	-	-	-	4.000
 Cap	gaard	-	proper	5	-	-	-	-	4.000
+Cap	gman	-	proper	5	-	-	-	-	4.000
 Cap	gran	-	proper	6	-	-	-	-	4.000
 Cap	gren	-	proper	5	-	front|back	-	-	4.000
 Cap	gård	-	proper	5	-	back	-	-	4.000

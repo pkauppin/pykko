@@ -24,7 +24,7 @@ for row in read_list_tsv('lexicon.tsv'):
 
 	inflections = inflect(lemma, pos, kotus_class, grad, harmony)
 	for minen in inflections.get('inf4', []):
-		row = ['', minen, '', 'noun', '38', '', '', '', '', '']
+		row = ['', minen, '', 'noun', '38', '', '', '', 'compound-only', '']
 		data.append(row)
 
 data = set(tuple(row) for row in data)
