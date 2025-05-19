@@ -110,9 +110,10 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	Return all possible numbers and cases of given Finnish noun, adjective, ordinal number etc.
 	"""
 
-	vowel = vowel or determine_stem_vowel(word, kotus_class)
+	v = vowel = vowel or determine_stem_vowel(word, kotus_class)
 	harmony = harmony or determine_harmony(word, kotus_class)
 	a, o, u, aa, oo, _ = HARMONY_MAPPING[harmony]
+	vv = v + v
 
 	if not kotus_class:
 		return {'': [word], '@base': [word]}
@@ -148,6 +149,14 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['sg|ess'] = [f"{iso}veljenä"]
 		all_forms['pl|ess'] = [f"{iso}veljinä"]
 
+	elif kotus_class == "0B":
+		l = word
+		#
+		all_forms['sg|gen'] = [f"{l}:n"]
+		all_forms['sg|par'] = [f"{l}:{a}"]
+		all_forms['sg|ill'] = [f"{l}:{aa}n"]
+		all_forms['sg|ess'] = [f"{l}:n{a}"]
+
 	# "valo"
 	elif kotus_class == "1":
 		katto = word
@@ -171,7 +180,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['sg|nom'] = [f"{d}"]
 		all_forms['sg|gen'] = [f"{d}:n"]
 		all_forms['sg|par'] = [f"{d}:{a}"]
-		all_forms['sg|ill'] = [f"{d}:{oo}n", f"{d}:{o}n"]
+		all_forms['sg|ill'] = [f"{d}:{vv}n", f"{d}:{v}n"]
 		all_forms['pl|gen'] = [f"{d}:jen"]
 		all_forms['pl|par'] = [f"{d}:j{a}"]
 		all_forms['pl|ill'] = [f"{d}:ihin"]

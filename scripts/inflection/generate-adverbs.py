@@ -6,14 +6,14 @@ from scripts.utils import unpack
 
 adverb_degrees = {
 	'hyvin': {'': ['hyvin'], 'comparative': ['paremmin'], 'superlative': ['parhaiten', 'parhaimmin']},
-	'usein': {'': ['usein'], 'comparative': ['useammin'], 'superlative': ['useimmin', 'useiten']},
+	'usein': {'': ['usein'], 'comparative': ['useammin'], 'superlative': ['useimmin', 'useimmiten', 'useiten']},
 	'kovaa': {'': ['kovaa'], 'comparative': ['kovempaa'], 'superlative': ['kovimpaa', 'koviten']},
 	'hiljaa': {'': ['hiljaa'], 'comparative': ['hiljempaa']},
 	'lujaa': {'': ['lujaa'], 'comparative': ['lujempaa'], 'superlative': ['lujimpaa', 'lujiten']},
 	'oikein': {'': ['oikein'], 'comparative': ['oikeammin'], 'superlative': ['oikeimmin', 'oikeiten']},
-	'harvoin': {'': ['harvoin'], 'comparative': ['harvemmin'], 'superlative': ['harvimmin', 'harviten']},
+	'harvoin': {'': ['harvoin'], 'comparative': ['harvemmin'], 'superlative': ['harvimmin']},
 	'harvaan': {'': ['harvaan'], 'comparative': ['harvemmin'], 'superlative': ['harvimmin']},
-	'harvasti': {'': ['harvasti'], 'comparative': ['harvemmin'], 'superlative': ['harvimmin']},
+	'harvasti': {'': ['harvasti'], 'comparative': ['harvemmin'], 'superlative': ['harvimmin', 'harviten']},
 	'myöhään': {'': ['myöhään'], 'comparative': ['myöhemmin'], 'superlative': ['myöhimmin']},
 	'aikaisin': {'': ['aikaisin'], 'comparative': ['aikaisemmin'], 'superlative': ['aikaisimmin']},
 	'varhain': {'': ['varhain'], 'comparative': ['varhemmin'], 'superlative': ['varhimmin', 'varhiten']},
