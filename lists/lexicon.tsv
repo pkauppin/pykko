@@ -23253,7 +23253,7 @@
 -	baudi	-	noun	5	-	back	i	-	-
 -	bauksiitti	-	noun	5	tt:t	back	i	-	-
 -	bauksiittiutuminen	-	noun	38	-	-	-	-	-
--	bavarois	-	noun	22	-	back	i	-	-
+-	bavarois	-	noun	22|†5	-	back	a	-	-
 -	bavaroise	-	noun	8	-	back	e	-	-
 -	baškiiri	-	noun	5	-	-	-	-	-
 -	beach volley	-	noun	21	-	-	i|y	-	-
@@ -23262,7 +23262,7 @@
 -	beatbox	-	noun	5	-	-	-	-	-
 -	beatboxaus	-	noun	39	-	-	-	-	-
 -	beatboxing	-	noun	5	-	-	-	-	-
--	beaujolais	-	noun	22	-	-	-	-	-
+-	beaujolais	-	noun	22|†5	-	-	e	-	-
 -	beauty box	-	noun	5	-	-	-	-	-
 -	bebee	-	noun	20	-	front	e	-	-
 -	bebop	-	noun	5	-	back	o	-	-
@@ -23278,7 +23278,7 @@
 -	behavioristi	-	noun	5	-	back	i	-	-
 -	beibi	-	noun	5	-	front	i	coll	-
 -	beige	-	noun	8	-	-	-	-	-
--	beignet	-	noun	22	-	front	e	-	-
+-	beignet	-	noun	22|†5	-	front	e	-	-
 -	beijingiläinen	-	noun	38	-	-	-	-	-
 -	beirutilainen	-	noun	38	-	-	-	-	-
 -	bel paese	-	noun	8	-	-	-	-	-
@@ -23483,7 +23483,7 @@
 -	boosteri	-	noun	6	-	back	i	coll	-
 -	boosti	-	noun	5	-	-	-	-	-
 -	bootsi	-	noun	5	-	back	i	-	-
--	bordeaux	-	noun	22	-	back	u	-	-
+-	bordeaux	-	noun	22|†5	-	back	o	-	-
 -	bordelli	-	noun	5	-	back	i	-	-
 -	bordyyri	-	noun	5	-	front|back	i	-	-
 -	borrelioosi	-	noun	5	-	back	i	-	-
@@ -23508,7 +23508,7 @@
 -	bougainvillea	-	noun	12	-	back	a	-	-
 -	bouillabaisse	-	noun	8	-	back	e	-	-
 -	boulderointi	-	noun	5	nt:nn	-	-	-	-
--	bouquet	-	noun	22	-	back	e	-	-
+-	bouquet	-	noun	22|†5	-	back	e	-	-
 -	bourbon	-	noun	6	-	back	o	-	-
 -	bourette	-	noun	8	tt:t|=	back	e	-	-
 -	bourgogne	-	noun	8	-	back	e	-	-
@@ -23707,7 +23707,7 @@
 -	caddo	-	noun	1	-	-	-	-	-
 -	cafeteria	-	noun	12	-	back	a	-	-
 -	caffè latte	-	noun	8	-	-	-	-	-
--	café au lait	-	noun	22	-	-	-	-	-
+-	café au lait	-	noun	22|†5	-	-	e	-	-
 -	cajun	-	noun	5	-	-	-	-	-
 -	calamus	-	noun	39	-	-	-	foreign	-
 -	calmecac	-	noun	5	-	-	-	foreign	-
@@ -23798,7 +23798,7 @@
 -	cicero	-	noun	2	-	back	o	-	-
 -	cirrus	-	noun	39	-	back	u	-	-
 -	civis	-	noun	39	-	front	i	-	-
--	clafoutis	-	noun	22	-	-	-	-	-
+-	clafoutis	-	noun	22|†5	-	-	-	-	-
 -	clearing	-	noun	5	-	back	i	-	-
 -	clou	-	noun	21	-	back	u	-	-
 -	cm	-	noun	5B	-	front	-	unit	-
@@ -23823,7 +23823,7 @@
 -	costaricalainen	-	noun	38	-	-	-	-	-
 -	cotonoulainen	-	noun	38	-	-	-	-	-
 -	coulibiac	-	noun	5	-	-	-	-	-
--	coulis	-	noun	22	-	-	-	-	-
+-	coulis	-	noun	22|†5	-	-	-	-	-
 -	coulombi	-	noun	5	-	back	i	-	-
 -	country	-	noun	1	-	front|back	y	foreign	-
 -	couperosa	-	noun	10	-	-	-	-	-
@@ -24315,7 +24315,7 @@
 -	drag	-	noun	5	-	-	-	foreign	-
 -	drag queen	-	noun	5	-	-	-	-	-
 -	drag racing	-	noun	5	-	-	-	-	-
--	drag show	-	noun	22	-	-	-	-	-
+-	drag show	-	noun	22|†5	-	-	u	-	-
 -	dragsfjärdiläinen	-	noun	38	-	-	-	-	-
 -	dragsteri	-	noun	6	-	back	i	-	-
 -	draivi	-	noun	5	-	back	i	slang	-
@@ -25407,7 +25407,7 @@
 -	flogiston	-	noun	6	-	-	-	-	-
 -	flokki	-	noun	5	kk:k	back	i	-	-
 -	floksi	-	noun	5	-	back	i	-	-
--	floor show	-	noun	22	-	-	-	-	-
+-	floor show	-	noun	22|†5	-	-	u	-	-
 -	floora	-	noun	10	-	back	a	-	-
 -	floppi	-	noun	5	pp:p	back	i	-	-
 -	floretti	-	noun	5	tt:t	back	i	-	-
@@ -25912,7 +25912,7 @@
 -	gotiikka	-	noun	14	kk:k	back	a	-	-
 -	gouda	-	noun	10	-	back	a	-	-
 -	gourmee	-	noun	20	-	-	-	-	-
--	gourmet	-	noun	22	-	back	e	-	-
+-	gourmet	-	noun	22|†5	-	back	e	-	-
 -	graafi	-	noun	5	-	-	-	-	-
 -	graafikko	-	noun	4	kk:k	back	o	-	-
 -	graben	-	noun	6	-	-	-	-	-
@@ -36659,7 +36659,7 @@
 -	notko	-	noun	1	-	back	o	-	-
 -	notkunta	-	noun	9	nt:nn	back	a	-	-
 -	nouakchottilainen	-	noun	38	-	-	-	-	-
--	nougat	-	noun	22	-	back	a	-	-
+-	nougat	-	noun	22|†5	-	back	a	-	-
 -	nousiaislainen	-	noun	38	-	-	-	-	-
 -	nousija	-	noun	12	-	back	a	-	-
 -	noustelainen	-	noun	38	-	-	-	-	-
@@ -37872,7 +37872,7 @@
 -	paremmuus	-	noun	40	-	back	u	-	-
 -	pareo	-	noun	3	-	-	-	-	-
 -	parergon	-	noun	5	-	-	-	-	-
--	parfait	-	noun	22	-	back	i	-	-
+-	parfait	-	noun	22|†5	-	back	e	-	-
 -	parfee	-	noun	20	-	back	e	-	-
 -	parfymeria	-	noun	12	-	back	a	-	-
 -	parfymointi	-	noun	5	nt:nn	back	i	-	-
@@ -37975,7 +37975,7 @@
 -	paspis	-	noun	39	-	-	-	coll	-
 -	passaaja	-	noun	10	-	back	a	coll	-
 -	passari	-	noun	6	-	back	i	-	-
--	passepartout	-	noun	22	-	back	u	-	-
+-	passepartout	-	noun	22|†5	-	back	u	-	-
 -	passi	-	noun	5	-	back	i	-	-
 -	passiivi	-	noun	5	-	back	i	-	-
 -	passiivisuus	-	noun	40	-	back	u	-	-
@@ -40267,7 +40267,7 @@
 -	rafla	-	noun	9	-	back	a	slang	-
 -	raflaavuus	-	noun	40	-	back	u	coll	-
 -	raggari	-	noun	6	-	back	i	-	-
--	ragoût	-	noun	22	-	-	-	-	-
+-	ragoût	-	noun	22|†5	-	-	u	-	-
 -	ragtime	-	noun	8	-	-	-	-	-
 -	raguu	-	noun	20	-	back	u	-	-
 -	raha	-	noun	9	-	back	a	-	-
@@ -41268,7 +41268,7 @@
 -	routa	-	noun	10	t:d	back	a	-	-
 -	rouva	-	noun	10	-	back	a	-	-
 -	rouvittelu	-	noun	2	-	back	u	-	-
--	roux	-	noun	22	-	back	u	-	-
+-	roux	-	noun	22|†5	-	back	u	-	-
 -	rova	-	noun	10	-	-	-	dial	-
 -	rovasti	-	noun	5	-	back	i	-	-
 -	rovastinna	-	noun	9	-	back	a	-	-
@@ -42585,7 +42585,7 @@
 -	shoppailu	-	noun	2	-	back	u	coll	-
 -	shot	-	noun	5	-	-	-	-	-
 -	shotti	-	noun	5	tt:t	back	i	-	-
--	show	-	noun	22	-	back	o	-	-
+-	show	-	noun	22|†5	-	back	u	-	-
 -	shōgun	-	noun	6	-	-	-	-	-
 -	shōgunaatti	-	noun	5	tt:t	-	-	-	-
 -	sial	-	noun	5	-	back	a	-	-
@@ -44679,7 +44679,7 @@
 -	talismaani	-	noun	5	-	back	i	-	-
 -	tališi	-	noun	5	-	-	-	-	-
 -	talja	-	noun	9	-	back	a	-	-
--	talk show	-	noun	22	-	-	-	-	-
+-	talk show	-	noun	22|†5	-	-	u	-	-
 -	talkkari	-	noun	6	-	back	i	coll	-
 -	talkki	-	noun	5	kk:k	back	i	-	-
 -	talkkuna	-	noun	12	-	back	a	-	-
@@ -45709,7 +45709,7 @@
 -	touhukkuus	-	noun	40	-	back	u	-	-
 -	toukka	-	noun	10	kk:k	back	a	-	-
 -	touko	-	noun	1	k:	back	o	-	-
--	tournedos	-	noun	22	-	back	o	-	-
+-	tournedos	-	noun	22|†5	-	back	o	-	-
 -	toutain	-	noun	33	-	back	i	-	-
 -	touvi	-	noun	5	-	back	i	-	-
 -	toveri	-	noun	6	-	back	i	-	-
@@ -49545,7 +49545,7 @@
 -	kirkko-oikeus	-	noun	40	-	-	-	-	-
 -	kitka-aine	-	noun	48	-	-	-	-	-
 -	knock-out	-	noun	5	-	-	-	-	-
--	know-how	-	noun	22	-	-	-	-	-
+-	know-how	-	noun	22|†5	-	-	u	-	-
 -	koe-eläin	-	noun	33	-	-	-	-	-
 -	koe-erä	-	noun	10	-	-	-	-	-
 -	kohde-etuus	-	noun	40	-	-	-	-	-
@@ -59835,7 +59835,7 @@
 -	jää|röykkiö	-	noun	3	-	-	-	-	-
 -	jää|salaatti	-	noun	5	tt:t	-	-	-	-
 -	jää|sauva	-	noun	9	-	-	-	-	-
--	jää|show	-	noun	22	-	-	-	-	-
+-	jää|show	-	noun	22	-	-	u	-	-
 -	jää|skraba	-	noun	9	-	-	-	coll	-
 -	jää|sohjo	-	noun	1	-	-	-	-	-
 -	jää|stadion	-	noun	6	-	-	-	-	-
@@ -68995,7 +68995,7 @@
 -	lava|koomikko	-	noun	4	kk:k	-	-	-	-
 -	lava|kurkku	-	noun	1	kk:k	-	-	-	-
 -	lava|raakki	-	noun	5	kk:k	-	-	coll	-
--	lava|show	-	noun	22	-	-	-	-	-
+-	lava|show	-	noun	22	-	-	u	-	-
 -	lava|sänky	-	noun	1	nk:ng	-	-	-	-
 -	lava|säteily	-	noun	2	-	-	-	-	-
 -	lava|tanssi	-	noun	5	-	-	-	-	-
@@ -74489,7 +74489,7 @@
 -	muoti|piirtäjä	-	noun	10	-	-	-	-	-
 -	muoti|salonki	-	noun	5	nk:ng	-	-	-	-
 -	muoti|sana	-	noun	9	-	-	-	-	-
--	muoti|show	-	noun	22	-	-	-	-	-
+-	muoti|show	-	noun	22	-	-	u	-	-
 -	muoti|suunnittelija	-	noun	12	-	-	-	-	-
 -	muoti|suunta	-	noun	10	nt:nn	-	-	-	-
 -	muoti|talo	-	noun	1	-	-	-	-	-
@@ -84126,7 +84126,7 @@
 -	ravintola|pöytä	-	noun	10	t:d	-	-	-	-
 -	ravintola|ruoka	-	noun	10	uok:uu|k:	-	-	-	-
 -	ravintola|sali	-	noun	5	-	-	-	-	-
--	ravintola|show	-	noun	22	-	-	-	-	-
+-	ravintola|show	-	noun	22	-	-	u	-	-
 -	ravintola|vaunu	-	noun	1	-	-	-	-	-
 -	ravintola|yhtye	-	noun	48	-	-	-	-	-
 -	ravintola|yleisö	-	noun	2	-	-	-	-	-
@@ -92181,7 +92181,7 @@
 -	televisio|ruutu	-	noun	1	t:d	-	-	-	-
 -	televisio|sarja	-	noun	9	-	-	-	-	-
 -	televisio|satelliitti	-	noun	5	tt:t	-	-	-	-
--	televisio|show	-	noun	22	-	-	-	-	-
+-	televisio|show	-	noun	22	-	-	u	-	-
 -	televisio|sota	-	noun	10	t:d	-	-	-	-
 -	televisio|studio	-	noun	3	-	-	-	-	-
 -	televisio|tallennus	-	noun	39	-	-	-	-	-
@@ -96598,7 +96598,7 @@
 -	valo|rysä	-	noun	10	-	-	-	-	-
 -	valo|saaste	-	noun	48	-	-	-	-	-
 -	valo|sarja	-	noun	9	-	-	-	-	-
--	valo|show	-	noun	22	-	-	-	-	-
+-	valo|show	-	noun	22	-	-	u	-	-
 -	valo|sähkö	-	noun	1	-	-	-	-	-
 -	valo|sähkötys	-	noun	39	-	-	-	-	-
 -	valo|taide	-	noun	48	t:d	-	-	-	-

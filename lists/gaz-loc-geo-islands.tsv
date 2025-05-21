@@ -108,6 +108,7 @@
 -	Korkea|saari	-	proper	26	-	-	-	-	-
 -	Kustaan|miekka	-	proper	9	kk:k	-	-	-	-
 -	Kuuskajas|kari	-	proper	5	-	-	-	-	-
+-	Maa|kalla	-	proper	9	-	-	-	-	-
 -	Man|saari	-	proper	26	-	-	-	-	-
 -	Mustikka|maa	-	proper	18	-	-	-	-	-
 -	Nais|saari	-	proper	26	-	-	-	-	-
@@ -118,6 +119,7 @@
 -	Seura|saari	-	proper	26	-	-	-	-	-
 -	Soi|salo	-	proper	1	-	-	-	-	-
 -	Tuli|maa	-	proper	18	-	-	-	-	-
+-	Ulko|kalla	-	proper	9	-	-	-	-	-
 -	Vancouverin|saari	-	proper	26	-	-	-	-	-
 -	Aleutit	-	proper-pl	5	tt:t	-	-	-	-
 -	Amirantit	-	proper-pl	5	tt:t	-	-	-	-
@@ -158,6 +160,7 @@
 -	Havaiji|saaret	-	proper-pl	26	-	-	-	-	-
 -	Huippu|vuoret	-	proper-pl	26	-	-	-	-	-
 -	Joonian|saaret	-	proper-pl	26	-	-	-	-	-
+-	Kallan|karit	-	proper-pl	5	-	-	-	-	-
 -	Kanaali|saaret	-	proper-pl	26	-	-	-	-	-
 -	Kanarian|saaret	-	proper-pl	26	-	-	-	-	-
 -	Kerguélen|saaret	-	proper-pl	26	-	-	-	-	-

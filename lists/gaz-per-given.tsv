@@ -1406,7 +1406,7 @@
 -	Kaija	-	proper	9	-	-	-	-	-
 -	Kaisa	-	proper	9	-	-	-	-	-
 -	Kaisu	-	proper	1	-	-	-	-	-
--	Kaj	-	proper	22	-	-	-	-	-
+-	Kaj	-	proper	22	-	-	i	-	-
 -	Kaja	-	proper	9	-	-	-	-	-
 -	Kajsa	-	proper	9	-	-	-	-	-
 -	Kalervo	-	proper	1	-	-	-	-	-
@@ -1718,7 +1718,7 @@
 -	Maila	-	proper	9	-	-	-	-	-
 -	Maire	-	proper	8	-	-	-	-	-
 -	Mait	-	proper	5	-	-	-	-	-
--	Maj	-	proper	22	-	-	-	-	-
+-	Maj	-	proper	22	-	-	i	-	-
 -	Maja	-	proper	9	-	-	-	-	-
 -	Maki	-	proper	5	-	-	-	-	-
 -	Makoto	-	proper	1	-	-	-	-	-
@@ -1849,7 +1849,7 @@
 -	Matvi	-	proper	5	-	-	-	-	-
 -	Matvii	-	proper	18	-	-	-	-	-
 -	Matěj	-	proper	22|†5	-	-	-	-	-
--	Maud	-	proper	55	-	-	-	-	-
+-	Maud	-	proper	5	-	-	-	-	-
 -	Maukka	-	proper	9	-	-	-	-	-
 -	Mauno	-	proper	1	-	-	-	-	-
 -	Maunu	-	proper	1	-	-	-	-	-
@@ -1869,7 +1869,7 @@
 -	Megan	-	proper	6	-	-	-	-	-
 -	Meghan	-	proper	6	-	-	-	-	-
 -	Megumi	-	proper	5	-	-	-	-	-
--	Mehmet	-	proper	55	-	-	-	-	-
+-	Mehmet	-	proper	5	-	-	-	-	-
 -	Melanie	-	proper	8|21	-	-	-	-	-
 -	Melchior	-	proper	5	-	-	-	-	-
 -	Melissa	-	proper	9	-	-	-	-	-
@@ -1925,7 +1925,7 @@
 -	Mikke	-	proper	8	-	-	-	-	-
 -	Mikkel	-	proper	6	-	-	-	-	-
 -	Mikko	-	proper	1	kk:k	-	-	-	-
--	Miklós	-	proper	55	-	-	-	-	-
+-	Miklós	-	proper	5	-	-	-	-	-
 -	Miko	-	proper	1	-	-	-	-	-
 -	Mikołaj	-	proper	22|†5	-	-	-	-	-
 -	Mila	-	proper	9	-	-	-	-	-
@@ -2167,7 +2167,7 @@
 -	Pascal	-	proper	?6	-	-	-	-	-
 -	Pasi	-	proper	5	-	-	-	-	-
 -	Pasquale	-	proper	8	-	-	-	-	-
--	Pat	-	proper	55	-	-	-	-	-
+-	Pat	-	proper	5	-	-	-	-	-
 -	Pate	-	proper	8	-	-	-	-	-
 -	Pater	-	proper	6	-	-	-	-	-
 -	Patric	-	proper	5	-	-	-	-	-
@@ -2357,7 +2357,7 @@
 -	Riki	-	proper	5	-	-	-	-	-
 -	Rikke	-	proper	8	-	-	-	-	-
 -	Riku	-	proper	1	-	-	-	-	-
--	Rinat	-	proper	55	-	-	-	-	-
+-	Rinat	-	proper	5	-	-	-	-	-
 -	Risto	-	proper	1	-	-	-	-	-
 -	Rita	-	proper	9	-	-	-	-	-
 -	Ritva	-	proper	9	-	-	-	-	-
@@ -2410,7 +2410,7 @@
 -	Russell	-	proper	5	-	-	-	-	-
 -	Rutger	-	proper	6	-	-	-	-	-
 -	Ruth	-	proper	5	-	-	-	-	-
--	Ruud	-	proper	55	-	-	-	-	-
+-	Ruud	-	proper	5	-	-	-	-	-
 -	Ryan	-	proper	6	-	-	-	-	-
 -	Ryszard	-	proper	5	-	-	-	-	-
 -	Ryō	-	proper	?21|1	-	-	-	-	-
@@ -2536,12 +2536,12 @@
 -	Shūsaku	-	proper	1	-	-	-	-	-
 -	Siddhartha	-	proper	9	-	-	-	-	-
 -	Sidney	-	proper	21	-	-	i|y	-	-
--	Siegfried	-	proper	55	-	-	-	-	-
--	Sigfrid	-	proper	55	-	-	-	-	-
+-	Siegfried	-	proper	5	-	-	-	-	-
+-	Sigfrid	-	proper	5	-	-	-	-	-
 -	Sigge	-	proper	8	-	-	-	-	-
 -	Sigismund	-	proper	5	-	-	-	-	-
 -	Signe	-	proper	8	-	-	-	-	-
--	Sigrid	-	proper	55	-	-	-	-	-
+-	Sigrid	-	proper	5	-	-	-	-	-
 -	Sigurd	-	proper	5	-	-	-	-	-
 -	Sigurður	-	proper	?5	-	-	-	-	-
 -	Siim	-	proper	5	-	-	-	-	-
@@ -2682,7 +2682,7 @@
 -	Takumi	-	proper	5	-	-	-	-	-
 -	Takuya	-	proper	10	-	-	-	-	-
 -	Tamara	-	proper	13	-	-	-	-	-
--	Tamás	-	proper	55	-	-	-	-	-
+-	Tamás	-	proper	5	-	-	-	-	-
 -	Tanel	-	proper	6	-	-	-	-	-
 -	Taneli	-	proper	6	-	-	-	-	-
 -	Tanja	-	proper	9	-	-	-	-	-
@@ -2783,7 +2783,7 @@
 -	Tomokazu	-	proper	1	-	-	-	-	-
 -	Tomoyuki	-	proper	5	-	-	-	-	-
 -	Tomppa	-	proper	10	pp:p	-	-	-	-
--	Tomás	-	proper	55	-	-	-	-	-
+-	Tomás	-	proper	5	-	-	-	-	-
 -	Tomáš	-	proper	5	-	-	-	-	-
 -	Ton	-	proper	5	-	-	-	-	-
 -	Toni	-	proper	5	-	-	-	-	-
@@ -2881,7 +2881,7 @@
 -	Valeri	-	proper	6	-	-	-	-	-
 -	Valeria	-	proper	12	-	-	-	-	-
 -	Valerio	-	proper	3	-	-	-	-	-
--	Valfrid	-	proper	55	-	-	-	-	-
+-	Valfrid	-	proper	5	-	-	-	-	-
 -	Valter	-	proper	6	-	-	-	-	-
 -	Valto	-	proper	1	-	-	-	-	-
 -	Valtteri	-	proper	6	-	-	-	-	-
@@ -2982,7 +2982,7 @@
 -	Vítězslav	-	proper	5	-	-	-	-	-
 -	Věra	-	proper	9	-	-	-	-	-
 -	Waldemar	-	proper	5	-	-	-	-	-
--	Walfrid	-	proper	55	-	-	-	-	-
+-	Walfrid	-	proper	5	-	-	-	-	-
 -	Walter	-	proper	6	-	-	-	-	-
 -	Walther	-	proper	6	-	-	-	-	-
 -	Waltteri	-	proper	6	-	-	-	-	-

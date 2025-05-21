@@ -70,7 +70,7 @@
 -	Baoding	-	proper	5	-	-	-	-	-
 -	Barcelona	-	proper	10	-	-	-	-	-
 -	Bari	-	proper	5	-	-	-	-	-
--	Barrow	-	proper	22	-	-	u	-	-
+-	Barrow	-	proper	22|†5	-	-	u	-	-
 -	Basel	-	proper	6	-	-	-	-	-
 -	Basra	-	proper	9	-	-	-	-	-
 -	Basseterre	-	proper	8	-	front|back	-	-	-
@@ -105,7 +105,7 @@
 -	Bologna	-	proper	10	-	-	-	-	-
 -	Bombay	-	proper	21	-	-	i|y	-	-
 -	Bonn	-	proper	5	-	-	-	-	-
--	Bordeaux	-	proper	22	-	-	o	-	-
+-	Bordeaux	-	proper	22|†5	-	-	o	-	-
 -	Borlänge	-	proper	8	-	-	-	-	-
 -	Borås	-	proper	5	-	-	-	-	-
 -	Boston	-	proper	6	-	-	-	-	-
@@ -133,7 +133,7 @@
 -	Buffalo	-	proper	2	-	-	-	-	-
 -	Bukarest	-	proper	5	-	-	-	-	-
 -	Bydgoszcz	-	proper	5	-	-	-	-	-
--	Calais	-	proper	22	-	-	e	-	-
+-	Calais	-	proper	22|†5	-	-	e	-	-
 -	Calgary	-	proper	1	-	-	-	-	-
 -	Cali	-	proper	5	-	-	-	-	-
 -	Cambridge	-	proper	8	-	-	-	-	-
@@ -696,7 +696,7 @@
 -	Monterrey	-	proper	21	-	-	i|y	-	-
 -	Montevideo	-	proper	3	-	-	-	-	-
 -	Montreal	-	proper	5	-	-	-	-	-
--	Montreux	-	proper	22	-	-	ö	-	-
+-	Montreux	-	proper	22|†5	-	-	ö	-	-
 -	Moroni	-	proper	5	-	-	-	-	-
 -	Moskova	-	proper	10	-	-	-	-	-
 -	Motala	-	proper	12	-	-	-	-	-
@@ -708,9 +708,11 @@
 -	Muonio	-	proper	3	-	-	-	-	-
 -	Murcia	-	proper	12	-	-	-	-	-
 -	Murmansk	-	proper	5	-	-	-	-	-
+-	Murole	-	proper	48	-	-	-	-	-
 -	Mustiala	-	proper	9	-	-	-	-	-
 -	Muurame	-	proper	8	-	-	-	-	-
 -	Muurla	-	proper	10	-	-	-	-	-
+-	Muurue	-	proper	48	-	-	-	-	-
 -	Mykene	-	proper	8	-	-	-	-	-
 -	Mykolaiv	-	proper	5	-	-	-	-	-
 -	Mykolajiv	-	proper	5	-	-	-	-	-
@@ -962,7 +964,7 @@
 -	Rostov	-	proper	5	-	-	-	-	-
 -	Rotterdam	-	proper	5	-	-	-	-	-
 -	Ruhr	-	proper	5	-	-	-	-	-
--	Ruoke	-	proper	8	-	-	-	-	-
+-	Ruoke	-	proper	48	kk:k	-	-	-	-
 -	Ruotsinpyhtää	-	proper	18	-	-	-	-	-
 -	Ruskeala	-	proper	9	-	-	-	-	-
 -	Rusko	-	proper	1	-	-	-	-	-
@@ -1367,6 +1369,7 @@
 -	Keri|mäki	-	proper	7	k:	-	-	-	-
 -	Kesä|lahti	-	proper	7	t:d	-	-	-	-
 -	Kiihtelys|vaara	-	proper	9	-	-	-	-	-
+-	Kirkko|niemi	-	proper	25	-	-	-	-	-
 -	Kirkko|nummi	-	proper	7	-	-	-	-	-
 -	Kirk|niemi	-	proper	25	-	-	-	-	-
 -	Kiuru|vesi	-	proper	27	-	-	-	-	-
@@ -1547,6 +1550,7 @@
 -	Uuku|niemi	-	proper	25	-	-	-	-	-
 -	Uusi|kirkko	-	proper	1	kk:k	-	-	-	-
 -	Vaaja|koski	-	proper	7	-	-	-	-	-
+-	Vaali|maa	-	proper	18	-	-	-	-	-
 -	Valkea|koski	-	proper	7	-	-	-	-	-
 -	Valk|järvi	-	proper	7	-	-	-	-	-
 -	Varpais|järvi	-	proper	7	-	-	-	-	-
@@ -1619,6 +1623,7 @@ Cap	hafen	-	proper	6	-	-	-	-	4.000
 Cap	hamn	-	proper	5	-	-	-	-	4.000
 Cap	hampton	-	proper	6	-	-	-	-	4.000
 Cap	hausen	-	proper	6	-	-	-	-	4.000
+Cap	haven	-	proper	?6	-	-	-	-	-
 Cap	heim	-	proper	5	-	front|back	-	-	4.000
 Cap	hofen	-	proper	6	-	-	-	-	4.000
 Cap	hora	-	proper	10	-	-	-	-	4.000

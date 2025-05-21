@@ -102,7 +102,6 @@ def unpack(classes='', gradations='', harmonies='', vowels='', ignore_styles=Fal
 	if gradations.endswith('|='):
 		strong = gradations.split(':')[0]
 		gradations = gradations.replace('=', f'{strong}:{strong}')
-		print(gradations)
 
 	if ignore_styles:
 		classes = classes.replace('†', '').replace('‡', '').replace(')', '').replace('(', '')

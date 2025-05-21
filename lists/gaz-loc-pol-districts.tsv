@@ -36,6 +36,7 @@
 -	Laakso	-	proper	1	-	-	-	-	-
 -	Laune	-	proper	8	-	-	-	-	-
 -	Lauste	-	proper	8	-	-	-	-	-
+-	Lievestuore	-	proper	48	-	-	-	-	-
 -	Malmi	-	proper	5	-	-	-	-	-
 -	Manhattan	-	proper	6	-	-	-	-	-
 -	Mankkaa	-	proper	18	-	-	-	-	-
@@ -127,6 +128,7 @@
 -	Mylly|järvi	-	proper	7	-	-	-	-	-
 -	Mylly|puro	-	proper	1	-	-	-	-	-
 -	Myyr|mäki	-	proper	7	k:	-	-	-	-
+-	Mänty|luoto	-	proper	1	t:d	-	-	-	-
 -	Mänty|mäki	-	proper	7	k:	-	-	-	-
 -	Niitty|kumpu	-	proper	1	mp:mm	-	-	-	-
 -	Ota|niemi	-	proper	25	-	-	-	-	-
@@ -155,6 +157,8 @@
 -	Santa|hamina	-	proper	13	-	-	-	-	-
 -	Silta|mäki	-	proper	7	k:	-	-	-	-
 -	Simon|kylä	-	proper	10	-	-	-	-	-
+-	Taalin|tehdas	-	proper	41	t:d	-	-	-	-
+-	Tahko|luoto	-	proper	1	t:d	-	-	-	-
 -	Tainion|koski	-	proper	7	-	-	-	-	-
 -	Tammi|salo	-	proper	1	-	-	-	-	-
 -	Tapanin|kylä	-	proper	10	-	-	-	-	-
