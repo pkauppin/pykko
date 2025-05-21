@@ -26,7 +26,6 @@
 -	Anaheim	-	proper	5	-	-	-	-	-
 -	Andorra la Vella	-	proper	9	-	-	-	-	-
 -	Angkor	-	proper	6	-	-	-	-	-
--	Anianpelto	-	proper	1	-	-	-	-	-
 -	Anjala	-	proper	12	-	-	-	-	-
 -	Ankara	-	proper	10|12	-	-	-	-	-
 -	Antakya	-	proper	12	-	-	-	-	-
@@ -319,7 +318,7 @@
 -	Hiitola	-	proper	10	-	-	-	-	-
 -	Hiittinen	-	proper	38-pl	-	-	-	-	-
 -	Hikiä	-	proper	12	-	-	-	-	-
--	Himanka	-	proper	9	-	-	-	-	-
+-	Himanka	-	proper	9	nk:ng	-	-	-	-
 -	Hiroshima	-	proper	9	-	-	-	-	-
 -	Hki	-	proper	5	k:g	-	-	abbr	-
 -	Ho Chi Minh	-	proper	5	-	-	-	-	-
@@ -460,9 +459,9 @@
 -	Keuruu	-	proper	17	-	-	-	-	-
 -	Kevo	-	proper	1	-	-	-	-	-
 -	Khartum	-	proper	6	-	-	-	-	-
--	Kianta	-	proper	9	-	-	-	-	-
+-	Kianta	-	proper	9	nt:nn	-	-	-	-
 -	Kiel	-	proper	5	-	-	-	-	-
--	Kiestinki	-	proper	5	-	-	-	-	-
+-	Kiestinki	-	proper	5	nk:ng	-	-	-	-
 -	Kigali	-	proper	5	-	-	-	-	-
 -	Kihniö	-	proper	3	-	-	-	-	-
 -	Kiikala	-	proper	12	-	-	-	-	-
@@ -539,7 +538,7 @@
 -	Kuttanen	-	proper	38	-	-	-	-	-
 -	Kuusaa	-	proper	18	-	-	-	-	-
 -	Kuusamo	-	proper	2	-	-	-	-	-
--	Kuusas	-	proper	39	-	-	-	-	-
+-	Kuusas	-	proper	41	-	-	-	-	-
 -	Kymi	-	proper	5	-	-	-	-	-
 -	Kyrö	-	proper	1	-	-	-	-	-
 -	Kälviä	-	proper	12	-	-	-	-	-
@@ -767,7 +766,7 @@
 -	Nouakchott	-	proper	5	-	-	-	-	-
 -	Nousiainen	-	proper	38-pl	-	-	-	-	-
 -	Novgorod	-	proper	5	-	-	-	-	-
--	Novosibirsk	-	proper	5	-	-	-	-	-
+-	Novosibirsk	-	proper	5	-	front|back	-	-	-
 -	Nukuʻalofa	-	proper	10	-	-	-	-	-
 -	Nummi	-	proper	7	-	-	-	-	-
 -	Nunnanen	-	proper	38	-	-	-	-	-
@@ -879,7 +878,7 @@
 -	Port Vila	-	proper	9	-	-	-	-	-
 -	Port of Spain	-	proper	5	-	-	-	-	-
 -	Portland	-	proper	5	-	-	-	-	-
--	Porto	-	proper	1	rt:rr	-	-	-	-
+-	Porto	-	proper	1	-	-	-	-	-
 -	Portsmouth	-	proper	5	-	-	-	-	-
 -	Porvoo	-	proper	17	-	-	-	-	-
 -	Posio	-	proper	3	-	-	-	-	-
@@ -1216,7 +1215,6 @@
 -	Viipuri	-	proper	6	-	-	-	-	-
 -	Viljakkala	-	proper	12	-	-	-	-	-
 -	Viljandi	-	proper	5	-	-	-	-	-
--	Villähde	-	proper	8	-	-	-	-	-
 -	Vilna	-	proper	9	-	-	-	-	-
 -	Vilppula	-	proper	12	-	-	-	-	-
 -	Vimpeli	-	proper	6	-	-	-	-	-
@@ -1306,6 +1304,7 @@
 -	Ala|veteli	-	proper	5	-	-	-	-	-
 -	Ala|vieska	-	proper	9	-	-	-	-	-
 -	Angel|niemi	-	proper	25	-	-	-	-	-
+-	Anian|pelto	-	proper	1	lt:ll	-	-	-	-
 -	Anjalan|koski	-	proper	7	-	-	-	-	-
 -	Ankka|linna	-	proper	9	-	-	-	-	-
 -	Art|järvi	-	proper	7	-	-	-	-	-
@@ -1561,6 +1560,7 @@
 -	Vieru|mäki	-	proper	7	k:	-	-	-	-
 -	Vihta|vuori	-	proper	26	-	-	-	-	-
 -	Viita|saari	-	proper	26	-	-	-	-	-
+-	Vil|lähde	-	proper	48	t:d	-	-	-	-
 -	Viro|lahti	-	proper	7	t:d	-	-	-	-
 -	Virta|salmi	-	proper	7	-	-	-	-	-
 -	Vuoksen|ranta	-	proper	9	nt:nn	-	-	-	-

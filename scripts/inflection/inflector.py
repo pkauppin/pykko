@@ -2002,15 +2002,15 @@ def inflect(word, pos, kotus_class=None, gradation=None, harmony=None, vowel=Non
 	if '|' in kotus_class:
 		class1, class2 = kotus_class.split('|')
 		style = 'dial' if '‡' in class2 else 'nstd' if '†' in class2 else 'rare' if '(' in class2 else ''
-		inflections1 = inflect(word, pos, class1, gradation)
-		inflections2 = inflect(word, pos, class2, gradation)
+		inflections1 = inflect(word, pos, class1, gradation, harmony, vowel, info)
+		inflections2 = inflect(word, pos, class2, gradation, harmony, vowel, info)
 		return merge_inflections(inflections1, inflections2, secondary_tag=style)
 
 	if '|' in gradation:
 		grad1, grad2 = gradation.split('|')
 		style = 'dial' if '‡' in grad2 else 'nstd' if '†' in grad2 else 'rare' if '(' in grad2 else ''
-		inflections1 = inflect(word, pos, kotus_class, grad1)
-		inflections2 = inflect(word, pos, kotus_class, grad2)
+		inflections1 = inflect(word, pos, kotus_class, grad1, harmony, vowel, info)
+		inflections2 = inflect(word, pos, kotus_class, grad2, harmony, vowel, info)
 		return merge_inflections(inflections1, inflections2, secondary_tag=style)
 
 	kotus_class = kotus_class.replace('†', '').replace('‡', '').replace(')', '').replace('(', '')
