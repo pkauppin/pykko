@@ -1,7 +1,6 @@
 import hfst
-from scripts.constants import GENERATOR_FST_PATH, TAB, POS_TAGS
-from tools.utils import add_compound_separators
-POS_REGEX = '"|"^'.join(POS_TAGS)
+from scripts.constants import GENERATOR_FST_PATH, TAB
+from tools.utils import add_compound_separators, inf
 
 
 def read_fst(filename):
@@ -13,16 +12,15 @@ def read_fst(filename):
 
 generator_fst = read_fst(GENERATOR_FST_PATH)
 
+def generate_wordform(word: str, pos: str, morphtags: str, homonym: str = '', source='Lexicon'):
 
-def generate_wordform(word: str, pos: str, morphtags: str, homonym: str = ''):
+	word = add_compound_separators(word, pos=pos, normalize_separators=False, pick_first=True)
 
-	word = sorted(add_compound_separators(word, pos=pos, normalize_separators=False))[0]
-
-	input_fields = 'Lexicon', word, f'^{pos}', homonym, '', morphtags
-	input_string = '^TAB'.join(input_fields)
+	input_fields = source, word, f'^{pos}', str(homonym), '', morphtags
+	input_string = TAB.join(input_fields)
 
 	forms = set()
-	best = 999
+	best = inf
 	for form, weight in generator_fst.lookup(input_string):
 		if weight > best:
 			break
@@ -33,3 +31,5 @@ def generate_wordform(word: str, pos: str, morphtags: str, homonym: str = ''):
 
 if __name__ == '__main__':
 	print(generate_wordform('suuri', 'adjective', '+sg+gen'))
+	print(generate_wordform('kissakoira', 'noun', '+pl+par', source='Lexicon|Pfx'))
+	print(generate_wordform('-rakenteinen', 'adjective', '+sg+ine', source='Lexicon|Hyp'))

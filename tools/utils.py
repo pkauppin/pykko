@@ -153,11 +153,11 @@ def is_plural(word):
 def singularize(word):
 	return is_plural(word) or word
 
-def pos_tag(word, force_match=False):
+def pos_tag(word, force_match=False, max_weight=inf):
 
 	if force_match:
 		tags = set()
-		best_weight = inf
+		best_weight = max_weight
 		for _, _, w, pos, _, _, _, weight in analyze(word, only_best=False):
 			if weight == inf or weight > best_weight:
 				break
@@ -167,7 +167,8 @@ def pos_tag(word, force_match=False):
 		return tags
 
 	return set(
-		pos for _, _, w, pos, _, _, _, _ in analyze(word, only_best=True) if remove_separators(w) == word and pos
+		pos for _, _, w, pos, _, _, _, weight in analyze(word, only_best=True) if remove_separators(w) == word and pos
+		if weight <= max_weight
 	)
 
 
@@ -182,15 +183,15 @@ def lemmatize(word, pos=None):
 
 
 def syllabify(word, pos=None, compound=True):
-	[word] = list(add_compound_separators(word, pos))[:1] if compound else [word]
+	word = add_compound_separators(word, pos, pick_first=True) if compound else word
 	word = re.sub(f'(?<=[aeiou])(?=y[aeou])', '·', word)
 	word = re.sub(f'(?<=[a-zåäö]y)(?=[äo])', '·', word)
 	word = re.sub(f'(?<=[eiouö])(?=[aä])', '·', word)
 	word = re.sub(f'(?<=[aeiouä])(?=ö)', '·', word)
 	word = re.sub(f'(?<=[aeiäö])(?=o)', '·', word)
 	word = re.sub(f'(?<=[aouäö])(?=e)', '·', word)
-	word = re.sub(f'(?<={V})({C}+)(?={C}{V})', r'\1', word)
-	word = re.sub(f'(?<={V})({C}+)(?={C}{V})', r'\1', word)
+	word = re.sub(f'(?<={V})({C}+)(?={C}{V})', r'\1·', word)
+	word = re.sub(f'(?<={V})({C}+)(?={C}{V})', r'\1·', word)
 	word = re.sub(f'(?<={V})(?={C}{V})', '·', word)
 	word = re.sub(f'(?<=[aeiou][iu])(?={V})', '·', word)
 	word = re.sub(f'(?<=[äeiöy][iy])(?={V})', '·', word)

@@ -701,7 +701,7 @@
 -	Moon	-	noun	5	-	-	-	foreign	-
 -	More	-	noun	8	-	-	-	foreign	-
 -	Mortal	-	noun	?6	-	-	-	foreign	-
--	Moscow	-	noun	22|†5	-	-	-	foreign	-
+-	Moscow	-	noun	22|†5	-	-	u	foreign	-
 -	Motel	-	noun	5	-	-	-	foreign	-
 -	Motor	-	noun	6	-	-	-	foreign	-
 -	Motors	-	noun	5	-	-	-	foreign	-
@@ -726,7 +726,7 @@
 -	Nature	-	noun	8	-	-	-	foreign	-
 -	Network	-	noun	5	-	-	-	foreign	-
 -	Neutron	-	noun	6	-	-	-	foreign	-
--	New	-	noun	22|†5	-	-	-	foreign	-
+-	New	-	noun	22|†5	-	-	u	foreign	-
 -	News	-	noun	5	-	-	-	foreign	-
 -	Next	-	noun	5	-	-	-	foreign	-
 -	Night	-	noun	5	-	-	-	foreign	-
@@ -833,7 +833,7 @@
 -	Priest	-	noun	5	-	-	-	foreign	-
 -	Prince	-	noun	8	-	-	-	foreign	-
 -	Princess	-	noun	5	-	-	-	foreign	-
--	Prix	-	noun	22|†5	-	-	-	foreign	-
+-	Prix	-	noun	22|†5	-	-	i	foreign	-
 -	Prize	-	noun	8	-	-	-	foreign	-
 -	Pro	-	noun	21	-	-	-	foreign	-
 -	Problem	-	noun	5	-	-	-	foreign	-
@@ -859,7 +859,7 @@
 -	Race	-	noun	8	-	-	-	foreign	-
 -	Racing	-	noun	5	-	-	-	foreign	-
 -	Railroad	-	noun	5	-	-	-	foreign	-
--	Rainbow	-	noun	22|†5	-	-	-	foreign	-
+-	Rainbow	-	noun	22|†5	-	-	u	foreign	-
 -	Rainforest	-	noun	5	-	-	-	foreign	-
 -	Rajah	-	noun	5|22	-	-	-	foreign	-
 -	Ranch	-	noun	5	-	-	-	foreign	-
@@ -1071,7 +1071,7 @@
 -	Together	-	noun	6	-	-	-	foreign	-
 -	Token	-	noun	6	-	-	-	foreign	-
 -	Tomb	-	noun	5	-	-	-	foreign	-
--	Tomorrow	-	noun	22|5	-	-	-	foreign	-
+-	Tomorrow	-	noun	22|5	-	-	u	foreign	-
 -	Tool	-	noun	5	-	-	-	foreign	-
 -	Tools	-	noun	5	-	-	-	foreign	-
 -	Top	-	noun	5	-	-	-	foreign	-
@@ -1150,7 +1150,7 @@
 -	Wild	-	noun	5	-	-	-	foreign	-
 -	Win	-	noun	5	-	-	-	foreign	-
 -	Wind	-	noun	5	-	-	-	foreign	-
--	Window	-	noun	22|5	-	-	-	foreign	-
+-	Window	-	noun	22|†5	-	-	u	foreign	-
 -	Winds	-	noun	5	-	-	-	foreign	-
 -	Witch	-	noun	5	-	-	-	foreign	-
 -	Woman	-	noun	6	-	-	-	foreign	-
@@ -1174,11 +1174,11 @@
 -	Zion	-	noun	5	-	-	-	foreign	-
 -	Zombie	-	noun	8|21	-	-	-	foreign	-
 -	Zombies	-	noun	5	-	-	-	foreign	-
--	anglais	-	noun	22|†5	-	-	-	foreign	-
+-	anglais	-	noun	22|†5	-	-	e	foreign	-
 -	anglaise	-	noun	8	-	-	-	foreign	-
--	finlandais	-	noun	22|†5	-	-	-	foreign	-
+-	finlandais	-	noun	22|†5	-	-	e	foreign	-
 -	finlandaise	-	noun	8	-	-	-	foreign	-
--	français	-	noun	22|†5	-	-	-	foreign	-
+-	français	-	noun	22|†5	-	-	e	foreign	-
 -	française	-	noun	8	-	-	-	foreign	-
 -	Åbo	-	noun	1	-	-	-	foreign	-
 -	Åland	-	noun	5	-	-	-	foreign	-

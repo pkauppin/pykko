@@ -857,6 +857,10 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['sg|ess'] = [f"{erotti}men{a}"]
 		all_forms['pl|ess'] = [f"{erotti}min{a}"]
 
+		if word.endswith('hapan'):
+			happa = erotti
+			all_forms['sg|gen'] += [f"{happa}man"]
+
 	# "onneton", "alaston"
 	elif kotus_class == "34":
 		onneto = word[:-1]
@@ -1026,8 +1030,17 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['pl|ess'] = [f"{moitte}in{a}"]
 		all_forms['pl|par|nstd'] = [f"{moitte}hi{a}"]
 
+		if word == 'hepene':
+			hepen = word[:-1]
+			all_forms['sg|gen'] += [f"{hepen}en"]
+			all_forms['pl|gen'] += [f"{hepen}ien"]
+			all_forms['pl|par'] += [f"{hepen}iä"]
+			all_forms['pl|ill'] += [f"{hepen}iin"]
+
 	# "askel"
 	elif kotus_class == "49":
+
+		# TODO: "auer" and "askel" actually inflect differently!
 		auer = word
 		auter = grad_strong(word[:-1], gradtype) + word[-1]
 		#
@@ -1035,8 +1048,8 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['sg|gen'] = [f"{auter}en"]
 		all_forms['sg|par'] = [f"{auer}t{a}"]
 		all_forms['sg|ill'] = [f"{auter}eeseen"]
-		all_forms['pl|gen'] = [f"{auer}ten", f"{auter}ien"]
-		all_forms['pl|par'] = [f"{auter}i{a}"]
+		all_forms['pl|gen'] = [f"{auer}ten", f"{auter}ien", f"{auter}eiden", f"{auter}eitten"]
+		all_forms['pl|par'] = [f"{auter}i{a}", f"{auter}eit{a}"]
 		all_forms['pl|ill'] = [f"{auter}iin"]
 		all_forms['pl|ine'] = [f"{auter}iss{a}", f"{auter}eiss{a}"]
 		all_forms['sg|ess'] = [f"{auter}en{a}"]
@@ -1988,20 +2001,20 @@ def inflect(word, pos, kotus_class=None, gradation=None, harmony=None, vowel=Non
 
 	if '|' in kotus_class:
 		class1, class2 = kotus_class.split('|')
-		style = 'dial' if '‡' in class2 else 'nstd' if '†' in class2 else ''
+		style = 'dial' if '‡' in class2 else 'nstd' if '†' in class2 else 'rare' if '(' in class2 else ''
 		inflections1 = inflect(word, pos, class1, gradation)
 		inflections2 = inflect(word, pos, class2, gradation)
 		return merge_inflections(inflections1, inflections2, secondary_tag=style)
 
 	if '|' in gradation:
 		grad1, grad2 = gradation.split('|')
-		style = 'dial' if '‡' in grad2 else 'nstd' if '†' in grad2 else ''
+		style = 'dial' if '‡' in grad2 else 'nstd' if '†' in grad2 else 'rare' if '(' in grad2 else ''
 		inflections1 = inflect(word, pos, kotus_class, grad1)
 		inflections2 = inflect(word, pos, kotus_class, grad2)
 		return merge_inflections(inflections1, inflections2, secondary_tag=style)
 
-	kotus_class = kotus_class.replace('†', '').replace('‡', '')
-	gradation = gradation.replace('†', '').replace('‡', '')
+	kotus_class = kotus_class.replace('†', '').replace('‡', '').replace(')', '').replace('(', '')
+	gradation = gradation.replace('†', '').replace('‡', '').replace(')', '').replace('(', '')
 
 	if info == '#':
 		return {'': [word], '@base': [word]}

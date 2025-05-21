@@ -70,7 +70,7 @@
 -	Baoding	-	proper	5	-	-	-	-	-
 -	Barcelona	-	proper	10	-	-	-	-	-
 -	Bari	-	proper	5	-	-	-	-	-
--	Barrow	-	proper	22	-	-	-	-	-
+-	Barrow	-	proper	22	-	-	u	-	-
 -	Basel	-	proper	6	-	-	-	-	-
 -	Basra	-	proper	9	-	-	-	-	-
 -	Basseterre	-	proper	8	-	front|back	-	-	-
@@ -105,7 +105,7 @@
 -	Bologna	-	proper	10	-	-	-	-	-
 -	Bombay	-	proper	21	-	-	i|y	-	-
 -	Bonn	-	proper	5	-	-	-	-	-
--	Bordeaux	-	proper	22	-	-	-	-	-
+-	Bordeaux	-	proper	22	-	-	o	-	-
 -	Borlänge	-	proper	8	-	-	-	-	-
 -	Borås	-	proper	5	-	-	-	-	-
 -	Boston	-	proper	6	-	-	-	-	-
@@ -133,7 +133,7 @@
 -	Buffalo	-	proper	2	-	-	-	-	-
 -	Bukarest	-	proper	5	-	-	-	-	-
 -	Bydgoszcz	-	proper	5	-	-	-	-	-
--	Calais	-	proper	22	-	-	-	-	-
+-	Calais	-	proper	22	-	-	e	-	-
 -	Calgary	-	proper	1	-	-	-	-	-
 -	Cali	-	proper	5	-	-	-	-	-
 -	Cambridge	-	proper	8	-	-	-	-	-
@@ -696,7 +696,7 @@
 -	Monterrey	-	proper	21	-	-	i|y	-	-
 -	Montevideo	-	proper	3	-	-	-	-	-
 -	Montreal	-	proper	5	-	-	-	-	-
--	Montreux	-	proper	22	-	-	-	-	-
+-	Montreux	-	proper	22	-	-	ö	-	-
 -	Moroni	-	proper	5	-	-	-	-	-
 -	Moskova	-	proper	10	-	-	-	-	-
 -	Motala	-	proper	12	-	-	-	-	-
@@ -1241,7 +1241,7 @@
 -	Wilhelmshaven	-	proper	6	-	-	-	-	-
 -	Winchester	-	proper	6	-	-	-	-	-
 -	Windhoek	-	proper	5	-	-	-	-	-
--	Windsor	-	proper	?6	-	-	-	-	-
+-	Windsor	-	proper	6	-	-	-	-	-
 -	Winnipeg	-	proper	5	-	-	-	-	-
 -	Wittemberg	-	proper	5	-	-	-	-	-
 -	Wolverhampton	-	proper	6	-	-	-	-	-
@@ -1600,7 +1600,7 @@ Cap	chester	-	proper	6	-	front|back	-	-	4.000
 Cap	combe	-	proper	8	-	-	-	-	4.000
 Cap	dale	-	proper	8	-	-	-	-	4.000
 Cap	dorf	-	proper	5	-	-	-	-	4.000
-Cap	eaux	-	proper	22|†5	-	-	-	-	4.000
+Cap	eaux	-	proper	22|†5	-	-	o	-	4.000
 Cap	eia	-	proper	13	-	-	-	-	4.000
 Cap	enau	-	proper	1	-	-	-	-	4.000
 Cap	enham	-	proper	5	-	-	-	-	4.000
