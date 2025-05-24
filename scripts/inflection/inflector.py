@@ -162,6 +162,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		katto = word
 		kattoo = katto + vowel
 		kato = grad_weak(word, gradtype)
+		katoi = grad_weak(word, gradtype, vowel_follows=True) + 'i'
 		#
 		all_forms['sg|gen'] = [f"{kato}n"]
 		all_forms['sg|par'] = [f"{katto}{a}"]
@@ -169,7 +170,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['pl|gen'] = [f"{katto}jen"]
 		all_forms['pl|par'] = [f"{katto}j{a}"]
 		all_forms['pl|ill'] = [f"{katto}ihin"]
-		all_forms['pl|ine'] = [f"{kato}iss{a}"]
+		all_forms['pl|ine'] = [f"{katoi}ss{a}"]
 		all_forms['sg|ess'] = [f"{katto}n{a}"]
 		all_forms['pl|ess'] = [f"{katto}in{a}"]
 
@@ -334,7 +335,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	elif kotus_class == "7":
 		kaikki = word[:-1] + 'i'
 		kaikke = word[:-1] + 'e'
-		kaiki = grad_weak(kaikki, gradtype)
+		kaiki = grad_weak(kaikki, gradtype, vowel_follows=True)
 		kaike = grad_weak(kaikke, gradtype)
 		#
 		all_forms['sg|nom'] = [word]
@@ -387,7 +388,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		tukka = word
 		tukki = tukka[:-1] + 'i'
 		tuka = grad_weak(tukka, gradtype)
-		tuki = grad_weak(tukki, gradtype)
+		tuki = grad_weak(tukki, gradtype, vowel_follows=True)
 		#
 		all_forms['sg|gen'] = [f"{tuka}n"]
 		all_forms['sg|par'] = [f"{tukka}{a}"]
@@ -400,6 +401,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['pl|ess'] = [f"{tukki}n{a}"]
 		all_forms['pl|gen|rare'] = [f"{tukka}in"]
 
+		# TODO: Count syllables
 		# # "hunajata", "veräjätä", "petäjätä", "keittäjätä", but not: *"jäteläjätä"
 		# if re.fullmatch('.+[^a]aja', word) or re.fullmatch('.*(t|el|ver|en|ps|ks)äjä', word):
 		# 	hunaja = word
@@ -1036,6 +1038,8 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 			all_forms['pl|gen'] += [f"{hepen}ien"]
 			all_forms['pl|par'] += [f"{hepen}iä"]
 			all_forms['pl|ill'] += [f"{hepen}iin"]
+			all_forms['pl|ine'] += [f"{hepen}issä"]
+			all_forms['pl|ess'] += [f"{hepen}inä"]
 
 	# "askel"
 	elif kotus_class == "49":
@@ -1754,6 +1758,7 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 		all_forms['part_pres'] = [f"{kaika}v{a}"]
 		all_forms['cond|3sg'] = [f"{kaika}isi"]
 		all_forms['cond|3pl'] = [f"{kaika}isiv{a}t"]
+		all_forms['part_past|rare'] = [f"{kaika}n{u}t"]
 		all_forms['inf1'] = [word]
 
 	# "erkanee"
@@ -2053,3 +2058,13 @@ def inflect(word, pos, kotus_class=None, gradation=None, harmony=None, vowel=Non
 		'???'
 
 	return {'': [word], '@base': [word]}
+
+"""
+from pprint import pprint
+
+for line in ---.strip().split('\n'):
+	row = ['' if val == '-' else val for val in line.split('\t')]
+	_, lemma, _, pos, inflclass, grad = row[:6]
+	pprint(inflect(lemma, pos, inflclass, grad))
+	print()
+"""

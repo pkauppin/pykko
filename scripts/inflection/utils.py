@@ -35,7 +35,7 @@ def grad_strong(s, gradtype=None):
 	return s[1:]
 
 
-def grad_weak(s, gradtype=None):
+def grad_weak(s, gradtype=None, vowel_follows=False):
 
 	if not gradtype:
 		return s
@@ -48,7 +48,10 @@ def grad_weak(s, gradtype=None):
 		return s
 
 	# "vaa'an", "rei'issä", "ruo'ot", "nau'un"
-	if strong == 'k' and weak == '' and re.fullmatch(f'(.*{V})?(aka|äkä|iki|oko|ökö|eke|uku|yky)', s):
+	if strong == 'k' and weak == '' and re.fullmatch(f'.*{V}(aka|äkä|iki|oko|ökö|eke|uku|yky)', s):
+		weak = "’"
+	# "ko'oissa", "i’issä", "hi’issä"
+	elif strong == 'k' and weak == '' and re.fullmatch(f'.*(aka|äkä|iki|oko|ökö|eke|uku|yky)', s) and vowel_follows:
 		weak = "’"
 
 	s = 'a' + s

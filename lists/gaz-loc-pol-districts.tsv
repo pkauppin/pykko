@@ -2,7 +2,7 @@
 -	Ahvenisto	-	proper	1	-	-	-	-	-
 -	Amuri	-	proper	?6	-	-	-	-	-
 -	Asakusa	-	proper	10	-	-	-	-	-
--	Aulanko	-	proper	1	-	-	-	-	-
+-	Aulanko	-	proper	1	nk:ng	-	-	-	-
 -	Aviapolis	-	proper	39	-	-	-	-	-
 -	Bromma	-	proper	10	-	-	-	-	-
 -	Bronx	-	proper	5	-	-	-	-	-
@@ -95,6 +95,8 @@
 -	Hiekka|harju	-	proper	1	-	-	-	-	-
 -	Jätkä|saari	-	proper	26	-	-	-	-	-
 -	Kaisa|niemi	-	proper	25	-	-	-	-	-
+-	Kangas|lampi	-	proper	7	mp:mm	-	-	-	-
+-	Kangas|lampi	-	proper	5	mp:mm	-	-	-	-
 -	Kannel|mäki	-	proper	7	k:	-	-	-	-
 -	Kataja|nokka	-	proper	10	kk:k	-	-	-	-
 -	Kauka|järvi	-	proper	7	-	-	-	-	-

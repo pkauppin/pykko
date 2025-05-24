@@ -172,6 +172,8 @@ niillä	se	pronoun	-	+pl+ade
 niiltä	se	pronoun	-	+pl+abl
 niiksi	se	pronoun	-	+pl+tra
 niinä	se	pronoun	-	+pl+ess
+niine	se	pronoun	-	+pl+com
+niittä	se	pronoun	-	+pl+abe+rare
 tuo	tuo	pronoun	-	+sg+nom
 tuolta	tuo	pronoun	-	+sg+abl
 tuolla	tuo	pronoun	-	+sg+ade
@@ -835,6 +837,8 @@ niillä	ne	pronoun-pl	-	+ade
 niiltä	ne	pronoun-pl	-	+abl
 niiksi	ne	pronoun-pl	-	+tra
 niinä	ne	pronoun-pl	-	+ess
+niine	ne	pronoun-pl	-	+com
+niittä	ne	pronoun-pl	-	+abe+rare
 nämä	nämä	pronoun-pl	-	+nom
 näittä	nämä	pronoun-pl	-	+abe+rare
 näiltä	nämä	pronoun-pl	-	+abl
@@ -863,3 +867,4 @@ noihin	nuo	pronoun-pl	-	+ill
 noissa	nuo	pronoun-pl	-	+ine
 noita	nuo	pronoun-pl	-	+par
 noiksi	nuo	pronoun-pl	-	+tra
+#hohki	hohkaa	verb	-	+past+3sg+rare

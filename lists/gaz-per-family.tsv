@@ -168,7 +168,8 @@
 -	Atkins	-	proper	5	-	-	-	-	-
 -	Aubert	-	proper	5	-	-	-	-	-
 -	Auer	-	proper	6	-	-	-	-	-
--	Aulanko	-	proper	1	-	-	-	-	-
+-	Auer	-	proper	49	t:	-	-	-	-
+-	Aulanko	-	proper	1	nk:ng	-	-	-	-
 -	Aunio	-	proper	3	-	-	-	-	-
 -	Aunli	-	proper	5	-	-	-	-	-
 -	Aura	-	proper	9	-	-	-	-	-
@@ -238,7 +239,7 @@
 -	Bell	-	proper	5	-	-	-	-	-
 -	Bellini	-	proper	5	-	-	-	-	-
 -	Belov	-	proper	5	-	-	-	-	-
--	Below	-	proper	22|5	-	-	-	-	-
+-	Below	-	proper	22|†5	-	-	u	-	-
 -	Bender	-	proper	6	-	-	-	-	-
 -	Benedek	-	proper	5	-	-	-	-	-
 -	Bengts	-	proper	5	-	-	-	-	-
@@ -281,7 +282,7 @@
 -	Bertini	-	proper	5	-	-	-	-	-
 -	Bertrand	-	proper	5	-	-	-	-	-
 -	Berzsenyi	-	proper	18	-	-	-	-	-
--	Beskow	-	proper	22|5	-	-	-	-	-
+-	Beskow	-	proper	5	-	-	-	-	-
 -	Besson	-	proper	6	-	-	-	-	-
 -	Bianchi	-	proper	5	-	-	-	-	-
 -	Biaudet	-	proper	22|†5	-	-	-	-	-
@@ -1085,7 +1086,7 @@
 -	Helgesen	-	proper	?6	-	-	-	-	-
 -	Helin	-	proper	5	-	-	-	-	-
 -	Hellberg	-	proper	5	-	-	-	-	-
--	Helle	-	proper	8	-	-	-	-	-
+-	Helle	-	proper	48	lt:ll	-	-	-	-
 -	Hellens	-	proper	5	-	-	-	-	-
 -	Hellman	-	proper	5	-	-	-	-	-
 -	Hellsten	-	proper	5	-	-	-	-	-
@@ -1143,6 +1144,7 @@
 -	Hintze	-	proper	8	-	-	-	-	-
 -	Hirano	-	proper	2	-	-	-	-	-
 -	Hirn	-	proper	5	-	-	-	-	-
+-	Hirvas	-	proper	41|39	-	-	-	-	-
 -	Hirvelä	-	proper	12	-	-	-	-	-
 -	Hirvi	-	proper	5	-	-	-	-	-
 -	Hirvonen	-	proper	38	-	-	-	-	-
@@ -1245,6 +1247,7 @@
 -	Hynynen	-	proper	38	-	-	-	-	-
 -	Hyppö	-	proper	1	pp:p	-	-	-	-
 -	Hyppönen	-	proper	38	-	-	-	-	-
+-	Hyrkäs	-	proper	41	kk:k	-	-	-	-
 -	Hyry	-	proper	1	-	-	-	-	-
 -	Hysén	-	proper	5	-	-	-	-	-
 -	Hytti	-	proper	5	tt:t	-	-	-	-
@@ -1265,6 +1268,7 @@
 -	Hämäläinen	-	proper	38	-	-	-	-	-
 -	Hännikäinen	-	proper	38	-	-	-	-	-
 -	Hänninen	-	proper	38	-	-	-	-	-
+-	Härkin	-	proper	33	kk:k	-	-	-	-
 -	Härkälä	-	proper	12	-	-	-	-	-
 -	Härkönen	-	proper	38	-	-	-	-	-
 -	Härmä	-	proper	10	-	-	-	-	-
@@ -1300,6 +1304,7 @@
 -	Ilmari	-	proper	?6	-	-	-	-	-
 -	Ilmoni	-	proper	?6	-	-	-	-	-
 -	Ilola	-	proper	12	-	-	-	-	-
+-	Ilta	-	proper	9	lt:ll	-	-	-	-
 -	Immonen	-	proper	38	-	-	-	-	-
 -	Impiö	-	proper	3	-	-	-	-	-
 -	Ingebretsen	-	proper	?6	-	-	-	-	-
@@ -1396,6 +1401,7 @@
 -	Joutsen	-	proper	?6	-	-	-	-	-
 -	Juhola	-	proper	12	-	-	-	-	-
 -	Julin	-	proper	5	-	-	-	-	-
+-	Julku	-	proper	1	-	-	-	-	-
 -	Julkunen	-	proper	38	-	-	-	-	-
 -	Jung	-	proper	5	-	-	-	-	-
 -	Jungner	-	proper	6	-	-	-	-	-
@@ -1450,6 +1456,7 @@
 -	Kahra	-	proper	9	-	-	-	-	-
 -	Kaikkonen	-	proper	38	-	-	-	-	-
 -	Kaila	-	proper	9	-	-	-	-	-
+-	Kailas	-	proper	41	-	-	-	-	-
 -	Kainulainen	-	proper	38	-	-	-	-	-
 -	Kainz	-	proper	5	-	-	-	-	-
 -	Kaipainen	-	proper	38	-	-	-	-	-
@@ -1604,6 +1611,7 @@
 -	Kiss	-	proper	5	-	-	-	-	-
 -	Kissinger	-	proper	6	-	-	-	-	-
 -	Kitagawa	-	proper	9	-	-	-	-	-
+-	Kiukas	-	proper	41	kk:k	-	-	-	-
 -	Kiuru	-	proper	1	-	-	-	-	-
 -	Kivekäs	-	proper	39	-	-	-	-	-
 -	Kivelä	-	proper	12	-	-	-	-	-
@@ -1657,7 +1665,7 @@
 -	Koning	-	proper	5	-	-	-	-	-
 -	Konno	-	proper	1	-	-	-	-	-
 -	Konovalov	-	proper	5	-	-	-	-	-
--	Konow	-	proper	22|5	-	-	-	-	-
+-	Konow	-	proper	5	-	-	-	-	-
 -	Konrád	-	proper	5	-	-	-	-	-
 -	Kontinen	-	proper	38	-	-	-	-	-
 -	Kontio	-	proper	3	-	-	-	-	-
@@ -1674,6 +1682,7 @@
 -	Korpela	-	proper	12	-	-	-	-	-
 -	Korpi	-	proper	7	p:v	-	-	-	-
 -	Korpinen	-	proper	38	-	-	-	-	-
+-	Korte	-	proper	48	tt:t	-	-	-	-
 -	Kortelainen	-	proper	38	-	-	-	-	-
 -	Korzeniowski	-	proper	5	-	-	-	-	-
 -	Koskela	-	proper	12	-	-	-	-	-
@@ -1796,6 +1805,7 @@
 -	Kärävä	-	proper	10	-	-	-	-	-
 -	Kätkä	-	proper	10	-	-	-	-	-
 -	Käyhkö	-	proper	?21	-	-	-	-	-
+-	Kääpä	-	proper	10	p:v	-	-	-	-
 -	Kääriäinen	-	proper	38	-	-	-	-	-
 -	Köhler	-	proper	6	-	-	-	-	-
 -	Könönen	-	proper	38	-	-	-	-	-
@@ -1841,6 +1851,7 @@
 -	Lanki	-	proper	5	-	-	-	-	-
 -	Lankinen	-	proper	38	-	-	-	-	-
 -	Lanne	-	proper	48	nt:nn	-	-	-	-
+-	Lanne	-	proper	8	-	-	-	-	-
 -	Laporte	-	proper	8	-	-	-	-	-
 -	Lappalainen	-	proper	38	-	-	-	-	-
 -	Lappi	-	proper	5	pp:p	-	-	-	-
@@ -2483,6 +2494,7 @@
 -	Ohlig	-	proper	5	-	-	-	-	-
 -	Ohlsson	-	proper	5	-	-	-	-	-
 -	Oikarinen	-	proper	38	-	-	-	-	-
+-	Oinas	-	proper	41|39	-	-	-	-	-
 -	Oinonen	-	proper	38	-	-	-	-	-
 -	Oja	-	proper	10	-	-	-	-	-
 -	Ojala	-	proper	12	-	-	-	-	-
@@ -2564,6 +2576,7 @@
 -	Parkkinen	-	proper	38	-	-	-	-	-
 -	Parkkonen	-	proper	38	-	-	-	-	-
 -	Paronen	-	proper	38	-	-	-	-	-
+-	Parras	-	proper	41	rt:rr	-	-	-	-
 -	Parry	-	proper	1	-	-	-	-	-
 -	Partanen	-	proper	38	-	-	-	-	-
 -	Partinen	-	proper	38	-	-	-	-	-
@@ -2742,6 +2755,7 @@
 -	Pyysiäinen	-	proper	38	-	-	-	-	-
 -	Pálsson	-	proper	5	-	-	-	-	-
 -	Päivinen	-	proper	38	-	-	-	-	-
+-	Pälvi	-	proper	7	-	-	-	-	-
 -	Pärssinen	-	proper	38	-	-	-	-	-
 -	Pääkkönen	-	proper	38	-	-	-	-	-
 -	Pérez	-	proper	5	-	-	-	-	-
@@ -2752,6 +2766,8 @@
 -	Pöysti	-	proper	5	-	-	-	-	-
 -	Quinn	-	proper	5	-	-	-	-	-
 -	Raabe	-	proper	8	-	-	-	-	-
+-	Raade	-	proper	48	t:d	-	-	-	-
+-	Raade	-	proper	8	-	-	-	-	-
 -	Raappana	-	proper	13	-	-	-	-	-
 -	Raatikainen	-	proper	38	-	-	-	-	-
 -	Rachůnek	-	proper	5	-	-	-	-	-
@@ -2773,6 +2789,8 @@
 -	Ramstedt	-	proper	5	-	-	-	-	-
 -	Randelin	-	proper	5	-	-	-	-	-
 -	Ranieri	-	proper	5	-	-	-	-	-
+-	Ranki	-	proper	5	-	-	-	-	-
+-	Ranne	-	proper	48	nt:nn	-	-	-	-
 -	Rannikko	-	proper	4	kk:k	-	-	-	-
 -	Ranta	-	proper	9	nt:nn	-	-	-	-
 -	Rantala	-	proper	12	-	-	-	-	-
@@ -2911,6 +2929,7 @@
 -	Runeberg	-	proper	5	-	-	-	-	-
 -	Rung	-	proper	5	-	-	-	-	-
 -	Runggaldier	-	proper	5	-	-	-	-	-
+-	Runne	-	proper	8	-	-	-	-	-
 -	Ruohola	-	proper	12	-	-	-	-	-
 -	Ruohonen	-	proper	38	-	-	-	-	-
 -	Ruokonen	-	proper	38	-	-	-	-	-
@@ -3002,6 +3021,7 @@
 -	Santana	-	proper	13	-	-	-	-	-
 -	Santos	-	proper	39	-	-	-	-	-
 -	Sanz	-	proper	5	-	-	-	-	-
+-	Sarajas	-	proper	39	-	-	-	-	-
 -	Saramo	-	proper	2	-	-	-	-	-
 -	Saraste	-	proper	8	-	-	-	-	-
 -	Sariola	-	proper	9	-	-	-	-	-
@@ -3069,7 +3089,7 @@
 -	Shakespeare	-	proper	8	-	-	-	-	-
 -	Sharif	-	proper	5	-	-	-	-	-
 -	Sharp	-	proper	5	-	-	-	-	-
--	Shaw	-	proper	22|†5	-	-	-	-	-
+-	Shaw	-	proper	22|†5	-	-	o	-	-
 -	Sheeran	-	proper	6	-	-	-	-	-
 -	Sheridan	-	proper	?6	-	-	-	-	-
 -	Sherwood	-	proper	5	-	-	-	-	-

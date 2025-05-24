@@ -991,9 +991,9 @@ Vä	kätä	-	verb	73	kk:k	-	-	-	4.500
 .+	ey	-	noun	21	-	front|back	-	-	5.000
 .+	oy	-	noun	21	-	back	-	-	5.000
 
-.+	aw	-	noun	22|5	-	back	-	-	5.000
-.+	ew	-	noun	22|5	-	front|back	-	-	5.000
-.+	ow	-	noun	22|5	-	back	-	-	5.000
+.+	aw	-	noun	22|5	-	back	-	o|u	5.000
+.+	ew	-	noun	22|5	-	front|back	-	u	5.000
+.+	ow	-	noun	22|5	-	back	-	u	5.000
 
 .+	aa	-	noun	20	-	-	-	-	6.000
 .+	ee	-	noun	20	-	front|back	-	-	6.000

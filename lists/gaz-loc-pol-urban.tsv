@@ -258,7 +258,7 @@
 -	Geta	-	proper	9	-	-	-	-	-
 -	Gitega	-	proper	9	-	-	-	-	-
 -	Giza	-	proper	9	-	-	-	-	-
--	Glasgow	-	proper	5	-	-	-	-	-
+-	Glasgow	-	proper	22|†5	-	-	u	-	-
 -	Godthåb	-	proper	5	-	-	-	-	-
 -	Golan	-	proper	6	-	-	-	-	-
 -	Gorki	-	proper	5	-	-	-	-	-
@@ -390,7 +390,6 @@
 -	Jääski	-	proper	7	-	-	-	-	-
 -	Jönkoping	-	proper	5	-	-	-	-	-
 -	Kaamanen	-	proper	38	-	-	-	-	-
--	Kaaresuvanto	-	proper	1	-	-	-	-	-
 -	Kaarina	-	proper	13	-	-	-	-	-
 -	Kaarlela	-	proper	13	-	-	-	-	-
 -	Kaavi	-	proper	5	-	-	-	-	-
@@ -738,7 +737,7 @@
 -	Nassau	-	proper	21	-	-	-	-	-
 -	Nastola	-	proper	12	-	-	-	-	-
 -	Nauvo	-	proper	1	-	-	-	-	-
--	Naypyidaw	-	proper	5	-	-	-	-	-
+-	Naypyidaw	-	proper	22|†5	-	-	o	-	-
 -	Nellim	-	proper	5	-	-	-	-	-
 -	Nettaa	-	proper	18	-	-	-	-	-
 -	Neuchâtel	-	proper	5	-	-	-	-	-
@@ -911,7 +910,7 @@
 -	Quito	-	proper	1	-	-	-	-	-
 -	Raahe	-	proper	8	-	-	-	-	-
 -	Raasepori	-	proper	6	-	-	-	-	-
--	Raate	-	proper	8	-	-	-	-	-
+-	Raate	-	proper	48	tt:t	-	-	-	-
 -	Raati	-	proper	5	-	-	-	-	-
 -	Raattama	-	proper	10	-	-	-	-	-
 -	Rabat	-	proper	5	-	-	-	-	-
@@ -955,6 +954,7 @@
 -	Rochefort	-	proper	5	-	-	-	-	-
 -	Rochester	-	proper	5	-	-	-	-	-
 -	Ronneby	-	proper	21|†1	-	-	-	-	-
+-	Rontu	-	proper	1	nt:nn	-	-	-	-
 -	Rooma	-	proper	10	-	-	-	-	-
 -	Roseau	-	proper	21	-	-	-	-	-
 -	Rosenheim	-	proper	5	-	-	-	-	-
@@ -1245,7 +1245,7 @@
 -	Winnipeg	-	proper	5	-	-	-	-	-
 -	Wittemberg	-	proper	5	-	-	-	-	-
 -	Wolverhampton	-	proper	6	-	-	-	-	-
--	Wroclaw	-	proper	5	-	-	-	-	-
+-	Wroclaw	-	proper	5	-	-	-	nstd	-
 -	Wrocław	-	proper	5	-	-	-	-	-
 -	Wuhan	-	proper	6	-	-	-	-	-
 -	Wuppertal	-	proper	6	-	-	-	-	-
@@ -1287,6 +1287,7 @@
 -	Alma-Ata	-	proper	9	-	-	-	-	-
 -	Baden-Baden	-	proper	6	-	-	-	-	-
 -	Cluj-Napoca	-	proper	10|12	-	-	-	-	-
+-	Iso-Äiniö	-	proper	3	-	-	-	-	-
 -	Iso-Äiniö	-	proper	3	-	-	-	-	-
 -	Joškar-Ola	-	proper	10	-	-	-	-	-
 -	Mohenjo-Daro	-	proper	1	-	-	-	-	-
@@ -1349,6 +1350,7 @@
 -	Jämi|järvi	-	proper	7	-	-	-	-	-
 -	Jämsän|koski	-	proper	7	-	-	-	-	-
 -	Järven|pää	-	proper	18	-	-	-	-	-
+-	Kaare|suvanto	-	proper	1	nt:nn	-	-	-	-
 -	Kaks|kerta	-	proper	9	rt:rr	-	-	-	-
 -	Kala|joki	-	proper	7	k:	-	-	-	-
 -	Kangas|lampi	-	proper	5	mp:mm	-	-	-	-
@@ -1578,6 +1580,8 @@
 -	Perä|seinä|joki	-	proper	7	k:	-	-	-	-
 -	Iso%joki	-	proper	7	k:	-	-	-	-
 -	Iso%kyrö	-	proper	1	-	-	-	-	-
+-	Iso%saari	-	proper	26	-	-	-	-	-
+-	Pitkä%ranta	-	proper	9	nt:nn	-	-	-	-
 -	Pyhä%ranta	-	proper	9	nt:nn	-	-	-	-
 -	Uusi%kaarlepyy	-	proper	18	-	front	-	-	-
 -	Uusi%kaupunki	-	proper	5	nk:ng	-	-	-	-

@@ -164,7 +164,7 @@
 -	Andrej	-	proper	22|†5	-	-	-	-	-
 -	Andreja	-	proper	9	-	-	-	-	-
 -	Andres	-	proper	5	-	-	-	-	-
--	Andrew	-	proper	22|5	-	-	-	-	-
+-	Andrew	-	proper	22|5	-	-	u	-	-
 -	Andri	-	proper	5	-	-	-	-	-
 -	Andrii	-	proper	18	-	-	-	-	-
 -	Andrija	-	proper	9	-	-	-	-	-
@@ -308,7 +308,7 @@
 -	Barry	-	proper	1	-	-	-	-	-
 -	Bart	-	proper	5	-	-	-	-	-
 -	Bartolomeo	-	proper	3	-	-	-	-	-
--	Bartolomé	-	proper	?21	-	-	-	-	-
+-	Bartolomé	-	proper	21|8	-	-	-	-	-
 -	Bartosz	-	proper	5	-	-	-	-	-
 -	Bas	-	proper	5	-	-	-	-	-
 -	Basil	-	proper	5	-	-	-	-	-
@@ -1190,7 +1190,7 @@
 -	Jaime	-	proper	8	-	-	-	-	-
 -	Jaka	-	proper	9	-	-	-	-	-
 -	Jake	-	proper	8	-	-	-	-	-
--	Jakke	-	proper	8	?kk:k	-	-	-	-
+-	Jakke	-	proper	8	kk:k	-	-	-	-
 -	Jakob	-	proper	5	-	-	-	-	-
 -	Jakov	-	proper	5	-	-	-	-	-
 -	Jakub	-	proper	5	-	-	-	-	-
@@ -1507,7 +1507,8 @@
 -	Kjell	-	proper	5	-	-	-	-	-
 -	Kjetil	-	proper	5	-	-	-	-	-
 -	Klas	-	proper	5	-	-	-	-	-
--	Klaus	-	proper	5	-	-	-	-	-
+-	Klaus	-	proper	5|(39)	-	-	-	-	-
+-	Klaus	-	proper	5|(1S)	-	-	-	-	-
 -	Klemen	-	proper	?6	-	-	-	-	-
 -	Knud	-	proper	5	-	-	-	-	-
 -	Knut	-	proper	5	-	-	-	-	-
@@ -1838,7 +1839,7 @@
 -	Mats	-	proper	5	-	-	-	-	-
 -	Matt	-	proper	5	-	-	-	-	-
 -	Matteo	-	proper	3	-	-	-	-	-
--	Matthew	-	proper	22|†5	-	-	-	-	-
+-	Matthew	-	proper	22|†5	-	-	u	-	-
 -	Matthias	-	proper	39|5	-	-	-	-	-
 -	Matthieu	-	proper	21	-	-	-	-	-
 -	Matthijs	-	proper	5	-	-	-	-	-
@@ -2437,14 +2438,14 @@
 -	Saila	-	proper	9	-	-	-	-	-
 -	Saima	-	proper	9	-	-	-	-	-
 -	Sakari	-	proper	6	-	-	-	-	-
--	Sakke	-	proper	8	?kk:k	-	-	-	-
+-	Sakke	-	proper	8	kk:k	-	-	-	-
 -	Saku	-	proper	1	-	-	-	-	-
 -	Salla	-	proper	9	-	-	-	-	-
 -	Sally	-	proper	1	-	-	-	-	-
 -	Salman	-	proper	6	-	-	-	-	-
 -	Salme	-	proper	8	-	-	-	-	-
 -	Salomon	-	proper	5	-	-	-	-	-
--	Salvador	-	proper	?6	-	-	-	-	-
+-	Salvador	-	proper	5	-	-	-	-	-
 -	Salvatore	-	proper	8	-	-	-	-	-
 -	Sam	-	proper	5	-	-	-	-	-
 -	Samantha	-	proper	9	-	-	-	-	-
@@ -2482,7 +2483,7 @@
 -	Satomi	-	proper	5	-	-	-	-	-
 -	Satoru	-	proper	1	-	-	-	-	-
 -	Satoshi	-	proper	5	-	-	-	-	-
--	Satu	-	proper	1	-	-	-	-	-
+-	Satu	-	proper	1	t:d|=	-	-	-	-
 -	Saul	-	proper	5	-	-	-	-	-
 -	Sauli	-	proper	5	-	-	-	-	-
 -	Saverio	-	proper	3	-	-	-	-	-

@@ -1150,5 +1150,24 @@
   ],
   "parhaantuoksuisen": [
     ["hyvän|tuoksuinen", "adjective", "+superlative+sg+gen"]
+  ],
+  "ko’oissa": [
+    ["koko", "noun", "+pl+ine"]
+  ],
+  "hi’issä": [
+    ["hiki", "noun", "+pl+ine"]
+  ],
+  "i’issä": [
+    ["ikä", "noun", "+pl+ine"]
+  ],
+  "rei’issä": [
+    ["reikä", "noun", "+pl+ine"]
+  ],
+  "ruo’oissa": [
+    ["ruoko", "noun", "+pl+ine"]
+  ],
+  "liu’un": [
+    ["liukua", "verb", "+pres+1sg"],
+    ["liuku", "noun", "+sg+gen"]
   ]
 }
