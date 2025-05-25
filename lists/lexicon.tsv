@@ -4093,6 +4093,7 @@
 -	myeloinen	-	adjective	38	-	-	-	-	-
 -	myelooinen	-	adjective	38	-	-	-	-	-
 -	mykeneläinen	-	adjective	38	-	-	-	-	-
+-	mykeneläinen	-	adjective	38	-	-	-	-	-
 -	mykkä	-	adjective	10	kk:k	front	ä	-	-
 -	myokloninen	-	adjective	38	-	-	-	-	-
 -	myrkyllinen	-	adjective	38	-	front	e	-	-
@@ -5495,6 +5496,7 @@
 -	reikäinen	-	adjective	38	-	front	e	-	-
 -	reilu	-	adjective	1	-	back	u	-	-
 -	reima	-	adjective	9	-	back	a	rare	-
+-	reima	-	adjective	9	-	-	-	dated	-
 -	reipas	-	adjective	41	pp:p	back	a	-	-
 -	reiäkäs	-	adjective	41	kk:k	front	ä	-	-
 -	reiällinen	-	adjective	38	-	front	e	-	-
@@ -9897,6 +9899,7 @@
 -	kylmä|päinen	-	adjective	38	-	-	-	-	-
 -	kylmä|savustettu	-	adjective	1	tt:t	-	-	-	-
 -	kylmä|sydäminen	-	adjective	38	-	-	-	-	-
+-	kylmä|verinen	-	adjective	38	-	-	-	-	-
 -	kylmä|verinen	-	adjective	38	-	-	-	-	-
 -	kylmä|vetinen	-	adjective	38	-	-	-	stacked	-
 -	kylpy|valmis	-	adjective	41	-	-	-	-	-
@@ -21773,7 +21776,9 @@
 -	abatsi	-	noun	5	-	back	i	-	-
 -	abbasidi	-	noun	5	-	-	-	-	-
 -	abbedissa	-	noun	9	-	back	a	-	-
+-	abdikaatio	-	noun	3	-	-	-	-	-
 -	abduktio	-	noun	3	-	-	-	-	-
+-	aberraatio	-	noun	3	-	-	-	-	-
 -	abessiivi	-	noun	5	-	back	i	-	-
 -	abhaasi	-	noun	5	-	back	i	-	-
 -	abhasialainen	-	noun	38	-	-	-	-	-
@@ -21804,6 +21809,7 @@
 -	abskissio	-	noun	3	-	-	-	-	-
 -	absolutismi	-	noun	5	-	back	i	-	-
 -	absolutisti	-	noun	5	-	back	i	-	-
+-	absoluutio	-	noun	3	-	-	-	-	-
 -	absoluutti	-	noun	5	tt:t	back	i	-	-
 -	absoluuttisuus	-	noun	40	-	back	u	-	-
 -	absorbointi	-	noun	5	nt:nn	back	i	-	-
@@ -21814,11 +21820,14 @@
 -	abstraktio	-	noun	3	-	back	o	-	-
 -	abstraktisuus	-	noun	40	-	back	u	-	-
 -	abstraktius	-	noun	40	-	back	u	-	-
+-	absurdismi	-	noun	5	-	-	-	-	-
 -	absurdisti	-	noun	5	-	back	i	-	-
 -	absurdius	-	noun	40	-	back	u	-	-
 -	abujalainen	-	noun	38	-	-	-	-	-
 -	accralainen	-	noun	38	-	-	-	-	-
 -	adagio	-	noun	1	-	back	o	-	-
+-	adaktylia	-	noun	12	-	-	-	-	-
+-	adalimumabi	-	noun	5	-	-	-	-	-
 -	adangme	-	noun	8	-	-	-	-	-
 -	adaptaatio	-	noun	3	-	back	o	-	-
 -	adapteri	-	noun	6	-	back	i	-	-
@@ -21834,10 +21843,13 @@
 -	adenomyoosi	-	noun	5	-	-	-	-	-
 -	adenooma	-	noun	10	-	back	a	-	-
 -	adenopatia	-	noun	12	-	-	-	-	-
+-	adenosiini	-	noun	5	-	-	-	-	-
 -	adenotomia	-	noun	12	-	-	-	-	-
 -	adessiivi	-	noun	5	-	back	i	-	-
 -	adheesio	-	noun	3	-	back	o	-	-
+-	adherenssi	-	noun	5	-	-	-	-	-
 -	adhesiini	-	noun	5	-	-	-	-	-
+-	adiposyytti	-	noun	5	tt:t	-	-	-	-
 -	adjektiivi	-	noun	5	-	back	i	-	-
 -	adjektiivisuus	-	noun	40	-	back	u	-	-
 -	adjutantti	-	noun	5	tt:t	back	i	-	-
@@ -21866,15 +21878,18 @@
 -	aerobikkaaja	-	noun	10	-	back	a	-	-
 -	aerobikkaus	-	noun	39	-	back	u	-	-
 -	aerobikki	-	noun	5	kk:k	back	i	-	-
+-	aerologia	-	noun	12	-	-	-	-	-
 -	aerosoli	-	noun	5	-	back	i	-	-
 -	afaatikko	-	noun	4	kk:k	back	o	-	-
 -	afar	-	noun	6	-	-	-	-	-
 -	afasia	-	noun	12	-	back	a	-	-
+-	afatinibi	-	noun	5	-	-	-	-	-
 -	affekti	-	noun	5	-	back	i	-	-
 -	affektiivisuus	-	noun	40	-	back	u	-	-
 -	affektisuus	-	noun	40	-	back	u	-	-
 -	affiksi	-	noun	5	-	-	-	-	-
 -	affisio	-	noun	3	-	back	o	-	-
+-	affrikaatta	-	noun	9	tt:t	-	-	-	-
 -	afgaani	-	noun	5	-	back	i	-	-
 -	afganistanilainen	-	noun	38	-	back	e	-	-
 -	aflatoksiini	-	noun	5	-	-	-	-	-
@@ -21978,12 +21993,14 @@
 -	aikalainen	-	noun	38	-	back	e	-	-
 -	aikautus	-	noun	39	-	back	u	-	-
 -	aikido	-	noun	2	-	back	o	-	-
+-	aikmofobia	-	noun	12	-	-	-	-	-
 -	aikomus	-	noun	39	-	back	u	-	-
 -	aikuinen	-	noun	38	-	-	-	-	-
 -	aikuisuus	-	noun	40	-	back	u	-	-
 -	ailahdus	-	noun	39	-	back	u	-	-
 -	ailahtelu	-	noun	2	-	back	u	-	-
 -	ailakki	-	noun	5	kk:k	back	i	-	-
+-	ailurofobia	-	noun	12	-	-	-	-	-
 -	aimara	-	noun	12	-	-	-	-	-
 -	aina	-	noun	9	-	back	a	-	-
 -	aine	-	noun	48	-	back	e	-	-
@@ -22048,6 +22065,7 @@
 -	akaalainen	-	noun	38	-	-	-	-	-
 -	akaasia	-	noun	12	-	-	-	-	-
 -	akaatti	-	noun	5	tt:t	back	i	-	-
+-	akalasia	-	noun	12	-	-	-	-	-
 -	akan	-	noun	6	-	-	-	-	-
 -	akana	-	noun	12	-	back	a	-	-
 -	akantti	-	noun	5	tt:t	back	i	-	-
@@ -22056,6 +22074,7 @@
 -	akateemikko	-	noun	4	kk:k	back	o	-	-
 -	akateemisuus	-	noun	40	-	back	u	-	-
 -	akatemia	-	noun	12	-	back	a	-	-
+-	akatisia	-	noun	12	-	-	-	-	-
 -	akeilia	-	noun	12	-	-	-	-	-
 -	akileija	-	noun	9	-	back	a	-	-
 -	akiria	-	noun	12	-	-	-	-	-
@@ -22094,7 +22113,7 @@
 -	aksiomi	-	noun	5	-	back	i	-	-
 -	aksiooma	-	noun	10	-	back	a	-	-
 -	aksolotli	-	noun	5	-	-	-	-	-
--	aksoni	-	noun	?6	-	-	-	-	-
+-	aksoni	-	noun	6	-	-	-	-	-
 -	akti	-	noun	5	-	back	i	-	-
 -	aktiini	-	noun	6	-	-	-	-	-
 -	aktiivi	-	noun	5	-	back	i	-	-
@@ -22103,6 +22122,7 @@
 -	aktinomykeetti	-	noun	5	tt:t	-	-	-	-
 -	aktinomyseetti	-	noun	5	tt:t	-	-	-	-
 -	aktio	-	noun	3	-	back	o	-	-
+-	aktivaattori	-	noun	6	-	-	-	-	-
 -	aktivismi	-	noun	5	-	back	i	-	-
 -	aktivisti	-	noun	5	-	back	i	-	-
 -	aktiviteetti	-	noun	5	tt:t	back	i	-	-
@@ -22110,6 +22130,7 @@
 -	aktori	-	noun	6	-	back	i	-	-
 -	aktuaalisuus	-	noun	40	-	back	u	-	-
 -	aktuaari	-	noun	5	-	back	i	-	-
+-	aktualismi	-	noun	5	-	-	-	-	-
 -	aktualisointi	-	noun	5	nt:nn	back	i	-	-
 -	akustiikka	-	noun	9	kk:k	back	a	-	-
 -	akustikko	-	noun	4	kk:k	-	-	-	-
@@ -22167,10 +22188,13 @@
 -	alfalfa	-	noun	9	-	back	a	-	-
 -	alfareduktaasi	-	noun	5	-	-	-	-	-
 -	alfatalassemia	-	noun	12	-	-	-	-	-
+-	alfentaniili	-	noun	5	-	-	-	-	-
 -	alfutsosiini	-	noun	5	-	-	-	-	-
 -	algebra	-	noun	11	-	back	a	-	-
 -	algerialainen	-	noun	38	-	-	-	-	-
 -	algerilainen	-	noun	38	-	-	-	-	-
+-	algofobia	-	noun	12	-	-	-	-	-
+-	algomenorrea	-	noun	12	-	-	-	-	-
 -	algoritmi	-	noun	5	-	back	i	-	-
 -	alhaiso	-	noun	2	-	back	o	-	-
 -	alhaisuus	-	noun	40	-	back	u	-	-
@@ -22178,6 +22202,7 @@
 -	alias	-	noun	39	-	back	-	-	-
 -	alibi	-	noun	5	-	back	i	-	-
 -	alien	-	noun	6	-	-	-	foreign	-
+-	alienaatio	-	noun	3	-	-	-	-	-
 -	aliitti	-	noun	5	tt:t	-	-	-	-
 -	alik	-	noun	!	-	-	-	abbr	-
 -	alikki	-	noun	5	kk:k	-	-	slang	-
@@ -22191,6 +22216,7 @@
 -	alkali	-	noun	6	-	back	i	-	-
 -	alkalisuus	-	noun	40	-	back	u	-	-
 -	alkaloidi	-	noun	5	-	back	i	-	-
+-	alkaloosi	-	noun	5	-	-	-	-	-
 -	alkeellisuus	-	noun	40	-	back	u	-	-
 -	alkemia	-	noun	12	-	back	a	-	-
 -	alkemisti	-	noun	5	-	back	i	-	-
@@ -22232,6 +22258,7 @@
 -	allografti	-	noun	5	-	-	-	-	-
 -	allokaatio	-	noun	3	-	back	o	-	-
 -	allokointi	-	noun	5	nt:nn	back	i	-	-
+-	allomorfi	-	noun	5	-	-	-	-	-
 -	allopurinoli	-	noun	5	-	-	-	-	-
 -	almanakka	-	noun	9	kk:k	back	a	-	-
 -	almu	-	noun	1	-	back	u	poet	-
@@ -22257,6 +22284,8 @@
 -	altiste	-	noun	48	-	back	e	-	-
 -	altisti	-	noun	5	-	back	i	-	-
 -	altistus	-	noun	39	-	back	u	-	-
+-	altocumulus	-	noun	39	-	-	-	-	-
+-	altostratus	-	noun	39	-	-	-	-	-
 -	altruismi	-	noun	5	-	back	i	-	-
 -	altruisti	-	noun	5	-	back	i	-	-
 -	alttari	-	noun	6	-	back	i	-	-
@@ -22331,6 +22360,7 @@
 -	ammennus	-	noun	39	-	back	u	-	-
 -	ammis	-	noun	39	-	back	i	coll	-
 -	ammoniakki	-	noun	5	kk:k	back	i	-	-
+-	ammonium	-	noun	5	-	-	-	-	-
 -	ammu	-	noun	1	-	back	u	child	-
 -	ammunta	-	noun	9	nt:nn	back	a	-	-
 -	ammus	-	noun	39	-	back	u	-	-
@@ -22340,6 +22370,7 @@
 -	amnestia	-	noun	12	-	back	a	-	-
 -	amok	-	noun	5	-	back	o	-	-
 -	amoksisilliini	-	noun	5	-	-	-	-	-
+-	amoralismi	-	noun	5	-	-	-	-	-
 -	amorfisuus	-	noun	40	-	back	u	-	-
 -	amoriini	-	noun	5	-	back	i	-	-
 -	ampeeri	-	noun	6	-	back	i	-	-
@@ -22362,6 +22393,7 @@
 -	anaali	-	noun	6	-	-	-	-	-
 -	anaboli	-	noun	5	-	back	i	coll	-
 -	anabolia	-	noun	12	-	-	-	-	-
+-	anaerobi	-	noun	5	-	-	-	-	-
 -	anafora	-	noun	10	-	-	-	-	-
 -	anafylaksi	-	noun	5	-	back	i	-	-
 -	anafylaksia	-	noun	12	-	back	a	-	-
@@ -22416,6 +22448,7 @@
 -	aneemisuus	-	noun	40	-	back	u	-	-
 -	anekdootti	-	noun	5	tt:t	back	i	-	-
 -	anemia	-	noun	12	-	back	a	-	-
+-	anemometri	-	noun	5	-	-	-	-	-
 -	anenkefalia	-	noun	12	-	back	a	-	-
 -	anesteetti	-	noun	5	tt:t	back	i	-	-
 -	anestesia	-	noun	12	-	back	a	-	-
@@ -22432,10 +22465,12 @@
 -	angiografia	-	noun	12	-	back	a	-	-
 -	angioplastia	-	noun	12	-	-	-	-	-
 -	angiotensiini	-	noun	5	-	-	-	-	-
+-	angioödeema	-	noun	9	-	-	-	-	-
 -	anglikaani	-	noun	5	-	-	-	-	-
 -	anglismi	-	noun	5	-	back	i	-	-
 -	anglisti	-	noun	5	-	back	i	-	-
 -	anglistiikka	-	noun	9	kk:k	back	a	-	-
+-	anglofiili	-	noun	5	-	-	-	-	-
 -	angolalainen	-	noun	38	-	-	-	-	-
 -	angora	-	noun	12	-	back	a	-	-
 -	angostuura	-	noun	10	-	-	-	-	-
@@ -22560,6 +22595,9 @@
 -	antoisuus	-	noun	40	-	back	u	-	-
 -	antologia	-	noun	12	-	back	a	-	-
 -	antoniitta	-	noun	9	tt:t	-	-	-	-
+-	antonovka	-	noun	10	-	-	-	-	-
+-	antonymia	-	noun	12	-	-	-	-	-
+-	antonyymi	-	noun	5	-	-	-	-	-
 -	antrasiitti	-	noun	5	tt:t	back	i	-	-
 -	antropologi	-	noun	5	-	back	i	-	-
 -	antropologia	-	noun	12	-	back	a	-	-
@@ -22603,6 +22641,7 @@
 -	apogeumi	-	noun	5	-	-	-	-	-
 -	apokalypsi	-	noun	5	-	front|back	i	-	-
 -	apokalyptiikka	-	noun	9	kk:k	-	-	-	-
+-	apokopee	-	noun	21	-	-	-	-	-
 -	apokryfi	-	noun	5	-	front|back	i	-	-
 -	apokryfisuus	-	noun	40	-	back	u	-	-
 -	apokryfisyys	-	noun	40	-	front	y	-	-
@@ -22756,6 +22795,7 @@
 -	arteria	-	noun	12	-	back	a	-	-
 -	arterioli	-	noun	5	-	-	-	-	-
 -	artesaani	-	noun	5	-	back	i	-	-
+-	artikaiini	-	noun	5	-	-	-	-	-
 -	artikkeli	-	noun	6	-	back	i	-	-
 -	artikla	-	noun	13	-	back	a	-	-
 -	artikulaatio	-	noun	3	-	back	o	-	-
@@ -22764,6 +22804,7 @@
 -	artisti	-	noun	5	-	back	i	-	-
 -	artistisuus	-	noun	40	-	back	u	-	-
 -	artoteekki	-	noun	5	kk:k	back	i	-	-
+-	artralgia	-	noun	12	-	-	-	-	-
 -	artriitti	-	noun	5	tt:t	back	i	-	-
 -	artroosi	-	noun	5	-	back	i	-	-
 -	artroskopia	-	noun	12	-	-	-	-	-
@@ -22810,6 +22851,7 @@
 -	aseptiikka	-	noun	9	kk:k	back	a	-	-
 -	aseptisuus	-	noun	40	-	back	u	-	-
 -	asessori	-	noun	6	-	back	i	-	-
+-	asesulfaami	-	noun	5	-	-	-	-	-
 -	asetaatti	-	noun	5	tt:t	back	i	-	-
 -	asetaldehydi	-	noun	5	-	front|back	i	-	-
 -	asetanta	-	noun	9	nt:nn	back	a	-	-
@@ -22861,6 +22903,7 @@
 -	asosiaalisuus	-	noun	40	-	-	-	-	-
 -	aspa	-	noun	9	-	-	-	-	-
 -	aspartaami	-	noun	5	-	back	i	-	-
+-	aspartaatti	-	noun	5	tt:t	-	-	-	-
 -	aspekti	-	noun	5	-	back	i	-	-
 -	aspergillooma	-	noun	10	-	-	-	-	-
 -	aspergilloosi	-	noun	5	-	-	-	-	-
@@ -22893,8 +22936,10 @@
 -	asteittaisuus	-	noun	40	-	back	u	-	-
 -	astelu	-	noun	2	-	back	u	-	-
 -	astenia	-	noun	12	-	back	a	-	-
+-	astenosfääri	-	noun	5	-	-	-	-	-
 -	asteri	-	noun	6	-	back	i	-	-
 -	asteriski	-	noun	5	-	back	i	-	-
+-	asterismi	-	noun	5	-	-	-	-	-
 -	asteroidi	-	noun	5	-	back	i	-	-
 -	astia	-	noun	12	-	back	a	-	-
 -	astiallinen	-	noun	38	-	back	e	-	-
@@ -22903,6 +22948,7 @@
 -	astin	-	noun	33	-	back	i	-	-
 -	astma	-	noun	9	-	back	a	-	-
 -	astmaatikko	-	noun	4	kk:k	back	o	-	-
+-	astrafobia	-	noun	12	-	-	-	-	-
 -	astrakaani	-	noun	5	-	back	i	-	-
 -	astrofysiikka	-	noun	14	kk:k	back	a	-	-
 -	astrofyysikko	-	noun	4	kk:k	back	o	-	-
@@ -22940,6 +22986,7 @@
 -	asvaltti	-	noun	5	tt:t	back	i	-	-
 -	asymmetria	-	noun	12	-	-	-	-	-
 -	asymmetrisyys	-	noun	40	-	-	-	-	-
+-	asystole	-	noun	8	-	-	-	-	-
 -	asystolia	-	noun	12	-	-	-	-	-
 -	ataksia	-	noun	12	-	-	-	-	-
 -	atamaani	-	noun	5	-	back	i	-	-
@@ -22957,6 +23004,7 @@
 -	ateromatoosi	-	noun	5	-	-	-	-	-
 -	aterooma	-	noun	10	-	-	-	-	-
 -	atetoosi	-	noun	5	-	-	-	-	-
+-	athabasca	-	noun	9	-	-	-	-	-
 -	atikamekw	-	noun	5	-	-	-	-	-
 -	atk	-	noun	18B	-	back	o	abbr	-
 -	atlantalainen	-	noun	38	-	-	-	-	-
@@ -22969,6 +23017,7 @@
 -	atomi	-	noun	6	-	back	i	-	-
 -	atominen	-	noun	38	-	-	-	-	-
 -	atomismi	-	noun	5	-	back	i	-	-
+-	atomisti	-	noun	5	-	-	-	-	-
 -	atomistisuus	-	noun	40	-	back	u	-	-
 -	atonaalisuus	-	noun	40	-	-	-	-	-
 -	atoopikko	-	noun	4	kk:k	back	o	-	-
@@ -22999,6 +23048,7 @@
 -	audienssi	-	noun	5	-	back	i	-	-
 -	audio	-	noun	3	-	-	-	-	-
 -	audiofiili	-	noun	5	-	back	i	-	-
+-	audiologia	-	noun	12	-	-	-	-	-
 -	audiometria	-	noun	12	-	-	-	-	-
 -	audionomi	-	noun	5	-	back	i	-	-
 -	auditoija	-	noun	10	-	back	a	-	-
@@ -23016,6 +23066,7 @@
 -	aukio	-	noun	3	-	back	o	-	-
 -	aukko	-	noun	1	kk:k	back	o	-	-
 -	aukotus	-	noun	39	-	back	u	-	-
+-	auksiini	-	noun	5	-	-	-	-	-
 -	auktorisointi	-	noun	5	nt:nn	back	i	-	-
 -	auktoritatiivisuus	-	noun	40	-	back	u	-	-
 -	auktoriteetti	-	noun	5	tt:t	back	i	-	-
@@ -23052,13 +23103,16 @@
 -	autoilu	-	noun	2	-	back	u	-	-
 -	autoistuminen	-	noun	38	-	-	-	-	-
 -	autokefalia	-	noun	12	-	-	-	-	-
+-	autokratia	-	noun	12	-	-	-	-	-
 -	autolyysi	-	noun	5	-	-	-	-	-
 -	automaatio	-	noun	3	-	back	o	-	-
 -	automaatti	-	noun	5	tt:t	back	i	-	-
 -	automaattisuus	-	noun	40	-	back	u	-	-
 -	automatiikka	-	noun	9	kk:k	back	a	-	-
+-	automatismi	-	noun	5	-	-	-	-	-
 -	automatisointi	-	noun	5	nt:nn	back	i	-	-
 -	autonomia	-	noun	12	-	back	a	-	-
+-	autopsia	-	noun	12	-	-	-	-	-
 -	autoritaarisuus	-	noun	40	-	back	u	-	-
 -	autoritäärisyys	-	noun	40	-	front	y	-	-
 -	autosomi	-	noun	5	-	back	i	-	-
@@ -23115,6 +23169,7 @@
 -	avustus	-	noun	39	-	back	u	-	-
 -	avuttomuus	-	noun	40	-	back	u	-	-
 -	awadhi	-	noun	5	-	-	-	-	-
+-	ayurveda	-	noun	9	-	-	-	-	-
 -	azerbaidžani	-	noun	6	-	back	i	dated	-
 -	azerbaidžanilainen	-	noun	38	-	back	e	-	-
 -	azeri	-	noun	6	-	back	i	-	-
@@ -23160,6 +23215,7 @@
 -	baijeri	-	noun	6	-	-	-	-	-
 -	baijerilainen	-	noun	38	-	-	-	-	-
 -	bailaus	-	noun	39	-	back	u	coll	-
+-	bajamaja	-	noun	9	-	-	-	TM	-
 -	bakeliitti	-	noun	5	tt:t	-	-	-	-
 -	bakkanaali	-	noun	5	-	back	i	-	-
 -	baklava	-	noun	10	-	-	-	-	-
@@ -23171,10 +23227,13 @@
 -	bakteriuria	-	noun	12	-	-	-	-	-
 -	bakulainen	-	noun	38	-	-	-	-	-
 -	balalaikka	-	noun	9	kk:k	back	a	-	-
+-	balaniitti	-	noun	5	tt:t	-	-	-	-
 -	balansointi	-	noun	5	nt:nn	back	i	-	-
 -	balanssi	-	noun	5	-	back	i	-	-
+-	baldakiini	-	noun	5	-	-	-	-	-
 -	baletti	-	noun	5	tt:t	back	i	-	-
 -	bali	-	noun	5	-	-	-	-	-
+-	balineesi	-	noun	5	-	-	-	-	-
 -	balladi	-	noun	5	-	back	i	-	-
 -	ballerina	-	noun	9	-	back	a	-	-
 -	ballistiikka	-	noun	9	kk:k	back	a	-	-
@@ -23279,6 +23338,7 @@
 -	beatboxaus	-	noun	39	-	-	-	-	-
 -	beatboxing	-	noun	5	-	-	-	-	-
 -	beatnik	-	noun	5	-	-	-	-	-
+-	beaufort	-	noun	5	-	-	-	-	-
 -	beaujolais	-	noun	22|†5	-	-	e	-	-
 -	beauty box	-	noun	5	-	-	-	-	-
 -	bebee	-	noun	20	-	front	e	-	-
@@ -23317,6 +23377,7 @@
 -	bensa	-	noun	9	-	back	a	coll	-
 -	bensiini	-	noun	6	-	front	i	-	-
 -	bentoniitti	-	noun	5	tt:t	-	-	-	-
+-	bentsamidi	-	noun	5	-	-	-	-	-
 -	bentseeni	-	noun	5	-	front	i	-	-
 -	bentso	-	noun	1	-	-	-	slang	-
 -	bentsodiatsepiini	-	noun	5	-	back	i	-	-
@@ -23330,6 +23391,7 @@
 -	bertrandiitti	-	noun	5	tt:t	-	-	-	-
 -	berylli	-	noun	5	-	front	i	-	-
 -	beryllium	-	noun	5	-	back	u	-	-
+-	besoaari	-	noun	5	-	-	-	-	-
 -	besserwisser	-	noun	6	-	-	-	-	-
 -	bestis	-	noun	39	-	front	i	coll	-
 -	bestman	-	noun	5	-	-	-	-	-
@@ -23354,6 +23416,7 @@
 -	bidee	-	noun	20	-	front	e	-	-
 -	biedermeier	-	noun	6	-	front	e	-	-
 -	biennaali	-	noun	5	-	back	i	-	-
+-	bifurkaatio	-	noun	3	-	-	-	-	-
 -	bigaku	-	noun	1	-	-	-	foreign	-
 -	bigamia	-	noun	12	-	back	a	-	-
 -	bigband	-	noun	5	-	-	-	-	-
@@ -23371,10 +23434,12 @@
 -	bilettäjä	-	noun	10	-	-	-	-	-
 -	biletys	-	noun	39	-	-	-	coll	-
 -	bilin	-	noun	5	-	-	-	-	-
+-	biliverdiini	-	noun	5	-	-	-	-	-
 -	biljardi	-	noun	6	-	back	i	-	-
 -	biljoona	-	noun	10	-	-	-	-	-
 -	bilsa	-	noun	9	-	back	a	slang	-
 -	bimbo	-	noun	1	-	-	-	coll	-
+-	bimetalli	-	noun	5	-	-	-	-	-
 -	bimetallismi	-	noun	5	-	-	-	-	-
 -	bin	-	noun	5B	-	-	-	abbr	-
 -	binarismi	-	noun	5	-	-	-	-	-
@@ -23449,6 +23514,7 @@
 -	blondiini	-	noun	6	-	back	i	-	-
 -	blosis	-	noun	39	-	-	-	slang	-
 -	blues	-	noun	5	-	back	e	-	-
+-	bluetooth	-	noun	5	-	-	-	TM	-
 -	bluffaus	-	noun	39	-	back	u	coll	-
 -	bluffi	-	noun	5	-	back	i	coll	-
 -	bmp	-	noun	18B	-	-	-	abbr	-
@@ -23538,6 +23604,7 @@
 -	braatvursti	-	noun	5	-	back	i	-	-
 -	bradyarytmia	-	noun	12	-	-	-	-	-
 -	bradykardia	-	noun	12	-	-	-	-	-
+-	bradykiniini	-	noun	5	-	-	-	-	-
 -	bradž	-	noun	5	-	-	-	-	-
 -	brahma	-	noun	9	-	back	a	-	-
 -	brahmaani	-	noun	6	-	back	i	-	-
@@ -23545,6 +23612,7 @@
 -	brahmalaisuus	-	noun	40	-	back	u	-	-
 -	brahmanismi	-	noun	5	-	back	i	-	-
 -	brahui	-	noun	18	-	-	-	-	-
+-	brakyterapia	-	noun	12	-	-	-	-	-
 -	bramaani	-	noun	6	-	back	i	-	-
 -	bramiini	-	noun	6	-	back	i	-	-
 -	brandi	-	noun	5	-	back	i	-	-
@@ -23659,6 +23727,7 @@
 -	bumetanidi	-	noun	5	-	-	-	-	-
 -	bungalow	-	noun	5|†22	-	back	u	-	-
 -	bunkkeri	-	noun	6	-	back	i	-	-
+-	bupivakaiini	-	noun	5	-	-	-	-	-
 -	buprenorfiini	-	noun	5	-	-	-	-	-
 -	bupropioni	-	noun	5	-	-	-	-	-
 -	burek	-	noun	5	-	-	-	foreign	-
@@ -23673,6 +23742,7 @@
 -	burleski	-	noun	5	-	back	i	-	-
 -	burma	-	noun	10	-	-	-	-	-
 -	burmalainen	-	noun	38	-	-	-	-	-
+-	burmilla	-	noun	13	-	-	-	-	-
 -	burnout	-	noun	5	-	back	u	-	-
 -	burrata	-	noun	9	-	-	-	-	-
 -	burrito	-	noun	1	-	back	o	-	-
@@ -23722,6 +23792,7 @@
 -	c6	-	noun	27B	-	-	-	foreign	-
 -	c7	-	noun	10B	-	-	-	foreign	-
 -	c8	-	noun	10B	-	-	-	foreign	-
+-	cabriolet	-	noun	22|5	-	-	e	-	-
 -	caddie	-	noun	8|3	-	back	e	-	-
 -	caddo	-	noun	1	-	-	-	-	-
 -	cafeteria	-	noun	12	-	back	a	-	-
@@ -23744,6 +23815,7 @@
 -	cancellandum	-	noun	5	-	-	-	foreign	-
 -	cannelloni	-	noun	5	-	back	i	-	-
 -	canneloni	-	noun	5	-	-	-	nstd	-
+-	cantabile	-	noun	8	-	-	-	-	-
 -	capiznon	-	noun	6	-	-	-	-	-
 -	capoeira	-	noun	9	-	back	a	-	-
 -	cappuccino	-	noun	1	-	back	o	-	-
@@ -23783,6 +23855,7 @@
 -	chattailu	-	noun	2	-	back	u	coll	-
 -	chattaus	-	noun	39	-	back	u	coll	-
 -	chatti	-	noun	5	tt:t	back	i	-	-
+-	chauvinismi	-	noun	5	-	-	-	nstd|rare	-
 -	cheddar	-	noun	5	-	back	a	-	-
 -	cheerleader	-	noun	5	-	-	-	-	-
 -	cheerleading	-	noun	5	-	-	-	-	-
@@ -23793,6 +23866,7 @@
 -	cheyenne	-	noun	8	-	-	-	-	-
 -	chia	-	noun	9	-	back	a	-	-
 -	chianti	-	noun	5	-	-	-	-	-
+-	chiaroscuro	-	noun	2	-	-	-	-	-
 -	chicano	-	noun	2	-	-	-	foreign	-
 -	chickasaw	-	noun	22|†5	-	-	o	-	-
 -	chihuahua	-	noun	12	-	back	a	-	-
@@ -23818,6 +23892,9 @@
 -	ciabatta	-	noun	9	tt:t	-	-	-	-
 -	ciabatta	-	noun	9	-	-	-	-	-
 -	cicero	-	noun	2	-	back	o	-	-
+-	cimbalom	-	noun	5	-	-	-	-	-
+-	cirrocumulus	-	noun	39	-	-	-	-	-
+-	cirrostratus	-	noun	39	-	-	-	-	-
 -	cirrus	-	noun	39	-	back	u	-	-
 -	civis	-	noun	39	-	front	i	-	-
 -	clafoutis	-	noun	22|†5	-	-	-	-	-
@@ -23826,6 +23903,7 @@
 -	cm	-	noun	5B	-	front	-	unit	-
 -	cocktail	-	noun	5	-	back	i	-	-
 -	coesiitti	-	noun	5	tt:t	-	-	-	-
+-	cointreau	-	noun	21	-	-	o	TM	-
 -	cola	-	noun	10	-	-	-	-	-
 -	college	-	noun	2	-	back	e	foreign	-
 -	collie	-	noun	3	-	back	e	-	-
@@ -23876,6 +23954,7 @@
 -	cubitus	-	noun	39	-	-	-	foreign|rare	-
 -	cum laude	-	noun	8	-	-	-	-	-
 -	cum laude approbatur	-	noun	6	-	-	-	-	-
+-	cumulonimbus	-	noun	39	-	-	-	-	-
 -	cumulus	-	noun	39	-	back	u	-	-
 -	cup	-	noun	5	-	back	u	-	-
 -	curaçãolainen	-	noun	38	-	-	-	-	-
@@ -23914,6 +23993,7 @@
 -	damaskoslainen	-	noun	38	-	-	-	-	-
 -	damasti	-	noun	5	-	back	i	-	-
 -	danaliitti	-	noun	5	tt:t	-	-	-	-
+-	dancehall	-	noun	5	-	-	-	-	-
 -	dandy	-	noun	1	-	front|back	y	-	-
 -	dandyismi	-	noun	5	-	-	-	-	-
 -	dargi	-	noun	5	-	-	-	-	-
@@ -23942,7 +24022,7 @@
 -	debentuuri	-	noun	5	-	back	i	-	-
 -	debet	-	noun	5	-	front	e	-	-
 -	debiili	-	noun	6	-	-	-	dated	-
--	debuggaus	-	noun	39|40	-	-	-	-	-
+-	debuggaus	-	noun	39	-	-	-	-	-
 -	debytantti	-	noun	5	tt:t	back	i	-	-
 -	debyytti	-	noun	5	tt:t	front	i	-	-
 -	dedis	-	noun	39	-	-	-	slang	-
@@ -23984,6 +24064,7 @@
 -	dekkari	-	noun	6	-	back	i	coll	-
 -	dekkaristi	-	noun	5	-	-	-	-	-
 -	dekki	-	noun	5	kk:k	front	i	-	-
+-	deklamaatio	-	noun	3	-	-	-	-	-
 -	deklaraatio	-	noun	3	-	-	-	-	-
 -	deklinaatio	-	noun	3	-	back	o	-	-
 -	dekoltee	-	noun	20	-	back	e	-	-
@@ -23998,6 +24079,7 @@
 -	dekriminalisointi	-	noun	5	nt:nn	-	-	-	-
 -	deksametasoni	-	noun	5	-	-	-	-	-
 -	dekstraani	-	noun	6	-	-	-	-	-
+-	dekstriini	-	noun	6	-	-	-	-	-
 -	dekstropropoksifeeni	-	noun	5	-	-	-	-	-
 -	dekubitus	-	noun	39	-	-	-	-	-
 -	delaware	-	noun	8	-	-	-	-	-
@@ -24011,6 +24093,7 @@
 -	deliberaatio	-	noun	3	-	-	-	-	-
 -	delirium	-	noun	5	-	back	u	-	-
 -	delta	-	noun	9	-	back	a	-	-
+-	deluusio	-	noun	3	-	-	-	-	-
 -	demagnetointi	-	noun	5	nt:nn	back	i	-	-
 -	demagogi	-	noun	5	-	back	i	-	-
 -	demagogia	-	noun	12	-	back	a	-	-
@@ -24044,11 +24127,14 @@
 -	denaari	-	noun	6	-	-	-	-	-
 -	denaturalisaatio	-	noun	3	-	-	-	-	-
 -	denaturointi	-	noun	5	nt:nn	back	i	-	-
+-	dendriitti	-	noun	5	tt:t	-	-	-	-
 -	dendrologi	-	noun	5	-	back	i	-	-
 -	dendrologia	-	noun	12	-	back	a	-	-
+-	denialismi	-	noun	5	-	-	-	-	-
 -	denier	-	noun	5	-	front	e	-	-
 -	denim	-	noun	5	-	-	-	-	-
 -	denimi	-	noun	5	-	front	i	-	-
+-	denotaatio	-	noun	3	-	-	-	-	-
 -	denssi	-	noun	5	-	-	-	slang	-
 -	denveriläinen	-	noun	38	-	-	-	-	-
 -	deodorantti	-	noun	5	tt:t	back	i	-	-
@@ -24062,6 +24148,7 @@
 -	depressiivisyys	-	noun	40	-	front	y	-	-
 -	depressio	-	noun	3	-	back	o	-	-
 -	deprivaatio	-	noun	3	-	back	o	-	-
+-	deputaatio	-	noun	3	-	-	-	-	-
 -	derby	-	noun	1	-	-	-	-	-
 -	derivaatta	-	noun	9	tt:t	back	a	-	-
 -	derivointi	-	noun	5	nt:nn	back	i	-	-
@@ -24142,6 +24229,7 @@
 -	diariointi	-	noun	5	nt:nn	back	i	-	-
 -	diarrea	-	noun	12	-	-	-	-	-
 -	diaspora	-	noun	10	-	back	a	-	-
+-	diastole	-	noun	8	-	-	-	-	-
 -	diatermia	-	noun	12	-	back	a	-	-
 -	diatomi	-	noun	5	-	-	-	-	-
 -	diatsepaami	-	noun	5	-	back	i	-	-
@@ -24154,12 +24242,15 @@
 -	dieselöinti	-	noun	5	nt:nn	front	i	-	-
 -	dieteetikko	-	noun	4	kk:k	back	o	-	-
 -	dietetiikka	-	noun	9	kk:k	back	a	-	-
+-	differenssi	-	noun	5	-	-	-	-	-
 -	differentiaali	-	noun	5	-	back	i	-	-
 -	differentiointi	-	noun	5	nt:nn	back	i	-	-
+-	differointi	-	noun	5	nt:nn	-	-	-	-
 -	diffi	-	noun	5	-	-	-	-	-
 -	diffraktio	-	noun	3	-	back	o	-	-
 -	diffusionismi	-	noun	5	-	-	-	-	-
 -	diffuusio	-	noun	3	-	back	o	-	-
+-	difteria	-	noun	12	-	-	-	-	-
 -	diftongi	-	noun	5	-	back	i	-	-
 -	difyllobotriaasi	-	noun	5	-	-	-	-	-
 -	digestiivi	-	noun	5	-	front	i	-	-
@@ -24213,6 +24304,7 @@
 -	dioriitti	-	noun	5	tt:t	-	-	-	-
 -	diplegia	-	noun	12	-	-	-	-	-
 -	diplekseri	-	noun	6	-	-	-	-	-
+-	diploidi	-	noun	5	-	-	-	-	-
 -	diplomaatti	-	noun	5	tt:t	back	i	-	-
 -	diplomaattisuus	-	noun	40	-	back	u	-	-
 -	diplomatia	-	noun	12	-	back	a	-	-
@@ -24247,11 +24339,14 @@
 -	diskurssi	-	noun	5	-	back	i	-	-
 -	diskvalifiointi	-	noun	5	nt:nn	-	-	-	-
 -	dislokaatio	-	noun	3	-	-	-	-	-
+-	dispanssi	-	noun	5	-	-	-	-	-
 -	dispersio	-	noun	3	-	-	-	-	-
 -	disponibiliteetti	-	noun	5	tt:t	back	i	-	-
 -	dispositio	-	noun	3	-	back	o	-	-
 -	disputaatio	-	noun	3	-	-	-	dated	-
 -	disputantti	-	noun	5	tt:t	-	-	dated	-
+-	disruptio	-	noun	3	-	-	-	-	-
+-	dissektio	-	noun	3	-	-	-	-	-
 -	dissidentti	-	noun	5	tt:t	front	i	-	-
 -	dissonanssi	-	noun	5	-	back	i	-	-
 -	dissosiaatio	-	noun	3	-	-	-	-	-
@@ -24261,6 +24356,7 @@
 -	distorsio	-	noun	3	-	-	-	-	-
 -	distribuutio	-	noun	3	-	back	o	-	-
 -	disulfiraami	-	noun	5	-	back	i	-	-
+-	diteismi	-	noun	5	-	-	-	-	-
 -	dittografi	-	noun	5	-	-	-	-	-
 -	diureesi	-	noun	5	-	-	-	-	-
 -	diureetti	-	noun	5	tt:t	back	i	-	-
@@ -24298,7 +24394,7 @@
 -	dohalainen	-	noun	38	-	-	-	-	-
 -	dokaus	-	noun	39	-	back	u	slang	-
 -	dokkari	-	noun	6	-	back	i	coll	-
--	doksaus	-	noun	39|40	-	-	-	-	-
+-	doksaus	-	noun	39	-	-	-	-	-
 -	doksisykliini	-	noun	5	-	-	-	-	-
 -	doktriini	-	noun	5	-	back	i	-	-
 -	doku	-	noun	1	-	back	u	coll	-
@@ -24332,7 +24428,7 @@
 -	dopamiini	-	noun	5	-	back	i	-	-
 -	doping	-	noun	5	-	back	i	-	-
 -	dopplerilmiö	-	noun	3	-	-	-	-	-
--	dopplerkaikukuvaus	-	noun	39|40	-	-	-	-	-
+-	doppler|kaiku|kuvaus	-	noun	39	-	-	-	-	-
 -	dorka	-	noun	10	-	-	-	slang	-
 -	dorsifleksio	-	noun	3	-	-	-	-	-
 -	dosentti	-	noun	5	tt:t	back	i	-	-
@@ -24394,6 +24490,7 @@
 -	duetto	-	noun	1	tt:t	back	o	-	-
 -	duffeli	-	noun	6	-	back	i	-	-
 -	dugongi	-	noun	5	-	-	-	-	-
+-	dukaatti	-	noun	5	tt:t	-	-	-	-
 -	dukka	-	noun	10	kk:k	-	-	-	-
 -	dulla	-	noun	10	-	-	-	slang	-
 -	dumari	-	noun	6	-	-	-	slang	-
@@ -24408,7 +24505,9 @@
 -	dupleksi	-	noun	5	-	-	-	-	-
 -	dupleksi	-	noun	5	-	-	-	-	-
 -	dupletti	-	noun	5	tt:t	back	i	-	-
+-	duplikaatio	-	noun	3	-	-	-	-	-
 -	duplikaatti	-	noun	5	tt:t	back	i	-	-
+-	duraatio	-	noun	3	-	-	-	-	-
 -	durra	-	noun	10	-	back	a	-	-
 -	dusun	-	noun	5	-	-	-	-	-
 -	duuma	-	noun	10	-	back	a	-	-
@@ -24421,28 +24520,37 @@
 -	dynaamisuus	-	noun	40	-	back	u	-	-
 -	dynamiikka	-	noun	9	kk:k	back	a	-	-
 -	dynamiitti	-	noun	5	tt:t	back	i	-	-
+-	dynamismi	-	noun	5	-	-	-	-	-
 -	dynamo	-	noun	2	-	back	o	-	-
 -	dynamometri	-	noun	5	-	back	i	-	-
 -	dynastia	-	noun	12	-	back	a	-	-
+-	dynorfiini	-	noun	5	-	-	-	-	-
 -	dysartria	-	noun	12	-	-	-	-	-
+-	dysautonomia	-	noun	12	-	-	-	-	-
 -	dysestesia	-	noun	12	-	-	-	-	-
 -	dysfaatikko	-	noun	4	kk:k	back	o	-	-
 -	dysfagia	-	noun	12	-	-	-	-	-
 -	dysfasia	-	noun	12	-	back	a	-	-
+-	dysfemia	-	noun	12	-	-	-	-	-
 -	dysfemismi	-	noun	5	-	-	-	-	-
 -	dysforia	-	noun	12	-	-	-	-	-
+-	dysgrafia	-	noun	12	-	-	-	-	-
 -	dyskesia	-	noun	12	-	-	-	-	-
 -	dyskinesia	-	noun	12	-	-	-	-	-
 -	dysleksia	-	noun	12	-	back	a	-	-
 -	dyslipidemia	-	noun	12	-	-	-	-	-
 -	dysmenorrea	-	noun	12	-	-	-	-	-
+-	dysmetria	-	noun	12	-	-	-	-	-
 -	dyspepsia	-	noun	12	-	-	-	-	-
 -	dysplasia	-	noun	12	-	-	-	-	-
 -	dyspnea	-	noun	12	-	-	-	-	-
+-	dyspraksia	-	noun	12	-	-	-	-	-
 -	dysprosium	-	noun	5	-	-	-	-	-
+-	dystokia	-	noun	12	-	-	-	-	-
 -	dystonia	-	noun	12	-	back	a	-	-
 -	dystopia	-	noun	12	-	back	a	-	-
 -	dystrofia	-	noun	12	-	-	-	-	-
+-	dystymia	-	noun	12	-	-	-	-	-
 -	dysuria	-	noun	12	-	-	-	-	-
 -	dyykkari	-	noun	6	-	back	i	slang	-
 -	dyyni	-	noun	5	-	front	i	-	-
@@ -24510,6 +24618,7 @@
 -	efekti	-	noun	5	-	front	i	-	-
 -	efektiivisyys	-	noun	40	-	front	y	-	-
 -	efik	-	noun	5	-	-	-	-	-
+-	egalitarismi	-	noun	5	-	-	-	-	-
 -	ege	-	noun	8	-	front	e	coll	-
 -	egiriini	-	noun	5	-	-	-	-	-
 -	ego	-	noun	1	-	back	o	-	-
@@ -24559,6 +24668,7 @@
 -	ekliptika	-	noun	12	-	back	a	-	-
 -	eklogi	-	noun	5	-	-	-	-	-
 -	eklogiitti	-	noun	5	tt:t	-	-	-	-
+-	ekolalia	-	noun	12	-	-	-	-	-
 -	ekologi	-	noun	5	-	back	i	-	-
 -	ekologia	-	noun	12	-	back	a	-	-
 -	ekologisuus	-	noun	40	-	-	-	-	-
@@ -24568,13 +24678,17 @@
 -	ekonomisti	-	noun	5	-	back	i	-	-
 -	ekonomisuus	-	noun	40	-	back	u	-	-
 -	eksaktius	-	noun	40	-	back	u	-	-
+-	eksaltaatio	-	noun	3	-	-	-	-	-
 -	eksaminaatio	-	noun	3	-	-	-	dated	-
 -	eksaminaattori	-	noun	6	-	-	-	dated	-
 -	ekseema	-	noun	9	-	back	a	-	-
+-	eksegeesi	-	noun	5	-	-	-	-	-
 -	eksegetiikka	-	noun	9	kk:k	back	a	-	-
 -	eksemplaari	-	noun	5	-	back	i	-	-
+-	eksemptio	-	noun	3	-	-	-	-	-
 -	eksentrikko	-	noun	4	kk:k	back	o	-	-
 -	eksentrisyys	-	noun	40	-	front	y	-	-
+-	eksessiivi	-	noun	5	-	-	-	-	-
 -	eksfoliaatio	-	noun	3	-	-	-	-	-
 -	ekshaliitti	-	noun	5	tt:t	-	-	-	-
 -	ekshaustio	-	noun	3	-	-	-	-	-
@@ -24593,10 +24707,12 @@
 -	eksogeenisuus	-	noun	40	-	back	u	-	-
 -	eksogeenisyys	-	noun	40	-	front	y	-	-
 -	eksoottisuus	-	noun	40	-	back	u	-	-
+-	eksorkismi	-	noun	5	-	-	-	-	-
 -	eksosemiosis	-	noun	39	-	-	-	foreign	-
 -	eksosfääri	-	noun	5	-	front	i	-	-
 -	eksostoosi	-	noun	5	-	-	-	-	-
 -	eksotiikka	-	noun	9	kk:k	back	a	-	-
+-	eksotismi	-	noun	5	-	-	-	-	-
 -	ekspansiivisuus	-	noun	40	-	back	u	-	-
 -	ekspansio	-	noun	3	-	back	o	-	-
 -	ekspatriaatti	-	noun	5	tt:t	back	i	-	-
@@ -24613,15 +24729,18 @@
 -	ekstaasi	-	noun	5	-	back	i	-	-
 -	ekstaattisuus	-	noun	40	-	back	u	-	-
 -	ekstensio	-	noun	3	-	-	-	-	-
+-	ekstinktio	-	noun	3	-	-	-	-	-
 -	ekstra	-	noun	9	-	back	a	-	-
 -	ekstraaja	-	noun	10	-	-	-	coll	-
 -	ekstrakti	-	noun	5	-	back	i	-	-
+-	ekstraktio	-	noun	3	-	-	-	-	-
 -	ekstranet	-	noun	5	-	-	-	-	-
 -	ekstrasystolia	-	noun	12	-	-	-	-	-
 -	ekstraus	-	noun	39	-	-	-	coll	-
 -	ekstravertti	-	noun	5	tt:t	back	i	-	-
 -	ekstremismi	-	noun	5	-	front	i	-	-
 -	ekstremisti	-	noun	5	-	front	i	-	-
+-	ekstroversio	-	noun	3	-	-	-	-	-
 -	ekstrovertti	-	noun	5	tt:t	back	i	-	-
 -	ekstruuderi	-	noun	6	-	-	-	-	-
 -	eksudaatti	-	noun	5	tt:t	-	-	-	-
@@ -24634,6 +24753,7 @@
 -	ektopia	-	noun	12	-	-	-	-	-
 -	ekumeenisuus	-	noun	40	-	back	u	-	-
 -	ekumenia	-	noun	12	-	back	a	-	-
+-	ekumeniikka	-	noun	9	kk:k	-	-	-	-
 -	ekvaattori	-	noun	6	-	back	i	-	-
 -	ekvivalenssi	-	noun	5	-	back	i	-	-
 -	ekvivokaatio	-	noun	3	-	-	-	-	-
@@ -24669,6 +24789,7 @@
 -	elektroskooppi	-	noun	5	pp:p	-	-	-	-
 -	elementaarisuus	-	noun	40	-	back	u	-	-
 -	elementti	-	noun	5	tt:t	front	i	-	-
+-	elevaatio	-	noun	3	-	-	-	-	-
 -	elevaattori	-	noun	6	-	back	i	-	-
 -	eliitti	-	noun	5	tt:t	front	i	-	-
 -	elikko	-	noun	4	kk:k	back	o	dial	-
@@ -24731,10 +24852,12 @@
 -	embryologi	-	noun	5	-	back	i	-	-
 -	embryologia	-	noun	12	-	back	a	-	-
 -	embu	-	noun	1	-	-	-	-	-
+-	emergenssi	-	noun	5	-	-	-	-	-
 -	emerita	-	noun	9	-	back	a	-	-
 -	emeritus	-	noun	39	-	back	u	-	-
 -	emfyseema	-	noun	9	-	-	-	-	-
 -	emi	-	noun	5	-	front	i	-	-
+-	emigraatio	-	noun	3	-	-	-	-	-
 -	emigrantti	-	noun	5	tt:t	back	i	-	-
 -	emiiri	-	noun	6	-	front	i	-	-
 -	emilia	-	noun	12	-	-	-	-	-
@@ -24784,18 +24907,22 @@
 -	endarterektomia	-	noun	12	-	-	-	-	-
 -	endeemisyys	-	noun	40	-	front	y	-	-
 -	endiivi	-	noun	5	-	front	i	-	-
+-	endodontia	-	noun	12	-	-	-	-	-
 -	endogamia	-	noun	12	-	back	a	-	-
 -	endogeenisuus	-	noun	40	-	back	u	-	-
 -	endogeenisyys	-	noun	40	-	front	y	-	-
 -	endokardiitti	-	noun	5	tt:t	-	-	-	-
+-	endokardium	-	noun	5	-	-	-	-	-
 -	endokrinologia	-	noun	12	-	back	a	-	-
 -	endometriitti	-	noun	5	tt:t	-	-	-	-
 -	endometrioosi	-	noun	5	-	back	i	-	-
+-	endomorfi	-	noun	5	-	-	-	-	-
 -	endorfiini	-	noun	5	-	back	i	-	-
 -	endosemiosis	-	noun	39	-	-	-	-	-
 -	endoskooppi	-	noun	5	pp:p	back	i	-	-
 -	endoskopia	-	noun	12	-	back	a	-	-
 -	endoteeli	-	noun	5	-	-	-	-	-
+-	endoteliini	-	noun	5	-	-	-	-	-
 -	endotoksiini	-	noun	5	-	-	-	-	-
 -	enemmistö	-	noun	1	-	front	ö	-	-
 -	enemmistöläinen	-	noun	38	-	front	e	-	-
@@ -24812,6 +24939,7 @@
 -	englasiaali	-	noun	5	-	-	-	-	-
 -	engrammi	-	noun	5	-	back	i	-	-
 -	enigmatiitti	-	noun	5	tt:t	-	-	-	-
+-	enkefaliini	-	noun	5	-	-	-	-	-
 -	enkefaliitti	-	noun	5	tt:t	back	i	-	-
 -	enkefalomyeliitti	-	noun	5	tt:t	-	-	-	-
 -	enkefalopatia	-	noun	12	-	-	-	-	-
@@ -24837,14 +24965,17 @@
 -	enologia	-	noun	12	-	back	a	-	-
 -	ensemble	-	noun	8	-	front	e	-	-
 -	ensikko	-	noun	4	kk:k	back	o	-	-
+-	ensyklika	-	noun	9	-	-	-	-	-
 -	ensyklopedia	-	noun	12	-	back	a	-	-
 -	entalpia	-	noun	12	-	-	-	-	-
 -	enteellisyys	-	noun	40	-	front	y	-	-
 -	enteily	-	noun	2	-	front	y	-	-
+-	enteriitti	-	noun	5	tt:t	-	-	-	-
 -	entistys	-	noun	39	-	front	y	-	-
 -	entisyys	-	noun	40	-	front	y	-	-
 -	entisöinti	-	noun	5	nt:nn	front	i	-	-
 -	entiteetti	-	noun	5	tt:t	front	i	-	-
+-	entomologia	-	noun	12	-	-	-	-	-
 -	entraus	-	noun	39	-	back	u	-	-
 -	entrecôte	-	noun	8	-	-	-	-	-
 -	entropia	-	noun	12	-	back	a	-	-
@@ -24870,6 +25001,8 @@
 -	epigenetiikka	-	noun	9	kk:k	back	a	-	-
 -	epiglottiitti	-	noun	5	tt:t	-	-	-	-
 -	epigoni	-	noun	5	-	-	-	-	-
+-	epigrafi	-	noun	5	-	-	-	-	-
+-	epigrafiikka	-	noun	9	kk:k	-	-	-	-
 -	epigrammi	-	noun	5	-	back	i	-	-
 -	epiikka	-	noun	14	kk:k	back	a	-	-
 -	epikantus	-	noun	39	-	-	-	-	-
@@ -24883,11 +25016,14 @@
 -	epileptikko	-	noun	4	kk:k	back	o	-	-
 -	epilogi	-	noun	5	-	back	i	-	-
 -	epilointi	-	noun	5	nt:nn	back	i	-	-
+-	epinefriini	-	noun	5	-	-	-	-	-
 -	episentri	-	noun	5	-	-	-	-	-
+-	episentrumi	-	noun	5	-	-	-	-	-
 -	episiotomia	-	noun	12	-	-	-	-	-
 -	episkooppi	-	noun	5	pp:p	-	-	-	-
 -	episodi	-	noun	5	-	back	i	-	-
 -	episomi	-	noun	5	-	-	-	-	-
+-	epistaksis	-	noun	39	-	-	-	-	-
 -	epistola	-	noun	12	-	back	a	-	-
 -	epitafi	-	noun	5	-	-	-	-	-
 -	epiteeli	-	noun	5	-	front	i	-	-
@@ -24932,6 +25068,7 @@
 -	erillisyys	-	noun	40	-	front	y	-	-
 -	eriste	-	noun	48	-	front	e	-	-
 -	eristeisyys	-	noun	40	-	front	y	-	-
+-	eristiikka	-	noun	9	kk:k	-	-	-	-
 -	eristin	-	noun	33	-	front	i	-	-
 -	eristyneisyys	-	noun	40	-	front	y	-	-
 -	eristys	-	noun	39	-	front	y	-	-
@@ -24967,11 +25104,14 @@
 -	ersä	-	noun	10	-	front	ä	-	-
 -	ersäläinen	-	noun	38	-	-	-	-	-
 -	eruptio	-	noun	3	-	-	-	-	-
+-	erysipelas	-	noun	39	-	-	-	-	-
+-	eryteema	-	noun	9	-	-	-	-	-
 -	erytritoli	-	noun	6	-	-	-	-	-
 -	erytrodermia	-	noun	12	-	-	-	-	-
 -	erytromysiini	-	noun	5	-	-	-	-	-
 -	erytroplasia	-	noun	12	-	-	-	-	-
 -	erytropoietiini	-	noun	5	-	back	i	-	-
+-	erytrosiini	-	noun	5	-	-	-	-	-
 -	erytrosyytti	-	noun	5	tt:t	-	-	-	-
 -	erä	-	noun	10	-	front	ä	-	-
 -	esanssi	-	noun	5	-	back	i	-	-
@@ -25021,6 +25161,7 @@
 -	essee	-	noun	20	-	front	e	-	-
 -	esseisti	-	noun	5	-	front	i	-	-
 -	esseistiikka	-	noun	9	kk:k	back	a	-	-
+-	essentia	-	noun	12	-	-	-	-	-
 -	essiivi	-	noun	5	-	front	i	-	-
 -	essu	-	noun	1	-	back	u	coll	-
 -	establishment	-	noun	5	-	back	e	foreign	-
@@ -25034,6 +25175,7 @@
 -	estenomi	-	noun	5	-	-	-	-	-
 -	esteri	-	noun	6	-	front	i	-	-
 -	estetiikka	-	noun	9	kk:k	back	a	-	-
+-	estetismi	-	noun	5	-	-	-	-	-
 -	estetisoituminen	-	noun	38	-	-	-	-	-
 -	estimaatti	-	noun	5	tt:t	back	i	-	-
 -	estimaattori	-	noun	6	-	back	i	-	-
@@ -25046,12 +25188,14 @@
 -	estradioli	-	noun	5	-	-	-	-	-
 -	estrioli	-	noun	5	-	-	-	-	-
 -	estrogeeni	-	noun	5	-	back	i	-	-
+-	estuaari	-	noun	5	-	-	-	-	-
 -	estymä	-	noun	10	-	front	ä	-	-
 -	estyneisyys	-	noun	40	-	front	y	-	-
 -	estäjä	-	noun	10	-	front	ä	-	-
 -	eswatinilainen	-	noun	38	-	-	-	-	-
 -	etaani	-	noun	5	-	back	i	-	-
 -	etana	-	noun	12	-	back	a	-	-
+-	etanersepti	-	noun	5	-	-	-	-	-
 -	etanoli	-	noun	5	-	back	i	-	-
 -	etappi	-	noun	5	pp:p	back	i	-	-
 -	eteeni	-	noun	5	-	front	i	-	-
@@ -25076,10 +25220,13 @@
 -	etnografia	-	noun	12	-	back	a	-	-
 -	etnologi	-	noun	5	-	back	i	-	-
 -	etnologia	-	noun	12	-	back	a	-	-
+-	etologia	-	noun	12	-	-	-	-	-
+-	etorikoksibi	-	noun	5	-	-	-	-	-
 -	etretinaatti	-	noun	5	tt:t	-	-	-	-
 -	etruski	-	noun	5	-	back	i	-	-
 -	etsaaja	-	noun	10	-	back	a	-	-
 -	etsaus	-	noun	39	-	back	u	-	-
+-	etsetimibi	-	noun	5	-	-	-	-	-
 -	etsijyys	-	noun	40	-	-	-	-	-
 -	etsijä	-	noun	12	-	front	ä	-	-
 -	etsikko	-	noun	4	kk:k	back	o	poet	-
@@ -25102,6 +25249,7 @@
 -	etyyli	-	noun	6	-	-	-	-	-
 -	etyyni	-	noun	5	-	front	i	-	-
 -	etäisyys	-	noun	40	-	front	y	-	-
+-	eudaimonismi	-	noun	5	-	-	-	-	-
 -	eufemismi	-	noun	5	-	back	i	-	-
 -	eufonia	-	noun	12	-	-	-	-	-
 -	euforia	-	noun	12	-	back	a	-	-
@@ -25111,8 +25259,9 @@
 -	eukka	-	noun	9	kk:k	-	-	-	-
 -	eukko	-	noun	1	kk:k	back	o	-	-
 -	eukkonen	-	noun	38	-	-	-	-	-
+-	eumysetooma	-	noun	10	-	-	-	-	-
 -	eunukki	-	noun	5	kk:k	back	i	-	-
--	eur	-	noun	!	-	-	-	abbr	-
+-	eur	-	noun	!	-	-	-	abbr|unit	-
 -	euraasialainen	-	noun	38	-	-	-	-	-
 -	euralainen	-	noun	38	-	-	-	-	-
 -	euribor	-	noun	5	-	back	o	-	-
@@ -25176,6 +25325,7 @@
 -	fagosyytti	-	noun	5	tt:t	front|back	i	-	-
 -	fagotisti	-	noun	5	-	back	i	-	-
 -	fagotti	-	noun	5	tt:t	back	i	-	-
+-	fahrenheit	-	noun	5	-	-	-	-	-
 -	faija	-	noun	9	-	back	a	slang	-
 -	fajanssi	-	noun	5	-	back	i	-	-
 -	fajita	-	noun	13	-	-	-	-	-
@@ -25223,6 +25373,7 @@
 -	farmakodynamiikka	-	noun	9	kk:k	-	-	-	-
 -	farmakognosia	-	noun	12	-	back	a	-	-
 -	farmakokinetiikka	-	noun	9	kk:k	-	-	-	-
+-	farmakologi	-	noun	5	-	-	-	-	-
 -	farmakologia	-	noun	12	-	back	a	-	-
 -	farmakopea	-	noun	12	-	back	a	-	-
 -	farmanomi	-	noun	5	-	back	i	-	-
@@ -25233,10 +25384,12 @@
 -	farsi	-	noun	5	-	back	i	-	-
 -	farssi	-	noun	5	-	back	i	-	-
 -	faryngaali	-	noun	5	-	-	-	-	-
+-	faryngiitti	-	noun	5	tt:t	-	-	-	-
 -	fasaani	-	noun	6	-	back	i	-	-
 -	fasadi	-	noun	5	-	back	i	-	-
 -	fasetti	-	noun	5	tt:t	-	-	-	-
 -	fashionista	-	noun	13	-	-	-	-	-
+-	fasilitaatio	-	noun	3	-	-	-	-	-
 -	fasilitaattori	-	noun	6	-	-	-	-	-
 -	fasiliteetti	-	noun	5	tt:t	back	i	-	-
 -	fasilitoija	-	noun	10	-	-	-	-	-
@@ -25257,6 +25410,7 @@
 -	fatwa	-	noun	9	-	back	a	-	-
 -	fauna	-	noun	9	-	back	a	-	-
 -	fauni	-	noun	5	-	back	i	-	-
+-	fauvismi	-	noun	5	-	-	-	-	-
 -	favela	-	noun	13	-	-	-	-	-
 -	fayaliitti	-	noun	5	tt:t	-	-	-	-
 -	fazenda	-	noun	9	-	-	-	foreign	-
@@ -25271,8 +25425,10 @@
 -	feissaaja	-	noun	10	-	-	-	-	-
 -	feissari	-	noun	6	-	back	i	-	-
 -	feissaus	-	noun	39	-	back	u	-	-
+-	fekaliitti	-	noun	5	tt:t	-	-	-	-
 -	felbi	-	noun	5	-	-	-	-	-
 -	feloni	-	noun	6	-	-	-	-	-
+-	felsiitti	-	noun	5	tt:t	-	-	-	-
 -	femakko	-	noun	4	kk:k	back	o	coll	-
 -	femboy	-	noun	21	-	-	i|y	-	-
 -	feminiini	-	noun	5	-	front	i	-	-
@@ -25280,6 +25436,7 @@
 -	feminismi	-	noun	5	-	front	i	-	-
 -	feministi	-	noun	5	-	front	i	-	-
 -	femma	-	noun	9	-	-	-	-	-
+-	fenakiitti	-	noun	5	tt:t	-	-	-	-
 -	fenasetiini	-	noun	5	-	-	-	-	-
 -	fengshui	-	noun	18	-	-	-	-	-
 -	fenkoli	-	noun	5	-	back	i	-	-
@@ -25308,6 +25465,7 @@
 -	feresi	-	noun	5	-	front	i	-	-
 -	fermaani	-	noun	6	-	-	-	-	-
 -	fermaatti	-	noun	5	tt:t	back	i	-	-
+-	fermentaatio	-	noun	3	-	-	-	-	-
 -	fermentori	-	noun	5	-	-	-	-	-
 -	fermentti	-	noun	5	tt:t	-	-	-	-
 -	fermioni	-	noun	5	-	-	-	-	-
@@ -25329,6 +25487,7 @@
 -	fetsi	-	noun	5	-	front	i	-	-
 -	fettari	-	noun	6	-	-	-	slang	-
 -	fettucine	-	noun	8	-	-	-	-	-
+-	fiakkeri	-	noun	?6	-	-	-	-	-
 -	fiasko	-	noun	2	-	back	o	-	-
 -	fiba	-	noun	9	-	back	a	slang	-
 -	fibaus	-	noun	39	-	back	u	slang	-
@@ -25342,6 +25501,7 @@
 -	fibromatoosi	-	noun	5	-	-	-	-	-
 -	fibroosi	-	noun	5	-	-	-	-	-
 -	fibula	-	noun	12	-	-	-	-	-
+-	fideismi	-	noun	5	-	-	-	-	-
 -	fidži	-	noun	5	-	-	-	-	-
 -	fidžiläinen	-	noun	38	-	-	-	-	-
 -	fiesta	-	noun	9	-	back	a	-	-
@@ -25463,10 +25623,13 @@
 -	floksi	-	noun	5	-	back	i	-	-
 -	floor show	-	noun	22|†5	-	-	u	-	-
 -	floora	-	noun	10	-	back	a	-	-
+-	floppaus	-	noun	39	-	-	-	-	-
 -	floppi	-	noun	5	pp:p	back	i	-	-
 -	floretti	-	noun	5	tt:t	back	i	-	-
 -	floriini	-	noun	6	-	back	i	-	-
 -	floristi	-	noun	5	-	back	i	-	-
+-	floristiikka	-	noun	9	kk:k	-	-	-	-
+-	flossaus	-	noun	39	-	-	-	-	-
 -	flow	-	noun	22|†5	-	-	u	foreign	-
 -	fluidi	-	noun	5	-	-	-	-	-
 -	flukonatsoli	-	noun	6	-	-	-	-	-
@@ -25510,6 +25673,7 @@
 -	follitropiini	-	noun	5	-	-	-	-	-
 -	fomo	-	noun	1	-	-	-	foreign	-
 -	fon	-	noun	5	-	-	-	-	-
+-	fonaatio	-	noun	3	-	-	-	-	-
 -	fondant	-	noun	5	-	back	a	-	-
 -	fondantti	-	noun	5	tt:t	back	i	-	-
 -	fondi	-	noun	5	-	-	-	-	-
@@ -25522,9 +25686,11 @@
 -	foni	-	noun	5	-	-	-	-	-
 -	foniatri	-	noun	5	-	back	i	-	-
 -	foniatria	-	noun	12	-	back	a	-	-
+-	fonografi	-	noun	5	-	-	-	-	-
 -	fonoliitti	-	noun	5	tt:t	-	-	-	-
 -	fonologia	-	noun	12	-	back	a	-	-
 -	fononi	-	noun	6	-	-	-	-	-
+-	fonotaksi	-	noun	5	-	-	-	-	-
 -	fontanelli	-	noun	5	-	back	i	-	-
 -	fontti	-	noun	5	tt:t	back	i	-	-
 -	foodie	-	noun	8|21	-	-	-	-	-
@@ -25547,6 +25713,7 @@
 -	formalistisuus	-	noun	40	-	back	u	-	-
 -	formantti	-	noun	5	tt:t	-	-	-	-
 -	formatointi	-	noun	5	nt:nn	back	i	-	-
+-	formikaatio	-	noun	3	-	-	-	-	-
 -	formu	-	noun	1	-	back	u	coll	-
 -	formula	-	noun	12	-	back	a	-	-
 -	formulointi	-	noun	5	nt:nn	back	i	-	-
@@ -25567,6 +25734,8 @@
 -	fosforylaatio	-	noun	3	-	-	-	-	-
 -	fossiili	-	noun	6	-	back	i	-	-
 -	foto	-	noun	1	-	back	o	coll	-
+-	fotografia	-	noun	12	-	-	-	-	-
+-	fotogrammi	-	noun	5	-	-	-	-	-
 -	fotometria	-	noun	12	-	-	-	-	-
 -	fotoni	-	noun	6	-	back	i	-	-
 -	fototypia	-	noun	12	-	back	a	-	-
@@ -25617,6 +25786,7 @@
 -	friisi	-	noun	5	-	front	i	-	-
 -	friisi	-	noun	6	-	-	-	-	-
 -	frikadelli	-	noun	5	-	back	i	-	-
+-	frikatiivi	-	noun	5	-	-	-	-	-
 -	frilla	-	noun	9	-	-	-	-	-
 -	frisbee	-	noun	18	-	front	e	-	-
 -	friski	-	noun	5	-	-	-	dial	-
@@ -25660,7 +25830,7 @@
 -	furikake	-	noun	8	-	-	-	-	-
 -	furosemidi	-	noun	5	-	-	-	-	-
 -	furry	-	noun	1	-	-	-	foreign	-
--	fursuit	-	noun	5	-	-	-	foreign|slang	-
+-	fursuit	-	noun	5	-	-	-	foreign	-
 -	fusilli	-	noun	5	-	back	i	-	-
 -	fuskaus	-	noun	39	-	back	u	coll	-
 -	fusku	-	noun	1	-	back	u	-	-
@@ -25671,6 +25841,7 @@
 -	futon	-	noun	6	-	back	o	-	-
 -	futsal	-	noun	5	-	back	a	-	-
 -	futurismi	-	noun	5	-	back	i	-	-
+-	futuristi	-	noun	5	-	-	-	-	-
 -	futuristisuus	-	noun	40	-	back	u	-	-
 -	futurologi	-	noun	5	-	back	i	-	-
 -	futurologia	-	noun	12	-	back	a	-	-
@@ -25680,15 +25851,20 @@
 -	fuusiointi	-	noun	5	nt:nn	back	i	-	-
 -	fyffe	-	noun	8	-	front	e	slang	-
 -	fygy	-	noun	1	-	-	-	slang	-
+-	fykologia	-	noun	12	-	-	-	-	-
 -	fylli	-	noun	5	-	front	i	coll	-
 -	fylliitti	-	noun	5	tt:t	-	-	-	-
 -	fyllokinoni	-	noun	6	-	-	-	-	-
+-	fylogenia	-	noun	12	-	-	-	-	-
 -	fyrkka	-	noun	10	kk:k	back	a	slang	-
 -	fyrkka	-	noun	10	-	-	-	slang	-
 -	fyrkkendaali	-	noun	5	-	-	-	slang	-
 -	fysiatri	-	noun	5	-	back	i	-	-
 -	fysiatria	-	noun	12	-	back	a	-	-
 -	fysiikka	-	noun	14	kk:k	back	a	-	-
+-	fysikalismi	-	noun	5	-	-	-	-	-
+-	fysiognomia	-	noun	12	-	-	-	-	-
+-	fysiokraatti	-	noun	5	tt:t	-	-	-	-
 -	fysiokratia	-	noun	12	-	-	-	-	-
 -	fysiologi	-	noun	5	-	back	i	-	-
 -	fysiologia	-	noun	12	-	back	a	-	-
@@ -25719,6 +25895,7 @@
 -	g8	-	noun	10B	-	-	-	foreign	-
 -	ga	-	noun	21	-	-	-	-	-
 -	gaala	-	noun	9	-	back	a	-	-
+-	gabapentiini	-	noun	5	-	-	-	-	-
 -	gabardiini	-	noun	5	-	back	i	-	-
 -	gabonilainen	-	noun	38	-	-	-	-	-
 -	gaboronelainen	-	noun	38	-	-	-	-	-
@@ -25739,6 +25916,7 @@
 -	galantiini	-	noun	5	-	back	i	-	-
 -	galantine	-	noun	8	-	-	-	-	-
 -	galego	-	noun	1	-	-	-	-	-
+-	galeniitti	-	noun	5	tt:t	-	-	-	-
 -	galette	-	noun	8	tt:t|=	-	-	-	-
 -	galicia	-	noun	12	-	-	-	-	-
 -	galkanetsumabi	-	noun	5	-	-	-	-	-
@@ -25746,6 +25924,7 @@
 -	galleristi	-	noun	5	-	back	i	-	-
 -	gallialainen	-	noun	38	-	-	-	-	-
 -	gallialaisuus	-	noun	40	-	back	u	-	-
+-	gallikanismi	-	noun	5	-	-	-	-	-
 -	gallium	-	noun	5	-	-	-	-	-
 -	gallona	-	noun	10	-	back	a	-	-
 -	galloni	-	noun	6	-	-	-	dated	-
@@ -25764,6 +25943,7 @@
 -	gammaglobuliini	-	noun	5	-	-	-	-	-
 -	ganda	-	noun	9	-	-	-	-	-
 -	ganglio	-	noun	3	-	back	o	-	-
+-	gangliosidi	-	noun	5	-	-	-	-	-
 -	gangreeni	-	noun	6	-	-	-	-	-
 -	gangsteri	-	noun	6	-	back	i	-	-
 -	gangsterismi	-	noun	5	-	back	i	-	-
@@ -25777,7 +25957,10 @@
 -	garum	-	noun	6	-	-	-	-	-
 -	gaselli	-	noun	6	-	back	i	-	-
 -	gasti	-	noun	5	-	back	i	-	-
+-	gastrektomia	-	noun	12	-	-	-	-	-
+-	gastriini	-	noun	6	-	-	-	-	-
 -	gastriitti	-	noun	5	tt:t	-	-	-	-
+-	gastrinooma	-	noun	10	-	-	-	-	-
 -	gastroenterologi	-	noun	5	-	back	i	-	-
 -	gastroenterologia	-	noun	12	-	back	a	-	-
 -	gastronomi	-	noun	5	-	back	i	-	-
@@ -25882,6 +26065,8 @@
 -	gif	-	noun	5B	-	-	-	abbr	-
 -	giga	-	noun	9	-	-	-	-	-
 -	gigaku	-	noun	1	-	-	-	foreign	-
+-	gigantismi	-	noun	5	-	-	-	-	-
+-	gigantti	-	noun	5	tt:t	-	-	-	-
 -	giganttisuus	-	noun	40	-	back	u	-	-
 -	gigolo	-	noun	2	-	back	o	-	-
 -	gilaki	-	noun	5	-	-	-	-	-
@@ -25899,13 +26084,16 @@
 -	glamour	-	noun	5	-	back	u	-	-
 -	glaseeraus	-	noun	39	-	back	u	-	-
 -	glasiaatio	-	noun	3	-	-	-	-	-
+-	glasiologia	-	noun	12	-	-	-	-	-
 -	glasnost	-	noun	5	-	back	o	-	-
+-	glasyyri	-	noun	6	-	-	-	-	-
 -	glaukoniitti	-	noun	5	tt:t	-	-	-	-
 -	glaukooma	-	noun	10	-	back	a	-	-
 -	glencheck	-	noun	5	-	front	e	-	-
 -	gliadiini	-	noun	5	-	-	-	-	-
 -	gliasolu	-	noun	1	-	-	-	-	-
 -	gliooma	-	noun	9	-	-	-	-	-
+-	glissando	-	noun	1	-	-	-	-	-
 -	glitchi	-	noun	5	-	-	-	-	-
 -	glitteri	-	noun	6	-	-	-	-	-
 -	globaalisuus	-	noun	40	-	back	u	-	-
@@ -25916,17 +26104,23 @@
 -	globuliini	-	noun	5	-	-	-	dated	-
 -	gloksinia	-	noun	12	-	back	a	-	-
 -	glomerulonefriitti	-	noun	5	tt:t	-	-	-	-
+-	glomerulus	-	noun	39	-	-	-	-	-
 -	glooria	-	noun	12	-	back	a	-	-
 -	gloria	-	noun	12	-	back	a	-	-
 -	glossa	-	noun	10	-	-	-	-	-
+-	glossaario	-	noun	3	-	-	-	-	-
+-	glossolalia	-	noun	12	-	-	-	-	-
 -	glottaali	-	noun	6	-	-	-	-	-
 -	glottis	-	noun	39	-	-	-	-	-
 -	glukagoni	-	noun	5	-	-	-	-	-
 -	glukokortikoidi	-	noun	5	-	-	-	-	-
 -	glukoosi	-	noun	6	-	back	i	-	-
+-	glukosamiini	-	noun	5	-	-	-	-	-
 -	glukosidaasi	-	noun	5	-	-	-	-	-
+-	glukosidi	-	noun	5	-	-	-	-	-
 -	glukosuria	-	noun	12	-	-	-	-	-
 -	gluoni	-	noun	5	-	back	i	-	-
+-	glutamaatti	-	noun	5	tt:t	-	-	-	-
 -	glutamiini	-	noun	5	-	-	-	-	-
 -	glutationi	-	noun	5	-	-	-	-	-
 -	gluteeni	-	noun	5	-	back	i	-	-
@@ -25939,8 +26133,11 @@
 -	glykoneogeneesi	-	noun	5	-	-	-	-	-
 -	glykoproteiini	-	noun	5	-	-	-	-	-
 -	glykosidi	-	noun	5	-	-	-	-	-
+-	glyptoteekki	-	noun	5	kk:k	-	-	-	-
+-	glyseridi	-	noun	5	-	-	-	-	-
 -	glyseriini	-	noun	5	-	front	i	-	-
 -	glyseroli	-	noun	5	-	back	i	-	-
+-	glysiini	-	noun	6	-	-	-	-	-
 -	glyyfi	-	noun	5	-	-	-	-	-
 -	glögi	-	noun	5	-	front	i	-	-
 -	gneissi	-	noun	5	-	front	i	-	-
@@ -25998,7 +26195,9 @@
 -	grafologia	-	noun	12	-	back	a	-	-
 -	grafti	-	noun	5	-	-	-	-	-
 -	gramma	-	noun	9	-	back	a	-	-
+-	grammaatikko	-	noun	4	kk:k	-	-	-	-
 -	grammari	-	noun	6	-	back	i	coll	-
+-	grammatiikka	-	noun	9	kk:k	-	-	-	-
 -	gramofoni	-	noun	5	-	back	i	-	-
 -	granaatti	-	noun	5	tt:t	back	i	-	-
 -	granadilla	-	noun	9	-	back	a	-	-
@@ -26008,8 +26207,10 @@
 -	granodioriitti	-	noun	5	tt:t	-	-	-	-
 -	granofyyri	-	noun	5	-	-	-	-	-
 -	granola	-	noun	12	-	back	a	-	-
+-	granulaatio	-	noun	3	-	-	-	-	-
 -	granulaatti	-	noun	5	tt:t	-	-	-	-
 -	granuliitti	-	noun	5	tt:t	-	-	-	-
+-	granulointi	-	noun	5	nt:nn	-	-	-	-
 -	granulooma	-	noun	10	-	-	-	-	-
 -	granulosyytti	-	noun	5	tt:t	-	-	-	-
 -	grape	-	noun	8	-	back	e	-	-
@@ -26076,6 +26277,7 @@
 -	gutturaali	-	noun	5	-	-	-	-	-
 -	guyanalainen	-	noun	38	-	-	-	-	-
 -	gwitšin	-	noun	6	-	-	-	-	-
+-	gymnasion	-	noun	5	-	-	-	-	-
 -	gyne	-	noun	8	-	-	-	slang	-
 -	gynekologi	-	noun	5	-	back	i	-	-
 -	gynekologia	-	noun	12	-	back	a	-	-
@@ -26154,12 +26356,15 @@
 -	haba	-	noun	9	-	-	-	slang	-
 -	habitaatti	-	noun	5	tt:t	back	i	-	-
 -	habitus	-	noun	39	-	back	u	-	-
+-	hacienda	-	noun	9	-	-	-	foreign	-
 -	hadith	-	noun	5	-	-	-	-	-
 -	hadroni	-	noun	5	-	back	i	-	-
 -	haenta	-	noun	9	nt:nn	back	a	-	-
 -	haeskelu	-	noun	2	-	back	u	-	-
 -	hafnium	-	noun	5	-	-	-	-	-
--	hageslag	-	noun	5	-	-	-	foreign	-
+-	hageslag	-	noun	5	-	-	-	foreign|dubious	-
+-	hagiografia	-	noun	12	-	-	-	-	-
+-	hagiologia	-	noun	12	-	-	-	-	-
 -	hahlo	-	noun	1	-	back	o	-	-
 -	hahmo	-	noun	1	-	back	o	-	-
 -	hahmotelma	-	noun	10	-	back	a	-	-
@@ -26282,6 +26487,7 @@
 -	halme	-	noun	48	-	back	e	-	-
 -	halo	-	noun	1	-	back	o	-	-
 -	halogeeni	-	noun	5	-	back	i	-	-
+-	halokliini	-	noun	5	-	-	-	-	-
 -	haloo	-	noun	17	-	back	o	-	-
 -	haloperidoli	-	noun	5	-	-	-	-	-
 -	halotaani	-	noun	5	-	-	-	-	-
@@ -26307,6 +26513,7 @@
 -	halvennus	-	noun	39	-	back	u	-	-
 -	haléř	-	noun	6	-	-	-	rare	-
 -	hamara	-	noun	12	-	back	a	-	-
+-	hamartooma	-	noun	10	-	-	-	-	-
 -	hame	-	noun	48	-	back	e	-	-
 -	hamina	-	noun	13	-	-	-	dated|dial	-
 -	haminalainen	-	noun	38	-	-	-	-	-
@@ -26332,6 +26539,7 @@
 -	handout	-	noun	5	-	-	-	-	-
 -	handsfree	-	noun	21	-	-	-	-	-
 -	handu	-	noun	1	-	back	u	slang	-
+-	hangaari	-	noun	6	-	-	-	-	-
 -	hangollinen	-	noun	38	-	back	e	-	-
 -	hanhi	-	noun	7	-	back	i	-	-
 -	hanhikki	-	noun	5	kk:k	back	i	-	-
@@ -26374,6 +26582,7 @@
 -	hapettuma	-	noun	10	-	back	a	-	-
 -	hapettuminen	-	noun	38	-	-	-	-	-
 -	hapetus	-	noun	39	-	back	u	-	-
+-	haploidi	-	noun	5	-	-	-	-	-
 -	hapoke	-	noun	48	kk:k	back	e	-	-
 -	hapokkuus	-	noun	40	-	back	u	-	-
 -	hapotus	-	noun	39	-	-	-	-	-
@@ -26430,6 +26639,7 @@
 -	harlekiini	-	noun	5	-	back	i	-	-
 -	harmaa	-	noun	17	-	-	-	-	-
 -	harmakka	-	noun	14	kk:k	-	-	-	-
+-	harmattan	-	noun	?6	-	-	-	-	-
 -	harmaus	-	noun	40	-	back	u	-	-
 -	harme	-	noun	48	-	back	e	-	-
 -	harmi	-	noun	5	-	back	i	-	-
@@ -26455,6 +26665,7 @@
 -	harrastuneisuus	-	noun	40	-	back	u	-	-
 -	harrastus	-	noun	39	-	back	u	-	-
 -	harri	-	noun	5	-	back	i	-	-
+-	harrieri	-	noun	5	-	-	-	-	-
 -	harrikka	-	noun	14	kk:k	-	-	slang	-
 -	harsinta	-	noun	9	nt:nn	back	a	-	-
 -	harso	-	noun	1	-	back	o	-	-
@@ -26548,6 +26759,7 @@
 -	headhunting	-	noun	5	-	-	-	-	-
 -	heavy	-	noun	1	-	front|back	y	-	-
 -	heavy metal	-	noun	5	-	-	-	foreign	-
+-	hebefrenia	-	noun	12	-	-	-	-	-
 -	hebrea	-	noun	12	-	back	a	dated	-
 -	hedari	-	noun	6	-	back	i	slang	-
 -	hede	-	noun	48	t:d	front	e	-	-
@@ -26619,8 +26831,10 @@
 -	heksaani	-	noun	5	-	-	-	-	-
 -	heksaedri	-	noun	5	-	back	i	-	-
 -	heksagoni	-	noun	5	-	back	i	-	-
+-	heksagrammi	-	noun	5	-	-	-	-	-
 -	heksameron	-	noun	6	-	-	-	-	-
 -	heksametri	-	noun	5	-	back	i	-	-
+-	heksogeeni	-	noun	5	-	-	-	-	-
 -	hektisyys	-	noun	40	-	front	y	-	-
 -	hekuma	-	noun	11	-	back	a	-	-
 -	hekumallisuus	-	noun	40	-	back	u	-	-
@@ -26631,6 +26845,8 @@
 -	helibor	-	noun	5	-	back	o	-	-
 -	helikopteri	-	noun	6	-	back	i	-	-
 -	helinä	-	noun	12	-	front	ä	-	-
+-	heliografi	-	noun	5	-	-	-	-	-
+-	heliostaatti	-	noun	5	tt:t	-	-	-	-
 -	heliotrooppi	-	noun	5	pp:p	back	i	-	-
 -	helistin	-	noun	33	-	front	i	-	-
 -	helium	-	noun	5	-	back	u	-	-
@@ -26680,11 +26896,13 @@
 -	hemangiooma	-	noun	9	-	-	-	-	-
 -	hematemeesi	-	noun	5	-	-	-	-	-
 -	hematiitti	-	noun	5	tt:t	back	i	-	-
+-	hematofobia	-	noun	12	-	-	-	-	-
 -	hematokriitti	-	noun	5	tt:t	-	-	-	-
 -	hematologia	-	noun	12	-	back	a	-	-
 -	hematooma	-	noun	10	-	-	-	-	-
 -	hematuria	-	noun	12	-	-	-	-	-
 -	hemi	-	noun	5	-	-	-	-	-
+-	hemianopia	-	noun	12	-	-	-	-	-
 -	hemiplegia	-	noun	12	-	-	-	-	-
 -	hemisfääri	-	noun	5	-	front	i	-	-
 -	hemmetti	-	noun	5	tt:t	front	i	coll	-
@@ -26695,12 +26913,14 @@
 -	hemofiltraatio	-	noun	3	-	-	-	-	-
 -	hemoglobiini	-	noun	5	-	back	i	-	-
 -	hemokromatoosi	-	noun	5	-	-	-	-	-
+-	hemolymfa	-	noun	10	-	-	-	-	-
 -	hemolysiini	-	noun	5	-	-	-	-	-
 -	hemolyysi	-	noun	5	-	-	-	-	-
 -	hemoptyysi	-	noun	5	-	-	-	-	-
 -	hemorragia	-	noun	12	-	-	-	-	-
 -	hemorroidi	-	noun	5	-	back	i	-	-
 -	hemosideriini	-	noun	5	-	-	-	-	-
+-	hemostaatti	-	noun	5	tt:t	-	-	-	-
 -	hempeily	-	noun	2	-	front	y	-	-
 -	hempeys	-	noun	40	-	front	y	-	-
 -	hemppo	-	noun	1	pp:p	back	o	-	-
@@ -26751,6 +26971,7 @@
 -	heraldiikka	-	noun	9	kk:k	back	a	-	-
 -	heraldikko	-	noun	4	kk:k	back	o	-	-
 -	herbaario	-	noun	3	-	back	o	-	-
+-	herbisidi	-	noun	5	-	-	-	-	-
 -	hereford	-	noun	5	-	back	o	-	-
 -	herero	-	noun	2	-	-	-	-	-
 -	heresia	-	noun	12	-	-	-	-	-
@@ -26773,6 +26994,7 @@
 -	herkuttelu	-	noun	2	-	back	u	-	-
 -	hermafrodiitti	-	noun	5	tt:t	back	i	-	-
 -	hermeneutiikka	-	noun	9	kk:k	back	a	-	-
+-	hermetismi	-	noun	5	-	-	-	-	-
 -	hermo	-	noun	1	-	back	o	-	-
 -	hermoilu	-	noun	2	-	back	u	-	-
 -	hermosto	-	noun	2	-	back	o	-	-
@@ -26817,10 +27039,13 @@
 -	hete	-	noun	48	tt:t	front	e	-	-
 -	heteka	-	noun	13	-	back	a	-	-
 -	hetero	-	noun	2	-	-	-	coll	-
+-	heterofonia	-	noun	12	-	-	-	-	-
 -	heterogamia	-	noun	12	-	back	a	-	-
 -	heterogeenisuus	-	noun	40	-	back	u	-	-
 -	heterogeenisyys	-	noun	40	-	front	y	-	-
 -	heteronomia	-	noun	12	-	-	-	-	-
+-	heteronyymi	-	noun	5	-	-	-	-	-
+-	heteroosi	-	noun	5	-	-	-	-	-
 -	hetiö	-	noun	3	-	front	ö	-	-
 -	hetki	-	noun	7	-	front	i	-	-
 -	hetkinen	-	noun	38	-	front	e	-	-
@@ -26833,6 +27058,7 @@
 -	hevi	-	noun	5	-	front	i	-	-
 -	hevonen	-	noun	38	-	back	e	-	-
 -	hiatus	-	noun	39	-	-	-	-	-
+-	hibernaatio	-	noun	3	-	-	-	-	-
 -	hibiskus	-	noun	39	-	back	u	-	-
 -	hidalgo	-	noun	2	-	back	o	-	-
 -	hidaste	-	noun	48	-	back	e	-	-
@@ -26988,6 +27214,7 @@
 -	hippi	-	noun	5	pp:p	front	i	-	-
 -	hippiäinen	-	noun	38	-	front	e	-	-
 -	hippodromi	-	noun	5	-	back	i	-	-
+-	hippogryfi	-	noun	5	-	-	-	-	-
 -	hippokampus	-	noun	39	-	back	u	-	-
 -	hippu	-	noun	1	pp:p	back	u	-	-
 -	hippunen	-	noun	38	-	back	e	-	-
@@ -26995,6 +27222,7 @@
 -	hipsteri	-	noun	6	-	front	i	coll	-
 -	hipsuttelu	-	noun	2	-	back	u	-	-
 -	hipsutus	-	noun	39	-	back	u	-	-
+-	hiragana	-	noun	?13	-	-	-	-	-
 -	hirmu	-	noun	1	-	back	u	-	-
 -	hirmuisuus	-	noun	40	-	back	u	-	-
 -	hirnahdus	-	noun	39	-	back	u	-	-
@@ -27004,6 +27232,7 @@
 -	hirssi	-	noun	5	-	front	i	-	-
 -	hirsutismi	-	noun	5	-	-	-	-	-
 -	hirtto	-	noun	1	tt:t	back	o	-	-
+-	hirudiini	-	noun	5	-	-	-	-	-
 -	hirvas	-	noun	41	-	back	a	-	-
 -	hirvestys	-	noun	39	-	front	y	-	-
 -	hirveys	-	noun	40	-	front	y	-	-
@@ -27026,6 +27255,8 @@
 -	historiattomuus	-	noun	40	-	-	-	-	-
 -	historiikki	-	noun	5	kk:k	back	i	-	-
 -	historioitsija	-	noun	12	-	back	a	-	-
+-	historismi	-	noun	5	-	-	-	-	-
+-	histrioni	-	noun	5	-	-	-	-	-
 -	hitailu	-	noun	2	-	-	-	-	-
 -	hitaus	-	noun	40	-	back	u	-	-
 -	hitsaaja	-	noun	10	-	back	a	-	-
@@ -27123,15 +27354,20 @@
 -	homofiilisyys	-	noun	40	-	front	y	-	-
 -	homofiilius	-	noun	40	-	back	u	-	-
 -	homofiiliys	-	noun	40	-	front	y	-	-
+-	homofonia	-	noun	12	-	-	-	-	-
 -	homogeenisuus	-	noun	40	-	back	u	-	-
 -	homogeenisyys	-	noun	40	-	front	y	-	-
 -	homogenisointi	-	noun	5	nt:nn	back	i	-	-
 -	homogenointi	-	noun	5	nt:nn	back	i	-	-
+-	homografi	-	noun	5	-	-	-	-	-
 -	homografti	-	noun	5	-	-	-	-	-
 -	homoioteleuton	-	noun	6	-	-	-	foreign	-
 -	homokysteiini	-	noun	5	-	-	-	-	-
 -	homola	-	noun	12	-	-	-	coll	-
+-	homologia	-	noun	12	-	-	-	-	-
+-	homomorfia	-	noun	12	-	-	-	-	-
 -	homonomia	-	noun	12	-	-	-	-	-
+-	homonymia	-	noun	12	-	-	-	-	-
 -	homonyymi	-	noun	5	-	front|back	i	-	-
 -	homoseksuaali	-	noun	5	-	-	-	-	-
 -	homoseksuaalisuus	-	noun	40	-	-	-	-	-
@@ -27175,6 +27411,7 @@
 -	horna	-	noun	10	-	back	a	-	-
 -	hornakka	-	noun	14	kk:k	-	-	-	-
 -	horo	-	noun	1	-	-	-	coll	-
+-	horologia	-	noun	12	-	-	-	-	-
 -	horoskooppi	-	noun	5	pp:p	back	i	-	-
 -	horre	-	noun	48	rt:rr	back	e	-	-
 -	horros	-	noun	39	-	back	o	-	-
@@ -27288,6 +27525,7 @@
 -	humalisto	-	noun	1	-	back	o	-	-
 -	humanismi	-	noun	5	-	back	i	-	-
 -	humanisti	-	noun	5	-	back	i	-	-
+-	humaniteetti	-	noun	5	tt:t	-	-	-	-
 -	humanoidi	-	noun	5	-	back	i	-	-
 -	humaus	-	noun	39	-	back	u	-	-
 -	humidori	-	noun	5	-	back	i	-	-
@@ -27310,6 +27548,7 @@
 -	humu	-	noun	1	-	back	u	-	-
 -	humus	-	noun	39	-	back	u	-	-
 -	hunaja	-	noun	10	-	back	a	-	-
+-	hungarologia	-	noun	12	-	-	-	-	-
 -	hunni	-	noun	5	-	back	i	-	-
 -	hunsvotti	-	noun	5	tt:t	back	i	-	-
 -	huntti	-	noun	5	tt:t	back	i	coll	-
@@ -27465,14 +27704,18 @@
 -	hydraus	-	noun	39	-	-	-	-	-
 -	hydrobic	-	noun	5	-	-	-	-	-
 -	hydrobikki	-	noun	5	kk:k	-	-	-	-
+-	hydrofyytti	-	noun	5	tt:t	-	-	-	-
 -	hydrokefalia	-	noun	12	-	-	-	-	-
+-	hydrokefalus	-	noun	39	-	-	-	-	-
 -	hydrokopteri	-	noun	6	-	back	i	-	-
 -	hydrokortisoni	-	noun	5	-	back	i	-	-
 -	hydroksidi	-	noun	5	-	back	i	-	-
 -	hydroksyyli	-	noun	5	-	front|back	i	-	-
+-	hydrologi	-	noun	5	-	-	-	-	-
 -	hydrologia	-	noun	12	-	back	a	-	-
 -	hydrolyysi	-	noun	5	-	-	-	-	-
 -	hydrometri	-	noun	5	-	-	-	-	-
+-	hydromorfoni	-	noun	?6	-	-	-	-	-
 -	hydrosfääri	-	noun	5	-	front	i	-	-
 -	hydrospinning	-	noun	5	-	-	-	-	-
 -	hydroterminen	-	noun	38	-	-	-	-	-
@@ -27481,6 +27724,7 @@
 -	hygieenisyys	-	noun	40	-	front	y	-	-
 -	hygienia	-	noun	12	-	back	a	-	-
 -	hygrometri	-	noun	5	-	back	i	-	-
+-	hygrostaatti	-	noun	5	tt:t	-	-	-	-
 -	hyhmä	-	noun	10	-	front	ä	-	-
 -	hykerrys	-	noun	39	-	front	y	-	-
 -	hylje	-	noun	48	k:j	front	e	-	-
@@ -27492,6 +27736,7 @@
 -	hyllykkö	-	noun	4	kk:k	front	ö	-	-
 -	hyllyllinen	-	noun	38	-	front	e	-	-
 -	hyllystö	-	noun	1	-	front	ö	-	-
+-	hylotsoismi	-	noun	5	-	-	-	-	-
 -	hylsy	-	noun	1	-	front	y	-	-
 -	hymen	-	noun	5	-	front	e	-	-
 -	hyminä	-	noun	12	-	front	ä	-	-
@@ -27499,11 +27744,13 @@
 -	hymistys	-	noun	39	-	front	y	-	-
 -	hymiö	-	noun	3	-	front	ö	-	-
 -	hymni	-	noun	5	-	front	i	-	-
+-	hymnologia	-	noun	12	-	-	-	-	-
 -	hymy	-	noun	1	-	front	y	-	-
 -	hymyily	-	noun	2	-	front	y	-	-
 -	hymähdys	-	noun	39	-	front	y	-	-
 -	hynä	-	noun	10	-	front	ä	slang	-
 -	hype	-	noun	8	-	front	e	-	-
+-	hyperakusia	-	noun	12	-	-	-	-	-
 -	hyperalgesia	-	noun	12	-	-	-	-	-
 -	hyperbeli	-	noun	5	-	front	i	-	-
 -	hyperbilirubinemia	-	noun	12	-	-	-	-	-
@@ -27534,6 +27781,7 @@
 -	hyperparatyreoosi	-	noun	5	-	-	-	-	-
 -	hyperplasia	-	noun	12	-	-	-	-	-
 -	hypersekreetio	-	noun	3	-	-	-	-	-
+-	hypersomnia	-	noun	12	-	-	-	-	-
 -	hypertensio	-	noun	3	-	-	-	-	-
 -	hypertermia	-	noun	12	-	-	-	-	-
 -	hypertonia	-	noun	12	-	back	a	-	-
@@ -27560,17 +27808,22 @@
 -	hypokinesia	-	noun	12	-	-	-	-	-
 -	hypokloriitti	-	noun	5	tt:t	-	-	-	-
 -	hypokondria	-	noun	12	-	back	a	-	-
+-	hypokrisia	-	noun	12	-	-	-	-	-
 -	hypoksemia	-	noun	12	-	-	-	-	-
 -	hypoksia	-	noun	12	-	-	-	-	-
+-	hypoksifilia	-	noun	12	-	-	-	-	-
 -	hypolaktasia	-	noun	12	-	-	-	-	-
 -	hypomania	-	noun	12	-	-	-	-	-
 -	hyponatremia	-	noun	12	-	-	-	-	-
+-	hyponyymi	-	noun	5	-	-	-	-	-
 -	hypoperfuusio	-	noun	3	-	-	-	-	-
 -	hypopnea	-	noun	12	-	-	-	-	-
 -	hyposalivaatio	-	noun	3	-	-	-	-	-
 -	hyposekreetio	-	noun	3	-	-	-	-	-
 -	hyposentri	-	noun	5	-	-	-	-	-
+-	hyposentrumi	-	noun	5	-	-	-	-	-
 -	hypositraturia	-	noun	12	-	-	-	-	-
+-	hyposmia	-	noun	12	-	-	-	-	-
 -	hypotaksi	-	noun	5	-	back	i	-	-
 -	hypotalamus	-	noun	39	-	back	u	-	-
 -	hypoteekki	-	noun	5	kk:k	back	i	-	-
@@ -27578,6 +27831,7 @@
 -	hypotensio	-	noun	3	-	-	-	-	-
 -	hypotenuusa	-	noun	10	-	back	a	-	-
 -	hypotermia	-	noun	12	-	back	a	-	-
+-	hypotonia	-	noun	12	-	-	-	-	-
 -	hypotyreoosi	-	noun	5	-	-	-	-	-
 -	hypoventilaatio	-	noun	3	-	-	-	-	-
 -	hypovolemia	-	noun	12	-	-	-	-	-
@@ -27588,6 +27842,7 @@
 -	hyppyytys	-	noun	39	-	-	-	-	-
 -	hyppäys	-	noun	39	-	front	y	-	-
 -	hyppääjä	-	noun	10	-	front	ä	-	-
+-	hypsometri	-	noun	5	-	-	-	-	-
 -	hypähdys	-	noun	39	-	front	y	-	-
 -	hypäri	-	noun	6	-	-	-	coll	-
 -	hyrinä	-	noun	12	-	front	ä	-	-
@@ -27647,6 +27902,7 @@
 -	hyörintä	-	noun	9	nt:nn	front	ä	-	-
 -	hyörinä	-	noun	12	-	front	ä	-	-
 -	hyöty	-	noun	1	t:d	front	y	-	-
+-	hyötäminen	-	noun	38	-	-	-	-	-
 -	hyötämö	-	noun	2	-	front	ö	-	-
 -	hyötö	-	noun	1	t:d	front	ö	-	-
 -	hähätys	-	noun	39	-	front	y	-	-
@@ -27835,6 +28091,7 @@
 -	identifiointi	-	noun	5	nt:nn	back	i	-	-
 -	identiteetti	-	noun	5	tt:t	front	i	-	-
 -	identtisyys	-	noun	40	-	front	y	-	-
+-	ideogrammi	-	noun	5	-	-	-	-	-
 -	ideointi	-	noun	5	nt:nn	back	i	-	-
 -	ideologi	-	noun	5	-	back	i	-	-
 -	ideologia	-	noun	12	-	back	a	-	-
@@ -27846,6 +28103,7 @@
 -	idiosynkrasia	-	noun	12	-	-	-	-	-
 -	idis	-	noun	39	-	front	i	slang	-
 -	ido	-	noun	1	-	-	-	-	-
+-	idolatria	-	noun	12	-	-	-	-	-
 -	idoli	-	noun	6	-	back	i	-	-
 -	idylli	-	noun	5	-	front	i	-	-
 -	idyllisyys	-	noun	40	-	front	y	-	-
@@ -27899,8 +28157,10 @@
 -	iknofossiili	-	noun	5	-	-	-	-	-
 -	ikoni	-	noun	6	-	back	i	-	-
 -	ikonisuus	-	noun	40	-	back	u	-	-
+-	ikonografia	-	noun	12	-	-	-	-	-
 -	ikonoklasmi	-	noun	5	-	-	-	-	-
 -	ikonoklasti	-	noun	5	-	-	-	-	-
+-	ikonologia	-	noun	12	-	-	-	-	-
 -	ikonostaasi	-	noun	5	-	back	i	-	-
 -	ikterus	-	noun	39	-	-	-	-	-
 -	iktus	-	noun	39	-	-	-	-	-
@@ -27932,6 +28192,7 @@
 -	illallinen	-	noun	38	-	back	e	-	-
 -	illatiivi	-	noun	5	-	back	i	-	-
 -	illusioni	-	noun	5	-	-	-	arch	-
+-	illusionismi	-	noun	5	-	-	-	-	-
 -	illusionisti	-	noun	5	-	-	-	-	-
 -	illustraatio	-	noun	3	-	back	o	-	-
 -	illuusio	-	noun	3	-	back	o	-	-
@@ -28006,6 +28267,7 @@
 -	imitointi	-	noun	5	nt:nn	back	i	-	-
 -	immeinen	-	noun	38	-	front	e	dial|jocul	-
 -	immersio	-	noun	3	-	-	-	-	-
+-	immigraatio	-	noun	3	-	-	-	-	-
 -	immissio	-	noun	3	-	-	-	-	-
 -	immittanssi	-	noun	5	-	-	-	-	-
 -	immobilisaatio	-	noun	3	-	-	-	-	-
@@ -28023,6 +28285,7 @@
 -	impaktiitti	-	noun	5	tt:t	-	-	-	-
 -	impala	-	noun	12	-	-	-	-	-
 -	impedanssi	-	noun	5	-	back	i	-	-
+-	imperaattori	-	noun	?6	-	-	-	-	-
 -	imperatiivi	-	noun	5	-	back	i	-	-
 -	imperfekti	-	noun	5	-	front	i	-	-
 -	imperialismi	-	noun	5	-	back	i	-	-
@@ -28035,6 +28298,7 @@
 -	implementaatio	-	noun	3	-	back	o	-	-
 -	implikaatio	-	noun	3	-	-	-	-	-
 -	implisiittisyys	-	noun	40	-	front	y	-	-
+-	imploosio	-	noun	3	-	-	-	-	-
 -	impotenssi	-	noun	5	-	back	i	-	-
 -	imppaus	-	noun	39	-	back	u	coll	-
 -	impregnointi	-	noun	5	nt:nn	back	i	-	-
@@ -28079,6 +28343,8 @@
 -	indokiinalainen	-	noun	38	-	-	-	-	-
 -	indoktrinaatio	-	noun	3	-	back	o	-	-
 -	indoktrinointi	-	noun	5	nt:nn	back	i	-	-
+-	indologi	-	noun	5	-	-	-	-	-
+-	indologia	-	noun	12	-	-	-	-	-
 -	indometasiini	-	noun	5	-	-	-	-	-
 -	indonesia	-	noun	12	-	-	-	-	-
 -	indonesialainen	-	noun	38	-	-	-	-	-
@@ -28102,7 +28368,9 @@
 -	infliksimabi	-	noun	5	-	-	-	-	-
 -	influenssa	-	noun	9	-	back	a	-	-
 -	influensseri	-	noun	6	-	-	-	-	-
+-	influenssi	-	noun	5	-	-	-	-	-
 -	info	-	noun	1	-	back	o	coll	-
+-	infodemia	-	noun	12	-	-	-	-	-
 -	infokratia	-	noun	12	-	back	a	jocul	-
 -	informaatikko	-	noun	4	kk:k	back	o	-	-
 -	informaatio	-	noun	3	-	back	o	-	-
@@ -28126,6 +28394,7 @@
 -	inhottavuus	-	noun	40	-	back	u	-	-
 -	inhotus	-	noun	39	-	back	u	-	-
 -	ininä	-	noun	12	-	front	ä	-	-
+-	initiaali	-	noun	5	-	-	-	-	-
 -	initiaatio	-	noun	3	-	back	o	-	-
 -	iniöläinen	-	noun	38	-	-	-	-	-
 -	injektio	-	noun	3	-	back	o	-	-
@@ -28161,14 +28430,17 @@
 -	inositoli	-	noun	6	-	-	-	-	-
 -	input	-	noun	5	-	-	-	-	-
 -	insatsi	-	noun	5	-	back	i	-	-
+-	insektisidi	-	noun	5	-	-	-	-	-
 -	inseminaatio	-	noun	3	-	back	o	-	-
 -	insertio	-	noun	3	-	-	-	-	-
 -	insertti	-	noun	5	tt:t	front	i	-	-
 -	insesti	-	noun	5	-	front	i	-	-
 -	insidenssi	-	noun	5	-	front	i	-	-
 -	insider	-	noun	6	-	back	e	foreign	-
+-	insignia	-	noun	12	-	-	-	foreign	-
 -	insinööri	-	noun	5	-	front	i	-	-
 -	insisio	-	noun	3	-	-	-	-	-
+-	insolaatio	-	noun	3	-	-	-	-	-
 -	insomnia	-	noun	12	-	-	-	-	-
 -	inspehtori	-	noun	6	-	back	i	-	-
 -	inspektio	-	noun	3	-	-	-	-	-
@@ -28191,6 +28463,7 @@
 -	insuffisienssi	-	noun	5	-	back	i	-	-
 -	insula	-	noun	12	-	-	-	foreign	-
 -	insuliini	-	noun	5	-	back	i	-	-
+-	insulinooma	-	noun	10	-	-	-	-	-
 -	insultti	-	noun	5	tt:t	-	-	-	-
 -	intarsia	-	noun	12	-	back	a	-	-
 -	integraali	-	noun	5	-	back	i	-	-
@@ -28205,6 +28478,7 @@
 -	intendentti	-	noun	5	tt:t	front	i	-	-
 -	intendentuuri	-	noun	5	-	back	i	dated	-
 -	intensiivisyys	-	noun	40	-	front	y	-	-
+-	intensio	-	noun	3	-	-	-	-	-
 -	intensiteetti	-	noun	5	tt:t	front	i	-	-
 -	intentio	-	noun	3	-	back	o	-	-
 -	intentionalismi	-	noun	5	-	-	-	-	-
@@ -28219,6 +28493,7 @@
 -	interlingua	-	noun	12	-	-	-	-	-
 -	interlingue	-	noun	8	-	-	-	-	-
 -	intermediaalisuus	-	noun	40	-	-	-	-	-
+-	intermedio	-	noun	3	-	-	-	-	-
 -	intermezzo	-	noun	1	-	back	o	-	-
 -	internaatti	-	noun	5	tt:t	back	i	-	-
 -	internationaali	-	noun	5	-	back	i	-	-
@@ -28229,6 +28504,7 @@
 -	interpolaatio	-	noun	3	-	-	-	-	-
 -	interpolointi	-	noun	5	nt:nn	-	-	-	-
 -	interrailaaja	-	noun	10	-	back	a	coll	-
+-	interregnum	-	noun	5	-	-	-	-	-
 -	interreilaaja	-	noun	10	-	back	a	coll	-
 -	interseksuaalisuus	-	noun	40	-	back	u	-	-
 -	intertekstuaalisuus	-	noun	40	-	back	u	-	-
@@ -28279,6 +28555,7 @@
 -	invertteri	-	noun	6	-	front	i	-	-
 -	investoija	-	noun	10	-	back	a	-	-
 -	investointi	-	noun	5	nt:nn	back	i	-	-
+-	invokaatio	-	noun	3	-	-	-	-	-
 -	ioni	-	noun	6	-	back	i	-	-
 -	ionisaatio	-	noun	3	-	back	o	-	-
 -	ionisaattori	-	noun	6	-	back	i	-	-
@@ -28350,6 +28627,7 @@
 -	isoentsyymi	-	noun	6	-	-	-	-	-
 -	isoflavonoidi	-	noun	5	-	-	-	-	-
 -	isofluraani	-	noun	5	-	-	-	-	-
+-	isoglossi	-	noun	5	-	-	-	-	-
 -	isoinen	-	noun	38	-	back	e	-	-
 -	isolaatio	-	noun	3	-	back	o	-	-
 -	isolaatti	-	noun	5	tt:t	-	-	-	-
@@ -28357,6 +28635,7 @@
 -	isolointi	-	noun	5	nt:nn	back	i	-	-
 -	isomeeri	-	noun	5	-	back	i	-	-
 -	isomeria	-	noun	12	-	back	a	-	-
+-	isometria	-	noun	12	-	-	-	-	-
 -	isomorfia	-	noun	12	-	back	a	-	-
 -	isonen	-	noun	38	-	back	e	-	-
 -	isoniatsidi	-	noun	5	-	-	-	-	-
@@ -28374,6 +28653,7 @@
 -	istukas	-	noun	41	kk:k	back	a	-	-
 -	istukka	-	noun	14	kk:k	back	a	-	-
 -	istuma	-	noun	10	-	-	-	-	-
+-	istuminen	-	noun	38	-	-	-	-	-
 -	istunta	-	noun	9	nt:nn	back	a	-	-
 -	istunto	-	noun	1	nt:nn	back	o	-	-
 -	istuskelu	-	noun	1	-	back	u	-	-
@@ -28406,6 +28686,7 @@
 -	itsari	-	noun	6	-	back	i	slang	-
 -	itse	-	noun	8	-	front	e	-	-
 -	itsekkyys	-	noun	40	-	front	y	-	-
+-	itsellinen	-	noun	38	-	-	-	-	-
 -	itsenäisyys	-	noun	40	-	front	y	-	-
 -	itseys	-	noun	40	-	front	y	-	-
 -	itu	-	noun	1	t:d	back	u	-	-
@@ -28519,6 +28800,7 @@
 -	japonismi	-	noun	5	-	back	i	-	-
 -	japsi	-	noun	5	-	back	i	coll	-
 -	jargon	-	noun	5	-	back	o	-	-
+-	jarmulke	-	noun	8	-	-	-	-	-
 -	jarru	-	noun	1	-	back	u	-	-
 -	jarrutus	-	noun	39	-	back	u	-	-
 -	jasmiini	-	noun	5	-	back	i	-	-
@@ -28596,8 +28878,10 @@
 -	jiippi	-	noun	5	pp:p	front	i	-	-
 -	jiiri	-	noun	5	-	front	i	-	-
 -	jin	-	noun	5	-	front	i	non-compounding	-
+-	jingoismi	-	noun	5	-	-	-	-	-
 -	jippo	-	noun	1	pp:p	back	o	coll	-
 -	jippoilu	-	noun	2	-	back	u	coll	-
+-	jitterbug	-	noun	5	-	-	-	-	-
 -	jiujitsu	-	noun	1	-	back	u	-	-
 -	jive	-	noun	8	-	front	e	-	-
 -	jju	-	noun	21	-	-	-	-	-
@@ -28620,10 +28904,12 @@
 -	johdin	-	noun	33	t:d	back	i	-	-
 -	johdos	-	noun	39	-	back	o	-	-
 -	johdotus	-	noun	39	-	back	u	-	-
+-	johimbiini	-	noun	5	-	-	-	-	-
 -	johtaja	-	noun	10	-	back	a	-	-
 -	johtajatar	-	noun	32	tt:t	back	a	dated	-
 -	johtajisto	-	noun	1	-	back	o	-	-
 -	johtajuus	-	noun	40	-	back	u	-	-
+-	johtaminen	-	noun	38	-	-	-	-	-
 -	johtavuus	-	noun	40	-	back	u	-	-
 -	johto	-	noun	1	t:d	back	o	-	-
 -	joikaus	-	noun	39	-	back	u	-	-
@@ -28812,6 +29098,7 @@
 -	juppi	-	noun	5	pp:p	back	i	-	-
 -	juppius	-	noun	40	-	back	u	-	-
 -	juridiikka	-	noun	9	kk:k	back	a	-	-
+-	jurisdiktio	-	noun	3	-	-	-	-	-
 -	juristeria	-	noun	12	-	back	a	-	-
 -	juristi	-	noun	5	-	back	i	-	-
 -	jurnutus	-	noun	39	-	back	u	-	-
@@ -29081,6 +29368,7 @@
 -	kaataja	-	noun	10	-	back	a	-	-
 -	kaatis	-	noun	39	-	-	-	slang	-
 -	kaato	-	noun	1	t:d	back	o	-	-
+-	kaatunut	-	noun	47	-	-	-	-	-
 -	kaava	-	noun	9	-	back	a	-	-
 -	kaavaaja	-	noun	10	-	back	a	-	-
 -	kaavailu	-	noun	2	-	back	u	-	-
@@ -29254,6 +29542,7 @@
 -	kalastus	-	noun	39	-	back	u	-	-
 -	kaldera	-	noun	13	-	back	a	-	-
 -	kale	-	noun	48	-	back	e	-	-
+-	kalebassi	-	noun	5	-	-	-	-	-
 -	kaleeri	-	noun	6	-	back	i	-	-
 -	kaleidoskooppi	-	noun	5	pp:p	back	i	-	-
 -	kalendaario	-	noun	3	-	back	o	-	-
@@ -29261,6 +29550,7 @@
 -	kalenteri	-	noun	6	-	back	i	-	-
 -	kalhu	-	noun	1	-	back	u	-	-
 -	kali	-	noun	5	-	back	i	-	-
+-	kaliberi	-	noun	6	-	-	-	dated	-
 -	kalibrointi	-	noun	5	nt:nn	back	i	-	-
 -	kalifaatti	-	noun	5	tt:t	back	i	-	-
 -	kalifi	-	noun	5	-	back	i	-	-
@@ -29299,6 +29589,7 @@
 -	kallas	-	noun	39	-	back	a	rare	-
 -	kalle	-	noun	8	-	back	e	coll	-
 -	kalleus	-	noun	40	-	back	u	-	-
+-	kalligrafi	-	noun	5	-	-	-	-	-
 -	kalligrafia	-	noun	12	-	back	a	-	-
 -	kallikka	-	noun	14	kk:k	-	-	-	-
 -	kallio	-	noun	3	-	back	o	-	-
@@ -29318,6 +29609,7 @@
 -	kalorimetri	-	noun	5	-	back	i	-	-
 -	kalossi	-	noun	5	-	back	i	-	-
 -	kalotti	-	noun	5	tt:t	back	i	-	-
+-	kalotypia	-	noun	12	-	-	-	-	-
 -	kalpa	-	noun	9	p:v	back	a	-	-
 -	kalpeus	-	noun	40	-	back	u	-	-
 -	kalsa	-	noun	9	-	-	-	slang	-
@@ -29489,6 +29781,7 @@
 -	kantamuksellinen	-	noun	38	-	back	e	-	-
 -	kantamus	-	noun	39	-	back	u	-	-
 -	kantarelli	-	noun	5	-	back	i	-	-
+-	kantaridiini	-	noun	5	-	-	-	-	-
 -	kantavuus	-	noun	40	-	back	u	-	-
 -	kantele	-	noun	49b	-	back	e	-	-
 -	kantelija	-	noun	12	-	back	a	-	-
@@ -29510,6 +29803,7 @@
 -	kanuri	-	noun	6	-	-	-	-	-
 -	kanuuna	-	noun	13	-	back	a	-	-
 -	kanvaasi	-	noun	5	-	-	-	-	-
+-	kanvasti	-	noun	5	-	-	-	-	-
 -	kanveesi	-	noun	5	-	back	i	-	-
 -	kanyyli	-	noun	5	-	front|back	i	-	-
 -	kaoliini	-	noun	5	-	back	i	-	-
@@ -29543,6 +29837,7 @@
 -	kapitalisti	-	noun	5	-	back	i	-	-
 -	kapitalointi	-	noun	5	nt:nn	back	i	dated	-
 -	kapiteeli	-	noun	5	-	back	i	-	-
+-	kapitulaatio	-	noun	3	-	-	-	-	-
 -	kapitulantti	-	noun	5	tt:t	back	i	dated	-
 -	kapituli	-	noun	5	-	back	i	-	-
 -	kaplas	-	noun	41	-	back	a	-	-
@@ -29649,6 +29944,7 @@
 -	karikkoisuus	-	noun	40	-	back	u	-	-
 -	karinaislainen	-	noun	38	-	-	-	-	-
 -	karinaistelainen	-	noun	38	-	-	-	-	-
+-	kariologia	-	noun	12	-	-	-	-	-
 -	karioottisuus	-	noun	40	-	back	u	-	-
 -	karisma	-	noun	13	-	back	a	-	-
 -	karismaatikko	-	noun	4	kk:k	-	-	-	-
@@ -29697,6 +29993,7 @@
 -	karmeus	-	noun	40	-	back	u	-	-
 -	karmi	-	noun	5	-	back	i	-	-
 -	karmiini	-	noun	6	-	back	i	-	-
+-	karmosiini	-	noun	5	-	-	-	-	-
 -	karneoli	-	noun	5	-	back	i	-	-
 -	karnevaali	-	noun	5	-	back	i	-	-
 -	karnevalismi	-	noun	5	-	back	i	-	-
@@ -29709,6 +30006,7 @@
 -	karpalo	-	noun	2	-	back	o	-	-
 -	karppaus	-	noun	39	-	back	u	coll	-
 -	karppi	-	noun	5	pp:p	back	i	-	-
+-	karrageeni	-	noun	5	-	-	-	-	-
 -	karree	-	noun	20	-	-	-	-	-
 -	karri	-	noun	5	-	back	i	-	-
 -	karrieeri	-	noun	5	-	back	i	-	-
@@ -29742,6 +30040,7 @@
 -	kartelli	-	noun	5	-	back	i	-	-
 -	karting	-	noun	5	-	back	i	-	-
 -	kartio	-	noun	3	-	back	o	-	-
+-	kartografi	-	noun	5	-	-	-	-	-
 -	kartografia	-	noun	12	-	back	a	-	-
 -	kartogrammi	-	noun	5	-	back	i	-	-
 -	kartohveli	-	noun	6	-	-	-	dial|arch	-
@@ -29776,6 +30075,7 @@
 -	karviainen	-	noun	38	-	back	e	-	-
 -	karvialainen	-	noun	38	-	-	-	-	-
 -	karvoitus	-	noun	39	-	back	u	-	-
+-	karyotyyppi	-	noun	5	pp:p	-	-	-	-
 -	kasa	-	noun	9	-	back	a	-	-
 -	kasaantuma	-	noun	10	-	back	a	-	-
 -	kasakka	-	noun	14	kk:k	back	a	-	-
@@ -29810,6 +30110,7 @@
 -	kassler	-	noun	6	-	back	e	-	-
 -	kassu	-	noun	1	-	-	-	slang	-
 -	kastanja	-	noun	12	-	back	a	-	-
+-	kastanjetti	-	noun	5	tt:t	-	-	-	-
 -	kaste	-	noun	48	-	back	e	-	-
 -	kastelli	-	noun	5	-	back	i	-	-
 -	kastelu	-	noun	2	-	back	u	-	-
@@ -29817,6 +30118,7 @@
 -	kastikas	-	noun	41	kk:k	back	a	dial	-
 -	kastike	-	noun	48	kk:k	back	e	-	-
 -	kastikka	-	noun	14	kk:k	back	a	-	-
+-	kastilia	-	noun	12	-	-	-	-	-
 -	kastoriitti	-	noun	5	tt:t	-	-	-	-
 -	kastraatio	-	noun	3	-	back	o	-	-
 -	kastraatti	-	noun	5	tt:t	back	i	-	-
@@ -29850,9 +30152,12 @@
 -	kataja	-	noun	10	-	back	a	-	-
 -	katajikko	-	noun	4	kk:k	back	o	-	-
 -	katajisto	-	noun	2	-	back	o	-	-
+-	katakana	-	noun	?13	-	-	-	-	-
 -	kataklasiitti	-	noun	5	tt:t	-	-	-	-
+-	kataklysmi	-	noun	5	-	-	-	-	-
 -	katakombi	-	noun	5	-	back	i	-	-
 -	katalaani	-	noun	5	-	back	i	-	-
+-	katalaasi	-	noun	5	-	-	-	-	-
 -	katalepsia	-	noun	12	-	-	-	-	-
 -	katalogi	-	noun	5	-	back	i	coll	-
 -	katalonia	-	noun	12	-	back	a	dated	-
@@ -29866,6 +30171,7 @@
 -	katapleksia	-	noun	12	-	-	-	-	-
 -	katapultti	-	noun	5	tt:t	back	i	-	-
 -	katarakta	-	noun	9	-	-	-	-	-
+-	katarakti	-	noun	5	-	-	-	-	-
 -	katarri	-	noun	5	-	back	i	-	-
 -	katarsis	-	noun	39	-	back	i	-	-
 -	katastrofaalisuus	-	noun	40	-	back	u	-	-
@@ -29889,6 +30195,7 @@
 -	kateus	-	noun	40	-	back	u	-	-
 -	katgutti	-	noun	5	tt:t	back	i	-	-
 -	kathak	-	noun	5	-	-	-	-	-
+-	katharsis	-	noun	39	-	-	-	foreign	-
 -	kathmandulainen	-	noun	38	-	-	-	-	-
 -	kationi	-	noun	5	-	back	i	-	-
 -	katiska	-	noun	13	-	back	a	-	-
@@ -29961,6 +30268,7 @@
 -	kaukaisuus	-	noun	40	-	back	u	-	-
 -	kaukalo	-	noun	2	-	back	o	-	-
 -	kaukasialainen	-	noun	38	-	-	-	-	-
+-	kaukasologia	-	noun	12	-	-	-	-	-
 -	kaukis	-	noun	39	-	-	-	coll	-
 -	kaula	-	noun	9	-	back	a	-	-
 -	kaulailu	-	noun	2	-	back	u	-	-
@@ -29998,6 +30306,7 @@
 -	kaura	-	noun	9	-	back	a	-	-
 -	kauris	-	noun	41	-	back	i	-	-
 -	kausaalisuus	-	noun	40	-	back	u	-	-
+-	kausaatio	-	noun	3	-	-	-	-	-
 -	kausaliteetti	-	noun	5	tt:t	back	i	-	-
 -	kausi	-	noun	27	-	back	i	-	-
 -	kaustislainen	-	noun	38	-	-	-	-	-
@@ -30194,6 +30503,7 @@
 -	kemisti	-	noun	5	-	front	i	-	-
 -	kemiöläinen	-	noun	38	-	-	-	-	-
 -	kemma	-	noun	9	-	-	-	slang	-
+-	kemometria	-	noun	12	-	-	-	-	-
 -	kempeleläinen	-	noun	38	-	-	-	-	-
 -	kemppari	-	noun	6	-	-	-	-	-
 -	kemppi	-	noun	5	pp:p	front	i	-	-
@@ -30230,6 +30540,7 @@
 -	kerake	-	noun	48	kk:k	back	e	dated	-
 -	keramiikka	-	noun	9	kk:k	back	a	-	-
 -	keratiini	-	noun	5	-	back	i	-	-
+-	keratiitti	-	noun	5	tt:t	-	-	-	-
 -	keratinisaatio	-	noun	3	-	-	-	-	-
 -	keratoakantooma	-	noun	10	-	-	-	-	-
 -	keratokonjunktiviitti	-	noun	5	tt:t	-	-	-	-
@@ -30334,6 +30645,7 @@
 -	kesyys	-	noun	40	-	front	y	-	-
 -	kesä	-	noun	10	-	front	ä	-	-
 -	ketale	-	noun	48	-	back	e	coll	-
+-	ketamiini	-	noun	5	-	-	-	-	-
 -	ketara	-	noun	13	-	back	a	-	-
 -	ketchup	-	noun	5	-	back	u	-	-
 -	ketju	-	noun	1	-	back	u	-	-
@@ -30346,6 +30658,7 @@
 -	ketokonatsoli	-	noun	6	-	-	-	-	-
 -	ketoni	-	noun	5	-	back	i	-	-
 -	ketoosi	-	noun	5	-	back	i	-	-
+-	ketorolaakki	-	noun	5	kk:k	-	-	-	-
 -	ketsi	-	noun	5	-	front	i	-	-
 -	ketsuppi	-	noun	5	pp:p	back	i	-	-
 -	ketteryys	-	noun	40	-	front	y	-	-
@@ -30666,6 +30979,7 @@
 -	kinailu	-	noun	2	-	back	u	-	-
 -	kinastelu	-	noun	2	-	back	u	-	-
 -	kinematiikka	-	noun	9	kk:k	back	a	-	-
+-	kinesiologia	-	noun	12	-	-	-	-	-
 -	kinetiikka	-	noun	9	kk:k	back	a	-	-
 -	kingi	-	noun	5	-	front	i	jocul	-
 -	kingstonilainen	-	noun	38	-	-	-	-	-
@@ -30898,7 +31212,9 @@
 -	kleptokratia	-	noun	12	-	back	a	-	-
 -	kleptomaani	-	noun	5	-	back	i	-	-
 -	kleptomania	-	noun	12	-	back	a	-	-
+-	klerikalismi	-	noun	5	-	-	-	-	-
 -	klezmer	-	noun	6	-	-	-	-	-
+-	klientti	-	noun	5	tt:t	-	-	-	-
 -	kliffi	-	noun	5	-	-	-	-	-
 -	kliimaksi	-	noun	5	-	back	i	-	-
 -	kliinikko	-	noun	4	kk:k	back	o	-	-
@@ -30937,6 +31253,7 @@
 -	klootti	-	noun	5	tt:t	back	i	-	-
 -	klopidogreeli	-	noun	5	-	-	-	-	-
 -	kloppi	-	noun	5	pp:p	back	i	coll	-
+-	kloraatti	-	noun	5	tt:t	-	-	-	-
 -	kloramfenikoli	-	noun	5	-	-	-	-	-
 -	kloramiini	-	noun	5	-	-	-	-	-
 -	kloridi	-	noun	5	-	-	-	-	-
@@ -31153,6 +31470,7 @@
 -	kolli	-	noun	5	-	back	i	-	-
 -	kollimointi	-	noun	5	nt:nn	-	-	-	-
 -	kolloidi	-	noun	5	-	back	i	-	-
+-	kollokaatio	-	noun	3	-	-	-	-	-
 -	kollokvio	-	noun	3	-	back	o	-	-
 -	kollokviumi	-	noun	5	-	back	i	-	-
 -	kollotus	-	noun	39	-	back	u	-	-
@@ -31179,6 +31497,7 @@
 -	kolotus	-	noun	39	-	back	u	-	-
 -	kolpakko	-	noun	4	kk:k	back	o	-	-
 -	kolpakollinen	-	noun	38	-	back	e	-	-
+-	kolportööri	-	noun	5	-	-	-	-	-
 -	kolposkopia	-	noun	12	-	-	-	-	-
 -	koltiainen	-	noun	38	-	back	e	jocul	-
 -	koltta	-	noun	10	tt:t	back	a	-	-
@@ -31231,6 +31550,7 @@
 -	kommervenkki	-	noun	5	kk:k	back	i	coll	-
 -	kommodori	-	noun	5	-	back	i	-	-
 -	kommootio	-	noun	3	-	-	-	-	-
+-	kommunardi	-	noun	5	-	-	-	-	-
 -	kommunikaatio	-	noun	3	-	back	o	-	-
 -	kommunikationismi	-	noun	5	-	-	-	-	-
 -	kommunikea	-	noun	12	-	back	a	-	-
@@ -31263,6 +31583,7 @@
 -	komplementti	-	noun	5	tt:t	back	i	-	-
 -	komplikaatio	-	noun	3	-	back	o	-	-
 -	komponentti	-	noun	5	tt:t	back	i	-	-
+-	komposiitti	-	noun	5	tt:t	-	-	-	-
 -	kompositio	-	noun	3	-	back	o	-	-
 -	kompositionaalisuus	-	noun	40	-	-	-	-	-
 -	komposti	-	noun	5	-	back	i	-	-
@@ -31275,7 +31596,9 @@
 -	kompressi	-	noun	5	-	back	i	-	-
 -	kompressio	-	noun	3	-	-	-	-	-
 -	kompressori	-	noun	6	-	back	i	-	-
+-	kompromat	-	noun	5	-	-	-	-	-
 -	kompromissi	-	noun	5	-	back	i	-	-
+-	kompulsio	-	noun	3	-	-	-	-	-
 -	kompura	-	noun	12	-	back	a	-	-
 -	kompurointi	-	noun	5	nt:nn	back	i	-	-
 -	kompus	-	noun	39	-	back	u	coll	-
@@ -31313,6 +31636,7 @@
 -	konfirmandi	-	noun	5	-	back	i	dated	-
 -	konfiskaatio	-	noun	3	-	-	-	-	-
 -	konflikti	-	noun	5	-	back	i	-	-
+-	konformismi	-	noun	5	-	-	-	-	-
 -	konfutselainen	-	noun	38	-	-	-	-	-
 -	konfutselaisuus	-	noun	40	-	back	u	-	-
 -	konfuusio	-	noun	3	-	-	-	-	-
@@ -31360,6 +31684,7 @@
 -	konmaritus	-	noun	39	-	-	-	-	-
 -	konna	-	noun	10	-	back	a	-	-
 -	konnari	-	noun	6	-	back	i	coll	-
+-	konnektio	-	noun	3	-	-	-	-	-
 -	konnotaatio	-	noun	3	-	back	o	-	-
 -	konnuus	-	noun	40	-	back	u	-	-
 -	konossementti	-	noun	5	tt:t	back	i	-	-
@@ -31382,11 +31707,13 @@
 -	konsignaatio	-	noun	3	-	-	-	-	-
 -	konsignantti	-	noun	5	tt:t	-	-	-	-
 -	konsiili	-	noun	5	-	back	i	-	-
+-	konsilienssi	-	noun	5	-	-	-	-	-
 -	konsistenssi	-	noun	5	-	back	i	-	-
 -	konsistori	-	noun	6	-	back	i	-	-
 -	konsoli	-	noun	6	-	back	i	-	-
 -	konsolidaatio	-	noun	3	-	-	-	-	-
 -	konsolidointi	-	noun	5	nt:nn	-	-	-	-
+-	konsonanssi	-	noun	5	-	-	-	-	-
 -	konsonantti	-	noun	5	tt:t	back	i	-	-
 -	konsortio	-	noun	3	-	back	o	-	-
 -	konstaapeli	-	noun	6	-	back	i	-	-
@@ -31428,6 +31755,7 @@
 -	kontrafagotti	-	noun	5	tt:t|=	back	i	-	-
 -	kontrahti	-	noun	5	t:d	back	i	dated|jocul	-
 -	kontraindikaatio	-	noun	3	-	-	-	-	-
+-	kontraktio	-	noun	3	-	-	-	-	-
 -	kontrapunkti	-	noun	5	-	back	i	-	-
 -	kontrasti	-	noun	5	-	back	i	-	-
 -	kontratenori	-	noun	6	-	back	i	-	-
@@ -31511,6 +31839,8 @@
 -	koppi	-	noun	5	pp:p	back	i	-	-
 -	koppura	-	noun	12	-	back	a	-	-
 -	kopra	-	noun	10	-	back	a	-	-
+-	koprofiili	-	noun	5	-	-	-	-	-
+-	koproliitti	-	noun	5	tt:t	-	-	-	-
 -	kopsahdus	-	noun	39	-	back	u	-	-
 -	kopsaus	-	noun	39	-	back	u	-	-
 -	kopse	-	noun	48	-	back	e	-	-
@@ -31604,6 +31934,8 @@
 -	korsto	-	noun	1	-	back	o	coll	-
 -	korsu	-	noun	1	-	back	u	-	-
 -	korte	-	noun	48	tt:t	back	e	-	-
+-	korteksi	-	noun	5	-	-	-	-	-
+-	kortikoidi	-	noun	5	-	-	-	-	-
 -	kortikosteroidi	-	noun	5	-	-	-	-	-
 -	kortisoli	-	noun	5	-	back	i	-	-
 -	kortisoni	-	noun	5	-	back	i	-	-
@@ -31653,7 +31985,9 @@
 -	kosmetiikka	-	noun	9	kk:k	back	a	-	-
 -	kosmetologi	-	noun	5	-	back	i	-	-
 -	kosmetologia	-	noun	12	-	back	a	-	-
+-	kosmodromi	-	noun	5	-	-	-	-	-
 -	kosmogonia	-	noun	12	-	back	a	-	-
+-	kosmologi	-	noun	5	-	-	-	-	-
 -	kosmologia	-	noun	12	-	back	a	-	-
 -	kosmonautti	-	noun	5	tt:t	back	i	-	-
 -	kosmopoliitti	-	noun	5	tt:t	back	i	-	-
@@ -31760,6 +32094,7 @@
 -	krakki	-	noun	5	kk:k	-	-	-	-
 -	kramppi	-	noun	5	pp:p	back	i	-	-
 -	kranaatti	-	noun	5	tt:t	back	i	-	-
+-	kraniologia	-	noun	12	-	-	-	-	-
 -	kraniotomia	-	noun	12	-	-	-	-	-
 -	kranium	-	noun	5	-	-	-	-	-
 -	kranssi	-	noun	5	-	back	i	-	-
@@ -31799,6 +32134,7 @@
 -	kreppaus	-	noun	39	-	back	u	-	-
 -	kreppi	-	noun	5	pp:p	front	i	-	-
 -	krepsi	-	noun	5	-	front	i	-	-
+-	kretiini	-	noun	6	-	-	-	-	-
 -	kretonki	-	noun	5	nk:ng	back	i	-	-
 -	kriikuna	-	noun	12	-	back	a	-	-
 -	kriisi	-	noun	5	-	front	i	-	-
@@ -31818,6 +32154,7 @@
 -	kristalli	-	noun	5	-	back	i	-	-
 -	kristiinalainen	-	noun	38	-	-	-	-	-
 -	kristillisyys	-	noun	40	-	front	y	-	-
+-	kristitty	-	noun	1	tt:t	-	-	-	-
 -	kristologia	-	noun	12	-	back	a	-	-
 -	kriteeri	-	noun	6	-	front	i	-	-
 -	kritiikittömyys	-	noun	40	-	front	y	-	-
@@ -31836,11 +32173,14 @@
 -	kroketti	-	noun	5	tt:t	back	i	-	-
 -	krokidoliitti	-	noun	5	tt:t	-	-	-	-
 -	krokotiili	-	noun	5	-	back	i	-	-
+-	kromatidi	-	noun	5	-	-	-	-	-
+-	kromatiini	-	noun	5	-	-	-	-	-
 -	kromatografia	-	noun	12	-	-	-	-	-
 -	kromaus	-	noun	39	-	back	u	-	-
 -	kromi	-	noun	5	-	back	i	-	-
 -	kromiitti	-	noun	5	tt:t	-	-	-	-
 -	kromitus	-	noun	39	-	back	u	-	-
+-	kromosfääri	-	noun	5	-	-	-	-	-
 -	kromosomi	-	noun	5	-	back	i	-	-
 -	kromosomisto	-	noun	1	-	back	o	-	-
 -	kronikka	-	noun	14	kk:k	back	a	-	-
@@ -31873,7 +32213,9 @@
 -	kruusailu	-	noun	2	-	back	u	coll	-
 -	kruusaus	-	noun	39	-	back	u	coll	-
 -	kryobiologia	-	noun	12	-	back	a	-	-
+-	kryofiili	-	noun	5	-	-	-	-	-
 -	kryofysiikka	-	noun	14	kk:k	back	a	-	-
+-	kryogeniikka	-	noun	9	kk:k	-	-	-	-
 -	kryovulkanismi	-	noun	5	-	-	-	-	-
 -	krypta	-	noun	9|†10	-	back	a	-	-
 -	kryptaus	-	noun	39	-	back	u	coll	-
@@ -31897,7 +32239,9 @@
 -	ksantaani	-	noun	5	-	back	i	-	-
 -	ksantiini	-	noun	6	-	-	-	-	-
 -	ksantooma	-	noun	10	-	-	-	-	-
+-	ksenofobia	-	noun	12	-	-	-	-	-
 -	ksenoliitti	-	noun	5	tt:t	-	-	-	-
+-	ksenomania	-	noun	12	-	-	-	-	-
 -	ksenon	-	noun	5	-	back	o	-	-
 -	ksenotiimi	-	noun	5	-	-	-	-	-
 -	kserografia	-	noun	12	-	back	a	-	-
@@ -31905,6 +32249,8 @@
 -	ksii	-	noun	18	-	-	-	non-compounding	-
 -	ksylitoli	-	noun	5	-	back	i	-	-
 -	ksylofoni	-	noun	5	-	back	i	-	-
+-	ksylografia	-	noun	12	-	-	-	-	-
+-	ksyloosi	-	noun	5	-	-	-	-	-
 -	kt	-	noun	18B	-	-	-	unit	-
 -	kuanjama	-	noun	9	-	-	-	-	-
 -	kubismi	-	noun	5	-	back	i	-	-
@@ -32234,6 +32580,7 @@
 -	kurkku	-	noun	1	kk:k	back	u	-	-
 -	kurko	-	noun	1	-	back	o	coll	-
 -	kurkuma	-	noun	10	-	back	a	-	-
+-	kurkumiini	-	noun	5	-	-	-	-	-
 -	kurlaus	-	noun	39	-	back	u	-	-
 -	kurmandži	-	noun	6	-	-	-	-	-
 -	kurmitsa	-	noun	13	-	back	a	-	-
@@ -32398,6 +32745,8 @@
 -	kuvitus	-	noun	39	-	back	u	-	-
 -	kuvotus	-	noun	39	-	back	u	-	-
 -	kuwaitilainen	-	noun	38	-	-	-	-	-
+-	kvadriljoona	-	noun	10	-	-	-	-	-
+-	kvadriplegia	-	noun	12	-	-	-	-	-
 -	kvadrofonia	-	noun	12	-	back	a	-	-
 -	kvalifikaatio	-	noun	3	-	back	o	-	-
 -	kvalifiointi	-	noun	5	nt:nn	back	i	-	-
@@ -32493,6 +32842,8 @@
 -	kynnys	-	noun	39	-	front	y	-	-
 -	kynnäs	-	noun	41	-	front	ä	-	-
 -	kynnös	-	noun	39	-	front	ö	-	-
+-	kynofobia	-	noun	12	-	-	-	-	-
+-	kynologia	-	noun	12	-	-	-	-	-
 -	kynsi	-	noun	28	nt:nn	front	i	-	-
 -	kynsikäs	-	noun	41	kk:k	front	ä	-	-
 -	kynsimö	-	noun	2	-	front	ö	-	-
@@ -32984,12 +33335,14 @@
 -	laksatiivi	-	noun	5	-	back	i	-	-
 -	laktaasi	-	noun	5	-	back	i	-	-
 -	laktaatti	-	noun	5	tt:t	-	-	-	-
+-	laktitoli	-	noun	?6	-	-	-	-	-
 -	laktoferriini	-	noun	5	-	-	-	-	-
 -	laktoflaviini	-	noun	5	-	-	-	-	-
 -	laktoosi	-	noun	5	-	back	i	-	-
 -	laktuloosi	-	noun	5	-	-	-	-	-
 -	laku	-	noun	1	-	back	u	coll	-
 -	lallukka	-	noun	14	kk:k	back	a	-	-
+-	lalofobia	-	noun	12	-	-	-	-	-
 -	lama	-	noun	9	-	back	a	-	-
 -	lamaannus	-	noun	39	-	back	u	-	-
 -	lamaantuneisuus	-	noun	40	-	back	u	-	-
@@ -32997,6 +33350,7 @@
 -	lamalainen	-	noun	38	-	-	-	-	-
 -	lamalaisuus	-	noun	40	-	back	u	-	-
 -	lamarckismi	-	noun	5	-	back	i	-	-
+-	lamarkismi	-	noun	5	-	-	-	-	-
 -	lamautin	-	noun	33	tt:t	back	i	-	-
 -	lamba	-	noun	9	-	-	-	-	-
 -	lambada	-	noun	9	-	back	a	-	-
@@ -33173,6 +33527,7 @@
 -	lati	-	noun	5	-	back	i	-	-
 -	latiitti	-	noun	5	tt:t	-	-	-	-
 -	latiivi	-	noun	5	-	-	-	-	-
+-	latimeria	-	noun	12	-	-	-	-	-
 -	latina	-	noun	12	-	back	a	-	-
 -	latinismi	-	noun	5	-	back	i	-	-
 -	latinisti	-	noun	5	-	back	i	-	-
@@ -33269,9 +33624,11 @@
 -	leffa	-	noun	9	-	back	a	coll	-
 -	legaatti	-	noun	5	tt:t	back	i	-	-
 -	legaatti	-	noun	5	tt:t	-	-	-	-
+-	legalismi	-	noun	5	-	-	-	-	-
 -	legalisointi	-	noun	5	nt:nn	-	-	-	-
 -	legato	-	noun	2	-	back	o	-	-
 -	legenda	-	noun	9	-	back	a	-	-
+-	legendaario	-	noun	3	-	-	-	-	-
 -	leghorn	-	noun	5	-	back	o	-	-
 -	legionelloosi	-	noun	5	-	back	i	-	-
 -	legioona	-	noun	10	-	back	a	-	-
@@ -33470,6 +33827,7 @@
 -	letti	-	noun	5	tt:t	front	i	-	-
 -	letto	-	noun	1	tt:t	back	o	-	-
 -	lettoisuus	-	noun	40	-	-	-	-	-
+-	lettrismi	-	noun	5	-	-	-	-	-
 -	lettu	-	noun	1	tt:t	back	u	-	-
 -	letukka	-	noun	14	kk:k	back	a	-	-
 -	leu	-	noun	18U	-	back	u	-	-
@@ -33542,6 +33900,7 @@
 -	librevilleläinen	-	noun	38	-	-	-	-	-
 -	libristi	-	noun	5	-	front	i	-	-
 -	libyalainen	-	noun	38	-	-	-	-	-
+-	lidokaiini	-	noun	5	-	-	-	-	-
 -	liechtensteinilainen	-	noun	38	-	-	-	-	-
 -	lied	-	noun	5	-	front	e	-	-
 -	liehahdus	-	noun	39	-	back	u	-	-
@@ -33780,6 +34139,7 @@
 -	lipooma	-	noun	10	-	-	-	-	-
 -	lipopolysakkaridi	-	noun	5	-	-	-	-	-
 -	lipoproteiini	-	noun	5	-	-	-	-	-
+-	liposarkooma	-	noun	10	-	-	-	-	-
 -	lippa	-	noun	9	pp:p	back	a	-	-
 -	lippi	-	noun	5	pp:p	front	i	-	-
 -	lippis	-	noun	39	-	front	i	slang	-
@@ -33808,6 +34168,7 @@
 -	lisensiointi	-	noun	5	nt:nn	back	i	-	-
 -	lisensointi	-	noun	5	nt:nn	back	i	-	-
 -	lisenssi	-	noun	5	-	front	i	-	-
+-	lisinopriili	-	noun	5	-	-	-	-	-
 -	lisko	-	noun	1	-	back	o	-	-
 -	lissabonilainen	-	noun	38	-	-	-	-	-
 -	lissu	-	noun	1	-	-	-	coll	-
@@ -33852,6 +34213,7 @@
 -	litukka	-	noun	14	kk:k	back	a	-	-
 -	liturgi	-	noun	5	-	back	i	-	-
 -	liturgia	-	noun	12	-	back	a	-	-
+-	liturgiikka	-	noun	9	kk:k	-	-	-	-
 -	liudennus	-	noun	39	-	back	u	-	-
 -	liukaste	-	noun	48	-	back	e	-	-
 -	liukastus	-	noun	39	-	back	u	-	-
@@ -33903,6 +34265,7 @@
 -	logistiikka	-	noun	9	kk:k	back	a	-	-
 -	logistikko	-	noun	4	kk:k	back	o	-	-
 -	logo	-	noun	1	-	back	o	-	-
+-	logogrammi	-	noun	5	-	-	-	-	-
 -	logonomi	-	noun	5	-	back	i	-	-
 -	logopedi	-	noun	5	-	back	i	-	-
 -	logopedia	-	noun	12	-	back	a	-	-
@@ -33960,6 +34323,7 @@
 -	lokalisaatio	-	noun	3	-	back	o	-	-
 -	lokalisointi	-	noun	5	nt:nn	back	i	-	-
 -	lokari	-	noun	6	-	back	i	slang	-
+-	lokatiivi	-	noun	5	-	-	-	-	-
 -	lokerikko	-	noun	4	kk:k	back	o	-	-
 -	lokero	-	noun	2	-	back	o	-	-
 -	lokerointi	-	noun	5	nt:nn	back	i	-	-
@@ -34145,6 +34509,7 @@
 -	luolasto	-	noun	2	-	back	o	-	-
 -	luoma	-	noun	10	-	back	a	-	-
 -	luomi	-	noun	25	-	back	i	-	-
+-	luominen	-	noun	38	-	-	-	-	-
 -	luomu	-	noun	1	-	back	u	-	-
 -	luomus	-	noun	39	-	back	u	-	-
 -	luonne	-	noun	48	nt:nn	back	e	-	-
@@ -34485,6 +34850,7 @@
 -	machiavellilainen	-	noun	38	-	-	-	-	-
 -	machiavellismi	-	noun	5	-	back	i	-	-
 -	machiavellisti	-	noun	5	-	back	i	-	-
+-	machismo	-	noun	1	-	-	-	-	-
 -	macho	-	noun	1	-	back	o	-	-
 -	machoilu	-	noun	2	-	back	u	coll	-
 -	madagaskarilainen	-	noun	38	-	-	-	-	-
@@ -34531,6 +34897,7 @@
 -	maha	-	noun	9	-	back	a	-	-
 -	mahajana	-	noun	9	-	-	-	-	-
 -	maharadža	-	noun	9	-	back	a	-	-
+-	maharani	-	noun	?6	-	-	-	-	-
 -	mahatma	-	noun	11	-	back	a	-	-
 -	mahdikkuus	-	noun	40	-	back	u	-	-
 -	mahdollistaja	-	noun	10	-	-	-	-	-
@@ -34605,6 +34972,7 @@
 -	majoriteetti	-	noun	5	tt:t	back	i	-	-
 -	majuri	-	noun	6	-	back	i	-	-
 -	majurolainen	-	noun	38	-	-	-	-	-
+-	majuskeli	-	noun	?6	-	-	-	-	-
 -	makaki	-	noun	5	-	back	i	-	-
 -	makaroni	-	noun	5	-	back	i	-	-
 -	makasiini	-	noun	5	-	back	i	-	-
@@ -34690,8 +35058,10 @@
 -	malmio	-	noun	3	-	back	o	-	-
 -	malnutritio	-	noun	3	-	-	-	-	-
 -	malta	-	noun	9	-	-	-	-	-
+-	maltaasi	-	noun	5	-	-	-	-	-
 -	maltalainen	-	noun	38	-	-	-	-	-
 -	maltillisuus	-	noun	40	-	back	u	-	-
+-	maltitoli	-	noun	?6	-	-	-	-	-
 -	maltittomuus	-	noun	40	-	back	u	-	-
 -	malto	-	noun	1	lt:ll	back	o	-	-
 -	maltodekstriini	-	noun	5	-	-	-	-	-
@@ -34749,6 +35119,7 @@
 -	mangusti	-	noun	5	-	back	i	-	-
 -	mani	-	noun	5	-	back	i	slang	-
 -	mania	-	noun	12	-	back	a	-	-
+-	manierismi	-	noun	5	-	-	-	-	-
 -	manifestaatio	-	noun	3	-	back	o	-	-
 -	manifesti	-	noun	5	-	back	i	-	-
 -	manikealaisuus	-	noun	40	-	-	-	-	-
@@ -34810,6 +35181,7 @@
 -	marakas	-	noun	5	-	back	a	-	-
 -	marakassi	-	noun	5	-	back	i	-	-
 -	marakatti	-	noun	5	tt:t	back	i	-	-
+-	maraschino	-	noun	2	-	-	-	-	-
 -	marathi	-	noun	5	-	-	-	-	-
 -	maraton	-	noun	5	-	back	o	-	-
 -	maratoonari	-	noun	6	-	back	i	coll	-
@@ -34913,6 +35285,7 @@
 -	massiivisuus	-	noun	40	-	back	u	-	-
 -	massoittelu	-	noun	2	-	back	u	-	-
 -	massu	-	noun	1	-	back	u	child	-
+-	mastektomia	-	noun	12	-	-	-	-	-
 -	master	-	noun	6	-	-	-	foreign	-
 -	mastiffi	-	noun	5	-	-	-	-	-
 -	masto	-	noun	1	-	back	o	-	-
@@ -35037,6 +35410,7 @@
 -	mekaanikko	-	noun	4	kk:k	back	o	-	-
 -	mekaanisuus	-	noun	40	-	back	u	-	-
 -	mekaniikka	-	noun	9	kk:k	back	a	-	-
+-	mekanisaatio	-	noun	3	-	-	-	-	-
 -	mekanismi	-	noun	5	-	back	i	-	-
 -	mekastus	-	noun	39	-	back	u	-	-
 -	mekatroniikka	-	noun	9	kk:k	back	a	-	-
@@ -35073,8 +35447,10 @@
 -	mellotus	-	noun	39	-	back	u	-	-
 -	melodia	-	noun	12	-	back	a	-	-
 -	melodiikka	-	noun	9	kk:k	back	a	-	-
+-	melodika	-	noun	9	-	-	-	-	-
 -	melodisuus	-	noun	40	-	back	u	-	-
 -	meloja	-	noun	10	-	back	a	-	-
+-	meloksikaami	-	noun	5	-	-	-	-	-
 -	meloni	-	noun	6	-	back	i	-	-
 -	melonta	-	noun	9	nt:nn	back	a	-	-
 -	melske	-	noun	48	-	front	e	-	-
@@ -35083,6 +35459,7 @@
 -	meluisuus	-	noun	40	-	back	u	-	-
 -	membraani	-	noun	5	-	back	i	-	-
 -	memorandumi	-	noun	6	-	back	i	rare	-
+-	memoriaali	-	noun	5	-	-	-	-	-
 -	menalgia	-	noun	12	-	-	-	-	-
 -	menarke	-	noun	8	-	-	-	-	-
 -	mende	-	noun	8	-	-	-	-	-
@@ -35096,6 +35473,7 @@
 -	menetelmä	-	noun	10	-	front	ä	-	-
 -	menettely	-	noun	2	-	front	y	-	-
 -	menetys	-	noun	39	-	front	y	-	-
+-	menhaden	-	noun	?6	-	-	-	-	-
 -	menhir	-	noun	6	-	-	-	foreign	-
 -	menijä	-	noun	12	-	front	ä	-	-
 -	meningeooma	-	noun	9	-	-	-	-	-
@@ -35103,6 +35481,7 @@
 -	meningokokki	-	noun	5	kk:k	-	-	-	-
 -	menneisyys	-	noun	40	-	front	y	-	-
 -	menninkäinen	-	noun	38	-	front	e	-	-
+-	mennoniitta	-	noun	9	tt:t	-	-	-	-
 -	mennyt	-	noun	47	-	front	y	-	-
 -	meno	-	noun	1	-	back	o	-	-
 -	menometrorragia	-	noun	12	-	-	-	-	-
@@ -35113,6 +35492,7 @@
 -	mensalainen	-	noun	38	-	-	-	-	-
 -	menstruaatio	-	noun	3	-	back	o	-	-
 -	mentalismi	-	noun	5	-	back	i	-	-
+-	mentalisti	-	noun	5	-	-	-	-	-
 -	mentaliteetti	-	noun	5	tt:t	back	i	-	-
 -	mentawai	-	noun	18	-	-	-	-	-
 -	mentoli	-	noun	5	-	back	i	-	-
@@ -35147,6 +35527,7 @@
 -	merkityksellisyys	-	noun	40	-	-	-	-	-
 -	merkityksettömyys	-	noun	40	-	-	-	-	-
 -	merkitys	-	noun	39	-	front	y	-	-
+-	merkkari	-	noun	?6	-	-	-	-	-
 -	merkkaus	-	noun	39	-	back	u	coll	-
 -	merkki	-	noun	5	kk:k	front	i	-	-
 -	merkonomi	-	noun	5	-	back	i	-	-
@@ -35163,12 +35544,17 @@
 -	mesi	-	noun	27	-	front	i	-	-
 -	mesikkä	-	noun	14	kk:k	front	ä	-	-
 -	mesiäinen	-	noun	38	-	front	e	-	-
+-	mesjuusto	-	noun	1	-	-	-	-	-
 -	meskaliini	-	noun	5	-	back	i	-	-
+-	mesmerismi	-	noun	5	-	-	-	-	-
 -	mesokumulaatti	-	noun	5	tt:t	-	-	-	-
+-	mesoliitti	-	noun	5	tt:t	-	-	-	-
 -	mesolitikum	-	noun	5	-	-	-	-	-
+-	mesomorfi	-	noun	5	-	-	-	-	-
 -	mesoni	-	noun	5	-	back	i	-	-
 -	mesopertiitti	-	noun	5	tt:t	-	-	-	-
 -	mesopotamialainen	-	noun	38	-	-	-	-	-
+-	mesosfääri	-	noun	5	-	-	-	-	-
 -	mesoteliooma	-	noun	9	-	-	-	-	-
 -	mesoterminen	-	noun	38	-	-	-	-	-
 -	messi	-	noun	5	-	front	i	-	-
@@ -35200,6 +35586,7 @@
 -	metal	-	noun	6	-	-	-	foreign	-
 -	metalcore	-	noun	8	-	-	-	foreign	-
 -	metalli	-	noun	5	-	back	i	-	-
+-	metallofoni	-	noun	?6	-	-	-	-	-
 -	metalloidi	-	noun	5	-	-	-	-	-
 -	metallointi	-	noun	5	nt:nn	back	i	-	-
 -	metallotekti	-	noun	5	-	-	-	-	-
@@ -35397,6 +35784,7 @@
 -	mineralogi	-	noun	5	-	back	i	-	-
 -	mineralogia	-	noun	12	-	back	a	-	-
 -	mineralokortikoidi	-	noun	5	-	-	-	-	-
+-	mineriitti	-	noun	5	tt:t	-	-	-	-
 -	minestrone	-	noun	8	-	back	e	-	-
 -	mingreli	-	noun	6	-	-	-	-	-
 -	mini	-	noun	5	-	-	-	-	-
@@ -35420,16 +35808,22 @@
 -	minsa	-	noun	9	-	back	a	coll	-
 -	minskiläinen	-	noun	38	-	-	-	-	-
 -	minttu	-	noun	1	tt:t	back	u	-	-
+-	minuskeli	-	noun	?6	-	-	-	-	-
 -	minuus	-	noun	40	-	back	u	-	-
 -	minuutti	-	noun	5	tt:t	back	i	-	-
 -	minä	-	noun	10	-	front	ä	-	-
 -	mioosi	-	noun	5	-	-	-	-	-
+-	mioseeni	-	noun	5	-	-	-	-	-
+-	miraakkeli	-	noun	?6	-	-	-	-	-
+-	mirabegroni	-	noun	?6	-	-	-	-	-
 -	mirandeesi	-	noun	5	-	-	-	-	-
 -	mirha	-	noun	9	-	back	a	-	-
 -	mirhami	-	noun	6	-	back	i	-	-
 -	mirin	-	noun	6	-	-	-	-	-
 -	mirri	-	noun	5	-	front	i	-	-
 -	mirtatsapiini	-	noun	5	-	-	-	-	-
+-	misandria	-	noun	12	-	-	-	-	-
+-	misantrooppi	-	noun	5	pp:p	-	-	-	-
 -	misantropia	-	noun	12	-	back	a	-	-
 -	miso	-	noun	1	-	-	-	-	-
 -	misofonia	-	noun	12	-	-	-	-	-
@@ -35440,6 +35834,7 @@
 -	misseys	-	noun	40	-	front	y	-	-
 -	missi	-	noun	5	-	front	i	-	-
 -	missio	-	noun	3	-	back	o	-	-
+-	missiologia	-	noun	12	-	-	-	-	-
 -	missiys	-	noun	40	-	front	y	-	-
 -	misteli	-	noun	6	-	front	i	-	-
 -	misu	-	noun	1	-	back	u	-	-
@@ -35526,6 +35921,7 @@
 -	mokoma	-	noun	10	-	-	-	-	-
 -	moksahdus	-	noun	39	-	back	u	-	-
 -	moksaus	-	noun	39	-	back	u	-	-
+-	moksibustio	-	noun	3	-	-	-	-	-
 -	moku	-	noun	1	-	-	-	-	-
 -	mokša	-	noun	10	-	back	a	-	-
 -	mokšalainen	-	noun	38	-	-	-	-	-
@@ -35555,6 +35951,7 @@
 -	monarkismi	-	noun	5	-	back	i	-	-
 -	monarkisti	-	noun	5	-	back	i	-	-
 -	monarkki	-	noun	5	kk:k	back	i	-	-
+-	monegassi	-	noun	5	-	-	-	-	-
 -	monetarismi	-	noun	5	-	back	i	-	-
 -	monetaristi	-	noun	5	-	back	i	-	-
 -	moneus	-	noun	40	-	back	u	-	-
@@ -35588,6 +35985,7 @@
 -	monokromaattori	-	noun	6	-	-	-	-	-
 -	monokulttuuri	-	noun	6	-	-	-	-	-
 -	monokulttuurisuus	-	noun	40	-	-	-	-	-
+-	monolatria	-	noun	12	-	-	-	-	-
 -	monoliitti	-	noun	5	tt:t	back	i	-	-
 -	monologi	-	noun	5	-	back	i	-	-
 -	monomeeri	-	noun	5	-	-	-	-	-
@@ -35595,6 +35993,7 @@
 -	mononukleoosi	-	noun	5	-	back	i	-	-
 -	monopoli	-	noun	5	-	back	i	-	-
 -	monopolisointi	-	noun	5	nt:nn	back	i	-	-
+-	monopsoni	-	noun	?6	-	-	-	-	-
 -	monosakkaridi	-	noun	5	-	-	-	-	-
 -	monosyytti	-	noun	5	tt:t	-	-	-	-
 -	monoteismi	-	noun	5	-	-	-	-	-
@@ -35608,6 +36007,8 @@
 -	monstrumi	-	noun	5	-	back	i	-	-
 -	monsuuni	-	noun	6	-	back	i	-	-
 -	montaasi	-	noun	5	-	back	i	-	-
+-	montelukasti	-	noun	5	-	-	-	-	-
+-	montenegro	-	noun	1	-	-	-	-	-
 -	montenegrolainen	-	noun	38	-	back	e	-	-
 -	montevideolainen	-	noun	38	-	-	-	-	-
 -	monttu	-	noun	1	tt:t	back	u	coll	-
@@ -35619,6 +36020,7 @@
 -	moola	-	noun	10	-	-	-	-	-
 -	mooli	-	noun	5	-	back	i	-	-
 -	moolisuus	-	noun	40	-	back	u	-	-
+-	moonilaisuus	-	noun	40	-	-	-	-	-
 -	moose cree	-	noun	21	-	-	-	-	-
 -	moottori	-	noun	6	-	back	i	-	-
 -	moottorointi	-	noun	5	nt:nn	back	i	-	-
@@ -35637,6 +36039,7 @@
 -	moraliteetti	-	noun	5	tt:t	back	i	-	-
 -	moratorio	-	noun	3	-	back	o	-	-
 -	morbiditeetti	-	noun	5	tt:t	-	-	-	-
+-	morbilli	-	noun	6	-	-	-	-	-
 -	mordva	-	noun	10	-	back	a	-	-
 -	mordvalainen	-	noun	38	-	-	-	-	-
 -	moreeni	-	noun	6	-	back	i	-	-
@@ -35921,6 +36324,7 @@
 -	musikologia	-	noun	12	-	back	a	-	-
 -	musisointi	-	noun	5	nt:nn	back	i	-	-
 -	muskari	-	noun	6	-	back	i	coll	-
+-	muskariini	-	noun	5	-	-	-	-	-
 -	muskatelli	-	noun	5	-	back	i	-	-
 -	muskatti	-	noun	5	tt:t	back	i	-	-
 -	muskeli	-	noun	6	-	back	i	coll	-
@@ -35956,12 +36360,15 @@
 -	mutteri	-	noun	6	-	back	i	-	-
 -	mutu	1	noun	1	-	back	u	-	-
 -	mutu	2	noun	1	t:d	back	u	-	-
+-	mutualismi	-	noun	5	-	-	-	-	-
+-	mutualisti	-	noun	5	-	-	-	-	-
 -	mutustelu	-	noun	2	-	back	u	-	-
 -	muukalainen	-	noun	38	-	back	e	-	-
 -	muukalaisuus	-	noun	40	-	back	u	-	-
 -	muuli	-	noun	5	-	back	i	-	-
 -	muumi	-	noun	5	-	-	-	-	-
 -	muumio	-	noun	3	-	back	o	-	-
+-	muumiointi	-	noun	5	nt:nn	-	-	-	-
 -	muunnelma	-	noun	10	-	back	a	-	-
 -	muunnettavuus	-	noun	40	-	-	-	-	-
 -	muunnin	-	noun	33	nt:nn	back	i	-	-
@@ -36004,6 +36411,7 @@
 -	myhkyrä	-	noun	12	-	front	ä	-	-
 -	myhähdys	-	noun	39	-	front	y	-	-
 -	myhäily	-	noun	2	-	front	y	-	-
+-	mykeneläinen	-	noun	38	-	-	-	-	-
 -	mykerö	-	noun	2	-	front	ö	-	-
 -	mykiö	-	noun	3	-	front	ö	-	-
 -	mykkyrä	-	noun	12	-	front	ä	-	-
@@ -36029,7 +36437,10 @@
 -	myntti	-	noun	5	tt:t	front	i	dated	-
 -	myoglobiini	-	noun	5	-	-	-	-	-
 -	myokardiitti	-	noun	5	tt:t	-	-	-	-
+-	myokardium	-	noun	5	-	-	-	-	-
+-	myoklonia	-	noun	12	-	-	-	-	-
 -	myoklonus	-	noun	39	-	-	-	-	-
+-	myologia	-	noun	12	-	-	-	-	-
 -	myooma	-	noun	10	-	back	a	-	-
 -	myoperikardiitti	-	noun	5	tt:t	-	-	-	-
 -	myopia	-	noun	12	-	-	-	-	-
@@ -36040,6 +36451,7 @@
 -	myrkky	-	noun	1	kk:k	front	y	-	-
 -	myrkyllisyys	-	noun	40	-	front	y	-	-
 -	myrkytys	-	noun	39	-	front	y	-	-
+-	myrmekologia	-	noun	12	-	-	-	-	-
 -	myrsky	-	noun	1	-	front	y	-	-
 -	myrskyisyys	-	noun	40	-	front	y	-	-
 -	myrtti	-	noun	5	tt:t	front	i	-	-
@@ -36053,10 +36465,12 @@
 -	mystifiointi	-	noun	5	nt:nn	back	i	-	-
 -	mystiikka	-	noun	14	kk:k	back	a	-	-
 -	mystikko	-	noun	4	kk:k	back	o	-	-
+-	mystisismi	-	noun	5	-	-	-	-	-
 -	mystisyys	-	noun	40	-	front	y	-	-
 -	mythos	-	noun	39	-	-	-	-	-
 -	mytologi	-	noun	5	-	back	i	-	-
 -	mytologia	-	noun	12	-	back	a	-	-
+-	mytomania	-	noun	12	-	-	-	-	-
 -	mytty	-	noun	1	tt:t	front	y	-	-
 -	myy	-	noun	18	-	-	-	-	-
 -	myyjä	-	noun	10	-	front	ä	-	-
@@ -36131,6 +36545,7 @@
 -	mättäikkö	-	noun	4	kk:k	front	ö	-	-
 -	mättö	-	noun	1	tt:t	front	ö	coll	-
 -	mätä	-	noun	10	t:d	front	ä	-	-
+-	mätäneminen	-	noun	38	-	-	-	-	-
 -	mätäs	-	noun	41	tt:t	front	ä	-	-
 -	mätästys	-	noun	39	-	front	y	-	-
 -	mäyrä	-	noun	10	-	front	ä	-	-
@@ -36243,6 +36658,7 @@
 -	naivisti	-	noun	5	-	back	i	-	-
 -	najadi	-	noun	5	-	back	i	-	-
 -	nakerrus	-	noun	39	-	back	u	-	-
+-	nakertaja	-	noun	?10	-	-	-	-	-
 -	nakkelu	-	noun	2	-	back	u	-	-
 -	nakki	-	noun	5	kk:k	back	i	-	-
 -	nakkilalainen	-	noun	38	-	-	-	-	-
@@ -36258,6 +36674,7 @@
 -	nalle	-	noun	8	-	back	e	-	-
 -	nalli	-	noun	5	-	back	i	-	-
 -	nallikka	-	noun	14	kk:k	back	a	-	-
+-	naloksoni	-	noun	?6	-	-	-	-	-
 -	naltreksoni	-	noun	6	-	-	-	-	-
 -	nama	-	noun	9	-	-	-	-	-
 -	nami	-	noun	5	-	-	-	child	-
@@ -36355,6 +36772,7 @@
 -	natina	-	noun	12	-	back	a	-	-
 -	nationalismi	-	noun	5	-	back	i	-	-
 -	nationalisti	-	noun	5	-	back	i	-	-
+-	nativismi	-	noun	5	-	-	-	-	-
 -	nato	-	noun	1	t:d	back	o	-	-
 -	natrium	-	noun	5	-	back	u	-	-
 -	natrokarbonatiitti	-	noun	5	tt:t	-	-	-	-
@@ -36425,6 +36843,7 @@
 -	nefroosi	-	noun	5	-	-	-	-	-
 -	nefropatia	-	noun	12	-	-	-	-	-
 -	nefroskleroosi	-	noun	5	-	-	-	-	-
+-	nefrostomia	-	noun	12	-	-	-	-	-
 -	nega	-	noun	9	-	back	a	coll	-
 -	negaatio	-	noun	3	-	back	o	-	-
 -	negatiivi	-	noun	5	-	back	i	-	-
@@ -36440,6 +36859,8 @@
 -	neitsyt	-	noun	43	-	front	-	-	-
 -	neitsyys	-	noun	40	-	front	y	-	-
 -	nekku	-	noun	1	kk:k	back	u	-	-
+-	nekrofilia	-	noun	12	-	-	-	-	-
+-	nekrofobia	-	noun	12	-	-	-	-	-
 -	nekrologi	-	noun	5	-	back	i	-	-
 -	nekroosi	-	noun	5	-	back	i	-	-
 -	nekru	-	noun	1	-	back	u	-	-
@@ -36464,7 +36885,9 @@
 -	nenäkkyys	-	noun	40	-	front	y	-	-
 -	nenätti	-	noun	5	tt:t	front	i	-	-
 -	neodyymi	-	noun	5	-	front|back	i	-	-
+-	neofyytti	-	noun	5	tt:t	-	-	-	-
 -	neolitikum	-	noun	5	-	-	-	-	-
+-	neologia	-	noun	12	-	-	-	-	-
 -	neologismi	-	noun	5	-	back	i	-	-
 -	neomysiini	-	noun	5	-	-	-	-	-
 -	neon	-	noun	5	-	back	o	-	-
@@ -36627,6 +37050,7 @@
 -	nillitys	-	noun	39	-	-	-	coll	-
 -	nilsiäläinen	-	noun	38	-	-	-	-	-
 -	nilviäinen	-	noun	38	-	front	e	-	-
+-	nimbostratus	-	noun	39	-	-	-	-	-
 -	nimbus	-	noun	39	-	-	-	-	-
 -	nimeke	-	noun	48	kk:k	front	e	-	-
 -	nimekkyys	-	noun	40	-	front	y	-	-
@@ -36708,6 +37132,7 @@
 -	nobelium	-	noun	5	-	-	-	-	-
 -	noblessi	-	noun	5	-	-	-	-	-
 -	noduuli	-	noun	5	-	back	i	-	-
+-	noetiikka	-	noun	9	kk:k	-	-	-	-
 -	nogai	-	noun	18	-	-	-	-	-
 -	noisetti	-	noun	5	tt:t	back	i	-	-
 -	noita	-	noun	10	t:d	back	a	-	-
@@ -36729,11 +37154,14 @@
 -	nollaus	-	noun	39	-	back	u	-	-
 -	nolous	-	noun	40	-	back	u	-	-
 -	nomadi	-	noun	5	-	back	i	-	-
+-	nomadismi	-	noun	5	-	-	-	-	-
 -	nomenklatuura	-	noun	13	-	back	a	-	-
 -	nomenklatuuri	-	noun	5	-	back	i	-	-
+-	nominalismi	-	noun	5	-	-	-	-	-
 -	nominatiivi	-	noun	5	-	back	i	-	-
 -	nomini	-	noun	5	-	back	i	-	-
 -	nomogrammi	-	noun	5	-	-	-	-	-
+-	nonagoni	-	noun	?6	-	-	-	-	-
 -	nonetti	-	noun	5	tt:t	-	-	-	-
 -	nonparelli	-	noun	5	-	back	i	-	-
 -	nonsense	-	noun	8	-	back	e	-	-
@@ -36773,6 +37201,8 @@
 -	norsu	-	noun	1	-	back	u	-	-
 -	nortriptyliini	-	noun	5	-	-	-	-	-
 -	nosebo	-	noun	1	-	-	-	-	-
+-	nosiseptio	-	noun	3	-	-	-	-	-
+-	noskapiini	-	noun	5	-	-	-	-	-
 -	nostaja	-	noun	10	-	back	a	-	-
 -	nostalgia	-	noun	12	-	back	a	-	-
 -	nostalgikko	-	noun	1	kk:k	back	o	-	-
@@ -36785,6 +37215,7 @@
 -	nosto	-	noun	1	-	back	o	-	-
 -	nosturi	-	noun	6	-	back	i	-	-
 -	notaari	-	noun	6	-	back	i	-	-
+-	notaatio	-	noun	3	-	-	-	-	-
 -	notariaatti	-	noun	5	tt:t	back	i	-	-
 -	noteeraus	-	noun	39	-	back	u	-	-
 -	notifikaatio	-	noun	3	-	-	-	-	-
@@ -36838,6 +37269,7 @@
 -	nukki	-	noun	5	kk:k	back	i	-	-
 -	nukkuja	-	noun	10	-	back	a	-	-
 -	nukleoituminen	-	noun	38	-	-	-	-	-
+-	nukleoli	-	noun	5	-	-	-	-	-
 -	nukleoni	-	noun	5	-	back	i	-	-
 -	nukleosidi	-	noun	5	-	-	-	-	-
 -	nukleotidi	-	noun	5	-	-	-	-	-
@@ -36934,6 +37366,7 @@
 -	nykerö	-	noun	2	-	front	ö	-	-
 -	nykinä	-	noun	12	-	-	-	-	-
 -	nyksä	-	noun	10	-	front	ä	coll|jocul	-
+-	nyktofobia	-	noun	12	-	-	-	-	-
 -	nykyisyys	-	noun	40	-	front	y	-	-
 -	nykytys	-	noun	39	-	front	y	-	-
 -	nykäisy	-	noun	2	-	front	y	-	-
@@ -36996,6 +37429,7 @@
 -	näkyvyys	-	noun	40	-	front	y	-	-
 -	näkyväisyys	-	noun	40	-	front	y	-	-
 -	näkyvöitys	-	noun	39	-	-	-	-	-
+-	näkäräinen	-	noun	38	-	-	-	-	-
 -	näkö	-	noun	1	k:	front	ö	-	-
 -	näköisyys	-	noun	40	-	front	y	-	-
 -	nälkä	-	noun	10	k:|‡k:j	front	ä	-	-
@@ -37061,10 +37495,13 @@
 -	oas	-	noun	41	k:	back	a	-	-
 -	obduktio	-	noun	3	-	back	o	-	-
 -	obeliski	-	noun	5	-	back	i	-	-
+-	obesiteetti	-	noun	5	tt:t	-	-	-	-
 -	obi	-	noun	5	-	-	-	foreign	-
 -	objekti	-	noun	5	-	back	i	-	-
 -	objektiivi	-	noun	5	-	back	i	-	-
 -	objektiivisuus	-	noun	40	-	back	u	-	-
+-	objektivismi	-	noun	5	-	-	-	-	-
+-	oblaatti	-	noun	5	tt:t	-	-	-	-
 -	oblasti	-	noun	5	-	-	-	-	-
 -	obligaatio	-	noun	3	-	back	o	-	-
 -	oboe	-	noun	3	-	back	e	-	-
@@ -37077,13 +37514,16 @@
 -	obsidiaani	-	noun	5	-	-	-	-	-
 -	obstetriikka	-	noun	9	kk:k	-	-	-	-
 -	obstipaatio	-	noun	3	-	-	-	-	-
+-	obstruentti	-	noun	5	tt:t	-	-	-	-
 -	obstruktio	-	noun	3	-	back	o	-	-
 -	oculus	-	noun	39	-	-	-	foreign	-
 -	odeion	-	noun	5	-	-	-	-	-
 -	odelma	-	noun	10	-	back	a	-	-
 -	odelmikko	-	noun	4	kk:k	back	o	-	-
+-	odontoliitti	-	noun	5	tt:t	-	-	-	-
 -	odontologi	-	noun	5	-	back	i	-	-
 -	odontologia	-	noun	12	-	back	a	-	-
+-	odorimetri	-	noun	5	-	-	-	-	-
 -	odote	-	noun	48	tt:t	back	e	-	-
 -	odottaja	-	noun	10	-	back	a	-	-
 -	odottelu	-	noun	2	-	-	-	-	-
@@ -37092,6 +37532,7 @@
 -	odžibwa	-	noun	9	-	-	-	-	-
 -	offensiivi	-	noun	5	-	back	i	-	-
 -	offset	-	noun	5	-	back	e	-	-
+-	ofikleidi	-	noun	5	-	-	-	-	-
 -	ofioliitti	-	noun	5	tt:t	-	-	-	-
 -	ofloksasiini	-	noun	5	-	-	-	-	-
 -	oftalmologia	-	noun	12	-	-	-	-	-
@@ -37152,6 +37593,7 @@
 -	oikuttelija	-	noun	12	-	back	a	-	-
 -	oikuttelu	-	noun	2	-	back	u	-	-
 -	oinas	-	noun	41	-	back	a	-	-
+-	oinokhoe	-	noun	8	-	-	-	foreign	-
 -	oionta	-	noun	9	nt:nn	back	a	-	-
 -	oire	-	noun	48	-	back	e	-	-
 -	oireilu	-	noun	2	-	back	u	-	-
@@ -37173,6 +37615,7 @@
 -	okariina	-	noun	9	-	back	a	-	-
 -	okimono	-	noun	2	-	-	-	foreign	-
 -	okklusiivi	-	noun	5	-	-	-	-	-
+-	okkluusio	-	noun	3	-	-	-	-	-
 -	okkultismi	-	noun	5	-	back	i	-	-
 -	okkultisti	-	noun	5	-	back	i	-	-
 -	okkultti	-	noun	5	tt:t	-	-	-	-
@@ -37184,6 +37627,7 @@
 -	oksalaatti	-	noun	5	tt:t	-	-	-	-
 -	oksasto	-	noun	2	-	back	o	-	-
 -	oksastus	-	noun	39	-	-	-	-	-
+-	oksatsepaami	-	noun	5	-	-	-	-	-
 -	oksennus	-	noun	39	-	back	u	-	-
 -	oksentaminen	-	noun	38	-	-	-	-	-
 -	oksentelu	-	noun	2	-	back	u	-	-
@@ -37199,6 +37643,7 @@
 -	oktaani	-	noun	5	-	back	i	-	-
 -	oktaavi	-	noun	5	-	back	i	-	-
 -	oktaedri	-	noun	5	-	back	i	-	-
+-	oktagoni	-	noun	?6	-	-	-	-	-
 -	oktetti	-	noun	5	tt:t	back	i	-	-
 -	oktetto	-	noun	1	tt:t	back	o	-	-
 -	oktreotidi	-	noun	5	-	-	-	-	-
@@ -37211,6 +37656,7 @@
 -	oleellisuus	-	noun	40	-	back	u	-	-
 -	oleilu	-	noun	2	-	back	u	-	-
 -	olemattomuus	-	noun	40	-	back	u	-	-
+-	oleminen	-	noun	38	-	-	-	-	-
 -	olemus	-	noun	39	-	back	u	-	-
 -	olennaisuus	-	noun	40	-	back	u	-	-
 -	olento	-	noun	1	nt:nn	back	o	-	-
@@ -37220,10 +37666,12 @@
 -	oletus	-	noun	39	-	back	u	-	-
 -	olevainen	-	noun	38	-	back	e	-	-
 -	olevaisuus	-	noun	40	-	back	u	-	-
+-	olfaktometri	-	noun	5	-	-	-	-	-
 -	oligarkia	-	noun	12	-	back	a	-	-
 -	oligarkki	-	noun	5	kk:k	back	i	-	-
 -	oligomenorrea	-	noun	12	-	-	-	-	-
 -	oligopoli	-	noun	5	-	back	i	-	-
+-	oligoseeni	-	noun	5	-	-	-	-	-
 -	oliguria	-	noun	12	-	-	-	-	-
 -	oliivi	-	noun	6	-	back	i	-	-
 -	olija	-	noun	12	-	back	a	-	-
@@ -37234,6 +37682,7 @@
 -	olki	-	noun	7	k:j	back	i	-	-
 -	olkkari	-	noun	6	-	back	i	coll	-
 -	olmekki	-	noun	5	kk:k	-	-	nstd	-
+-	olmesartaani	-	noun	5	-	-	-	-	-
 -	olmi	-	noun	5	-	back	i	-	-
 -	olo	-	noun	1	-	back	o	-	-
 -	oltermanni	-	noun	5	-	back	i	-	-
@@ -37262,6 +37711,7 @@
 -	omistus	-	noun	39	-	back	u	-	-
 -	omituisuus	-	noun	40	-	back	u	-	-
 -	ommel	-	noun	49	mp:mm	back	e	-	-
+-	omnivori	-	noun	?6	-	-	-	-	-
 -	omote	-	noun	8	-	-	-	foreign	-
 -	ompele	-	noun	49b	-	back	e	-	-
 -	ompelija	-	noun	12	-	back	a	-	-
@@ -37271,6 +37721,7 @@
 -	omppu	-	noun	1	pp:p	back	u	coll	-
 -	onania	-	noun	12	-	back	a	-	-
 -	ondansetroni	-	noun	6	-	-	-	-	-
+-	oneiromantia	-	noun	12	-	-	-	-	-
 -	ongelma	-	noun	10	-	back	a	-	-
 -	ongelmallisuus	-	noun	40	-	back	u	-	-
 -	ongelmatiikka	-	noun	14	kk:k	back	a	jocul	-
@@ -37283,6 +37734,7 @@
 -	onkogeenisyys	-	noun	40	-	front	y	-	-
 -	onkologi	-	noun	5	-	back	i	-	-
 -	onkologia	-	noun	12	-	back	a	-	-
+-	onkosytooma	-	noun	10	-	-	-	-	-
 -	onnahdus	-	noun	39	-	back	u	-	-
 -	onnahtelu	-	noun	2	-	back	u	-	-
 -	onnekkuus	-	noun	40	-	back	u	-	-
@@ -37300,12 +37752,14 @@
 -	onsku	-	noun	1	-	-	-	-	-
 -	ontelo	-	noun	2	-	back	o	-	-
 -	ontervio	-	noun	3	-	-	-	-	-
+-	ontogenia	-	noun	12	-	-	-	-	-
 -	ontologia	-	noun	12	-	back	a	-	-
 -	onttous	-	noun	40	-	back	u	-	-
 -	onyksi	-	noun	5	-	front|back	i	-	-
 -	oo	-	noun	18	-	-	-	coll|non-compounding	-
 -	oodi	-	noun	5	-	back	i	-	-
 -	ooforiitti	-	noun	5	tt:t	-	-	-	-
+-	oogeneesi	-	noun	5	-	-	-	-	-
 -	ooidi	-	noun	5	-	-	-	-	-
 -	ooliitti	-	noun	5	tt:t	-	-	-	-
 -	oologi	-	noun	5	-	-	-	-	-
@@ -37350,6 +37804,7 @@
 -	oppija	-	noun	12	-	back	a	-	-
 -	oppilas	-	noun	41	-	back	a	-	-
 -	oppimattomuus	-	noun	40	-	-	-	-	-
+-	oppiminen	-	noun	38	-	-	-	-	-
 -	oppineisto	-	noun	1	-	back	o	-	-
 -	oppineisuus	-	noun	40	-	back	u	-	-
 -	opponentti	-	noun	5	tt:t	back	i	-	-
@@ -37395,12 +37850,14 @@
 -	organisoija	-	noun	10	-	back	a	-	-
 -	organisointi	-	noun	5	nt:nn	back	i	-	-
 -	organogeneesi	-	noun	5	-	-	-	-	-
+-	organologia	-	noun	12	-	-	-	-	-
 -	organza	-	noun	9	-	-	-	-	-
 -	orgasmi	-	noun	5	-	back	i	-	-
 -	orhi	-	noun	5	-	back	i	poet	-
 -	ori	-	noun	48|5	-	back	i	-	-
 -	oribletti	-	noun	5	tt:t	back	i	-	-
 -	orientaatio	-	noun	3	-	back	o	-	-
+-	orientalismi	-	noun	5	-	-	-	-	-
 -	orientalisti	-	noun	5	-	back	i	-	-
 -	orientalistiikka	-	noun	9	kk:k	back	a	-	-
 -	orientointi	-	noun	5	nt:nn	back	i	-	-
@@ -37422,6 +37879,8 @@
 -	orkestraatio	-	noun	3	-	back	o	-	-
 -	orkestrointi	-	noun	5	nt:nn	back	i	-	-
 -	orkidea	-	noun	13	-	back	a	-	-
+-	orkiektomia	-	noun	12	-	-	-	-	-
+-	orkiitti	-	noun	5	tt:t	-	-	-	-
 -	orkka	-	noun	10	kk:k	back	a	coll	-
 -	orkku	-	noun	1	kk:k	back	u	slang	-
 -	orko	-	noun	1	-	-	-	rare	-
@@ -37468,6 +37927,7 @@
 -	osasto	-	noun	2	-	back	o	-	-
 -	osaton	-	noun	34	tt:t	-	-	-	-
 -	osattomuus	-	noun	40	-	back	u	-	-
+-	oseanografia	-	noun	12	-	-	-	-	-
 -	oseanologia	-	noun	12	-	back	a	-	-
 -	oselotti	-	noun	5	tt:t	back	i	-	-
 -	osinko	-	noun	1	nk:ng	back	o	-	-
@@ -37504,9 +37964,11 @@
 -	osteoklasti	-	noun	5	-	-	-	-	-
 -	osteokondrodysplasia	-	noun	12	-	-	-	-	-
 -	osteokondroosi	-	noun	5	-	-	-	-	-
+-	osteologia	-	noun	12	-	-	-	-	-
 -	osteomalasia	-	noun	12	-	back	a	-	-
 -	osteopaatti	-	noun	5	tt:t	back	i	-	-
 -	osteopatia	-	noun	12	-	back	a	-	-
+-	osteopenia	-	noun	12	-	-	-	-	-
 -	osteoporoosi	-	noun	5	-	back	i	-	-
 -	osteosyytti	-	noun	5	tt:t	-	-	-	-
 -	osteri	-	noun	6	-	back	i	-	-
@@ -37514,6 +37976,9 @@
 -	ostjakki	-	noun	5	kk:k	back	i	-	-
 -	osto	-	noun	1	-	back	o	-	-
 -	ostos	-	noun	39	-	back	o	-	-
+-	ostrakismi	-	noun	5	-	-	-	-	-
+-	ostrakismos	-	noun	39	-	-	-	foreign	-
+-	ostrakon	-	noun	5	-	-	-	-	-
 -	osuma	-	noun	10	-	back	a	-	-
 -	osuus	-	noun	40	-	back	u	-	-
 -	osuvuus	-	noun	40	-	back	u	-	-
@@ -37527,6 +37992,7 @@
 -	otiitti	-	noun	5	tt:t	-	-	-	-
 -	otin	-	noun	33	tt:t	back	i	-	-
 -	otollisuus	-	noun	40	-	back	u	-	-
+-	otologia	-	noun	12	-	-	-	-	-
 -	otorinolaryngologia	-	noun	12	-	-	-	-	-
 -	otos	-	noun	39	-	back	o	-	-
 -	otoskleroosi	-	noun	5	-	-	-	-	-
@@ -37762,20 +38228,24 @@
 -	palauma	-	noun	10	-	back	a	-	-
 -	palaute	-	noun	48	tt:t	back	e	-	-
 -	palautuma	-	noun	10	-	back	a	-	-
+-	palautuminen	-	noun	38	-	-	-	-	-
 -	palautus	-	noun	39	-	back	u	-	-
 -	palaveri	-	noun	5	-	back	i	-	-
 -	palavuus	-	noun	40	-	-	-	-	-
 -	paleltuma	-	noun	10	-	back	a	-	-
 -	paleoekologia	-	noun	12	-	-	-	-	-
+-	paleografia	-	noun	12	-	-	-	-	-
 -	paleolitikum	-	noun	5	-	-	-	-	-
 -	paleontologi	-	noun	5	-	-	-	-	-
 -	paleontologia	-	noun	12	-	back	a	-	-
+-	paleoseeni	-	noun	5	-	-	-	-	-
 -	paleosomi	-	noun	5	-	-	-	-	-
 -	palestiinalainen	-	noun	38	-	-	-	-	-
 -	paletti	-	noun	5	tt:t	back	i	-	-
 -	palho	-	noun	1	-	back	o	-	-
 -	palikirilainen	-	noun	38	-	-	-	-	-
 -	palikka	-	noun	14	kk:k	back	a	-	-
+-	palilalia	-	noun	12	-	-	-	-	-
 -	palindromi	-	noun	5	-	back	i	-	-
 -	palingeneesi	-	noun	5	-	-	-	-	-
 -	palis	-	noun	39	-	-	-	coll	-
@@ -37878,6 +38348,7 @@
 -	panettelija	-	noun	12	-	back	a	-	-
 -	panettelu	-	noun	2	-	back	u	-	-
 -	panettone	-	noun	8	-	-	-	-	-
+-	panfobia	-	noun	12	-	-	-	-	-
 -	pangasinan	-	noun	5	-	-	-	-	-
 -	pangasius	-	noun	39	-	back	u	-	-
 -	panihida	-	noun	9	-	-	-	-	-
@@ -37913,6 +38384,7 @@
 -	panta	-	noun	9	nt:nn	back	a	-	-
 -	panteismi	-	noun	5	-	back	i	-	-
 -	panteisti	-	noun	5	-	back	i	-	-
+-	pantofobia	-	noun	12	-	-	-	-	-
 -	pantografi	-	noun	5	-	-	-	-	-
 -	pantomiimi	-	noun	5	-	back	i	-	-
 -	pantomiimikko	-	noun	1	kk:k	back	o	-	-
@@ -37936,6 +38408,7 @@
 -	papilla	-	noun	9	-	back	a	-	-
 -	papilli	-	noun	5	-	back	i	-	-
 -	papillisuus	-	noun	40	-	back	u	-	-
+-	papillon	-	noun	5	-	-	-	-	-
 -	papillooma	-	noun	10	-	back	a	-	-
 -	papisto	-	noun	2	-	back	o	-	-
 -	papitar	-	noun	32	tt:t	back	a	-	-
@@ -37968,10 +38441,12 @@
 -	paradoksisuus	-	noun	40	-	back	u	-	-
 -	parafemia	-	noun	12	-	-	-	rare	-
 -	parafiini	-	noun	5	-	back	i	-	-
+-	parafilia	-	noun	12	-	-	-	-	-
 -	parafimoosi	-	noun	5	-	-	-	-	-
 -	parafinointi	-	noun	5	nt:nn	back	i	-	-
 -	parafointi	-	noun	5	nt:nn	back	i	-	-
 -	parafraasi	-	noun	5	-	-	-	-	-
+-	parafrenia	-	noun	12	-	-	-	-	-
 -	parageneesi	-	noun	5	-	-	-	-	-
 -	paragrafi	-	noun	5	-	back	i	dated	-
 -	paragrammi	-	noun	5	-	-	-	-	-
@@ -38013,8 +38488,10 @@
 -	pareeraus	-	noun	39	-	-	-	-	-
 -	pareesi	-	noun	5	-	-	-	-	-
 -	paremmuus	-	noun	40	-	back	u	-	-
+-	parenkyymi	-	noun	5	-	-	-	-	-
 -	pareo	-	noun	3	-	-	-	-	-
 -	parergon	-	noun	5	-	-	-	-	-
+-	parestesia	-	noun	12	-	-	-	-	-
 -	parfait	-	noun	22|†5	-	back	e	-	-
 -	parfee	-	noun	20	-	back	e	-	-
 -	parfymeria	-	noun	12	-	back	a	-	-
@@ -38151,6 +38628,7 @@
 -	patentointi	-	noun	5	nt:nn	back	i	-	-
 -	patentti	-	noun	5	tt:t	back	i	-	-
 -	pateri	-	noun	6	-	-	-	-	-
+-	paternoster	-	noun	6	-	-	-	-	-
 -	patetia	-	noun	12	-	-	-	-	-
 -	pati	-	noun	5	-	-	-	-	-
 -	patiini	-	noun	5	-	back	i	-	-
@@ -38231,7 +38709,7 @@
 -	pedologia	-	noun	12	-	-	-	-	-
 -	pedometri	-	noun	5	-	-	-	-	-
 -	pee	-	noun	18	-	front	e	coll|non-compounding	-
--	peesaus	-	noun	39|40	-	-	-	-	-
+-	peesaus	-	noun	39	-	-	-	-	-
 -	peesi	-	noun	5	-	front	i	coll	-
 -	peeveli	-	noun	6	-	front	i	coll	-
 -	peffa	-	noun	9	-	back	a	coll	-
@@ -38374,6 +38852,7 @@
 -	pentagoni	-	noun	5	-	back	i	-	-
 -	pentagrammi	-	noun	5	-	back	i	-	-
 -	pentametri	-	noun	5	-	back	i	-	-
+-	pentathlon	-	noun	5	-	-	-	-	-
 -	pentatsosiini	-	noun	5	-	-	-	-	-
 -	pentele	-	noun	48	-	front	e	coll	-
 -	pentodi	-	noun	5	-	-	-	-	-
@@ -38417,6 +38896,7 @@
 -	peridotiitti	-	noun	5	tt:t	back	i	-	-
 -	perifeerisyys	-	noun	40	-	front	y	-	-
 -	periferia	-	noun	12	-	back	a	-	-
+-	perigeum	-	noun	5	-	-	-	-	-
 -	perigeumi	-	noun	5	-	-	-	-	-
 -	perijä	-	noun	12	-	front	ä	-	-
 -	perijätär	-	noun	32	tt:t	front	ä	-	-
@@ -38467,6 +38947,7 @@
 -	peroksidaasi	-	noun	5	-	back	i	-	-
 -	peroksidi	-	noun	5	-	back	i	-	-
 -	peroneuspareesi	-	noun	5	-	-	-	-	-
+-	peronismi	-	noun	5	-	-	-	-	-
 -	perperi	-	noun	6	-	-	-	coll|jocul	-
 -	perry	-	noun	1	-	-	-	foreign	-
 -	perse	-	noun	48	-	front	e	vulg	-
@@ -38554,6 +39035,7 @@
 -	petaus	-	noun	39	-	back	u	coll	-
 -	petekia	-	noun	12	-	-	-	-	-
 -	peti	-	noun	5	t:d|=	front	i	-	-
+-	petidiini	-	noun	5	-	-	-	-	-
 -	petiitti	-	noun	5	tt:t	front	i	-	-
 -	petkel	-	noun	49	-	front	e	-	-
 -	petkele	-	noun	49b	-	front	e	-	-
@@ -38682,6 +39164,7 @@
 -	piipahdus	-	noun	39	-	back	u	-	-
 -	piiperrys	-	noun	39	-	front	y	-	-
 -	piipitys	-	noun	39	-	front	y	-	-
+-	piippari	-	noun	6	-	-	-	-	-
 -	piippaus	-	noun	39	-	back	u	-	-
 -	piippo	-	noun	1	pp:p	back	o	-	-
 -	piippolalainen	-	noun	38	-	-	-	-	-
@@ -38734,6 +39217,7 @@
 -	piknik	-	noun	5	-	front	i	-	-
 -	piknikki	-	noun	5	kk:k	front	i	-	-
 -	pikseli	-	noun	6	-	front	i	-	-
+-	piktogrammi	-	noun	5	-	-	-	-	-
 -	pila	-	noun	9	-	back	a	-	-
 -	pilaaja	-	noun	10	-	back	a	-	-
 -	pilahvi	-	noun	5	-	back	i	-	-
@@ -38792,6 +39276,7 @@
 -	pimputus	-	noun	39	-	back	u	-	-
 -	pimu	-	noun	1	-	back	u	coll	-
 -	pinaatti	-	noun	5	tt:t	back	i	-	-
+-	pinakoteekki	-	noun	5	kk:k	-	-	-	-
 -	pineeni	-	noun	5	-	front	i	-	-
 -	pingis	-	noun	39	-	front	i	coll	-
 -	pingotin	-	noun	33	tt:t	back	i	-	-
@@ -38947,6 +39432,7 @@
 -	planeetta	-	noun	9	tt:t	back	a	-	-
 -	planetaario	-	noun	3	-	back	o	-	-
 -	planetoidi	-	noun	5	-	back	i	-	-
+-	planetologia	-	noun	12	-	-	-	-	-
 -	plankkaus	-	noun	39	-	back	u	coll	-
 -	plankki	-	noun	5	kk:k	back	i	coll	-
 -	plankton	-	noun	5	-	back	o	-	-
@@ -38982,6 +39468,7 @@
 -	pleikkari	-	noun	6	-	-	-	slang	-
 -	pleissaus	-	noun	39	-	-	-	-	-
 -	pleissi	-	noun	5	-	front	i	-	-
+-	pleistoseeni	-	noun	5	-	-	-	-	-
 -	pleko	-	noun	1	-	-	-	-	-
 -	plektra	-	noun	9	-	back	a	-	-
 -	pleokroismi	-	noun	5	-	-	-	-	-
@@ -38989,6 +39476,7 @@
 -	pleura	-	noun	9	-	-	-	foreign|rare	-
 -	pleuriitti	-	noun	5	tt:t	-	-	-	-
 -	plikka	-	noun	9	kk:k	back	a	coll	-
+-	plioseeni	-	noun	5	-	-	-	-	-
 -	pliseeraus	-	noun	39	-	back	u	-	-
 -	pljeskavica	-	noun	9	-	-	-	foreign	-
 -	ploki	-	noun	5	-	-	-	-	-
@@ -39002,6 +39490,7 @@
 -	plus	-	noun	!	-	-	-	non-compounding	-
 -	pluskvamperfekti	-	noun	5	-	back	i	-	-
 -	plussa	-	noun	10	-	back	a	-	-
+-	plutokratia	-	noun	12	-	-	-	-	-
 -	plutonium	-	noun	5	-	back	u	-	-
 -	plutoona	-	noun	10	-	back	a	dated	-
 -	pluumi	-	noun	5	-	-	-	-	-
@@ -39162,22 +39651,28 @@
 -	polvi	-	noun	7	-	back	i	-	-
 -	polyamidi	-	noun	5	-	-	-	-	-
 -	polyamoria	-	noun	12	-	back	a	-	-
+-	polyandria	-	noun	12	-	-	-	-	-
+-	polyarkia	-	noun	12	-	-	-	-	-
 -	polyartriitti	-	noun	5	tt:t	-	-	-	-
 -	polydaktylia	-	noun	12	-	-	-	-	-
 -	polyedri	-	noun	5	-	front|back	i	-	-
 -	polyesteri	-	noun	6	-	-	-	-	-
 -	polyeteeni	-	noun	5	-	-	-	-	-
 -	polyetyleenitereftalaatti	-	noun	5	tt:t	-	-	-	-
+-	polyfagia	-	noun	12	-	-	-	-	-
 -	polyfarmasia	-	noun	12	-	-	-	-	-
 -	polyfonia	-	noun	12	-	back	a	-	-
 -	polygamia	-	noun	12	-	back	a	-	-
 -	polyglotti	-	noun	5	tt:t	back	i	-	-
 -	polygoni	-	noun	5	-	back	i	-	-
+-	polygynia	-	noun	12	-	-	-	-	-
+-	polykratia	-	noun	12	-	-	-	-	-
 -	polymeeri	-	noun	5	-	front|back	i	-	-
 -	polymenorrea	-	noun	12	-	-	-	-	-
 -	polymeria	-	noun	12	-	back	a	-	-
 -	polymerisaatio	-	noun	3	-	back	o	-	-
 -	polymorfia	-	noun	12	-	back	a	-	-
+-	polymorfismi	-	noun	5	-	-	-	-	-
 -	polymyalgia	-	noun	12	-	-	-	-	-
 -	polymyksiini	-	noun	5	-	-	-	-	-
 -	polynesialainen	-	noun	38	-	-	-	-	-
@@ -39188,6 +39683,7 @@
 -	polypoosi	-	noun	5	-	-	-	-	-
 -	polypropeeni	-	noun	5	-	-	-	-	-
 -	polysakkaridi	-	noun	5	-	-	-	-	-
+-	polysemia	-	noun	12	-	-	-	-	-
 -	polystyreeni	-	noun	5	-	-	-	-	-
 -	polysynoviitti	-	noun	5	tt:t	-	-	-	-
 -	polysytemia	-	noun	12	-	-	-	-	-
@@ -39208,6 +39704,8 @@
 -	pommitus	-	noun	39	-	back	u	-	-
 -	pomo	-	noun	1	-	back	o	coll	-
 -	pomoilu	-	noun	2	-	back	u	coll	-
+-	pomologi	-	noun	5	-	-	-	-	-
+-	pomologia	-	noun	12	-	-	-	-	-
 -	pompahdus	-	noun	39	-	back	u	-	-
 -	pompottelu	-	noun	2	-	-	-	-	-
 -	pompotus	-	noun	39	-	back	u	-	-
@@ -39241,6 +39739,7 @@
 -	pooki	-	noun	5	-	back	i	-	-
 -	pool	-	noun	5	-	-	-	-	-
 -	pooli	-	noun	5	-	back	i	-	-
+-	poolisuus	-	noun	40	-	-	-	-	-
 -	poolo	-	noun	1	-	back	o	-	-
 -	pop	-	noun	5	pp:p|=	back	o	coll	-
 -	popcorn	-	noun	5	-	-	-	-	-
@@ -39295,6 +39794,8 @@
 -	port salut	-	noun	22|5	-	-	-	-	-
 -	portaali	-	noun	6	-	back	i	-	-
 -	portaikko	-	noun	4	kk:k	back	o	-	-
+-	portamento	-	noun	1	?nt:nn	-	-	-	-
+-	portatiivi	-	noun	5	-	-	-	-	-
 -	portauprincelainen	-	noun	38	-	-	-	-	-
 -	portfolio	-	noun	3	-	back	o	-	-
 -	portieeri	-	noun	5	-	back	i	-	-
@@ -39412,6 +39913,7 @@
 -	preeria	-	noun	12	-	back	a	-	-
 -	preerikko	-	noun	4	kk:k	-	-	-	-
 -	preesens	-	noun	5	-	front	e	-	-
+-	preettori	-	noun	?6	-	-	-	-	-
 -	prefekti	-	noun	5	-	front	i	-	-
 -	prefektuuri	-	noun	6	-	-	-	-	-
 -	preferenssi	-	noun	5	-	front	i	-	-
@@ -39420,6 +39922,7 @@
 -	prekaari	-	noun	5	-	back	i	-	-
 -	prekariaatti	-	noun	5	tt:t	back	i	-	-
 -	prekluusio	-	noun	3	-	-	-	-	-
+-	prekognitio	-	noun	3	-	-	-	-	-
 -	prekursori	-	noun	6	-	-	-	-	-
 -	prelaatti	-	noun	5	tt:t	back	i	-	-
 -	preliminääri	-	noun	5	-	front	i	-	-
@@ -39434,6 +39937,7 @@
 -	preparointi	-	noun	5	nt:nn	back	i	-	-
 -	prepositio	-	noun	3	-	back	o	-	-
 -	preppaus	-	noun	39	-	back	u	coll	-
+-	presbyopia	-	noun	12	-	-	-	-	-
 -	presbyteeri	-	noun	5	-	front	i	-	-
 -	presbyteeriläinen	-	noun	38	-	front	e	-	-
 -	presbyteriaani	-	noun	5	-	back	i	-	-
@@ -39448,6 +39952,7 @@
 -	pressi	-	noun	5	-	front	i	coll	-
 -	pressu	-	noun	1	-	back	u	coll	-
 -	prestiisi	-	noun	5	-	front	i	-	-
+-	presumtio	-	noun	3	-	-	-	-	-
 -	preteriti	-	noun	5	-	front	i	-	-
 -	pretorialainen	-	noun	38	-	-	-	-	-
 -	preussi	-	noun	5	-	back	i	-	-
@@ -39464,12 +39969,14 @@
 -	priki	-	noun	5	-	front	i	-	-
 -	prikka	-	noun	9	kk:k	back	a	coll	-
 -	prikku	-	noun	1	kk:k	back	u	coll	-
+-	prilokaiini	-	noun	5	-	-	-	-	-
 -	prima ballerina	-	noun	9	-	-	-	-	-
 -	prima vista	-	noun	9	-	-	-	-	-
 -	primaarisuus	-	noun	40	-	back	u	-	-
 -	primaarius	-	noun	40	-	back	u	-	-
 -	primadonna	-	noun	10	-	back	a	-	-
 -	prime time	-	noun	8	-	-	-	-	-
+-	primitiivi	-	noun	5	-	-	-	-	-
 -	primitiivisyys	-	noun	40	-	front	y	-	-
 -	primitivismi	-	noun	5	-	front	i	-	-
 -	primitivisti	-	noun	5	-	front	i	-	-
@@ -39535,9 +40042,11 @@
 -	prolaktiini	-	noun	5	-	back	i	-	-
 -	prolapsi	-	noun	5	-	back	i	-	-
 -	prolatiivi	-	noun	5	-	back	i	-	-
+-	prole	-	noun	8	-	-	-	slang	-
 -	proletaari	-	noun	5	-	back	i	-	-
 -	proletariaatti	-	noun	5	tt:t	back	i	-	-
 -	proliferaatio	-	noun	3	-	-	-	-	-
+-	proliini	-	noun	6	-	-	-	-	-
 -	prologi	-	noun	5	-	back	i	-	-
 -	promemoria	-	noun	12	-	back	a	rare	-
 -	promenadi	-	noun	5	-	back	i	-	-
@@ -39581,6 +40090,7 @@
 -	prosessi	-	noun	5	-	back	i	-	-
 -	prosessointi	-	noun	5	nt:nn	back	i	-	-
 -	prosessori	-	noun	6	-	back	i	-	-
+-	prosodia	-	noun	12	-	-	-	-	-
 -	prosopopoeia	-	noun	9	-	-	-	-	-
 -	prospekti	-	noun	5	-	back	i	-	-
 -	prossa	-	noun	10	-	back	a	coll	-
@@ -39622,6 +40132,8 @@
 -	prototyyppi	-	noun	5	pp:p	-	-	-	-
 -	protrombiini	-	noun	5	-	-	-	-	-
 -	protsku	-	noun	1	-	-	-	slang	-
+-	provenienssi	-	noun	5	-	-	-	-	-
+-	provensaali	-	noun	5	-	-	-	-	-
 -	proviisori	-	noun	6	-	back	i	-	-
 -	provikka	-	noun	14	kk:k	-	-	coll	-
 -	provinsialismi	-	noun	5	-	back	i	-	-
@@ -39812,6 +40324,7 @@
 -	pullukka	-	noun	14	kk:k	back	a	-	-
 -	pulma	-	noun	10	-	back	a	-	-
 -	pulmallisuus	-	noun	40	-	back	u	-	-
+-	pulmonologia	-	noun	12	-	-	-	-	-
 -	pulmu	-	noun	1	-	back	u	poet	-
 -	pulmunen	-	noun	38	-	back	e	-	-
 -	pulpetti	-	noun	5	tt:t	back	i	-	-
@@ -40102,6 +40615,7 @@
 -	pyramidi	-	noun	5	-	back	i	-	-
 -	pyre	-	noun	48	-	front	e	-	-
 -	pyree	-	noun	20	-	front	e	-	-
+-	pyreksia	-	noun	12	-	-	-	-	-
 -	pyridoksaalifosfaatti	-	noun	5	tt:t	-	-	-	-
 -	pyridoksiini	-	noun	5	-	-	-	-	-
 -	pyriitti	-	noun	5	tt:t	front	i	-	-
@@ -40115,6 +40629,7 @@
 -	pyrky	-	noun	1	k:	front	y	coll	-
 -	pyrkyri	-	noun	6	-	front	i	-	-
 -	pyrkyryys	-	noun	40	-	front	y	-	-
+-	pyrolatria	-	noun	12	-	-	-	-	-
 -	pyrolyysi	-	noun	5	-	front|back	i	-	-
 -	pyromaani	-	noun	5	-	back	i	-	-
 -	pyromania	-	noun	12	-	back	a	-	-
@@ -40652,6 +41167,7 @@
 -	rassukka	-	noun	14	kk:k	back	a	-	-
 -	rasta	-	noun	9	-	back	a	-	-
 -	rastafari	-	noun	5	-	back	i	-	-
+-	rastafarismi	-	noun	5	-	-	-	-	-
 -	rastas	-	noun	41	-	back	a	-	-
 -	rasteri	-	noun	6	-	back	i	-	-
 -	rasterointi	-	noun	5	nt:nn	back	i	-	-
@@ -40746,6 +41262,7 @@
 -	realiteetti	-	noun	5	tt:t	back	i	-	-
 -	reality	-	noun	1	-	-	-	-	-
 -	rectum	-	noun	5	-	-	-	foreign	-
+-	redaktio	-	noun	3	-	-	-	-	-
 -	redemptoristi	-	noun	5	-	-	-	-	-
 -	redi	-	noun	5	-	front	i	-	-
 -	reduktaasi	-	noun	5	-	-	-	-	-
@@ -40811,7 +41328,6 @@
 -	reikä	-	noun	10	k:	front	ä	-	-
 -	reilaaja	-	noun	10	-	back	a	coll	-
 -	reiluus	-	noun	40	-	back	u	-	-
--	reima	-	adjective	9	-	-	-	dated	-
 -	reimari	-	noun	6	-	back	i	-	-
 -	reinkarnaatio	-	noun	3	-	back	o	-	-
 -	reippailija	-	noun	12	-	back	a	-	-
@@ -40872,6 +41388,7 @@
 -	reluktiivisuus	-	noun	40	-	-	-	-	-
 -	remahdus	-	noun	39	-	back	u	-	-
 -	remakka	-	noun	14	kk:k	back	a	-	-
+-	remanenssi	-	noun	5	-	-	-	-	-
 -	remburssi	-	noun	5	-	back	i	-	-
 -	remissi	-	noun	5	-	front	i	-	-
 -	remissio	-	noun	3	-	back	o	-	-
@@ -40895,6 +41412,7 @@
 -	renkolainen	-	noun	38	-	-	-	-	-
 -	renksu	-	noun	1	-	back	u	coll	-
 -	renkutus	-	noun	39	-	back	u	-	-
+-	renminbi	-	noun	5	-	-	-	-	-
 -	rensseli	-	noun	6	-	front	i	-	-
 -	rentous	-	noun	40	-	back	u	-	-
 -	rentoute	-	noun	48	tt:t	back	e	-	-
@@ -40944,6 +41462,7 @@
 -	reseptio	-	noun	3	-	back	o	-	-
 -	reseptionisti	-	noun	5	-	back	i	-	-
 -	reseptori	-	noun	5	-	back	i	-	-
+-	reserpiini	-	noun	5	-	-	-	-	-
 -	reservaatio	-	noun	3	-	back	o	-	-
 -	reservaatti	-	noun	5	tt:t	back	i	-	-
 -	reservi	-	noun	5	-	front	i	-	-
@@ -40960,6 +41479,7 @@
 -	resistanssi	-	noun	5	-	back	i	-	-
 -	resistenssi	-	noun	5	-	front	i	-	-
 -	resistiivisyys	-	noun	40	-	front	y	-	-
+-	resistori	-	noun	?6	-	-	-	-	-
 -	resitaali	-	noun	5	-	back	i	-	-
 -	resitaatio	-	noun	3	-	back	o	-	-
 -	resitatiivi	-	noun	5	-	back	i	-	-
@@ -41011,6 +41531,7 @@
 -	retorisuus	-	noun	40	-	back	u	-	-
 -	retoromaani	-	noun	5	-	back	i	-	-
 -	retortti	-	noun	5	tt:t	back	i	-	-
+-	retretti	-	noun	5	tt:t	-	-	-	-
 -	retriitti	-	noun	5	tt:t	front	i	-	-
 -	retro	-	noun	1	-	-	-	-	-
 -	retroduktio	-	noun	3	-	-	-	-	-
@@ -41028,6 +41549,7 @@
 -	reuma	-	noun	9	-	back	a	-	-
 -	reumaatikko	-	noun	4	kk:k	back	o	-	-
 -	reumatismi	-	noun	5	-	back	i	-	-
+-	reumatologi	-	noun	5	-	-	-	-	-
 -	reumatologia	-	noun	12	-	back	a	-	-
 -	reuna	-	noun	9	-	back	a	-	-
 -	reunake	-	noun	48	kk:k	back	e	-	-
@@ -41156,6 +41678,7 @@
 -	rikastus	-	noun	39	-	back	u	-	-
 -	rikastuttaja	-	noun	10	-	back	a	-	-
 -	rike	-	noun	48	kk:k	front	e	-	-
+-	riketsia	-	noun	12	-	-	-	-	-
 -	riki	-	noun	5	-	front	i	-	-
 -	rikka	-	noun	9	kk:k	back	a	-	-
 -	rikkaus	-	noun	40	-	back	u	-	-
@@ -41383,8 +41906,11 @@
 -	roomalainen	-	noun	38	-	back	e	-	-
 -	roomatar	-	noun	32	tt:t	back	a	-	-
 -	rooteli	-	noun	6	-	-	-	-	-
+-	roottaaminen	-	noun	38	-	-	-	-	-
+-	roottaus	-	noun	39	-	-	-	-	-
 -	roottori	-	noun	6	-	back	i	-	-
 -	ropina	-	noun	12	-	back	a	-	-
+-	ropivakaiini	-	noun	5	-	-	-	-	-
 -	ropo	-	noun	1	p:v	back	o	-	-
 -	roponen	-	noun	38	-	back	e	-	-
 -	ropsahdus	-	noun	39	-	back	u	-	-
@@ -42036,6 +42562,7 @@
 -	sakeutus	-	noun	39	-	back	u	-	-
 -	sakinaviiri	-	noun	5	-	-	-	-	-
 -	sakka	-	noun	9	kk:k	back	a	-	-
+-	sakkaraasi	-	noun	5	-	-	-	-	-
 -	sakkaridi	-	noun	5	-	back	i	-	-
 -	sakkariini	-	noun	5	-	back	i	-	-
 -	sakkaroosi	-	noun	5	-	back	i	-	-
@@ -42269,7 +42796,10 @@
 -	sarkka	-	noun	9	kk:k	-	-	-	-
 -	sarkofagi	-	noun	5	-	back	i	-	-
 -	sarkoidoosi	-	noun	5	-	-	-	-	-
+-	sarkolemma	-	noun	9	-	-	-	-	-
+-	sarkomeeri	-	noun	5	-	-	-	-	-
 -	sarkooma	-	noun	10	-	back	a	-	-
+-	sarkopenia	-	noun	12	-	-	-	-	-
 -	sarlakka	-	noun	14	kk:k	-	-	-	-
 -	sarpio	-	noun	3	-	back	o	-	-
 -	sars	-	noun	5	-	back	a	-	-
@@ -42315,6 +42845,7 @@
 -	saturaatio	-	noun	3	-	back	o	-	-
 -	saturainen	-	noun	38	-	back	e	coll	-
 -	saturointi	-	noun	5	nt:nn	back	i	-	-
+-	satyriaasi	-	noun	5	-	-	-	-	-
 -	satyyri	-	noun	5	-	front|back	i	-	-
 -	saudi	-	noun	5	-	back	i	-	-
 -	sauhu	-	noun	1	-	back	u	-	-
@@ -42371,6 +42902,7 @@
 -	science fiction	-	noun	5	-	-	-	-	-
 -	scientologia	-	noun	12	-	-	-	nstd	-
 -	scifi	-	noun	5	-	front	i	-	-
+-	scirocco	-	noun	1	-	-	-	-	-
 -	screwdriver	-	noun	6	-	-	-	-	-
 -	scriptorium	-	noun	5	-	-	-	foreign	-
 -	seaborgium	-	noun	5	-	-	-	-	-
@@ -42467,6 +42999,7 @@
 -	sekoittuvuus	-	noun	40	-	-	-	-	-
 -	sekoitus	-	noun	39	-	back	u	-	-
 -	sekoomus	-	noun	39	-	-	-	-	-
+-	sekretiini	-	noun	5	-	-	-	-	-
 -	sekretääri	-	noun	5	-	front	i	-	-
 -	seksi	-	noun	5	-	front	i	-	-
 -	seksikkyys	-	noun	40	-	front	y	-	-
@@ -42495,6 +43028,7 @@
 -	sekundaattori	-	noun	6	-	back	i	coll	-
 -	sekundantti	-	noun	5	tt:t	back	i	-	-
 -	sekunti	-	noun	5	nt:nn	back	i	-	-
+-	sekvensointi	-	noun	5	nt:nn	-	-	-	-
 -	sekvenssi	-	noun	5	-	front	i	-	-
 -	sekventiaalisuus	-	noun	40	-	-	-	-	-
 -	selailu	-	noun	2	-	back	u	-	-
@@ -42508,6 +43042,7 @@
 -	selektiivisyys	-	noun	40	-	front	y	-	-
 -	selektio	-	noun	3	-	back	o	-	-
 -	selektiviteetti	-	noun	5	tt:t	front	i	-	-
+-	selenologia	-	noun	12	-	-	-	-	-
 -	seleukidi	-	noun	5	-	-	-	-	-
 -	selfie	-	noun	21	-	front	e	-	-
 -	selibaatti	-	noun	5	tt:t	back	i	-	-
@@ -42585,6 +43120,7 @@
 -	seniori	-	noun	6	-	back	i	-	-
 -	senkka	-	noun	9	kk:k	back	a	coll	-
 -	senkki	-	noun	5	kk:k	front	i	coll	-
+-	sennosidi	-	noun	5	-	-	-	-	-
 -	sensaatio	-	noun	3	-	back	o	-	-
 -	sensibiliteetti	-	noun	5	tt:t	-	-	-	-
 -	sensitiivisyys	-	noun	40	-	front	y	-	-
@@ -42595,6 +43131,7 @@
 -	sensualismi	-	noun	5	-	back	i	-	-
 -	sensurointi	-	noun	5	nt:nn	back	i	-	-
 -	sensuuri	-	noun	6	-	back	i	-	-
+-	sentaali	-	noun	6	-	-	-	-	-
 -	sentimentaalisuus	-	noun	40	-	back	u	-	-
 -	sentralismi	-	noun	5	-	back	i	-	-
 -	sentralisointi	-	noun	5	nt:nn	back	i	-	-
@@ -42610,6 +43147,7 @@
 -	seoste	-	noun	48	-	back	e	-	-
 -	seostus	-	noun	39	-	back	u	-	-
 -	sepalus	-	noun	39	-	back	u	-	-
+-	separaatio	-	noun	3	-	-	-	-	-
 -	separaattori	-	noun	6	-	back	i	-	-
 -	separatismi	-	noun	5	-	back	i	-	-
 -	separatisti	-	noun	5	-	back	i	-	-
@@ -42642,6 +43180,7 @@
 -	serbi	-	noun	5	-	front	i	-	-
 -	serbia	-	noun	12	-	back	a	-	-
 -	serbialainen	-	noun	38	-	back	e	-	-
+-	serebrosidi	-	noun	5	-	-	-	-	-
 -	seremonia	-	noun	12	-	back	a	-	-
 -	seremoniallisuus	-	noun	40	-	back	u	-	-
 -	serenadi	-	noun	5	-	back	i	-	-
@@ -42664,12 +43203,14 @@
 -	serotyyppi	-	noun	5	pp:p	-	-	-	-
 -	serpentiini	-	noun	5	-	front	i	-	-
 -	serpentiniitti	-	noun	5	tt:t	front	i	-	-
+-	serpentti	-	noun	5	tt:t	-	-	-	-
 -	serppi	-	noun	5	pp:p	-	-	-	-
 -	serri	-	noun	5	-	front	i	-	-
 -	sertifikaatti	-	noun	5	tt:t	back	i	-	-
 -	sertifiointi	-	noun	5	nt:nn	back	i	-	-
 -	sertinki	-	noun	5	nk:ng	front	i	-	-
 -	sertti	-	noun	5	tt:t	-	-	-	-
+-	servaali	-	noun	6	-	-	-	-	-
 -	servelaati	-	noun	5	-	back	i	-	-
 -	serveri	-	noun	6	-	front	i	coll	-
 -	servetti	-	noun	5	tt:t	front	i	coll	-
@@ -42831,6 +43372,7 @@
 -	sigma	-	noun	9	-	back	a	-	-
 -	sigmoidoskopia	-	noun	12	-	-	-	-	-
 -	signaali	-	noun	6	-	back	i	-	-
+-	signatuuri	-	noun	5	-	-	-	-	-
 -	signeeraus	-	noun	39	-	back	u	-	-
 -	signifikaatio	-	noun	3	-	-	-	-	-
 -	signum	-	noun	5	-	-	-	foreign	-
@@ -42926,6 +43468,7 @@
 -	siksak	-	noun	5	-	back	a	-	-
 -	siksakki	-	noun	5	kk:k	back	i	-	-
 -	siksika	-	noun	9	-	-	-	-	-
+-	sikspäkki	-	noun	5	kk:k	-	-	coll	-
 -	sikuna	-	noun	11	-	back	a	-	-
 -	sikuri	-	noun	6	-	back	i	-	-
 -	sikäläinen	-	noun	38	-	front	e	-	-
@@ -43010,6 +43553,7 @@
 -	sinfonikko	-	noun	4	kk:k	back	o	-	-
 -	singaleesi	-	noun	5	-	-	-	-	-
 -	singaporelainen	-	noun	38	-	-	-	-	-
+-	singapura	-	noun	10	-	-	-	-	-
 -	singlaus	-	noun	39	-	back	u	-	-
 -	single	-	noun	8	-	front	e	-	-
 -	singulaari	-	noun	5	-	back	i	-	-
@@ -43071,6 +43615,7 @@
 -	sirklaus	-	noun	39	-	back	u	-	-
 -	sirkoni	-	noun	6	-	back	i	-	-
 -	sirkonium	-	noun	5	-	back	u	-	-
+-	sirkulaatio	-	noun	3	-	-	-	-	-
 -	sirkumfleksi	-	noun	5	-	back	i	-	-
 -	sirkus	-	noun	39	-	back	u	-	-
 -	sirkuslainen	-	noun	38	-	back	e	-	-
@@ -43120,6 +43665,7 @@
 -	sisältö	-	noun	1	lt:ll	front	ö	-	-
 -	sisäpiiriläinen	-	noun	38	-	-	-	-	-
 -	sitaatti	-	noun	5	tt:t	back	i	-	-
+-	sitadelli	-	noun	5	-	-	-	-	-
 -	sitaisu	-	noun	2	-	back	u	-	-
 -	sitalopraami	-	noun	5	-	-	-	-	-
 -	sitar	-	noun	6	-	back	a	-	-
@@ -43195,6 +43741,7 @@
 -	skanneri	-	noun	6	-	back	i	-	-
 -	skanssi	-	noun	5	-	back	i	-	-
 -	skarabee	-	noun	20	-	back	e	-	-
+-	skatologia	-	noun	12	-	-	-	-	-
 -	skeema	-	noun	9	-	back	a	-	-
 -	skeet	-	noun	5	-	front	e	-	-
 -	skeida	-	noun	9	-	back	a	slang	-
@@ -43242,9 +43789,11 @@
 -	skoone	-	noun	8	-	-	-	-	-
 -	skootteri	-	noun	6	-	back	i	-	-
 -	skopjelainen	-	noun	38	-	-	-	-	-
+-	skopolamiini	-	noun	5	-	-	-	-	-
 -	skopolia	-	noun	12	-	-	-	-	-
 -	skorpioni	-	noun	5	-	back	i	-	-
 -	skotlantilainen	-	noun	38	-	back	e	-	-
+-	skotofobia	-	noun	12	-	-	-	-	-
 -	skotooma	-	noun	10	-	back	a	-	-
 -	skotti	-	noun	5	tt:t	back	i	-	-
 -	skoude	-	noun	8	-	-	-	slang	-
@@ -43291,6 +43840,7 @@
 -	slogan	-	noun	6	-	back	a	-	-
 -	slotti	-	noun	5	tt:t	-	-	coll	-
 -	slougani	-	noun	6	-	-	-	coll	-
+-	slovakia	-	noun	12	-	-	-	nstd	-
 -	slovakialainen	-	noun	38	-	-	-	-	-
 -	slovakki	-	noun	5	kk:k	back	i	-	-
 -	slovari	-	noun	6	-	-	-	coll	-
@@ -43337,6 +43887,7 @@
 -	sofistiikka	-	noun	9	kk:k	back	a	-	-
 -	soft ice	-	noun	8	-	-	-	-	-
 -	softa	-	noun	10	-	back	a	slang	-
+-	software	-	noun	8	-	-	-	foreign	-
 -	soga	-	noun	10	-	-	-	-	-
 -	sogdi	-	noun	5	-	-	-	-	-
 -	sohaisu	-	noun	2	-	back	u	-	-
@@ -43402,6 +43953,7 @@
 -	solidius	-	noun	40	-	back	u	-	-
 -	solifluktio	-	noun	3	-	-	-	-	-
 -	solina	-	noun	12	-	back	a	-	-
+-	solipsismi	-	noun	5	-	-	-	-	-
 -	solisti	-	noun	5	-	back	i	-	-
 -	soljanka	-	noun	9	-	-	-	-	-
 -	solki	-	noun	7	k:j	back	i	-	-
@@ -43444,6 +43996,7 @@
 -	sommelier	-	noun	6	-	-	-	-	-
 -	sommitelma	-	noun	10	-	back	a	-	-
 -	sommittelu	-	noun	2	-	back	u	-	-
+-	somnolenssi	-	noun	5	-	-	-	-	-
 -	sompa	-	noun	10	mp:mm	back	a	-	-
 -	sompanen	-	noun	38	-	-	-	-	-
 -	sonaatti	-	noun	5	tt:t	back	i	-	-
@@ -43542,6 +44095,8 @@
 -	sosialisointi	-	noun	5	nt:nn	back	i	-	-
 -	sosialisti	-	noun	5	-	back	i	-	-
 -	sosieteetti	-	noun	5	tt:t	back	i	-	-
+-	sosiogrammi	-	noun	5	-	-	-	-	-
+-	sosiolekti	-	noun	5	-	-	-	-	-
 -	sosiologi	-	noun	5	-	back	i	-	-
 -	sosiologia	-	noun	12	-	back	a	-	-
 -	sosionomi	-	noun	5	-	back	i	-	-
@@ -43622,6 +44177,8 @@
 -	speksi	-	noun	5	-	front	i	-	-
 -	spektaakkeli	-	noun	6	-	back	i	-	-
 -	spektri	-	noun	5	-	front	i	-	-
+-	spektrofobia	-	noun	12	-	-	-	-	-
+-	spektrografi	-	noun	5	-	-	-	-	-
 -	spektrogrammi	-	noun	5	-	-	-	-	-
 -	spektroliitti	-	noun	5	tt:t	back	i	-	-
 -	spektrometri	-	noun	5	-	back	i	-	-
@@ -43631,6 +44188,7 @@
 -	spekulointi	-	noun	5	nt:nn	back	i	-	-
 -	speltti	-	noun	5	tt:t	front	i	-	-
 -	sperma	-	noun	9	-	back	a	-	-
+-	spermatofori	-	noun	?6	-	-	-	-	-
 -	spermisidi	-	noun	5	-	front	i	-	-
 -	spesialisointi	-	noun	5	nt:nn	back	i	-	-
 -	spesialisti	-	noun	5	-	back	i	-	-
@@ -43714,6 +44272,7 @@
 -	stabilisaattori	-	noun	6	-	-	-	-	-
 -	stabiliteetti	-	noun	5	tt:t	back	i	-	-
 -	stabilointi	-	noun	5	nt:nn	back	i	-	-
+-	staccato	-	noun	1	-	-	-	-	-
 -	stadi	-	noun	5	-	back	i	slang	-
 -	stadilainen	-	noun	38	-	-	-	slang	-
 -	stadion	-	noun	6	-	back	o	-	-
@@ -43734,6 +44293,7 @@
 -	standardointi	-	noun	5	nt:nn	back	i	-	-
 -	standartti	-	noun	5	tt:t	back	i	-	-
 -	standi	-	noun	5	-	-	-	-	-
+-	stanniini	-	noun	6	-	-	-	-	-
 -	stannioli	-	noun	5	-	back	i	-	-
 -	stanssi	-	noun	5	-	back	i	-	-
 -	stara	-	noun	9	-	back	a	slang	-
@@ -43753,6 +44313,7 @@
 -	steampunk	-	noun	5	-	-	-	foreign	-
 -	steariini	-	noun	5	-	back	i	-	-
 -	steatohepatiitti	-	noun	5	tt:t	-	-	-	-
+-	steelband	-	noun	5	-	-	-	-	-
 -	stelline	-	noun	8	-	-	-	-	-
 -	stemma	-	noun	9	-	back	a	-	-
 -	stenografia	-	noun	12	-	-	-	-	-
@@ -43818,6 +44379,7 @@
 -	stoppari	-	noun	6	-	back	i	coll	-
 -	stoppi	-	noun	5	pp:p	back	i	coll	-
 -	stout	-	noun	5	-	back	u	-	-
+-	strabismus	-	noun	39	-	-	-	-	-
 -	stradivarius	-	noun	39	-	back	u	-	-
 -	strassi	-	noun	5	-	back	i	-	-
 -	strategi	-	noun	5	-	back	i	-	-
@@ -43861,6 +44423,7 @@
 -	stumpy	-	noun	1	-	-	-	foreign	-
 -	stuntman	-	noun	5	-	-	-	-	-
 -	stuntti	-	noun	5	tt:t	back	i	coll	-
+-	styliitta	-	noun	9	tt:t	-	-	-	-
 -	stylisti	-	noun	5	-	front	i	-	-
 -	styloliitti	-	noun	5	tt:t	-	-	-	-
 -	styrkkari	-	noun	6	-	-	-	slang	-
@@ -43870,11 +44433,13 @@
 -	suahili	-	noun	5	-	back	i	-	-
 -	sub	-	noun	5	-	-	-	foreign|slang	-
 -	subdelegointi	-	noun	5	nt:nn	-	-	-	-
+-	subduktio	-	noun	3	-	-	-	-	-
 -	subjekti	-	noun	5	-	back	i	-	-
 -	subjektiivisuus	-	noun	40	-	back	u	-	-
 -	subjektivismi	-	noun	5	-	back	i	-	-
 -	subjektivisti	-	noun	5	-	back	i	-	-
 -	subjotuni	-	noun	6	-	-	-	dated	-
+-	subjunktiivi	-	noun	5	-	-	-	-	-
 -	subkutis	-	noun	39	-	-	-	-	-
 -	sublimaatio	-	noun	3	-	back	o	-	-
 -	sublimointi	-	noun	5	nt:nn	back	i	-	-
@@ -43893,6 +44458,7 @@
 -	sudittelu	-	noun	2	-	-	-	coll	-
 -	sudoku	-	noun	2	-	back	u	-	-
 -	sueviitti	-	noun	5	tt:t	-	-	-	-
+-	sufentaniili	-	noun	5	-	-	-	-	-
 -	suffiksi	-	noun	5	-	back	i	-	-
 -	suffragetti	-	noun	5	tt:t	back	i	-	-
 -	suflee	-	noun	20	-	back	e	-	-
@@ -44037,6 +44603,7 @@
 -	sumutus	-	noun	39	-	back	u	-	-
 -	sunda	-	noun	10	-	-	-	-	-
 -	sundilainen	-	noun	38	-	-	-	-	-
+-	sunitinibi	-	noun	5	-	-	-	-	-
 -	sunna	-	noun	10	-	back	a	-	-
 -	sunnalainen	-	noun	38	-	back	e	-	-
 -	sunnalaisuus	-	noun	40	-	back	u	-	-
@@ -44281,6 +44848,7 @@
 -	syanidi	-	noun	5	-	back	i	-	-
 -	syanokobalamiini	-	noun	5	-	-	-	-	-
 -	syanoosi	-	noun	5	-	-	-	-	-
+-	sydvesti	-	noun	5	-	-	-	-	-
 -	sydämellisyys	-	noun	40	-	front	y	-	-
 -	sydämettömyys	-	noun	40	-	front	y	-	-
 -	sydämys	-	noun	39	-	front	y	dial	-
@@ -44296,11 +44864,14 @@
 -	sykkyrä	-	noun	12	-	front	ä	-	-
 -	syklaami	-	noun	6	-	back	i	-	-
 -	syklamaatti	-	noun	5	tt:t	back	i	-	-
--	syklaus	-	noun	39|40	-	-	-	-	-
+-	syklaus	-	noun	39	-	-	-	-	-
 -	sykli	-	noun	5	-	front	i	-	-
+-	sykloidi	-	noun	5	-	-	-	-	-
 -	syklokonvertteri	-	noun	6	-	-	-	-	-
 -	sykloni	-	noun	5	-	back	i	-	-
 -	syklosporiini	-	noun	5	-	-	-	-	-
+-	syklotroni	-	noun	?6	-	-	-	-	-
+-	syklotymia	-	noun	12	-	-	-	-	-
 -	syksy	-	noun	1	-	front	y	-	-
 -	sykähdys	-	noun	39	-	front	y	-	-
 -	sykäys	-	noun	39	-	front	y	-	-
@@ -44339,6 +44910,7 @@
 -	sympatomimeetti	-	noun	5	tt:t	-	-	-	-
 -	sympatotonia	-	noun	12	-	-	-	-	-
 -	symposio	-	noun	3	-	back	o	-	-
+-	symposion	-	noun	5	-	-	-	-	-
 -	symposium	-	noun	5	-	-	-	-	-
 -	symposiumi	-	noun	5	-	back	i	-	-
 -	symptomi	-	noun	5	-	back	i	-	-
@@ -44350,6 +44922,7 @@
 -	syndikalismi	-	noun	5	-	back	i	-	-
 -	syndikalisti	-	noun	5	-	back	i	-	-
 -	syndrooma	-	noun	10	-	back	a	-	-
+-	synekdokee	-	noun	18	-	-	-	-	-
 -	synekismi	-	noun	5	-	-	-	-	-
 -	synergia	-	noun	12	-	back	a	-	-
 -	synergismi	-	noun	5	-	front	i	-	-
@@ -44371,6 +44944,7 @@
 -	synkronisuus	-	noun	40	-	-	-	-	-
 -	synkronointi	-	noun	5	nt:nn	back	i	-	-
 -	synkronoskooppi	-	noun	5	pp:p	-	-	-	-
+-	synkrotroni	-	noun	?6	-	-	-	-	-
 -	synnillisyys	-	noun	40	-	front	y	-	-
 -	synnynnäisyys	-	noun	40	-	front	y	-	-
 -	synnyttäjä	-	noun	10	-	front	ä	-	-
@@ -44381,6 +44955,7 @@
 -	synopsis	-	noun	39	-	back	i	-	-
 -	synostoosi	-	noun	5	-	-	-	-	-
 -	synovia	-	noun	12	-	-	-	-	-
+-	synsytium	-	noun	5	-	-	-	-	-
 -	syntaksi	-	noun	5	-	back	i	-	-
 -	synteesi	-	noun	5	-	front	i	-	-
 -	synteettisyys	-	noun	40	-	front	y	-	-
@@ -44697,6 +45272,7 @@
 -	taateli	-	noun	6	-	back	i	-	-
 -	taatto	-	noun	1	tt:t	back	o	poet	-
 -	taavetti	-	noun	5	tt:t	back	i	-	-
+-	tabasco	-	noun	1	-	-	-	TM	-
 -	tabasko	-	noun	1	-	-	-	rare	-
 -	tabbouleh	-	noun	5|22	-	-	-	-	-
 -	tabbule	-	noun	8	-	back	e	-	-
@@ -44714,6 +45290,7 @@
 -	tadžikki	-	noun	5	kk:k	-	-	-	-
 -	tae	-	noun	48	k:	back	e	-	-
 -	taekwondo	-	noun	1	-	back	o	-	-
+-	tafofobia	-	noun	12	-	-	-	-	-
 -	tafti	-	noun	5	-	back	i	-	-
 -	tag	-	noun	5	-	back	a	coll	-
 -	tagalog	-	noun	5	-	-	-	-	-
@@ -44853,6 +45430,7 @@
 -	taksi	-	noun	5	-	back	i	-	-
 -	taksia	-	noun	12	-	back	a	-	-
 -	taksoitus	-	noun	39	-	back	u	-	-
+-	taksonomi	-	noun	5	-	-	-	-	-
 -	taksonomia	-	noun	12	-	back	a	-	-
 -	taksvärkki	-	noun	5	kk:k	front	i	-	-
 -	taktiikka	-	noun	14	kk:k	back	a	-	-
@@ -44862,12 +45440,16 @@
 -	taktisuus	-	noun	40	-	back	u	-	-
 -	takuu	-	noun	17	-	back	u	-	-
 -	takykardia	-	noun	12	-	-	-	-	-
+-	takykiniini	-	noun	5	-	-	-	-	-
 -	takymetri	-	noun	5	-	front|back	i	-	-
+-	takypnea	-	noun	12	-	-	-	-	-
 -	talamus	-	noun	39	-	back	u	-	-
 -	talari	-	noun	6	-	back	i	-	-
 -	talas	-	noun	41	-	back	a	-	-
 -	talassemia	-	noun	12	-	-	-	-	-
+-	talassofobia	-	noun	12	-	-	-	-	-
 -	taleban	-	noun	5	-	back	a	-	-
+-	talentti	-	noun	5	tt:t	-	-	-	-
 -	tali	-	noun	5	-	back	i	-	-
 -	taliban	-	noun	5	-	back	a	-	-
 -	talidomidi	-	noun	5	-	back	i	-	-
@@ -45333,6 +45915,7 @@
 -	tennari	-	noun	6	-	back	i	slang	-
 -	tennessiini	-	noun	5	-	-	-	-	-
 -	tennis	-	noun	39	-	front	i	-	-
+-	tenoksikaami	-	noun	5	-	-	-	-	-
 -	tenori	-	noun	6	-	back	i	-	-
 -	tenosynoviitti	-	noun	5	tt:t	-	-	-	-
 -	tensidi	-	noun	5	-	front	i	-	-
@@ -45405,6 +45988,7 @@
 -	teroitin	-	noun	33	tt:t	back	i	-	-
 -	teroittaja	-	noun	10	-	back	a	-	-
 -	teroitus	-	noun	39	-	back	u	-	-
+-	teropodi	-	noun	5	-	-	-	-	-
 -	terpeeni	-	noun	6	-	front	i	-	-
 -	terraario	-	noun	3	-	back	o	-	-
 -	terrakotta	-	noun	10	tt:t	back	a	-	-
@@ -45454,6 +46038,7 @@
 -	testeri	-	noun	6	-	front	i	-	-
 -	testi	-	noun	5	-	front	i	-	-
 -	testikkeli	-	noun	6	-	front	i	-	-
+-	testistorsio	-	noun	3	-	-	-	-	-
 -	testistö	-	noun	1	-	front	ö	-	-
 -	testosteroni	-	noun	6	-	back	i	-	-
 -	tetanus	-	noun	39	-	back	u	-	-
@@ -45672,6 +46257,7 @@
 -	titaani	-	noun	6	-	back	i	-	-
 -	titaus	-	noun	39	-	-	-	slang|rare	-
 -	titraus	-	noun	39	-	back	u	-	-
+-	titsanidiini	-	noun	5	-	-	-	-	-
 -	titteli	-	noun	6	-	front	i	-	-
 -	titteri	-	noun	6	-	front	i	-	-
 -	titulointi	-	noun	5	nt:nn	back	i	-	-
@@ -45766,6 +46352,7 @@
 -	toksiini	-	noun	5	-	back	i	-	-
 -	toksikaatio	-	noun	3	-	-	-	-	-
 -	toksikologia	-	noun	12	-	back	a	-	-
+-	toksisuus	-	noun	40	-	-	-	-	-
 -	toksoidi	-	noun	5	-	-	-	-	-
 -	toksoplasmoosi	-	noun	5	-	-	-	-	-
 -	tola	-	noun	10	-	back	a	dated|dial	-
@@ -45803,6 +46390,7 @@
 -	tonikki	-	noun	5	kk:k	back	i	-	-
 -	tonkatsu	-	noun	1	-	-	-	foreign	-
 -	tonkeli	-	noun	6	-	-	-	-	-
+-	tonkineesi	-	noun	5	-	-	-	-	-
 -	tonkka	-	noun	10	kk:k	back	a	-	-
 -	tonni	-	noun	5	-	back	i	-	-
 -	tonnisto	-	noun	2	-	back	o	-	-
@@ -45934,6 +46522,8 @@
 -	traileri	-	noun	6	-	back	i	-	-
 -	trajektori	-	noun	5	-	-	-	-	-
 -	trakea	-	noun	12	-	-	-	-	-
+-	trakeiitti	-	noun	5	tt:t	-	-	-	-
+-	trakeostomia	-	noun	12	-	-	-	-	-
 -	trakeostooma	-	noun	10	-	-	-	-	-
 -	trakeotomia	-	noun	12	-	-	-	-	-
 -	trakooma	-	noun	10	-	-	-	-	-
@@ -45942,7 +46532,7 @@
 -	tralli	-	noun	5	-	back	i	coll	-
 -	tramadoli	-	noun	5	-	-	-	-	-
 -	trampoliini	-	noun	5	-	back	i	-	-
--	trance	-	noun	8	-	back	e	-	-
+-	trance	-	noun	8	-	back	e	foreign	-
 -	transeeraus	-	noun	39	-	back	u	-	-
 -	transferenssi	-	noun	5	-	back	i	-	-
 -	transferriini	-	noun	5	-	-	-	-	-
@@ -45990,6 +46580,7 @@
 -	trauma	-	noun	9	-	back	a	-	-
 -	traumatologia	-	noun	12	-	back	a	-	-
 -	treasury	-	noun	1	-	front|back	y	-	-
+-	treatment	-	noun	5	-	-	-	foreign	-
 -	treble	-	noun	8	-	-	-	foreign|slang	-
 -	treema	-	noun	9	-	back	a	-	-
 -	treenaus	-	noun	39	-	back	u	coll	-
@@ -46054,11 +46645,14 @@
 -	tripla	-	noun	9	-	back	a	coll	-
 -	tripolilainen	-	noun	38	-	-	-	-	-
 -	trippi	-	noun	5	pp:p	front	i	-	-
+-	triptaani	-	noun	6	-	-	-	-	-
+-	triptaanit	-	noun	?5|22	-	-	-	-	-
 -	triptyykki	-	noun	5	kk:k	front	i	-	-
 -	trisomia	-	noun	12	-	-	-	-	-
 -	tritonus	-	noun	39	-	-	-	-	-
 -	triumfi	-	noun	5	-	back	i	-	-
 -	triumviraatti	-	noun	5	tt:t	back	i	-	-
+-	triumviri	-	noun	?6	-	-	-	-	-
 -	trivia	-	noun	12	-	back	a	-	-
 -	triviaalius	-	noun	40	-	back	u	-	-
 -	trivialiteetti	-	noun	5	tt:t	back	i	-	-
@@ -46104,6 +46698,7 @@
 -	trusti	-	noun	5	-	back	i	-	-
 -	truutta	-	noun	10	tt:t	back	a	coll	-
 -	tryffeli	-	noun	6	-	front	i	-	-
+-	trypsiini	-	noun	6	-	-	-	-	-
 -	trypsinogeeni	-	noun	5	-	-	-	-	-
 -	tryptofaani	-	noun	5	-	-	-	-	-
 -	tsaari	-	noun	5	-	back	i	-	-
@@ -46278,6 +46873,7 @@
 -	tungettelija	-	noun	12	-	back	a	-	-
 -	tungettelu	-	noun	2	-	back	u	-	-
 -	tungos	-	noun	39	-	back	o	-	-
+-	tunguusi	-	noun	5	-	-	-	-	-
 -	tunika	-	noun	13	-	back	a	-	-
 -	tunisialainen	-	noun	38	-	-	-	-	-
 -	tunisilainen	-	noun	38	-	-	-	-	-
@@ -46547,7 +47143,7 @@
 -	tyhjiö	-	noun	3	-	front	ö	-	-
 -	tyhjyys	-	noun	40	-	front	y	-	-
 -	tyhjö	-	noun	1	-	front	ö	-	-
--	tyhmeliini	-	noun	5	-	front	i	-	-
+-	tyhmeliini	-	noun	5	-	front	i	jocul	-
 -	tyhmistely	-	noun	2	-	front	y	jocul	-
 -	tyhmyri	-	noun	6	-	front	i	-	-
 -	tyhmyys	-	noun	40	-	front	y	-	-
@@ -46607,6 +47203,8 @@
 -	tyrni	-	noun	5	-	front	i	-	-
 -	tyrnäväläinen	-	noun	38	-	-	-	-	-
 -	tyroksiini	-	noun	5	-	back	i	-	-
+-	tyrosiini	-	noun	5	-	-	-	-	-
+-	tyrotropiini	-	noun	5	-	-	-	-	-
 -	tyrske	-	noun	48	-	front	e	-	-
 -	tyrskintä	-	noun	9	nt:nn	front	ä	-	-
 -	tyrskinä	-	noun	12	-	front	ä	-	-
@@ -46813,7 +47411,7 @@
 -	töytäisy	-	noun	2	-	front	y	-	-
 -	töytäys	-	noun	39	-	front	y	-	-
 -	töötti	-	noun	5	tt:t	-	-	coll	-
--	tööttäys	-	noun	39|40	-	-	-	-	-
+-	tööttäys	-	noun	39	-	-	-	-	-
 -	tšadilainen	-	noun	38	-	-	-	-	-
 -	tšador	-	noun	6	-	back	o	-	-
 -	tšagatai	-	noun	18	-	-	-	-	-
@@ -46955,6 +47553,7 @@
 -	unikko	-	noun	4	kk:k	back	o	-	-
 -	unioni	-	noun	6	-	back	i	-	-
 -	unisuus	-	noun	40	-	back	u	-	-
+-	unitarismi	-	noun	5	-	-	-	-	-
 -	universaali	-	noun	5	-	back	i	-	-
 -	universumi	-	noun	6	-	back	i	-	-
 -	univormu	-	noun	1	-	back	u	-	-
@@ -47018,7 +47617,9 @@
 -	urkuri	-	noun	6	-	back	i	-	-
 -	uroboros	-	noun	39|1S	-	-	-	-	-
 -	urodynaaminen	-	noun	38	-	-	-	-	-
+-	urofilia	-	noun	12	-	-	-	-	-
 -	urografia	-	noun	12	-	-	-	-	-
+-	urokinaasi	-	noun	5	-	-	-	-	-
 -	urologi	-	noun	5	-	back	i	-	-
 -	urologia	-	noun	12	-	back	a	-	-
 -	uropatia	-	noun	12	-	-	-	-	-
@@ -47053,6 +47654,8 @@
 -	uskovainen	-	noun	38	-	-	-	-	-
 -	uskovaisuus	-	noun	40	-	back	u	-	-
 -	ussa	-	noun	10	-	back	a	slang	-
+-	usurpaatio	-	noun	3	-	-	-	-	-
+-	usurpaattori	-	noun	?6	-	-	-	-	-
 -	usutus	-	noun	39	-	back	u	-	-
 -	usva	-	noun	10	-	back	a	-	-
 -	usvaisuus	-	noun	40	-	back	u	-	-
@@ -47105,6 +47708,7 @@
 -	uuvana	-	noun	12	-	back	a	-	-
 -	uuvutus	-	noun	39	-	back	u	-	-
 -	uvaroviitti	-	noun	5	tt:t	-	-	-	-
+-	uveiitti	-	noun	5	tt:t	-	-	-	-
 -	uvula	-	noun	12	-	-	-	foreign	-
 -	uvulaari	-	noun	5	-	-	-	-	-
 -	uzbekistanilainen	-	noun	38	-	-	-	-	-
@@ -47902,6 +48506,7 @@
 -	vesantolainen	-	noun	38	-	-	-	-	-
 -	vesaus	-	noun	39	-	back	u	-	-
 -	vesi	-	noun	27	-	front	i	-	-
+-	vesikkeli	-	noun	6	-	-	-	-	-
 -	vesikko	-	noun	4	kk:k	back	o	-	-
 -	vesistö	-	noun	2	-	front	ö	-	-
 -	vesitys	-	noun	39	-	front	y	-	-
@@ -47935,6 +48540,7 @@
 -	vetäisy	-	noun	2	-	front	y	-	-
 -	vetäjä	-	noun	10	-	front	ä	-	-
 -	vetävyys	-	noun	40	-	front	y	-	-
+-	viadukti	-	noun	5	-	-	-	-	-
 -	viallisuus	-	noun	40	-	back	u	-	-
 -	viattomuus	-	noun	40	-	back	u	-	-
 -	viborgiitti	-	noun	5	tt:t	-	-	-	-
@@ -48160,6 +48766,7 @@
 -	vikuri	-	noun	6	-	-	-	-	-
 -	vikurointi	-	noun	5	nt:nn	back	i	-	-
 -	vilahdus	-	noun	39	-	back	u	-	-
+-	vilanteroli	-	noun	?6	-	-	-	-	-
 -	vilaus	-	noun	39	-	back	u	-	-
 -	vilautus	-	noun	39	-	back	u	-	-
 -	vilinä	-	noun	12	-	front	ä	-	-
@@ -48223,6 +48830,7 @@
 -	vingunta	-	noun	9	nt:nn	back	a	-	-
 -	vinguttaja	-	noun	10	-	back	a	-	-
 -	vingutus	-	noun	39	-	back	u	-	-
+-	vinjetointi	-	noun	5	nt:nn	-	-	-	-
 -	vinjetti	-	noun	5	tt:t	front	i	-	-
 -	vinka	-	noun	9	nk:ng	back	a	rare|dial	-
 -	vinkaisu	-	noun	2	-	back	u	-	-
@@ -48486,6 +49094,7 @@
 -	vulkanologia	-	noun	12	-	back	a	-	-
 -	vulva	-	noun	10	-	back	a	-	-
 -	vulviitti	-	noun	5	tt:t	-	-	-	-
+-	vulvodynia	-	noun	12	-	-	-	-	-
 -	vunjo	-	noun	1	-	-	-	-	-
 -	vuo	-	noun	19	-	back	o	-	-
 -	vuodatus	-	noun	39	-	back	u	-	-
@@ -48614,6 +49223,7 @@
 -	värillinen	-	noun	38	-	-	-	-	-
 -	värillisyys	-	noun	40	-	front	y	-	-
 -	värinä	-	noun	12	-	front	ä	-	-
+-	väristin	-	noun	33	-	-	-	-	-
 -	väristys	-	noun	39	-	front	y	-	-
 -	värisyys	-	noun	40	-	front	y	-	-
 -	värittömyys	-	noun	40	-	front	y	-	-
@@ -48882,6 +49492,7 @@
 -	zabaglione	-	noun	8	-	-	-	foreign	-
 -	zabaione	-	noun	8	-	-	-	foreign	-
 -	zagrebilainen	-	noun	38	-	-	-	-	-
+-	zaibatsu	-	noun	1	-	-	-	-	-
 -	zakuska	-	noun	13	-	-	-	-	-
 -	zambo	-	noun	1	-	back	o	dated	-
 -	zanni	-	noun	5	-	-	-	-	-
@@ -48896,13 +49507,19 @@
 -	zeoliitti	-	noun	5	tt:t	back	i	-	-
 -	zeppeliini	-	noun	5	-	front	i	-	-
 -	zhuang	-	noun	5	-	-	-	-	-
+-	zikkurat	-	noun	5	-	-	-	-	-
 -	zimbabwelainen	-	noun	38	-	-	-	-	-
 -	zip	-	noun	5B	-	-	-	abbr	-
 -	zirkoni	-	noun	6	-	back	i	-	-
 -	zirkonium	-	noun	5	-	back	u	-	-
 -	zloty	-	noun	1	-	front|back	y	-	-
+-	zoetrooppi	-	noun	5	pp:p	-	-	-	-
+-	zoisiitti	-	noun	5	tt:t	-	-	-	-
 -	zombi	-	noun	5	-	back	i	-	-
 -	zombie	-	noun	3|8	-	back	e	-	-
+-	zoofilia	-	noun	12	-	-	-	-	-
+-	zoofobia	-	noun	12	-	-	-	-	-
+-	zoolatria	-	noun	12	-	-	-	-	-
 -	zoologi	-	noun	5	-	back	i	-	-
 -	zoologia	-	noun	12	-	back	a	-	-
 -	zoom	-	noun	5	-	-	-	foreign	-
@@ -53058,6 +53675,7 @@
 -	cup|voitto	-	noun	1	tt:t	-	-	-	-
 -	curry|kana	-	noun	9	-	-	-	-	-
 -	curry|kastike	-	noun	48	kk:k	-	-	-	-
+-	dallas|pulla	-	noun	10	-	-	-	-	-
 -	dalmatian|koira	-	noun	10	-	-	-	-	-
 -	damasti|liina	-	noun	9	-	-	-	-	-
 -	datan|siirto	-	noun	1	rt:rr	-	-	-	-
@@ -53414,6 +54032,7 @@
 -	elin|kaari	-	noun	26	-	-	-	-	-
 -	elin|kauppa	-	noun	9	pp:p	-	-	-	-
 -	elin|kausi	-	noun	27	-	-	-	-	-
+-	elin|kautinen	-	noun	38	-	-	-	-	-
 -	elin|keino	-	noun	1	-	-	-	-	-
 -	elin|kelpoisuus	-	noun	40	-	-	-	-	-
 -	elin|kelvottomuus	-	noun	40	-	-	-	-	-
@@ -86050,6 +86669,7 @@
 -	rätti|kauppa	-	noun	9	pp:p	-	-	coll	-
 -	rätti|mikko	-	noun	1	kk:k	-	-	-	-
 -	rätti|pää	-	noun	18	-	-	-	-	-
+-	rätti|sitikka	-	noun	14	kk:k	-	-	coll	-
 -	räyhä|henki	-	noun	7	nk:ng	-	-	-	-
 -	räystäs|korkeus	-	noun	40	-	-	-	-	-
 -	räystäs|kouru	-	noun	1	-	-	-	-	-
@@ -86748,6 +87368,7 @@
 -	sata|markkanen	-	noun	38	-	-	-	-	-
 -	sata|piikkinen	-	noun	38	-	-	-	coll	-
 -	sata|tonnari	-	noun	6	-	-	-	coll	-
+-	sata|vuotias	-	noun	39	-	-	-	-	-
 -	sateen|kaari	-	noun	26	-	-	-	-	-
 -	sateen|suoja	-	noun	10	-	-	-	-	-
 -	sateen|teko	-	noun	1	k:	-	-	-	-
@@ -87339,6 +87960,7 @@
 -	sentraali|santra	-	noun	9	-	-	-	jocul	-
 -	sentti|litra	-	noun	9	-	-	-	-	-
 -	sentti|metri	-	noun	5	-	-	-	-	-
+-	sentti|morgan	-	noun	6	-	-	-	-	-
 -	seos|lannoite	-	noun	48	tt:t	-	-	-	-
 -	seos|rehu	-	noun	1	-	-	-	-	-
 -	seos|suhde	-	noun	48	t:d	-	-	-	-
@@ -90051,6 +90673,7 @@
 -	suu|alue	-	noun	48	-	-	-	-	-
 -	suu|aukko	-	noun	1	kk:k	-	-	-	-
 -	suu|haara	-	noun	9	-	-	-	-	-
+-	suu|hautoja	-	noun	10	-	-	-	-	-
 -	suu|hygienisti	-	noun	5	-	-	-	-	-
 -	suu|kappale	-	noun	48	-	-	-	-	-
 -	suu|kapula	-	noun	12	-	-	-	-	-
@@ -94361,6 +94984,7 @@
 -	turisti|ripuli	-	noun	6	-	-	-	-	-
 -	turisti|rysä	-	noun	10	-	-	-	jocul	-
 -	turisti|viisumi	-	noun	6	-	-	-	-	-
+-	turjan|saame	-	noun	8	-	-	-	-	-
 -	turkin|kyyhky	-	noun	1	-	-	-	-	-
 -	turkin|pippuri	-	noun	6	-	-	-	-	-
 -	turkis|ala	-	noun	9	-	-	-	-	-
@@ -100287,6 +100911,7 @@
 -	väärä|sääri	-	noun	26	-	-	-	-	-
 -	väärä|uskoinen	-	noun	38	-	-	-	-	-
 -	waldorfin|salaatti	-	noun	5	tt:t	-	-	-	-
+-	waldorf|koulu	-	noun	1	-	-	-	-	-
 -	wankel|moottori	-	noun	6	-	-	-	-	-
 -	wasabi|tahna	-	noun	9	-	-	-	-	-
 -	wiener|leipä	-	noun	10	p:v	-	-	-	-
@@ -100851,6 +101476,7 @@
 -	yli|kalastus	-	noun	39	-	-	-	-	-
 -	yli|kamreeri	-	noun	6	-	-	-	-	-
 -	yli|kansoitus	-	noun	39	-	-	-	-	-
+-	yli|kellotus	-	noun	39	-	-	-	-	-
 -	yli|kersantti	-	noun	5	tt:t	-	-	-	-
 -	yli|kierros	-	noun	39	-	-	-	-	-
 -	yli|kiiminkiläinen	-	noun	38	-	-	-	-	-
@@ -108384,6 +109010,7 @@
 -	jortsut	-	noun-pl	1	-	back	u	coll	-
 -	juhlat	-	noun-pl	10	-	-	-	-	0.500
 -	julkistajaiset	-	noun-pl	38	-	back	e	-	-
+-	julkkarit	-	noun-pl	6	-	-	-	coll	-
 -	juomingit	-	noun-pl	5	nk:ng	back	i	-	-
 -	jämät	-	noun-pl	10	-	-	-	-	-
 -	jäähyväiset	-	noun-pl	38	-	front	e	-	-
@@ -108823,6 +109450,7 @@
 -	kansalais|illalliset	-	noun-pl	38	-	-	-	-	-
 -	kansalais|päivälliset	-	noun-pl	38	-	-	-	-	-
 -	kansan|käräjät	-	noun-pl	10	-	-	-	-	-
+-	kansan|käräjät	-	noun-pl	10	-	-	-	-	-
 -	karhun|peijaiset	-	noun-pl	38	-	-	-	-	-
 -	karjan|kellot	-	noun-pl	1	-	-	-	-	-
 -	kassa|varat	-	noun-pl	9	-	-	-	-	-
@@ -109255,6 +109883,7 @@
 -	sukka|housut	-	noun-pl	1	-	-	-	-	-
 -	suoja|joukot	-	noun-pl	1	kk:k	-	-	-	-
 -	suoja|lasit	-	noun-pl	5	-	-	-	-	-
+-	suur|käräjät	-	noun-pl	10	-	-	-	-	-
 -	suur|käräjät	-	noun-pl	10	-	-	-	-	-
 -	sydän|juuret	-	noun-pl	26	-	-	-	-	-
 -	synnytin|elimet	-	noun-pl	33	-	-	-	-	-
@@ -109740,7 +110369,6 @@
 -	usea	-	pronoun	15	-	-	-	-	-
 -	jok’|ainoa	-	pronoun	-	-	-	-	arch	-
 -	molemmat	-	pronoun-pl	16	mp:mm	-	a	-	-
--	julkkarit	-	proper-pl	6	-	-	-	coll	-
 -	ehk|ei	-	adverb+verb	EI	-	-	-	-	-
 -	ehk’|ei	-	adverb+verb	EI	-	-	-	dated	-
 -	miks|ei	-	adverb+verb	EI	-	-	-	-	-
