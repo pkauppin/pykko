@@ -23,9 +23,9 @@ adverb_degrees = {
 	'kauan': {'': ['kauan'], 'comparative': ['kauemmin'], 'superlative': ['kauimmin', 'kauiten']},
 	'mieluusti': {'': ['mieluusti'], 'comparative': ['mieluummin'], 'superlative': ['mieluiten']},
 	'äkisti': {'': ['äkisti'], 'comparative': ['äkimmin']},
-	'ylös': {'': ['ylös'], 'comparative': ['ylemmäs'], 'superlative': ['ylimmäs']},
-	'alas': {'': ['alas'], 'comparative': ['alemmas'], 'superlative': ['alimmas']},
-	'kauas': {'': ['kauas'], 'comparative': ['kauemmas'], 'superlative': ['kauimmas']},
+	'ylös': {'': ['ylös'], 'comparative': ['ylemmäs', "ylemmäksi"], 'superlative': ['ylimmäs', 'ylimmäksi']},
+	'alas': {'': ['alas'], 'comparative': ['alemmas', "alemmaksi"], 'superlative': ['alimmas', 'alimmaksi']},
+	'kauas': {'': ['kauas'], 'comparative': ['kauemmas', 'kauemmaksi'], 'superlative': ['kauimmas', 'kauimmaksi']},
 	'ahtaalle': {'': ['ahtaalle'], 'comparative': ['ahtaammalle'], 'superlative': ['ahtaimmalle']},
 	'syvälle': {'': ['syvälle'], 'comparative': ['syvemmälle'], 'superlative': ['syvimmälle']},
 	'kovalle': {'': ['kovalle'], 'comparative': ['kovemmalle'], 'superlative': ['kovimmalle']},
@@ -36,8 +36,8 @@ adverb_degrees = {
 	'syrjään': {'': ['syrjään'], 'comparative': ['syrjempään', 'syrjemmälle']},
 	'kaukana': {'': ['kaukana'], 'comparative': ['kauempana'], 'superlative': ['kauimpana']},
 	'kaukaa': {'': ['kaukaa'], 'comparative': ['kauempaa'], 'superlative': ['kauimpaa']},
-	'pitkään': {'': ['pitkään'], 'comparative': ['pitempään'], 'superlative': ['pisimpään']},
-	'lähelle': {'': ['lähelle'], 'comparative': ['lähemmäs'], 'superlative': ['lähimmäs']},
+	'pitkään': {'': ['pitkään'], 'comparative': ['pitempään', 'pidempään'], 'superlative': ['pisimpään']},
+	'lähelle': {'': ['lähelle'], 'comparative': ['lähemmäs', 'lähemmäksi'], 'superlative': ['lähimmäs', 'lähimmäksi']},
 	'lähellä': {'': ['lähellä'], 'comparative': ['lähempänä'], 'superlative': ['lähimpänä', 'lähinnä']},
 }
 

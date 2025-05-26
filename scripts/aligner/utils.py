@@ -340,6 +340,8 @@ MORPH_ENDINGS = {
 		('+superlative', 'impää'),
 		('+superlative', 'immas'),
 		('+superlative', 'immäs'),
+		('+superlative', 'immaksi'),
+		('+superlative', 'immäksi'),
 		('+superlative', 'immin'),
 		('+superlative', 'iten'),
 
@@ -357,6 +359,8 @@ MORPH_ENDINGS = {
 		('+comparative', 'mpää'),
 		('+comparative', 'mmas'),
 		('+comparative', 'mmäs'),
+		('+comparative', 'mmaksi'),
+		('+comparative', 'mmäksi'),
 		('+comparative', 'mmin'),
 		('+comparative', 'mman'),
 		('+comparative', 'mmän'),
