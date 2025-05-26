@@ -541,6 +541,11 @@ min	mi	pronoun	poet	+sg+gen
 muuan	muuan	pronoun	-	+sg+nom
 muuatta	muuan	pronoun	-	+sg+par
 
+viisi	viisi	noun	coll	+sg+nom+rare
+viisin	viisi	noun	coll	+sg+gen+rare
+viisin	viisi	noun	coll	+sg+ins
+viisiin	viisi	noun	coll	+sg+ill
+viisiä	viisi	noun	coll	+sg+par
 jumalten	jumala	noun	-	+pl+gen+poet
 viisasten	viisas	adjective	-	+pl+gen+rare
 ainut	ainut	adjective	-	+sg+nom
