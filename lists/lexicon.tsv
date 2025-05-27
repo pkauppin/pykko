@@ -2073,7 +2073,6 @@
 -	johteinen	-	adjective	38	-	back	e	-	-
 -	jokioislainen	-	adjective	38	-	-	-	-	-
 -	jokioistelainen	-	adjective	38	-	-	-	-	-
--	jokunen	-	adjective	38	-	back	e	-	-
 -	jollainen	-	adjective	38	-	back	e	-	-
 -	joltinen	-	adjective	38	-	back	e	-	-
 -	jomalalainen	-	adjective	38	-	-	-	-	-
@@ -14600,6 +14599,7 @@
 -	tiimoilta	-	adposition	-	-	-	-	coll	-
 -	tilalla	-	adposition	-	-	-	-	-	-
 -	tilalle	-	adposition	-	-	-	-	-	-
+-	tilalta	-	adposition	-	-	-	-	-	-
 -	toimesta	-	adposition	-	-	-	-	-	-
 -	tuntumaan	-	adposition	-	-	-	-	-	-
 -	tuntumassa	-	adposition	-	-	-	-	-	-
@@ -14738,6 +14738,7 @@
 -	aikaisintaan	-	adverb	-	-	-	-	-	-
 -	aikanaan	-	adverb	-	-	-	-	-	-
 -	aikansa	-	adverb	-	-	-	-	-	-
+-	aikoihin	-	adverb	-	-	-	-	-	-
 -	aikoinaan	-	adverb	-	-	-	-	-	-
 -	aikojaan	-	adverb	-	-	-	-	-	-
 -	aikuismaisesti	-	adverb	-	-	-	-	-	-
@@ -15646,6 +15647,7 @@
 -	jalkeille	-	adverb	-	-	-	-	-	-
 -	jamaan	-	adverb	-	-	-	-	coll	-
 -	jamassa	-	adverb	-	-	-	-	coll	-
+-	jatkossa	-	adverb	-	-	-	-	-	-
 -	jatkuvasti	-	adverb	-	-	-	-	-	-
 -	jees	-	adverb	-	-	-	-	coll	-
 -	jengoillaan	-	adverb	-	-	-	-	+poss|coll	-
@@ -15665,8 +15667,6 @@
 -	jonnekin	-	adverb	-	-	-	-	#	-
 -	jopa	-	adverb	-	-	-	-	-	-
 -	jopas	-	adverb	-	-	-	-	-	-
--	joskaan	-	adverb	-	-	-	-	-	-
--	joskin	-	adverb	-	-	-	-	-	-
 -	joskus	-	adverb	-	-	-	-	-	-
 -	jospa	-	adverb	-	-	-	-	-	-
 -	jossain	-	adverb	-	-	-	-	-	-
@@ -17523,6 +17523,7 @@
 -	pullolleen	-	adverb	-	-	-	-	+poss	-
 -	pulskasti	-	adverb	-	-	-	-	-	-
 -	puoleksi	-	adverb	-	-	-	-	-	-
+-	puolesta	-	adverb	-	-	-	-	-	-
 -	puolestaan	-	adverb	-	-	-	-	+poss	-
 -	puoli	-	adverb	-	-	-	-	-	-
 -	puoliksi	-	adverb	-	-	-	-	-	-
@@ -18540,6 +18541,9 @@
 -	tihrussa	-	adverb	-	-	-	-	-	-
 -	tiistaisin	-	adverb	-	-	-	-	-	-
 -	tiiviisti	-	adverb	-	-	-	-	-	-
+-	tilalla	-	adverb	-	-	-	-	-	-
+-	tilalle	-	adverb	-	-	-	-	-	-
+-	tilalta	-	adverb	-	-	-	-	-	-
 -	tilastollisesti	-	adverb	-	-	-	-	-	-
 -	tilavasti	-	adverb	-	-	-	-	-	-
 -	tillin tallin	-	adverb	-	-	-	-	coll	-
@@ -18571,6 +18575,7 @@
 -	tohjoksi	-	adverb	-	-	-	-	coll	-
 -	tohjona	-	adverb	-	-	-	-	coll	-
 -	tohkeissaan	-	adverb	-	-	-	-	+poss	-
+-	toimeen	-	adverb	-	-	-	-	-	-
 -	toimekkaasti	-	adverb	-	-	-	-	-	-
 -	toimeliaasti	-	adverb	-	-	-	-	-	-
 -	toimitteilla	-	adverb	-	-	-	-	-	-
@@ -18928,6 +18933,7 @@
 -	vahvasti	-	adverb	-	-	-	-	-	-
 -	vaiheittain	-	adverb	-	-	-	-	-	-
 -	vaiheittaisesti	-	adverb	-	-	-	-	-	-
+-	vaihteeksi	-	adverb	-	-	-	-	-	-
 -	vaihtelevasti	-	adverb	-	-	-	-	-	-
 -	vaikeasti	-	adverb	-	-	-	-	-	-
 -	vaikeiten	-	adverb	-	-	-	-	-	-
@@ -19274,6 +19280,7 @@
 -	väärin	-	adverb	-	-	-	-	-	-
 -	väärälleen	-	adverb	-	-	-	-	+poss	-
 -	väärällään	-	adverb	-	-	-	-	+poss	-
+-	väärässä	-	adverb	-	-	-	-	-	-
 -	yhdessä	-	adverb	-	-	-	-	-	-
 -	yhdesti	-	adverb	-	-	-	-	-	-
 -	yhteen	-	adverb	-	-	-	-	-	-
@@ -19707,6 +19714,7 @@
 -	iki|päiviksi	-	adverb	-	-	-	-	-	-
 -	iki|päivinä	-	adverb	-	-	-	-	-	-
 -	iki|päivänä	-	adverb	-	-	-	-	-	-
+-	ikään|kuin	-	adverb	-	-	-	-	-	-
 -	ilki|alasti	-	adverb	-	-	-	-	-	-
 -	ilki|kurisesti	-	adverb	-	-	-	-	-	-
 -	ilki|valtaisesti	-	adverb	-	-	-	-	-	-
@@ -20034,6 +20042,7 @@
 -	par|aikaa	-	adverb	-	-	-	-	-	-
 -	pata|luhaksi	-	adverb	-	-	-	-	-	-
 -	perin|pohjaisesti	-	adverb	-	-	-	-	-	-
+-	peri|aatteessa	-	adverb	-	-	-	-	-	-
 -	perustus|laillisesti	-	adverb	-	-	-	-	-	-
 -	perässä|päin	-	adverb	-	-	-	-	-	-
 -	perästä|päin	-	adverb	-	-	-	-	-	-
@@ -20483,6 +20492,7 @@
 -	vasta|hakoisesti	-	adverb	-	-	-	-	-	-
 -	vasta|karvaan	-	adverb	-	-	-	-	-	-
 -	vasta|päivään	-	adverb	-	-	-	-	-	-
+-	vasta|päätä	-	adverb	-	-	-	-	-	-
 -	vasta|sukaan	-	adverb	-	-	-	-	-	-
 -	vasta|vuoroisesti	-	adverb	-	-	-	-	-	-
 -	vasta|vuoroon	-	adverb	-	-	-	-	-	-
@@ -20670,6 +20680,8 @@
 -	jahka	-	conjunction	-	-	-	-	-	-
 -	joko	-	conjunction	-	-	-	-	-	-
 -	jos	-	conjunction	-	-	-	-	-	-
+-	joskaan	-	conjunction	-	-	-	-	-	-
+-	joskin	-	conjunction	-	-	-	-	-	-
 -	josko	-	conjunction	-	-	-	-	coll	-
 -	jotta	-	conjunction	-	-	-	-	-	-
 -	konsa	-	conjunction	-	-	-	-	-	-
@@ -21472,7 +21484,6 @@
 -	ml.	-	none	-	-	-	-	abbr	-
 -	mm.	-	none	-	-	-	-	abbr	-
 -	mon.	-	none	-	-	-	-	abbr	-
--	mrd	-	none	-	-	-	-	abbr	-
 -	mrd.	-	none	-	-	-	-	abbr	-
 -	n.	-	none	-	-	-	-	abbr	-
 -	n/a	-	none	-	-	-	-	abbr	-
@@ -26392,6 +26403,7 @@
 -	haaskuu	-	noun	17	-	back	u	-	-
 -	haastaja	-	noun	10	-	back	a	-	-
 -	haastateltava	-	noun	10	-	back	a	-	-
+-	haastateltu	-	noun	1	lt:ll	-	-	-	-
 -	haastattelija	-	noun	12	-	back	a	-	-
 -	haastattelu	-	noun	2	-	back	u	-	-
 -	haastavuus	-	noun	40	-	back	u	-	-
@@ -31324,6 +31336,7 @@
 -	klipsi	-	noun	5	-	front	i	coll	-
 -	klisee	-	noun	20	-	front	e	-	-
 -	klitoris	-	noun	39	-	back	i	-	-
+-	klo	-	noun	!	-	-	-	-	-
 -	kloaakki	-	noun	5	kk:k	back	i	-	-
 -	klodronaatti	-	noun	5	tt:t	-	-	-	-
 -	klofibraatti	-	noun	5	tt:t	-	-	-	-
@@ -36214,7 +36227,7 @@
 -	mozzarella	-	noun	9	-	back	a	-	-
 -	mp3	-	noun	8B	-	-	-	abbr	-
 -	mpeg	-	noun	5B	-	-	-	abbr	-
--	mrd	-	noun	5B	-	-	-	abbr	-
+-	mrd	-	noun	!	-	-	-	abbr	-
 -	mude	-	noun	8	-	-	-	slang	-
 -	mudi	-	noun	5	-	-	-	-	-
 -	muessin	-	noun	5	-	-	-	-	-
@@ -51471,6 +51484,7 @@
 -	aihe|tunniste	-	noun	48	-	-	-	-	-
 -	aihio|lääke	-	noun	48	kk:k	-	-	-	-
 -	aikaan|saamattomuus	-	noun	40	-	-	-	-	-
+-	aikaan|saaminen	-	noun	38	-	-	-	-	-
 -	aikaan|saannos	-	noun	39	-	-	-	-	-
 -	aikaan|saanti	-	noun	5	nt:nn	-	-	-	-
 -	aikalais|kuvaus	-	noun	39	-	-	-	-	-
@@ -54720,6 +54734,7 @@
 -	epä|olennaisuus	-	noun	40	-	-	-	-	-
 -	epä|onni	-	noun	7	-	-	-	-	-
 -	epä|onnistuja	-	noun	10	-	-	-	-	-
+-	epä|onnistuminen	-	noun	38	-	-	-	-	-
 -	epä|ortodoksisuus	-	noun	40	-	-	-	-	-
 -	epä|parlamentaarisuus	-	noun	40	-	-	-	-	-
 -	epä|peräisyys	-	noun	40	-	-	-	-	-
@@ -61852,6 +61867,7 @@
 -	kanootti|urheilu	-	noun	2	-	-	-	-	-
 -	kansain|vaellus	-	noun	39	-	-	-	-	-
 -	kansain|välinen	-	noun	38	-	-	-	-	-
+-	kansain|välistyminen	-	noun	38	-	-	-	-	-
 -	kansain|välisyys	-	noun	40	-	-	-	-	-
 -	kansalaisuus|koe	-	noun	48	k:	-	-	-	-
 -	kansalaisuus|testi	-	noun	5	-	-	-	-	-
@@ -98294,6 +98310,7 @@
 -	vastaan|hangoittelu	-	noun	2	-	-	-	-	-
 -	vastaan|otin	-	noun	33	tt:t	-	-	-	-
 -	vastaan|ottaja	-	noun	10	-	-	-	-	-
+-	vastaan|ottaminen	-	noun	38	-	-	-	-	-
 -	vastaan|ottavaisuus	-	noun	40	-	-	-	-	-
 -	vastaan|ottavuus	-	noun	40	-	-	-	-	-
 -	vastaan|otto	-	noun	1	tt:t	-	-	-	-
@@ -101681,6 +101698,7 @@
 -	yli|kuolleisuus	-	noun	40	-	-	-	-	-
 -	yli|kuorma	-	noun	10	-	-	-	-	-
 -	yli|kuormitus	-	noun	39	-	-	-	-	-
+-	yli|kuumeneminen	-	noun	38	-	-	-	-	-
 -	yli|käytävä	-	noun	10	-	-	-	-	-
 -	yli|lataus	-	noun	39	-	-	-	-	-
 -	yli|lento	-	noun	1	nt:nn	-	-	-	-
@@ -101761,6 +101779,7 @@
 -	yllätys|voitto	-	noun	1	tt:t	-	-	-	-
 -	yllä|pito	-	noun	1	t:d	-	-	-	-
 -	yllä|pitäjä	-	noun	10	-	-	-	-	-
+-	yllä|pitäminen	-	noun	38	-	-	-	-	-
 -	yltiö|positiivisuus	-	noun	40	-	-	-	-	-
 -	yltiö|päisyys	-	noun	40	-	-	-	-	-
 -	yltiö|pää	-	noun	18	-	-	-	-	-
@@ -110550,6 +110569,7 @@
 -	itte	-	pronoun	8	tt:t|=	-	-	dial|coll|+poss	-
 -	joka	2	pronoun	!	-	-	-	-	-
 -	jokainen	-	pronoun	38	-	back	e	-	-
+-	jokunen	-	pronoun	38	-	-	-	-	-
 -	kaikki	-	pronoun	7	kk:k	back	-	+poss	-
 -	kenkään	-	pronoun	!	-	-	-	-	-
 -	kumpainen	-	pronoun	38	-	back	-	-	-
