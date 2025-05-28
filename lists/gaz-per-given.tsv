@@ -1,4 +1,5 @@
 -	Aada	-	proper	9	-	-	-	-	-
+-	Aadam	-	proper	5	-	-	-	-	-
 -	Aage	-	proper	8	-	-	-	-	-
 -	Aake	-	proper	8	-	-	-	-	-
 -	Aamos	-	proper	39	-	-	-	-	-
@@ -13,6 +14,7 @@
 -	Aarre	-	proper	48	rt:rr	-	-	-	-
 -	Aarre	-	proper	8	-	-	-	-	-
 -	Aase	-	proper	8	-	-	-	-	-
+-	Aatami	-	proper	6	-	-	-	-	-
 -	Aatos	-	proper	39	-	-	-	-	-
 -	Aatto	-	proper	1	tt:t	-	-	-	-
 -	Aatu	-	proper	1	-	-	-	-	-
@@ -803,7 +805,7 @@
 -	Franz	-	proper	5	-	-	-	-	-
 -	Franziska	-	proper	9	-	-	-	-	-
 -	Franzén	-	proper	5	-	-	-	-	-
--	François	-	proper	39|5	-	-	-	-	-
+-	François	-	proper	22|†5	-	-	-	-	-
 -	Françoise	-	proper	8	-	-	-	-	-
 -	Fred	-	proper	5	-	-	-	-	-
 -	Freddie	-	proper	8|21	-	-	-	-	-
@@ -924,7 +926,7 @@
 -	Gustav	-	proper	5	-	-	-	-	-
 -	Gustave	-	proper	8	-	-	-	-	-
 -	Guy	-	proper	1	-	-	-	-	-
--	Guðmundur	-	proper	?5	-	-	-	-	-
+-	Guðmundur	-	proper	5	-	-	-	-	-
 -	Guðrún	-	proper	5	-	-	-	-	-
 -	Gyda	-	proper	10	-	-	-	-	-
 -	Gyula	-	proper	10	-	-	-	-	-
@@ -969,7 +971,7 @@
 -	Harvey	-	proper	21	-	-	i|y	-	-
 -	Hassan	-	proper	6	-	-	-	-	-
 -	Hasse	-	proper	8	-	-	-	-	-
--	Haukur	-	proper	?5	-	-	-	-	-
+-	Haukur	-	proper	6	-	-	-	-	-
 -	Heather	-	proper	6	-	-	-	-	-
 -	Hector	-	proper	6	-	-	-	-	-
 -	Hedvig	-	proper	5	-	-	-	-	-
@@ -1297,6 +1299,7 @@
 -	Johnny	-	proper	1	-	-	-	-	-
 -	Jokke	-	proper	8	-	-	-	-	-
 -	Jon	-	proper	5	-	-	-	-	-
+-	Jonah	-	proper	22|†5	-	-	-	-	-
 -	Jonas	-	proper	39|5	-	-	-	-	-
 -	Jonatan	-	proper	5	-	-	-	-	-
 -	Jonathan	-	proper	5	-	-	-	-	-
@@ -1582,6 +1585,7 @@
 -	Lawrence	-	proper	8	-	-	-	-	-
 -	Lazare	-	proper	8	-	-	-	-	-
 -	Lea	-	proper	9	-	-	-	-	-
+-	Leah	-	proper	22|†5	-	-	-	-	-
 -	Lee	-	proper	18	-	-	-	-	-
 -	Leena	-	proper	9	-	-	-	-	-
 -	Leevi	-	proper	5	-	-	-	-	-
@@ -1610,7 +1614,7 @@
 -	Leslie	-	proper	8|21	-	-	-	-	-
 -	Leszek	-	proper	5	-	-	-	-	-
 -	Lev	-	proper	5	-	-	-	-	-
--	Lewis	-	proper	39|5	-	-	-	-	-
+-	Lewis	-	proper	5	-	-	-	-	-
 -	Li	-	proper	21	-	-	-	-	-
 -	Liam	-	proper	5	-	-	-	-	-
 -	Liana	-	proper	10|12	-	-	-	-	-
@@ -1658,14 +1662,14 @@
 -	Lothar	-	proper	6	-	-	-	-	-
 -	Lotta	-	proper	10	tt:t	-	-	-	-
 -	Lotte	-	proper	8	-	-	-	-	-
--	Louis	-	proper	39|5	-	-	-	-	-
+-	Louis	-	proper	5|22	-	-	-	-	-
 -	Louisa	-	proper	9	-	-	-	-	-
 -	Louise	-	proper	8	-	-	-	-	-
 -	Loïc	-	proper	5	-	-	-	-	-
 -	Luboš	-	proper	5	-	-	-	-	-
 -	Luc	-	proper	5	-	-	-	-	-
 -	Luca	-	proper	10	-	-	-	-	-
--	Lucas	-	proper	39|5	-	-	-	-	-
+-	Lucas	-	proper	5	-	-	-	-	-
 -	Lucia	-	proper	12	-	-	-	-	-
 -	Lucian	-	proper	5	-	-	-	-	-
 -	Luciano	-	proper	1	-	-	-	-	-
@@ -1683,7 +1687,7 @@
 -	Luis	-	proper	5	-	-	-	-	-
 -	Luise	-	proper	8	-	-	-	-	-
 -	Luka	-	proper	10	-	-	-	-	-
--	Lukas	-	proper	39|5	-	-	-	-	-
+-	Lukas	-	proper	5	-	-	-	-	-
 -	Luke	-	proper	8	-	-	-	-	-
 -	Lukáš	-	proper	5	-	-	-	-	-
 -	Lutz	-	proper	5	-	-	-	-	-
@@ -1692,14 +1696,14 @@
 -	Lydia	-	proper	12	-	-	-	-	-
 -	Lyndon	-	proper	6	-	-	-	-	-
 -	Lyyli	-	proper	5	-	-	-	-	-
--	László	-	proper	?21|1	-	-	-	-	-
+-	László	-	proper	1|21	-	-	-	-	-
 -	Léa	-	proper	9	-	-	-	-	-
 -	Léo	-	proper	1	-	-	-	-	-
 -	Léon	-	proper	5	-	-	-	-	-
 -	Maaria	-	proper	12	-	-	-	-	-
 -	Maarit	-	proper	5	-	-	-	-	-
 -	Maarja	-	proper	9	-	-	-	-	-
--	Maarten	-	proper	?6	-	-	-	-	-
+-	Maarten	-	proper	6	-	-	-	-	-
 -	Maciej	-	proper	22|†5	-	-	-	-	-
 -	Madame	-	proper	8	-	-	-	-	-
 -	Madeleine	-	proper	8	-	-	-	-	-
@@ -1883,6 +1887,7 @@
 -	Mervi	-	proper	5	-	-	-	-	-
 -	Mette	-	proper	8	-	-	-	-	-
 -	Mia	-	proper	9	-	-	-	-	-
+-	Micah	-	proper	22|†5	-	-	-	-	-
 -	Michael	-	proper	5	-	-	-	-	-
 -	Michaela	-	proper	9	-	-	-	-	-
 -	Michal	-	proper	?6	-	-	-	-	-
@@ -2272,7 +2277,7 @@
 -	Pär	-	proper	5	-	-	-	-	-
 -	Pål	-	proper	5	-	-	-	-	-
 -	Péter	-	proper	6	-	-	-	-	-
--	Pétur	-	proper	?5	-	-	-	-	-
+-	Pétur	-	proper	6	-	-	-	-	-
 -	Qiang	-	proper	5	-	-	-	-	-
 -	Quentin	-	proper	5	-	-	-	-	-
 -	Rachel	-	proper	?6	-	-	-	-	-
@@ -2545,7 +2550,7 @@
 -	Signe	-	proper	8	-	-	-	-	-
 -	Sigrid	-	proper	5	-	-	-	-	-
 -	Sigurd	-	proper	5	-	-	-	-	-
--	Sigurður	-	proper	?5	-	-	-	-	-
+-	Sigurður	-	proper	5	-	-	-	-	-
 -	Siim	-	proper	5	-	-	-	-	-
 -	Siiri	-	proper	5	-	-	-	-	-
 -	Silja	-	proper	9	-	-	-	-	-
@@ -2861,7 +2866,7 @@
 -	Unto	-	proper	1	-	-	-	-	-
 -	Uolevi	-	proper	5	-	-	-	-	-
 -	Urho	-	proper	1	-	-	-	-	-
--	Urmas	-	proper	39|5	-	-	-	-	-
+-	Urmas	-	proper	39	-	-	-	-	-
 -	Uroš	-	proper	5	-	-	-	-	-
 -	Urpo	-	proper	1	-	-	-	-	-
 -	Urs	-	proper	5	-	-	-	-	-

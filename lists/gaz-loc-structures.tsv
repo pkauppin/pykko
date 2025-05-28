@@ -12,7 +12,9 @@
 -	Kreml	-	proper	5	-	-	-	-	-
 -	Löyly	-	proper	1	-	-	-	-	-
 -	Nahkiainen	-	proper	38	-	-	-	-	-
--	Neuschwanstein	-	proper	5	-	-	-	-	-
+-	Neuschwanstein	-	proper	5	-	back	-	-	-
+-	Nokia Arena	-	proper	13	-	-	-	-	-
+-	Nynäs	-	proper	5	-	-	-	-	-
 -	Oodi	-	proper	5	-	-	-	-	-
 -	Ostrobotnia	-	proper	12	-	-	-	-	-
 -	Pantheon	-	proper	5	-	-	-	-	-
@@ -24,13 +26,14 @@
 -	Stadika	-	proper	9	-	-	-	coll	-
 -	Stadikka	-	proper	14	kk:k	-	-	coll	-
 -	Steissi	-	proper	5	-	-	-	coll	-
--	Stonehenge	-	proper	8	-	-	-	-	-
+-	Stonehenge	-	proper	8	-	front|back	-	-	-
 -	Sveaborg	-	proper	5	-	-	-	-	-
 -	Topelia	-	proper	12	-	-	-	-	-
 -	Tylypahka	-	proper	9	-	-	-	-	-
 -	Viapori	-	proper	6	-	-	-	-	-
 -	City-Center	-	proper	6	-	-	-	-	-
 -	Eiffel-torni	-	proper	5	-	-	-	-	-
+-	Helsinki-halli	-	proper	5	-	-	-	-	-
 -	Kaisa-talo	-	proper	1	-	-	-	-	-
 -	Notre-Dame	-	proper	8	-	-	-	-	-
 -	al-Aqsa	-	proper	9	-	-	-	-	-
@@ -41,6 +44,7 @@
 -	Kulta|ranta	-	proper	9	nt:nn	-	-	-	-
 -	Lasi|palatsi	-	proper	5	-	-	-	-	-
 -	Lasten|linna	-	proper	9	-	-	-	-	-
+-	Louhi|saari	-	proper	26	-	-	-	-	-
 -	Länsi|terminaali	-	proper	5	-	-	-	-	-
 -	Makkara|talo	-	proper	1	-	-	-	-	-
 -	Meri|torni	-	proper	5	-	-	-	-	-

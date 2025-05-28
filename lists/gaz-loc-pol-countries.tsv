@@ -164,6 +164,7 @@
 -	Rooma	-	proper	10	-	-	-	-	-
 -	Ruanda	-	proper	9	-	-	-	-	-
 -	Ruotsi	-	proper	5	-	-	-	-	-
+-	Ruotti	-	proper	5	tt:t|=	-	-	coll|dial	-
 -	Rus	-	proper	5	-	-	-	-	-
 -	Rus’	-	proper	5	-	-	-	-	-
 -	Saint Helena	-	proper	12	-	-	-	-	-
@@ -214,6 +215,7 @@
 -	Ukraina	-	proper	13	-	-	-	-	-
 -	Unkari	-	proper	6	-	-	-	-	-
 -	Uruguay	-	proper	21	-	back	i|y	-	-
+-	Usa	-	proper	10	-	-	-	coll|dial	-
 -	Uzbekistan	-	proper	6	-	-	-	-	-
 -	Vanuatu	-	proper	1	-	-	-	-	-
 -	Vatikaani	-	proper	5	-	-	-	-	-
@@ -264,8 +266,10 @@
 -	Iso%-Britannia	-	proper	12	-	-	-	-	-
 -	Uusi%-Seelanti	-	proper	5	nt:nn	-	-	-	-
 -	Papua-Uusi%-Guinea	-	proper	12	-	-	-	-	-
+-	Enkut	-	proper-pl	1	kk:k	-	-	slang	-
 -	Filippiinit	-	proper-pl	5	-	-	-	-	-
 -	Grenadiinit	-	proper-pl	5	-	-	-	-	-
+-	Jenkit	-	proper-pl	5	kk:k	-	-	slang	-
 -	Komorit	-	proper-pl	6	-	-	-	-	-
 -	Malediivit	-	proper-pl	5	-	-	-	-	-
 -	Seychellit	-	proper-pl	5	-	-	-	-	-

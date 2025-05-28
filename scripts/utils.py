@@ -1,5 +1,8 @@
 import re
+import sys
+
 from scripts.file_tools import load_json
+from scripts.constants import POS_TAGS
 from collections import defaultdict
 
 try:
@@ -23,6 +26,11 @@ INTERROGATIVES = [
 	'kuinka',
 ]
 
+def validate_pos(pos):
+	if pos and pos not in POS_TAGS:
+		print(sys.stderr.write(f'Warning! Unknown POS tag "{pos}"\n'))
+		return False
+	return True
 
 def get_wordform(pairs):
 	return ''.join(c for _, c in pairs if c != '0')

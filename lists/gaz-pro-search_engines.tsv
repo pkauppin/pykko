@@ -3,6 +3,6 @@
 -	Bing	-	proper	5	-	-	-	-	-
 -	DuckDuckGo	-	proper	21	-	-	-	-	-
 -	Google	-	proper	8	-	-	-	-	-
--	StartPage	-	proper	8	-	-	-	-	-
--	Yahoo!	-	proper	18B	-	-	-	-	-
+-	StartPage	-	proper	8	-	front|back	-	-	-
+-	Yahoo!	-	proper	18B	-	-	u	-	-
 -	Yandex	-	proper	5	-	-	-	-	-

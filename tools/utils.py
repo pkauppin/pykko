@@ -1,6 +1,7 @@
 import re
 import hfst
 from scripts.constants import PARSER_FST_PATH, FIELD_STRING
+from scripts.utils import validate_pos
 
 C = "[bcdfghijklmnpqrstvwxzšžč'’]"
 V = '[aeiouyäöüå]'
@@ -183,6 +184,7 @@ def lemmatize(word, pos=None):
 
 
 def syllabify(word, pos=None, compound=True):
+	validate_pos(pos)
 	word = add_compound_separators(word, pos, pick_first=True) if compound else word
 	word = re.sub(f'(?<=[aeiou])(?=y[aeou])', '·', word)
 	word = re.sub(f'(?<=[a-zåäö]y)(?=[äo])', '·', word)
@@ -227,8 +229,8 @@ def add_compound_separators_to_proper_name(name):
 def transfer_separators(source, target):
 	segments = []
 	for part in source.split('|')[:-1]:
-		if target.startswith(part):
-			segments.append(part)
+		if target.lower().startswith(part.lower()):
+			segments.append(target[:len(part)])
 			target = target[len(part):]
 		else:
 			break

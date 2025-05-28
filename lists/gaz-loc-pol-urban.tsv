@@ -314,6 +314,7 @@
 -	Helsingør	-	proper	5	-	-	-	-	-
 -	Helsinki	-	proper	5	nk:ng	-	-	-	-
 -	Herson	-	proper	6	-	-	-	-	-
+-	Hesa	-	proper	9	-	-	-	slang	-
 -	Hetta	-	proper	9	tt:t	-	-	-	-
 -	Hiitola	-	proper	10	-	-	-	-	-
 -	Hiittinen	-	proper	38-pl	-	-	-	-	-
@@ -546,6 +547,7 @@
 -	Köln	-	proper	5	-	-	-	-	-
 -	Königsberg	-	proper	5	-	-	-	-	-
 -	Köping	-	proper	5	-	-	-	-	-
+-	Köpis	-	proper	39	-	-	-	slang	-
 -	Köyliö	-	proper	3	-	-	-	-	-
 -	Kööpenhamina	-	proper	13	-	-	-	-	-
 -	Kōbe	-	proper	8	-	-	-	-	-
@@ -773,6 +775,8 @@
 -	Nurmes	-	proper	39	-	-	-	-	-
 -	Nurmo	-	proper	1	-	-	-	-	-
 -	Nuuk	-	proper	5	-	-	-	-	-
+-	Nyki	-	proper	5	-	-	-	slang	-
+-	Nykki	-	proper	5	kk:k	-	-	slang	-
 -	Nyköping	-	proper	5	-	-	-	-	-
 -	Nynäshamn	-	proper	5	-	-	-	-	-
 -	Närpiö	-	proper	3	-	-	-	-	-
@@ -1009,7 +1013,7 @@
 -	Saratov	-	proper	5	-	-	-	-	-
 -	Sastamala	-	proper	12	-	-	-	-	-
 -	Sauvo	-	proper	1	-	-	-	-	-
--	Savannah	-	proper	5|22	-	-	-	-	-
+-	Savannah	-	proper	22|5	-	-	-	-	-
 -	Seattle	-	proper	8	-	-	-	-	-
 -	Seefeld	-	proper	5	-	-	-	-	-
 -	Seiskari	-	proper	6	-	-	-	-	-
@@ -1053,6 +1057,7 @@
 -	Southampton	-	proper	?6	-	-	-	-	-
 -	Split	-	proper	5	-	-	-	-	-
 -	Springfield	-	proper	5	-	-	-	-	-
+-	Stadi	-	proper	5	-	-	-	slang	-
 -	Stalingrad	-	proper	5	-	-	-	-	-
 -	Stanford	-	proper	5	-	-	-	-	-
 -	Stavanger	-	proper	5	-	-	-	-	-

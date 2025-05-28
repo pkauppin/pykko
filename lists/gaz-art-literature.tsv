@@ -1,8 +1,7 @@
--	Korinttilais|kirje	-	noun	48	-	-	-	-	-
--	Korinttolais|kirje	-	noun	48	-	-	-	-	-
 -	Apicius	-	proper	39	-	-	-	-	-
 -	Avesta	-	proper	9	-	-	-	-	-
 -	Bhagavadgita	-	proper	9	-	-	-	-	-
+-	Biblia	-	proper	12	-	-	-	dated	-
 -	Decamerone	-	proper	8	-	-	-	-	-
 -	Dracula	-	proper	12	-	-	-	-	-
 -	Gilgameš	-	proper	5	-	-	-	-	-
@@ -18,12 +17,17 @@
 -	Necronomicon	-	proper	6	-	-	-	-	-
 -	Odysseia	-	proper	9	-	-	-	-	-
 -	Paradiso	-	proper	1	-	-	-	-	-
+-	Pentateukki	-	proper	5	kk:k	-	-	-	-
 -	Principia	-	proper	12	-	-	-	-	-
+-	Psalttari	-	proper	6	-	-	-	-	-
 -	Purgatorio	-	proper	3	-	-	-	-	-
 -	Raamattu	-	proper	1	-	-	-	-	-
 -	Ramayana	-	proper	9	-	-	-	-	-
 -	Rigveda	-	proper	9	-	-	-	-	-
 -	Talmud	-	proper	5	-	-	-	-	-
+-	Tanak	-	proper	5	-	-	-	-	-
 -	Toora	-	proper	10	-	-	-	-	-
 -	Veda	-	proper	9	-	-	-	-	-
 -	Bhagavad-Gita	-	proper	9	-	-	-	-	-
+-	Korinttilais|kirje	-	proper	48	-	-	-	-	-
+-	Korinttolais|kirje	-	proper	48	-	-	-	-	-
