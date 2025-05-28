@@ -1,3 +1,5 @@
+-	St	-	none	!	-	-	-	foreign	-
+-	St.	-	none	!	-	-	-	foreign	-
 -	a	-	none	-	-	-	-	foreign	-
 -	af	-	none	!	-	-	-	foreign	-
 -	al.	-	none	-	-	-	-	abbr|foreign	-
@@ -965,7 +967,7 @@
 -	Sixty	-	noun	1	-	-	-	foreign	-
 -	Ski	-	noun	18	-	-	-	foreign	-
 -	Skin	-	noun	5	-	-	-	foreign	-
--	Sky	-	noun	21	-	-	y	foreign	-
+-	Sky	-	noun	21	-	front|back	y	foreign	-
 -	Slam	-	noun	5	-	-	-	foreign	-
 -	Smart	-	noun	5	-	-	-	foreign	-
 -	Smash	-	noun	5	-	-	-	foreign	-
@@ -996,8 +998,6 @@
 -	Sport	-	noun	5	-	-	-	foreign	-
 -	Sports	-	noun	5	-	-	-	foreign	-
 -	Square	-	noun	8	-	-	-	foreign	-
--	St	-	noun	!	-	-	-	foreign	-
--	St.	-	noun	!	-	-	-	foreign	-
 -	Stage	-	noun	8	-	-	-	foreign	-
 -	Stand	-	noun	5	-	-	-	foreign	-
 -	Star	-	noun	6	-	-	-	foreign	-
@@ -1021,6 +1021,7 @@
 -	Studio	-	noun	5	-	-	-	foreign	-
 -	Studios	-	noun	5	-	-	-	foreign	-
 -	Study	-	noun	1	-	-	-	foreign	-
+-	Style	-	noun	8	-	-	-	foreign	-
 -	Suicide	-	noun	8	-	-	-	foreign	-
 -	Suisse	-	noun	8	-	-	-	foreign	-
 -	Sun	-	noun	5	-	-	-	foreign	-
