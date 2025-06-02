@@ -3,7 +3,7 @@ import hfst
 from scripts.constants import PARSER_FST_PATH, FIELD_STRING
 from scripts.utils import validate_pos
 
-C = "[bcdfghijklmnpqrstvwxzšžč'’]"
+C = "[bcdfghjklmnpqrstvwxzšžč'’]"
 V = '[aeiouyäöüå]'
 
 try:
@@ -184,21 +184,53 @@ def lemmatize(word, pos=None):
 
 
 def syllabify(word, pos=None, compound=True):
+
 	validate_pos(pos)
 	word = add_compound_separators(word, pos, pick_first=True) if compound else word
+
+	# ma·ya
 	word = re.sub(f'(?<=[aeiou])(?=y[aeou])', '·', word)
+
+	# ikty·ologi, viipy·ä
 	word = re.sub(f'(?<=[a-zåäö]y)(?=[äo])', '·', word)
+
+	# make·a
 	word = re.sub(f'(?<=[eiouö])(?=[aä])', '·', word)
+
+	# selvi·ö
 	word = re.sub(f'(?<=[aeiouä])(?=ö)', '·', word)
+
+	# alki·o
 	word = re.sub(f'(?<=[aeiäö])(?=o)', '·', word)
+
+	# ko·e
 	word = re.sub(f'(?<=[aouäö])(?=e)', '·', word)
+
+	# kan·si, kant·ti, angs·ti, halst·rata
 	word = re.sub(f'(?<={V})({C}+)(?={C}{V})', r'\1·', word)
 	word = re.sub(f'(?<={V})({C}+)(?={C}{V})', r'\1·', word)
+
+	# ka·la
 	word = re.sub(f'(?<={V})(?={C}{V})', '·', word)
+
+	# kofe·ii, Mari·aanit
+	word = re.sub(f'(?<={V})(?=aa|ee|ii|oo|uu|yy|ää|öö)', '·', word)
+
+	# kau·an, liu·os
 	word = re.sub(f'(?<=[aeiou][iu])(?={V})', '·', word)
+
+	# nei·yt
 	word = re.sub(f'(?<=[äeiöy][iy])(?={V})', '·', word)
+
+	# ruo·an
 	word = re.sub(f'(?<=ie|uo|yö)(?={V})', '·', word)
+
+	# raa·istua
 	word = re.sub(f'(?<=aa|ee|ii|oo|uu|yy|ää|öö)(?={V})', '·', word)
+
+	# cesi·um
+	word = re.sub(f'(?<=[ei])(?=um)', '·', word)
+
 	return word
 
 
