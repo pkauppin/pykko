@@ -68,6 +68,9 @@ class ToolTests(unittest.TestCase):
         self.assertEqual(syllabify('kaksintaa'), 'kak·sin·taa')
         self.assertEqual(syllabify('liuottaa'), 'liu·ot·taa')
         self.assertEqual(syllabify('rääyttää'), 'rää·yt·tää')
+        self.assertEqual(syllabify('lidokaiini'), 'li·do·ka·ii·ni')
+        self.assertEqual(syllabify('rei’ittää'), 'rei·’it·tää')
+        self.assertEqual(syllabify('cesium'), 'ce·si·um')
         # self.assertEqual(syllabify('layout'), '')
 
 

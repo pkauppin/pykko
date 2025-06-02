@@ -7,6 +7,7 @@
 -	am	-	none	!	-	-	-	foreign	-
 -	an	-	none	!	-	-	-	foreign	-
 -	and	-	none	!	-	-	-	foreign	-
+-	are	-	none	-	-	-	-	foreign	-
 -	as	-	none	!	-	-	-	foreign	-
 -	at	-	none	!	-	-	-	foreign	-
 -	att	-	none	-	-	-	-	foreign	-
@@ -75,6 +76,7 @@
 -	le	-	none	!	-	-	-	foreign	-
 -	les	-	none	!	-	-	-	foreign	-
 -	los	-	none	!	-	-	-	foreign	-
+-	med	-	none	-	-	-	-	foreign	-
 -	min	-	none	-	-	-	-	foreign	-
 -	mina	-	none	-	-	-	-	foreign	-
 -	mitt	-	none	-	-	-	-	foreign	-
@@ -95,6 +97,7 @@
 -	san	-	none	!	-	-	-	foreign	-
 -	sin	-	none	!	-	-	-	foreign	-
 -	sine	-	none	!	-	-	-	foreign	-
+-	som	-	none	-	-	-	-	foreign	-
 -	than	-	none	!	-	-	-	foreign	-
 -	the	-	none	!	-	-	-	foreign	-
 -	the	-	none	-	-	-	-	foreign	-
@@ -106,6 +109,7 @@
 -	van	-	none	!	-	-	-	foreign	-
 -	via	-	none	!	-	-	-	foreign	-
 -	von	-	none	!	-	-	-	foreign	-
+-	was	-	none	-	-	-	-	foreign	-
 -	were	-	none	-	-	-	-	foreign	-
 -	with	-	none	!	-	-	-	foreign	-
 -	your	-	none	!	-	-	-	foreign	-
@@ -449,7 +453,7 @@
 -	Fifth	-	noun	5	-	-	-	foreign	-
 -	Fifty	-	noun	1	-	-	-	foreign	-
 -	Film	-	noun	5	-	-	-	foreign	-
--	Final	-	noun	?6	-	-	-	foreign	-
+-	Final	-	noun	6	-	-	-	foreign	-
 -	Financial	-	noun	5	-	-	-	foreign	-
 -	Finland	-	noun	5	-	-	-	foreign	-
 -	Finnish	-	noun	5	-	-	-	foreign	-
@@ -662,6 +666,7 @@
 -	Maiden	-	noun	6	-	-	-	foreign	-
 -	Mail	-	noun	5	-	-	-	foreign	-
 -	Main	-	noun	5	-	-	-	foreign	-
+-	Major	-	noun	?6	-	-	-	foreign	-
 -	Man	-	noun	5	-	-	-	foreign	-
 -	Mana	-	noun	9	-	-	-	foreign	-
 -	Management	-	noun	5	-	-	-	foreign	-

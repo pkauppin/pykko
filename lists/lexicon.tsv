@@ -1147,6 +1147,7 @@
 -	georgialainen	-	adjective	38	-	-	-	-	-
 -	geosentrinen	-	adjective	38	-	-	-	-	-
 -	geostationaarinen	-	adjective	38	-	-	-	-	-
+-	geostrateginen	-	adjective	38	-	-	-	-	-
 -	geosynkroninen	-	adjective	38	-	-	-	-	-
 -	geotekninen	-	adjective	38	-	-	-	-	-
 -	geoterminen	-	adjective	38	-	-	-	-	-
@@ -1455,6 +1456,7 @@
 -	hikinen	-	adjective	38	-	front	e	-	-
 -	hikke	-	adjective	8	-	front	e	slang	-
 -	hiljainen	-	adjective	38	-	back	e	-	-
+-	hiljattainen	-	adjective	38	-	-	-	-	-
 -	hillitty	-	adjective	1	tt:t	front	y	-	-
 -	hillitön	-	adjective	34	tt:t	front	ö	-	-
 -	hilpeä	-	adjective	15	-	front	ä	-	-
@@ -3820,6 +3822,7 @@
 -	menestymätön	-	adjective	34	tt:t	front	ö	-	-
 -	menestyvä	-	adjective	10	-	-	-	-	-
 -	menetelmällinen	-	adjective	38	-	front	e	-	-
+-	menettelyllinen	-	adjective	38	-	-	-	-	-
 -	menevä	-	adjective	10	-	front	ä	-	-
 -	meneväinen	-	adjective	38	-	front	e	-	-
 -	mennyt	-	adjective	47	-	-	-	-	-
@@ -5376,6 +5379,7 @@
 -	rahakas	-	adjective	41	kk:k	back	a	-	-
 -	rahallinen	-	adjective	38	-	back	e	-	-
 -	rahaton	-	adjective	34	tt:t	back	o	-	-
+-	rahoituksellinen	-	adjective	38	-	-	-	-	-
 -	raidakas	-	adjective	41	kk:k	back	a	-	-
 -	raidallinen	-	adjective	38	-	back	e	-	-
 -	raihnainen	-	adjective	38	-	back	e	-	-
@@ -5936,6 +5940,7 @@
 -	semioottinen	-	adjective	38	-	back	e	-	-
 -	semipresidentiaalinen	-	adjective	38	-	-	-	-	-
 -	semmoinen	-	adjective	38	-	back	e	-	-
+-	semmonen	-	adjective	38	-	-	-	coll|dial	-
 -	senegalilainen	-	adjective	38	-	-	-	-	-
 -	seniili	-	adjective	6	-	front	i	-	-
 -	sensaatiomainen	-	adjective	38	-	back	e	-	-
@@ -6727,6 +6732,7 @@
 -	timantti	-	adjective	5	tt:t	back	i	-	-
 -	timanttinen	-	adjective	38	-	back	e	-	-
 -	timmi	-	adjective	5	-	front	i	coll	-
+-	timorilainen	-	adjective	38	-	-	-	-	-
 -	tinainen	-	adjective	38	-	back	e	-	-
 -	tinkimätön	-	adjective	34	tt:t	front	ö	-	-
 -	tipaton	-	adjective	34	tt:t	back	o	-	-
@@ -7676,6 +7682,7 @@
 -	ymmärtävä	-	adjective	10	-	front	ä	-	-
 -	ymmärtäväinen	-	adjective	38	-	front	e	-	-
 -	ympyriäinen	-	adjective	38	-	front	e	coll	-
+-	ympäristöllinen	-	adjective	38	-	-	-	-	-
 -	ynseä	-	adjective	15	-	front	ä	-	-
 -	ypäjäläinen	-	adjective	38	-	-	-	-	-
 -	yritteliäs	-	adjective	41	-	front	ä	-	-
@@ -8148,6 +8155,7 @@
 -	empire|tyylinen	-	adjective	38	-	-	-	-	-
 -	energia|intensiivinen	-	adjective	38	-	-	-	-	-
 -	energia|pitoinen	-	adjective	38	-	-	-	-	-
+-	energia|poliittinen	-	adjective	38	-	-	-	-	-
 -	energia|syöppö	-	adjective	1	pp:p	-	-	coll	-
 -	energia|taloudellinen	-	adjective	38	-	-	-	-	-
 -	energia|tehokas	-	adjective	41	kk:k	-	-	-	-
@@ -8307,6 +8315,7 @@
 -	erityis|estävä	-	adjective	10	-	-	-	-	-
 -	erityis|herkkä	-	adjective	10	kk:k	-	-	-	-
 -	erityis|korvattava	-	adjective	10	-	-	-	-	-
+-	erityis|laatuinen	-	adjective	38	-	-	-	-	-
 -	erityis|lahjakas	-	adjective	41	kk:k	-	-	-	-
 -	eri|aikainen	-	adjective	38	-	-	-	-	-
 -	eri|arvoinen	-	adjective	38	-	-	-	-	-
@@ -9486,6 +9495,7 @@
 -	kiinnitys|kelpoinen	-	adjective	38	-	-	-	-	-
 -	kiinteä|hintainen	-	adjective	38	-	-	-	-	-
 -	kiinteä|korkoinen	-	adjective	38	-	-	-	-	-
+-	kiinteä|määräinen	-	adjective	38	-	-	-	-	-
 -	kiinto|kauluksinen	-	adjective	38	-	-	-	-	-
 -	kiistan|alainen	-	adjective	38	-	-	-	-	-
 -	kiivas|luonteinen	-	adjective	38	-	-	-	stacked	-
@@ -9672,6 +9682,7 @@
 -	korkea|paineinen	-	adjective	38	-	-	-	-	-
 -	korkea|palkkainen	-	adjective	38	-	-	-	stacked	-
 -	korkea|povinen	-	adjective	38	-	-	-	stacked	-
+-	korkea|riskinen	-	adjective	38	-	-	-	-	-
 -	korkea|selkäinen	-	adjective	38	-	-	-	stacked	-
 -	korkea|taajuinen	-	adjective	38	-	-	-	stacked	-
 -	korkea|tasoinen	-	adjective	38	-	-	-	-	-
@@ -9786,6 +9797,7 @@
 -	kulta|kutrinen	-	adjective	38	-	-	-	-	-
 -	kulta|pitoinen	-	adjective	38	-	-	-	-	-
 -	kulta|reunainen	-	adjective	38	-	-	-	-	-
+-	kulttuurien|välinen	-	adjective	38	-	-	-	-	-
 -	kulttuuri|historiallinen	-	adjective	38	-	-	-	-	-
 -	kulttuuri|poliittinen	-	adjective	38	-	-	-	-	-
 -	kulttuuri|sidonnainen	-	adjective	38	-	-	-	-	-
@@ -10296,6 +10308,7 @@
 -	länsi|mielinen	-	adjective	38	-	-	-	-	-
 -	länsi|murteinen	-	adjective	38	-	-	-	-	-
 -	länsi|puolinen	-	adjective	38	-	-	-	-	-
+-	länsi|saharalainen	-	adjective	38	-	-	-	-	-
 -	länsi|saksalainen	-	adjective	38	-	-	-	-	-
 -	länsi|suomalainen	-	adjective	38	-	-	-	-	-
 -	läpi|kirjoittava	-	adjective	10	-	-	-	-	-
@@ -10421,8 +10434,10 @@
 -	matala|otsainen	-	adjective	38	-	-	-	-	-
 -	matala|paineinen	-	adjective	38	-	-	-	-	-
 -	matala|palkkainen	-	adjective	38	-	-	-	stacked	-
+-	matala|patogeeninen	-	adjective	38	-	-	-	stacked	-
 -	matala|rantainen	-	adjective	38	-	-	-	stacked	-
 -	matala|reunainen	-	adjective	38	-	-	-	stacked	-
+-	matala|taajuinen	-	adjective	38	-	-	-	stacked	-
 -	matala|tasoinen	-	adjective	38	-	-	-	stacked	-
 -	matala|tehoinen	-	adjective	38	-	-	-	stacked	-
 -	matala|vaahtoinen	-	adjective	38	-	-	-	stacked	-
@@ -10459,6 +10474,7 @@
 -	meri|sotilaallinen	-	adjective	38	-	-	-	-	-
 -	meri|tekninen	-	adjective	38	-	-	-	-	-
 -	meri|tieteellinen	-	adjective	38	-	-	-	-	-
+-	merkille|pantava	-	adjective	10	-	-	-	-	-
 -	merkitys|opillinen	-	adjective	38	-	-	-	-	-
 -	merkki|tietoinen	-	adjective	38	-	-	-	-	-
 -	merkki|uskollinen	-	adjective	38	-	-	-	-	-
@@ -10599,6 +10615,7 @@
 -	moni|miljoonainen	-	adjective	38	-	-	-	-	-
 -	moni|muotoinen	-	adjective	38	-	-	-	-	-
 -	moni|mutkainen	-	adjective	38	-	-	-	-	-
+-	moni|napainen	-	adjective	38	-	-	-	-	-
 -	moni|oireinen	-	adjective	38	-	-	-	-	-
 -	moni|ongelmainen	-	adjective	38	-	-	-	-	-
 -	moni|osainen	-	adjective	38	-	-	-	stacked	-
@@ -10920,6 +10937,7 @@
 -	oikea|mielinen	-	adjective	38	-	-	-	poet	-
 -	oikea|oppinen	-	adjective	38	-	-	-	-	-
 -	oikea|suhtainen	-	adjective	38	-	-	-	-	-
+-	oikea|suhteinen	-	adjective	38	-	-	-	-	-
 -	oikea|uskoinen	-	adjective	38	-	-	-	-	-
 -	oikeisto|populistinen	-	adjective	38	-	-	-	-	-
 -	oikeuden|mukainen	-	adjective	38	-	-	-	-	-
@@ -11195,6 +11213,7 @@
 -	pers|aukinen	-	adjective	38	-	-	-	vulg	-
 -	pertun|maalainen	-	adjective	38	-	-	-	-	-
 -	perustavan|laatuinen	-	adjective	38	-	-	-	-	-
+-	perustavan|luonteinen	-	adjective	38	-	-	-	-	-
 -	perustus|laillinen	-	adjective	38	-	-	-	-	-
 -	perus|luonteinen	-	adjective	38	-	-	-	-	-
 -	perus|muotoinen	-	adjective	38	-	-	-	-	-
@@ -11693,6 +11712,7 @@
 -	raivo|raitis	-	adjective	41	tt:t	-	-	jocul	-
 -	raivo|tautinen	-	adjective	38	-	-	-	-	-
 -	rajan|takainen	-	adjective	38	-	-	-	-	-
+-	rajat|ylittävä	-	adjective	10	-	-	-	-	-
 -	raja|karjalainen	-	adjective	38	-	-	-	-	-
 -	raju|luonteinen	-	adjective	38	-	-	-	stacked	-
 -	raju|luontoinen	-	adjective	38	-	-	-	-	-
@@ -12024,6 +12044,7 @@
 -	sana|sanainen	-	adjective	38	-	-	-	-	-
 -	sana|tarkka	-	adjective	9	kk:k	-	-	-	-
 -	sana|valmis	-	adjective	41	-	-	-	-	-
+-	sanoin|kuvaamaton	-	adjective	34	tt:t	-	-	-	-
 -	sanotun|lainen	-	adjective	38	-	-	-	-	-
 -	sarja|kukkainen	-	adjective	38	-	-	-	-	-
 -	sarja|valmisteinen	-	adjective	38	-	-	-	-	-
@@ -12837,6 +12858,7 @@
 -	toiminta|tarmoinen	-	adjective	38	-	-	-	-	-
 -	toiminta|valmis	-	adjective	41	-	-	-	-	-
 -	toiminta|varma	-	adjective	9	-	-	-	-	-
+-	toiminto|perusteinen	-	adjective	38	-	-	-	-	-
 -	toimitus|valmis	-	adjective	41	-	-	-	-	-
 -	toimi|kelpoinen	-	adjective	38	-	-	-	-	-
 -	toimi|valtainen	-	adjective	38	-	-	-	-	-
@@ -13881,12 +13903,14 @@
 -	yhteen|laskettu	-	adjective	1	tt:t	-	-	-	-
 -	yhteen|sopimaton	-	adjective	34	tt:t	-	-	-	-
 -	yhteen|sopiva	-	adjective	10	-	-	-	-	-
+-	yhteen|toimiva	-	adjective	10	-	-	-	-	-
 -	yhteis|kunnallinen	-	adjective	38	-	-	-	-	-
 -	yhteis|mitallinen	-	adjective	38	-	-	-	-	-
 -	yhteis|mitaton	-	adjective	34	tt:t	-	-	-	-
 -	yhteis|rantainen	-	adjective	38	-	-	-	-	-
 -	yhteis|vaikutteinen	-	adjective	38	-	-	-	-	-
 -	yhteis|vastuullinen	-	adjective	38	-	-	-	-	-
+-	yhteisön|laajuinen	-	adjective	38	-	-	-	-	-
 -	yht|aikainen	-	adjective	38	-	-	-	-	-
 -	yht|äkkinen	-	adjective	38	-	-	-	-	-
 -	yhtä|aikainen	-	adjective	38	-	-	-	-	-
@@ -13943,6 +13967,7 @@
 -	yksi|raiteinen	-	adjective	38	-	-	-	-	-
 -	yksi|ravinteinen	-	adjective	38	-	-	-	-	-
 -	yksi|rivinen	-	adjective	38	-	-	-	-	-
+-	yksi|runkoinen	-	adjective	38	-	-	-	-	-
 -	yksi|sarvinen	-	adjective	38	-	-	-	-	-
 -	yksi|selitteinen	-	adjective	38	-	-	-	-	-
 -	yksi|silmäinen	-	adjective	38	-	-	-	-	-
@@ -14089,6 +14114,7 @@
 -	ympyrä|suinen	-	adjective	38	-	-	-	-	-
 -	ympäristö|hygieeninen	-	adjective	38	-	-	-	-	-
 -	ympäristö|peräinen	-	adjective	38	-	-	-	-	-
+-	ympäristö|poliittinen	-	adjective	38	-	-	-	-	-
 -	ympäristö|tekninen	-	adjective	38	-	-	-	-	-
 -	ympäristö|tietoinen	-	adjective	38	-	-	-	-	-
 -	ympäristö|vastuullinen	-	adjective	38	-	-	-	-	-
@@ -14144,6 +14170,7 @@
 -	esi|teini-ikäinen	-	adjective	38	-	-	-	-	-
 -	etu|ajo-oikeutettu	-	adjective	1	tt:t	-	-	-	-
 -	puna-viher|sokea	-	adjective	15	-	-	-	-	-
+-	valio|kunta-aloitteinen	-	adjective	38	-	-	-	-	-
 -	ala|koulu|ikäinen	-	adjective	38	-	-	-	-	-
 -	alku|peräis|rotuinen	-	adjective	38	-	-	-	-	-
 -	arvon|lisä|verollinen	-	adjective	38	-	-	-	-	-
@@ -14241,6 +14268,7 @@
 -	moni|tuhat|päinen	-	adjective	38	-	-	-	-	-
 -	moni|tuhat|vuotinen	-	adjective	38	-	-	-	-	-
 -	musta|valko|ruutuinen	-	adjective	38	-	-	-	-	-
+-	muukalais|viha|mielinen	-	adjective	38	-	-	-	-	-
 -	muun|suku|puolinen	-	adjective	38	-	-	-	-	-
 -	myöhäis|jää|kautinen	-	adjective	38	-	-	-	-	-
 -	myöhäis|keski|aikainen	-	adjective	38	-	-	-	-	-
@@ -14322,6 +14350,7 @@
 -	tila|päis|luonteinen	-	adjective	38	-	-	-	-	-
 -	tila|päis|luontoinen	-	adjective	38	-	-	-	-	-
 -	tilin|teko|velvollinen	-	adjective	38	-	-	-	-	-
+-	toimi|elinten|välinen	-	adjective	38	-	-	-	-	-
 -	trans|suku|puolinen	-	adjective	38	-	-	-	-	-
 -	tuli|kiven|katkuinen	-	adjective	38	-	-	-	-	-
 -	työ|sopimus|suhteinen	-	adjective	38	-	-	-	-	-
@@ -14689,6 +14718,7 @@
 -	keski|vaiheille	-	adposition	-	-	-	-	-	-
 -	keski|vaiheilta	-	adposition	-	-	-	-	-	-
 -	lukuun|ottamatta	-	adposition	-	-	-	-	nstd	-
+-	läsnä|ollessa	-	adposition	-	-	-	-	-	-
 -	vasta|päätä	-	adposition	-	-	-	-	-	-
 -	ylä|puolella	-	adposition	-	-	-	-	-	-
 -	ylä|puolelle	-	adposition	-	-	-	-	-	-
@@ -14981,6 +15011,7 @@
 -	didaktisesti	-	adverb	-	-	-	-	-	-
 -	digitaalisesti	-	adverb	-	-	-	-	-	-
 -	diktatorisesti	-	adverb	-	-	-	-	-	-
+-	diplomaattisesti	-	adverb	-	-	-	-	-	-
 -	diskreetisti	-	adverb	-	-	-	-	-	-
 -	dogmaattisesti	-	adverb	-	-	-	-	-	-
 -	dominantisti	-	adverb	-	-	-	-	-	-
@@ -15591,6 +15622,7 @@
 -	innostuksissaan	-	adverb	-	-	-	-	+poss	-
 -	innostuneesti	-	adverb	-	-	-	-	-	-
 -	innottomasti	-	adverb	-	-	-	-	-	-
+-	institutionaalisesti	-	adverb	-	-	-	-	-	-
 -	intensiivisesti	-	adverb	-	-	-	-	-	-
 -	interaktiivisesti	-	adverb	-	-	-	-	-	-
 -	intertekstuaalisesti	-	adverb	-	-	-	-	-	-
@@ -15986,6 +16018,7 @@
 -	kielevästi	-	adverb	-	-	-	-	-	-
 -	kielteisesti	-	adverb	-	-	-	-	-	-
 -	kieltämättä	-	adverb	-	-	-	-	-	-
+-	kieltävästi	-	adverb	-	-	-	-	-	-
 -	kierosti	-	adverb	-	-	-	-	-	-
 -	kierroksittain	-	adverb	-	-	-	-	-	-
 -	kierryksiin	-	adverb	-	-	-	-	-	-
@@ -16111,6 +16144,7 @@
 -	kokeeksi	-	adverb	-	-	-	-	-	-
 -	kokeellisesti	-	adverb	-	-	-	-	-	-
 -	kokeneesti	-	adverb	-	-	-	-	-	-
+-	kokoavasti	-	adverb	-	-	-	-	-	-
 -	kokonaan	-	adverb	-	-	-	-	-	-
 -	kokoon	-	adverb	-	-	-	-	-	-
 -	koleasti	-	adverb	-	-	-	-	-	-
@@ -16144,6 +16178,7 @@
 -	koolle	-	adverb	-	-	-	-	-	-
 -	koomisesti	-	adverb	-	-	-	-	-	-
 -	koommin	-	adverb	-	-	-	-	-	-
+-	koordinoidusti	-	adverb	-	-	-	-	-	-
 -	koossa	-	adverb	-	-	-	-	-	-
 -	kopeasti	-	adverb	-	-	-	-	-	-
 -	koppavasti	-	adverb	-	-	-	-	-	-
@@ -16402,6 +16437,7 @@
 -	laadullisesti	-	adverb	-	-	-	-	-	-
 -	laajalti	-	adverb	-	-	-	-	-	-
 -	laajasti	-	adverb	-	-	-	-	-	-
+-	laajuisesti	-	adverb	-	-	-	-	-	-
 -	labiilisti	-	adverb	-	-	-	-	-	-
 -	lahjakkaasti	-	adverb	-	-	-	-	coll	-
 -	lahjomattomasti	-	adverb	-	-	-	-	-	-
@@ -17283,6 +17319,7 @@
 -	peijakkaasti	-	adverb	-	-	-	-	coll	-
 -	peitellysti	-	adverb	-	-	-	-	-	-
 -	peitetysti	-	adverb	-	-	-	-	-	-
+-	pelillisesti	-	adverb	-	-	-	-	-	-
 -	pelkurimaisesti	-	adverb	-	-	-	-	-	-
 -	pelkästään	-	adverb	-	-	-	-	-	-
 -	pelokkaasti	-	adverb	-	-	-	-	-	-
@@ -18072,6 +18109,7 @@
 -	sisälle	-	adverb	-	-	-	-	-	-
 -	sisällisesti	-	adverb	-	-	-	-	dated	-
 -	sisällä	-	adverb	-	-	-	-	-	-
+-	sisällöllisesti	-	adverb	-	-	-	-	-	-
 -	sisältä	-	adverb	-	-	-	-	-	-
 -	sisässä	-	adverb	-	-	-	-	-	-
 -	sisästä	-	adverb	-	-	-	-	-	-
@@ -18084,6 +18122,7 @@
 -	sitkaan	-	adverb	-	-	-	-	-	-
 -	sitkaasti	-	adverb	-	-	-	-	-	-
 -	sitkeästi	-	adverb	-	-	-	-	-	-
+-	sitoutuneesti	-	adverb	-	-	-	-	-	-
 -	sitovasti	-	adverb	-	-	-	-	-	-
 -	sittemmin	-	adverb	-	-	-	-	-	-
 -	sitten	-	adverb	-	-	-	-	-	-
@@ -18542,6 +18581,7 @@
 -	tihrussa	-	adverb	-	-	-	-	-	-
 -	tiistaisin	-	adverb	-	-	-	-	-	-
 -	tiiviisti	-	adverb	-	-	-	-	-	-
+-	tiivistetysti	-	adverb	-	-	-	-	-	-
 -	tilalla	-	adverb	-	-	-	-	-	-
 -	tilalle	-	adverb	-	-	-	-	-	-
 -	tilalta	-	adverb	-	-	-	-	-	-
@@ -18968,6 +19008,7 @@
 -	vakituisesti	-	adverb	-	-	-	-	-	-
 -	vakuuttavasti	-	adverb	-	-	-	-	-	-
 -	valheellisesti	-	adverb	-	-	-	-	-	-
+-	valikoivasti	-	adverb	-	-	-	-	-	-
 -	valinnaisesti	-	adverb	-	-	-	-	-	-
 -	valitettavasti	-	adverb	-	-	-	-	-	-
 -	valjusti	-	adverb	-	-	-	-	-	-
@@ -19012,6 +19053,7 @@
 -	varalta	-	adverb	-	-	-	-	-	-
 -	varauksellisesti	-	adverb	-	-	-	-	-	-
 -	varauksettomasti	-	adverb	-	-	-	-	-	-
+-	varautuneesti	-	adverb	-	-	-	-	-	-
 -	varhain	-	adverb	-	-	-	-	-	-
 -	varhaisintaan	-	adverb	-	-	-	-	-	-
 -	varhemmin	-	adverb	-	-	-	-	-	-
@@ -19158,6 +19200,7 @@
 -	vilkkaa	-	adverb	-	-	-	-	-	-
 -	vilkkaasti	-	adverb	-	-	-	-	-	-
 -	villisti	-	adverb	-	-	-	-	-	-
+-	vilpillisesti	-	adverb	-	-	-	-	-	-
 -	vilpittömästi	-	adverb	-	-	-	-	-	-
 -	vilpoisasti	-	adverb	-	-	-	-	-	-
 -	vilpoisesti	-	adverb	-	-	-	-	-	-
@@ -19758,10 +19801,12 @@
 -	jälki|jättöisesti	-	adverb	-	-	-	-	-	-
 -	jälki|käteen	-	adverb	-	-	-	-	-	-
 -	järki|peräisesti	-	adverb	-	-	-	-	-	-
+-	jäsen|valtioittain	-	adverb	-	-	-	-	-	-
 -	jäärä|päisesti	-	adverb	-	-	-	-	-	-
 -	jää|teitse	-	adverb	-	-	-	-	-	-
 -	kaha|reisin	-	adverb	-	-	-	-	dial	-
 -	kahden|keskisesti	-	adverb	-	-	-	-	-	-
+-	kahden|välisesti	-	adverb	-	-	-	-	-	-
 -	kahmalo|kaupalla	-	adverb	-	-	-	-	-	-
 -	kahta|puolin	-	adverb	-	-	-	-	-	-
 -	kaiken|kattavasti	-	adverb	-	-	-	-	-	-
@@ -19859,6 +19904,7 @@
 -	käymä|jalkaa	-	adverb	-	-	-	-	-	-
 -	käytännön|läheisesti	-	adverb	-	-	-	-	-	-
 -	käänteen|tekevästi	-	adverb	-	-	-	-	-	-
+-	laaja|mittaisesti	-	adverb	-	-	-	-	-	-
 -	laatuun|käyvästi	-	adverb	-	-	-	-	-	-
 -	lain|mukaisesti	-	adverb	-	-	-	-	-	-
 -	lain|vastaisesti	-	adverb	-	-	-	-	-	-
@@ -19952,6 +19998,7 @@
 -	mistä|päin	-	adverb	-	-	-	-	-	-
 -	miten|kuten	-	adverb	-	-	-	-	-	-
 -	molemmin|puolisesti	-	adverb	-	-	-	-	-	-
+-	monen|välisesti	-	adverb	-	-	-	-	-	-
 -	monin|kertaisesti	-	adverb	-	-	-	-	-	-
 -	moni|lukuisesti	-	adverb	-	-	-	-	-	-
 -	moni|mielisesti	-	adverb	-	-	-	-	-	-
@@ -20671,6 +20718,7 @@
 -	tila|päis|luontoisesti	-	adverb	-	-	-	-	-	-
 -	ulos|otto|teitse	-	adverb	-	-	-	-	-	-
 -	uus|rahvaan|omaisesti	-	adverb	-	-	-	-	-	-
+-	varain|hoito|vuonna	-	adverb	-	-	-	-	-	-
 -	ympäri|vuoro|kautisesti	-	adverb	-	-	-	-	-	-
 -	alias	-	conjunction	-	-	-	-	-	-
 -	eli	-	conjunction	-	-	-	-	-	-
@@ -20813,6 +20861,7 @@
 -	hokkuspokkus	-	interjection	-	-	-	-	-	-
 -	hoo	-	interjection	-	-	-	-	-	-
 -	hoosianna	-	interjection	-	-	-	-	-	-
+-	hop	-	interjection	-	-	-	-	-	-
 -	hop hop	-	interjection	-	-	-	-	-	-
 -	hopi hopi	-	interjection	-	-	-	-	-	-
 -	hox	-	interjection	-	-	-	-	-	-
@@ -21445,6 +21494,7 @@
 -	evp.	-	none	-	-	-	-	abbr	-
 -	ex nihilo	-	none	-	-	-	-	foreign	-
 -	ex tempore	-	none	-	-	-	-	foreign	-
+-	feat.	-	none	-	-	-	-	abbr	-
 -	harv.	-	none	-	-	-	-	abbr	-
 -	hepr.	-	none	-	-	-	-	abbr	-
 -	hist.	-	none	-	-	-	-	abbr	-
@@ -21456,6 +21506,7 @@
 -	jaa.	-	none	-	-	-	-	abbr	-
 -	jap.	-	none	-	-	-	-	abbr	-
 -	jne.	-	none	-	-	-	-	abbr	-
+-	joht.	-	none	-	-	-	-	abbr	-
 -	joint venture	-	none	-	-	-	-	foreign	-
 -	k.	-	none	-	-	-	-	abbr	-
 -	kd	-	none	-	-	-	-	abbr	-
@@ -21509,10 +21560,7 @@
 -	per capita	-	none	-	-	-	-	foreign	-
 -	per se	-	none	-	-	-	-	foreign	-
 -	pianissimo	-	none	-	-	-	-	foreign	-
--	poste restante	-	none	-	-	-	-	-	-
 -	pp.	-	none	-	-	-	-	abbr	-
--	prima vista	-	none	-	-	-	-	foreign	-
--	primus motor	-	none	-	-	-	-	foreign	-
 -	pro	-	none	-	-	-	-	foreign	-
 -	pro bono	-	none	-	-	-	-	foreign	-
 -	ps	-	none	-	-	-	-	abbr	-
@@ -21525,6 +21573,7 @@
 -	ruots.	-	none	-	-	-	-	abbr	-
 -	s.	-	none	-	-	-	-	abbr	-
 -	saks.	-	none	-	-	-	-	abbr	-
+-	san.	-	none	-	-	-	-	abbr	-
 -	sd	-	none	-	-	-	-	abbr	-
 -	second hand	-	none	-	-	-	-	foreign	-
 -	sin	-	none	-	-	-	-	abbr	-
@@ -21534,10 +21583,12 @@
 -	sola fide	-	none	-	-	-	-	foreign	-
 -	sola gratia	-	none	-	-	-	-	foreign	-
 -	sola scriptura	-	none	-	-	-	-	foreign	-
+-	sov.	-	none	-	-	-	-	abbr	-
 -	status quo	-	none	-	-	-	-	foreign	-
 -	su	-	none	-	-	-	-	abbr	-
 -	sui generis	-	none	-	-	-	-	foreign	-
 -	suom.	-	none	-	-	-	-	abbr	-
+-	säv.	-	none	-	-	-	-	abbr	-
 -	take away	-	none	-	-	-	-	foreign	-
 -	terv.	-	none	-	-	-	-	abbr	-
 -	ti	-	none	-	-	-	-	abbr	-
@@ -21545,6 +21596,7 @@
 -	to	-	none	-	-	-	-	abbr	-
 -	toim.	-	none	-	-	-	-	abbr	-
 -	torj.	-	none	-	-	-	-	abbr	-
+-	trad.	-	none	-	-	-	-	abbr	-
 -	ts.	-	none	-	-	-	-	abbr	-
 -	urbi et orbi	-	none	-	-	-	-	foreign	-
 -	uwu	-	none	-	-	-	-	-	-
@@ -21559,7 +21611,8 @@
 -	vol.	-	none	-	-	-	-	abbr	-
 -	vrt.	-	none	-	-	-	-	abbr	-
 -	vs.	-	none	-	-	-	-	abbr	-
--	xD	-	none	-	-	-	-	-	-
+-	vt.	-	none	-	-	-	-	abbr	-
+-	xD	-	none	-	-	-	-	abbr	-
 -	yks.	-	none	-	-	-	-	abbr	-
 -	ym.	-	none	-	-	-	-	abbr	-
 -	yms.	-	none	-	-	-	-	abbr	-
@@ -21611,6 +21664,9 @@
 -	face-to-face	-	none	-	-	-	-	foreign	-
 -	%	-	none	-	-	-	-	-	-
 -	$	-	noun	6B	-	back	-	unit	-
+-	3G	-	noun	18B	-	-	-	abbr	-
+-	4G	-	noun	18B	-	-	-	abbr	-
+-	5G	-	noun	18B	-	-	-	abbr	-
 -	7z	-	noun	10B	-	-	-	abbr	-
 -	A	-	noun	18B	-	back	a	symbol	-
 -	A1	-	noun	31B	-	-	-	abbr	-
@@ -21638,6 +21694,7 @@
 -	B8	-	noun	10B	-	-	-	abbr	-
 -	BKT	-	noun	18B	-	front|back	e	abbr	-
 -	BMP	-	noun	18B	-	-	-	abbr	-
+-	BSE	-	noun	18B	-	-	-	abbr	-
 -	C	-	noun	18B	-	front	e	symbol	-
 -	C1	-	noun	31B	-	-	-	abbr	-
 -	C2	-	noun	31B	-	-	-	abbr	-
@@ -21673,6 +21730,7 @@
 -	G	-	noun	18B	-	front	e	symbol	-
 -	GB	-	noun	18B	-	-	-	-	-
 -	GIF	-	noun	5B	-	-	-	abbr	-
+-	GMO	-	noun	18B	-	-	-	abbr	-
 -	GP	-	noun	18B	-	-	-	abbr	-
 -	Gt	-	noun	18B	-	-	back	unit	-
 -	H	-	noun	18B	-	back	o	symbol	-
@@ -21705,6 +21763,7 @@
 -	MPEG	-	noun	18B	-	-	-	abbr	-
 -	Mt	-	noun	18B	-	-	-	unit	-
 -	N	-	noun	10B	-	front	-	symbol	-
+-	N:o	-	noun	!	-	-	-	abbr	-
 -	NFT	-	noun	18B	-	-	-	-	-
 -	O	-	noun	18B	-	back	o	symbol	-
 -	P	-	noun	18B	-	front	e	symbol	-
@@ -25483,6 +25542,7 @@
 -	feature	-	noun	2	-	-	-	-	-
 -	federaatio	-	noun	3	-	back	o	-	-
 -	federalismi	-	noun	5	-	back	i	-	-
+-	federalisti	-	noun	5	-	-	-	-	-
 -	feedback	-	noun	5	-	-	-	-	-
 -	feeniks	-	noun	5	-	front	i	-	-
 -	feidi	-	noun	5	-	-	-	-	-
@@ -26491,6 +26551,7 @@
 -	hajautuma	-	noun	10	-	back	a	-	-
 -	hajautus	-	noun	39	-	back	u	-	-
 -	haje	-	noun	48	-	back	e	dated|rare	-
+-	hajoavuus	-	noun	40	-	-	-	-	-
 -	hajonta	-	noun	9	nt:nn	back	a	-	-
 -	hajottaja	-	noun	10	-	back	a	-	-
 -	hajottamo	-	noun	2	-	back	o	-	-
@@ -28837,6 +28898,7 @@
 -	jaloittelu	-	noun	2	-	back	u	-	-
 -	jalonnus	-	noun	39	-	back	u	-	-
 -	jalopeno	-	noun	1	-	back	o	-	-
+-	jalostaja	-	noun	10	-	-	-	-	-
 -	jalostamo	-	noun	2	-	back	o	-	-
 -	jaloste	-	noun	48	-	back	e	-	-
 -	jalostus	-	noun	39	-	back	u	-	-
@@ -29055,6 +29117,7 @@
 -	jousi	-	noun	26	-	back	e	-	-
 -	jousisto	-	noun	2	-	back	o	-	-
 -	jousitus	-	noun	39	-	back	u	-	-
+-	joustamattomuus	-	noun	40	-	-	-	-	-
 -	joustavuus	-	noun	40	-	back	u	-	-
 -	joustin	-	noun	33	-	back	i	-	-
 -	jousto	-	noun	1	-	back	o	-	-
@@ -31495,6 +31558,7 @@
 -	kokkaus	-	noun	39	-	back	u	coll	-
 -	kokkeli	-	noun	6	-	back	i	-	-
 -	kokki	-	noun	5	kk:k	back	i	-	-
+-	kokkidiostaatti	-	noun	5	tt:t	-	-	-	-
 -	kokko	-	noun	1	kk:k	back	o	-	-
 -	kokkolalainen	-	noun	38	-	-	-	-	-
 -	koko	-	noun	1	k:	back	o	-	-
@@ -31637,6 +31701,7 @@
 -	komitatiivi	-	noun	5	-	back	i	-	-
 -	komitea	-	noun	12	-	back	a	-	-
 -	komitentti	-	noun	5	tt:t	back	i	-	-
+-	komitologia	-	noun	12	-	-	-	-	-
 -	kommari	-	noun	6	-	back	i	coll	-
 -	kommellus	-	noun	39	-	back	u	-	-
 -	kommensaalisuus	-	noun	40	-	-	-	-	-
@@ -35083,6 +35148,7 @@
 -	majoitus	-	noun	39	-	back	u	-	-
 -	majolika	-	noun	13	-	back	a	-	-
 -	majoneesi	-	noun	5	-	back	i	-	-
+-	major	-	noun	6	-	-	-	foreign	-
 -	majoriteetti	-	noun	5	tt:t	back	i	-	-
 -	majuri	-	noun	6	-	back	i	-	-
 -	majurolainen	-	noun	38	-	-	-	-	-
@@ -35865,6 +35931,7 @@
 -	miliisi	-	noun	5	-	front	i	-	-
 -	militarisaatio	-	noun	3	-	-	-	-	-
 -	militarismi	-	noun	5	-	back	i	-	-
+-	militarisointi	-	noun	5	nt:nn	-	-	-	-
 -	militaristi	-	noun	5	-	back	i	-	-
 -	militääri	-	noun	5	-	front	i	-	-
 -	miljardi	-	noun	5	-	-	-	-	-
@@ -36276,6 +36343,7 @@
 -	mukaisuus	-	noun	40	-	back	u	-	-
 -	mukauma	-	noun	10	-	back	a	-	-
 -	mukautuma	-	noun	10	-	back	a	-	-
+-	mukautus	-	noun	39	-	-	-	-	-
 -	mukautuvaisuus	-	noun	40	-	back	u	-	-
 -	mukautuvuus	-	noun	40	-	back	u	-	-
 -	mukavuus	-	noun	40	-	back	u	-	-
@@ -38764,6 +38832,7 @@
 -	pateetikko	-	noun	1	kk:k	back	o	-	-
 -	pateettisuus	-	noun	40	-	back	u	-	-
 -	patentointi	-	noun	5	nt:nn	back	i	-	-
+-	patentoitavuus	-	noun	40	-	-	-	-	-
 -	patentti	-	noun	5	tt:t	back	i	-	-
 -	pateri	-	noun	6	-	-	-	-	-
 -	paternoster	-	noun	6	-	-	-	-	-
@@ -40125,7 +40194,7 @@
 -	primitiivisyys	-	noun	40	-	front	y	-	-
 -	primitivismi	-	noun	5	-	front	i	-	-
 -	primitivisti	-	noun	5	-	front	i	-	-
--	primus motor	-	noun	5	-	-	-	-	-
+-	primus motor	-	noun	6	-	-	-	-	-
 -	prinkkala	-	noun	12	-	back	a	coll	-
 -	prinsessa	-	noun	13	-	back	a	-	-
 -	prinsiippi	-	noun	5	pp:p	front	i	-	-
@@ -41242,6 +41311,7 @@
 -	rangi	-	noun	5	-	back	i	-	-
 -	ranitidiini	-	noun	5	-	-	-	-	-
 -	ranka	-	noun	9	nk:ng	back	a	-	-
+-	rankaisemattomuus	-	noun	40	-	-	-	-	-
 -	rankaisija	-	noun	12	-	back	a	-	-
 -	rankaisu	-	noun	2	-	back	u	-	-
 -	ranki	-	noun	5	nk:ng	back	i	-	-
@@ -43067,6 +43137,7 @@
 -	scientologia	-	noun	12	-	-	-	nstd	-
 -	scifi	-	noun	5	-	front	i	-	-
 -	scirocco	-	noun	1	-	-	-	-	-
+-	scrapie	-	noun	21	-	-	-	-	-
 -	screwdriver	-	noun	6	-	-	-	-	-
 -	scriptorium	-	noun	5	-	-	-	foreign	-
 -	seaborgium	-	noun	5	-	-	-	-	-
@@ -43847,6 +43918,7 @@
 -	sitosteroli	-	noun	6	-	-	-	-	-
 -	sitoumus	-	noun	39	-	back	u	-	-
 -	sitoutumattomuus	-	noun	40	-	back	u	-	-
+-	sitoutuneisuus	-	noun	40	-	-	-	-	-
 -	sitoutus	-	noun	39	-	-	-	-	-
 -	sitovuus	-	noun	40	-	back	u	-	-
 -	sitra	-	noun	9	-	back	a	-	-
@@ -43971,6 +44043,7 @@
 -	skraga	-	noun	9	-	-	-	slang	-
 -	skraka	-	noun	9	-	-	-	slang	-
 -	skrapa	-	noun	9	-	-	-	coll	-
+-	skrapi	-	noun	5	-	-	-	-	-
 -	skribentti	-	noun	5	tt:t	front	i	-	-
 -	skriini	-	noun	5	-	-	-	coll	-
 -	skripta	-	noun	9	-	back	a	coll	-
@@ -44409,6 +44482,7 @@
 -	spondylodeesi	-	noun	5	-	-	-	-	-
 -	spondylodiskiitti	-	noun	5	tt:t	-	-	-	-
 -	spondylolisteesi	-	noun	5	-	-	-	-	-
+-	spongiforminen	-	noun	38	-	-	-	-	-
 -	sponsori	-	noun	6	-	back	i	-	-
 -	sponsorointi	-	noun	5	nt:nn	back	i	-	-
 -	sponssaus	-	noun	39	-	back	u	coll	-
@@ -45352,6 +45426,7 @@
 -	sätkä	-	noun	10	-	front	ä	coll	-
 -	sätkätys	-	noun	39	-	front	y	-	-
 -	sävel	-	noun	32	-	front	e	-	-
+-	sävelistö	-	noun	1	-	-	-	-	-
 -	sävellys	-	noun	39	-	front	y	-	-
 -	sävelmistö	-	noun	1	-	front	ö	-	-
 -	sävelmä	-	noun	10	-	front	ä	-	-
@@ -46373,6 +46448,7 @@
 -	timantti	-	noun	5	tt:t	back	i	-	-
 -	timbaali	-	noun	6	-	back	i	-	-
 -	timjami	-	noun	6	-	back	i	-	-
+-	timorilainen	-	noun	38	-	-	-	-	-
 -	timotei	-	noun	18	-	back	i	-	-
 -	timperi	-	noun	6	-	front	i	dial	-
 -	timpermanni	-	noun	5	-	back	i	dial	-
@@ -47189,6 +47265,7 @@
 -	turhamaisuus	-	noun	40	-	back	u	-	-
 -	turhauma	-	noun	10	-	back	a	-	-
 -	turhautuma	-	noun	10	-	back	a	-	-
+-	turhautuneisuus	-	noun	40	-	-	-	-	-
 -	turhennus	-	noun	39	-	back	u	rare	-
 -	turhuus	-	noun	40	-	back	u	-	-
 -	turilas	-	noun	41	-	back	a	-	-
@@ -47442,6 +47519,7 @@
 -	tyytyväisyys	-	noun	40	-	front	y	-	-
 -	työ	-	noun	19	-	front	ö	-	-
 -	työkkäri	-	noun	6	-	front	i	coll	-
+-	työllistettävyys	-	noun	40	-	-	-	-	-
 -	työllistys	-	noun	39	-	front	y	-	-
 -	työllistäjä	-	noun	10	-	-	-	-	-
 -	työllisyys	-	noun	40	-	front	y	-	-
@@ -47520,6 +47598,7 @@
 -	täydenne	-	noun	48	nt:nn	front	e	-	-
 -	täydennys	-	noun	39	-	front	y	-	-
 -	täydentäjä	-	noun	10	-	front	ä	-	-
+-	täydentävyys	-	noun	40	-	-	-	-	-
 -	täysi	-	noun	27	-	front	i	-	-
 -	täysinäisyys	-	noun	40	-	front	y	-	-
 -	täyte	-	noun	48	tt:t	front	e	-	-
@@ -47738,6 +47817,7 @@
 -	unifikaatio	-	noun	3	-	-	-	-	-
 -	uniformu	-	noun	1	-	-	-	arch	-
 -	unikko	-	noun	4	kk:k	back	o	-	-
+-	unilateralismi	-	noun	5	-	-	-	-	-
 -	unioni	-	noun	6	-	back	i	-	-
 -	unisuus	-	noun	40	-	back	u	-	-
 -	unitarismi	-	noun	5	-	-	-	-	-
@@ -48117,6 +48197,7 @@
 -	valikko	-	noun	4	kk:k	back	o	-	-
 -	valikoima	-	noun	10	-	back	a	-	-
 -	valikointi	-	noun	5	nt:nn	back	i	-	-
+-	valikoivuus	-	noun	40	-	-	-	-	-
 -	valimo	-	noun	2	-	back	o	-	-
 -	valin	-	noun	33	-	back	i	-	-
 -	valinnaisuus	-	noun	40	-	back	u	-	-
@@ -48677,6 +48758,7 @@
 -	verso	-	noun	1	-	back	o	-	-
 -	versonta	-	noun	9	nt:nn	back	a	-	-
 -	verstas	-	noun	41	-	back	a	-	-
+-	vertailtavuus	-	noun	40	-	-	-	-	-
 -	vertailu	-	noun	2	-	back	u	-	-
 -	vertaisuus	-	noun	40	-	back	u	-	-
 -	vertaus	-	noun	39	-	back	u	-	-
@@ -49274,6 +49356,7 @@
 -	voyeuristi	-	noun	5	-	back	i	-	-
 -	vpj	-	noun	18B	-	-	-	abbr	-
 -	vrappi	-	noun	5	pp:p	-	-	-	-
+-	vrk	-	noun	!	-	-	-	abbr|unit	-
 -	vräppi	-	noun	5	pp:p	-	-	-	-
 -	vulgarismi	-	noun	5	-	back	i	-	-
 -	vulgarisointi	-	noun	5	nt:nn	back	i	-	-
@@ -49583,6 +49666,7 @@
 -	yleisyys	-	noun	40	-	front	y	-	-
 -	yleisö	-	noun	2	-	front	ö	-	-
 -	ylellisyys	-	noun	40	-	front	y	-	-
+-	yleläinen	-	noun	38	-	-	-	-	-
 -	ylemmyys	-	noun	40	-	front	y	-	-
 -	ylennys	-	noun	39	-	front	y	-	-
 -	ylettömyys	-	noun	40	-	front	y	-	-
@@ -54160,7 +54244,7 @@
 -	eines|pitsa	-	noun	9	-	-	-	-	-
 -	eines|pizza	-	noun	9	-	-	-	-	-
 -	ei|oo	-	noun	18	-	-	-	-	-
--	eka|luokka	-	noun	10	kk:k	-	-	-	-
+-	eka|luokka	-	noun	10	kk:k	-	-	coll	-
 -	eka|luokkalainen	-	noun	38	-	-	-	coll	-
 -	eko|betoni	-	noun	6	-	-	-	-	-
 -	eko|betonointi	-	noun	5	nt:nn	-	-	-	-
@@ -55962,6 +56046,7 @@
 -	hallitsija|suku	-	noun	1	k:v	-	-	-	-
 -	hallitsija|valta	-	noun	9	lt:ll	-	-	-	-
 -	hallituksen|vaihdos	-	noun	39	-	-	-	-	-
+-	hallitusten|välisyys	-	noun	40	-	-	-	-	-
 -	hallitus|aika	-	noun	9	ik:j	-	-	-	-
 -	hallitus|järjestelmä	-	noun	10	-	-	-	-	-
 -	hallitus|kaupunki	-	noun	5	nk:ng	-	-	-	-
@@ -61267,8 +61352,8 @@
 -	kakkos|koppari	-	noun	6	-	-	-	-	-
 -	kakkos|koti	-	noun	5	t:d	-	-	-	-
 -	kakkos|laatu	-	noun	1	t:d	-	-	-	-
--	kakkos|luokka	-	noun	10	kk:k	-	-	-	-
--	kakkos|luokkalainen	-	noun	38	-	-	-	-	-
+-	kakkos|luokka	-	noun	10	kk:k	-	-	coll	-
+-	kakkos|luokkalainen	-	noun	38	-	-	-	coll	-
 -	kakkos|mies	-	noun	42	-	-	-	-	-
 -	kakkos|nelonen	-	noun	38	-	-	-	coll	-
 -	kakkos|olut	-	noun	43	-	-	-	-	-
@@ -62479,6 +62564,8 @@
 -	kasetti|nauha	-	noun	9	-	-	-	-	-
 -	kasetti|nauhuri	-	noun	6	-	-	-	-	-
 -	kasino|talous	-	noun	40	-	-	-	-	-
+-	kasi|luokka	-	noun	10	kk:k	-	-	coll	-
+-	kasi|luokkalainen	-	noun	38	-	-	-	coll	-
 -	kaskadi|muuttaja	-	noun	10	-	-	-	-	-
 -	kaskadi|säätö	-	noun	1	t:d	-	-	-	-
 -	kasken|kaataja	-	noun	10	-	-	-	-	-
@@ -65722,6 +65809,8 @@
 -	kolmois|voltti	-	noun	5	tt:t	-	-	-	-
 -	kolmos|kanava	-	noun	10	-	-	-	-	-
 -	kolmos|koppari	-	noun	6	-	-	-	-	-
+-	kolmos|luokka	-	noun	10	kk:k	-	-	coll	-
+-	kolmos|luokkalainen	-	noun	38	-	-	-	coll	-
 -	kolmos|olut	-	noun	43	-	-	-	-	-
 -	kolmos|pesä	-	noun	10	-	-	-	-	-
 -	kolmos|polttaja	-	noun	10	-	-	-	-	-
@@ -67745,7 +67834,8 @@
 -	kutoma|kone	-	noun	48	-	-	-	-	-
 -	kutoma|teollisuus	-	noun	40	-	-	-	-	-
 -	kutoma|tuote	-	noun	48	tt:t	-	-	-	-
--	kutos|luokka	-	noun	10	kk:k	-	-	-	-
+-	kutos|luokka	-	noun	10	kk:k	-	-	coll	-
+-	kutos|luokkalainen	-	noun	38	-	-	-	coll	-
 -	kutsuma|nimi	-	noun	7	-	-	-	-	-
 -	kutsumis|menettely	-	noun	2	-	-	-	-	-
 -	kutsumus|ammatti	-	noun	5	tt:t	-	-	-	-
@@ -67967,7 +68057,8 @@
 -	kuutio|sisällys	-	noun	39	-	-	-	-	-
 -	kuutio|tilavuus	-	noun	40	-	-	-	-	-
 -	kuutio|tuuma	-	noun	10	-	-	-	-	-
--	kuutos|luokka	-	noun	10	kk:k	-	-	-	-
+-	kuutos|luokka	-	noun	10	kk:k	-	-	coll	-
+-	kuutos|luokkalainen	-	noun	38	-	-	-	coll	-
 -	kuutos|maa	-	noun	18	-	-	-	-	-
 -	kuu|alus	-	noun	39	-	-	-	-	-
 -	kuu|auto	-	noun	1	-	-	-	-	-
@@ -70419,6 +70510,7 @@
 -	lennin|räpylä	-	noun	12	-	-	-	-	-
 -	lennin|siipi	-	noun	7	p:v	-	-	-	-
 -	lennokki|liima	-	noun	9	-	-	-	-	-
+-	lennolle|pääsy	-	noun	1	-	-	-	-	-
 -	lennon|johtaja	-	noun	10	-	-	-	-	-
 -	lennon|johto	-	noun	1	t:d	-	-	-	-
 -	lennon|opettaja	-	noun	10	-	-	-	-	-
@@ -72628,6 +72720,7 @@
 -	länsi|rinne	-	noun	48	nt:nn	-	-	-	-
 -	länsi|rintama	-	noun	10	-	-	-	-	-
 -	länsi|ryhmä	-	noun	10	-	-	-	-	-
+-	länsi|saharalainen	-	noun	38	-	-	-	-	-
 -	länsi|saksalainen	-	noun	38	-	-	-	-	-
 -	länsi|suomalainen	-	noun	38	-	-	-	-	-
 -	länsi|suomalaisuus	-	noun	40	-	-	-	-	-
@@ -73816,6 +73909,7 @@
 -	markkina|tunnelma	-	noun	10	-	-	-	-	-
 -	markkina|tutkimus	-	noun	39	-	-	-	-	-
 -	markkina|ykkönen	-	noun	38	-	-	-	-	-
+-	markkinoille|pääsy	-	noun	1	-	-	-	-	-
 -	markkinointi|johtaja	-	noun	10	-	-	-	-	-
 -	markkinointi|koulu	-	noun	1	-	-	-	-	-
 -	markkinointi|mies	-	noun	42	-	-	-	-	-
@@ -75194,6 +75288,7 @@
 -	moni|persoonaisuus	-	noun	40	-	-	-	-	-
 -	moni|puolisuus	-	noun	40	-	-	-	-	-
 -	moni|sanaisuus	-	noun	40	-	-	-	-	-
+-	moni|selitteisyys	-	noun	40	-	-	-	-	-
 -	moni|soluinen	-	noun	38	-	-	-	-	-
 -	moni|synnyttäjä	-	noun	10	-	-	-	-	-
 -	moni|säikeisyys	-	noun	40	-	-	-	-	-
@@ -76617,6 +76712,8 @@
 -	neljäs|luokkalainen	-	noun	38	-	-	-	-	-
 -	neljäs|osa	-	noun	10	-	-	-	-	-
 -	nelois|hyppy	-	noun	1	pp:p	-	-	-	-
+-	nelos|luokka	-	noun	10	kk:k	-	-	coll	-
+-	nelos|luokkalainen	-	noun	38	-	-	-	coll	-
 -	nelos|olut	-	noun	43	-	-	-	-	-
 -	nelos|tie	-	noun	19	-	-	-	-	-
 -	nelos|vaihde	-	noun	48	t:d	-	-	-	-
@@ -80759,6 +80856,7 @@
 -	petiitti|kirjain	-	noun	33	-	-	-	-	-
 -	peti|kaveri	-	noun	6	-	-	-	coll	-
 -	peti|puuha	-	noun	10	-	-	-	jocul	-
+-	petosten|torjunta	-	noun	9	nt:nn	-	-	-	-
 -	peto|aita	-	noun	9	t:d	-	-	-	-
 -	peto|eläin	-	noun	33	-	-	-	-	-
 -	peto|hyönteinen	-	noun	38	-	-	-	-	-
@@ -87889,6 +87987,8 @@
 -	seireenin|laulu	-	noun	1	-	-	-	-	-
 -	seisaus|paikka	-	noun	9	kk:k	-	-	-	-
 -	seise|tila	-	noun	9	-	-	-	-	-
+-	seiska|luokka	-	noun	10	kk:k	-	-	coll	-
+-	seiska|luokkalainen	-	noun	38	-	-	-	coll	-
 -	seisoma|katsomo	-	noun	2	-	-	-	-	-
 -	seisoma|paikka	-	noun	9	kk:k	-	-	-	-
 -	seisoma|pöytä	-	noun	10	t:d	-	-	-	-
@@ -96876,6 +96976,7 @@
 -	uutis|kuvaaja	-	noun	10	-	-	-	-	-
 -	uutis|kynnys	-	noun	39	-	-	-	-	-
 -	uutis|leipä	-	noun	10	p:v	-	-	-	-
+-	uutis|luokkalainen	-	noun	38	-	-	-	-	-
 -	uutis|lähde	-	noun	48	t:d	-	-	-	-
 -	uutis|lähetys	-	noun	39	-	-	-	-	-
 -	uutis|motti	-	noun	5	tt:t	-	-	-	-
@@ -97197,6 +97298,7 @@
 -	vaikeus|aste	-	noun	48	-	-	-	-	-
 -	vaikuttaja|yksilö	-	noun	2	-	-	-	-	-
 -	vaikuttavuus|ketju	-	noun	1	-	-	-	-	-
+-	vaikutusten|arviointi	-	noun	5	nt:nn	-	-	-	-
 -	vaikutus|aika	-	noun	9	ik:j	-	-	-	-
 -	vaikutus|ala	-	noun	9	-	-	-	-	-
 -	vaikutus|alue	-	noun	48	-	-	-	-	-
@@ -99888,6 +99990,8 @@
 -	viite|skenaario	-	noun	3	-	-	-	-	-
 -	viite|tausta	-	noun	9	-	-	-	-	-
 -	viite|väli	-	noun	5	-	-	-	-	-
+-	viitos|luokka	-	noun	10	kk:k	-	-	coll	-
+-	viitos|luokkalainen	-	noun	38	-	-	-	coll	-
 -	viittoma|kieli	-	noun	26	-	-	-	-	-
 -	viiva|koodaus	-	noun	39	-	-	-	-	-
 -	viiva|koodi	-	noun	5	-	-	-	-	-
@@ -100320,6 +100424,8 @@
 -	vitka|laukaisin	-	noun	33	-	-	-	-	-
 -	vitka|laukaisu	-	noun	2	-	-	-	-	-
 -	vitka|lipas	-	noun	41	pp:p	-	-	-	-
+-	vitos|luokka	-	noun	10	kk:k	-	-	coll	-
+-	vitos|luokkalainen	-	noun	38	-	-	-	coll	-
 -	vitsas|lenkki	-	noun	5	kk:k	-	-	-	-
 -	vitsin|kertoja	-	noun	10	-	-	-	-	-
 -	vitsi|kirja	-	noun	9	-	-	-	-	-
@@ -101973,6 +102079,8 @@
 -	yrtti|tarha	-	noun	9	-	-	-	poet	-
 -	yrtti|tee	-	noun	18	-	-	-	-	-
 -	yrtti|uute	-	noun	48	tt:t	-	-	-	-
+-	ysi|luokka	-	noun	10	kk:k	-	-	coll	-
+-	ysi|luokkalainen	-	noun	38	-	-	-	coll	-
 -	yskän|kohtaus	-	noun	39	-	-	-	-	-
 -	yskän|lääke	-	noun	48	kk:k	-	-	-	-
 -	yskän|puuska	-	noun	10	-	-	-	-	-
@@ -106610,6 +106718,7 @@
 -	riistan|hoito|maksu	-	noun	1	-	-	-	-	-
 -	riistan|hoito|yhdistys	-	noun	39	-	-	-	-	-
 -	riista|maali|ammunta	-	noun	9	nt:nn	-	-	-	-
+-	riitojen|ratkaisu|menettely	-	noun	2	-	-	-	-	-
 -	rikastus|työn|tekijä	-	noun	12	-	-	-	-	-
 -	rikka|kasvi|hävite	-	noun	48	tt:t	-	-	-	-
 -	rikkuri|työ|voima	-	noun	10	-	-	-	-	-
@@ -110533,6 +110642,33 @@
 -	yhdeksisen|sataa|tuhatta	-	numeral	!	-	-	-	-	-
 -	yhdeksän|toista|sataa	-	numeral	!	-	-	-	dated	-
 -	sata%kunta	-	numeral	10	nt:nn	-	-	-	-
+-	10:s	-	ordinal	45	-	front	-	-	-
+-	11:s	-	ordinal	45	-	front	-	-	-
+-	12:s	-	ordinal	45	-	back	-	-	-
+-	13:s	-	ordinal	45	-	back	-	-	-
+-	14:s	-	ordinal	45	-	front	-	-	-
+-	15:s	-	ordinal	45	-	front	-	-	-
+-	16:s	-	ordinal	45	-	back	-	-	-
+-	17:s	-	ordinal	45	-	front	-	-	-
+-	18:s	-	ordinal	45	-	back	-	-	-
+-	19:s	-	ordinal	45	-	front	-	-	-
+-	1:s	-	ordinal	45	-	front	-	-	-
+-	20:s	-	ordinal	45	-	front	-	-	-
+-	2:s	-	ordinal	45	-	back	-	-	-
+-	30:s	-	ordinal	45	-	front	-	-	-
+-	3:s	-	ordinal	45	-	back	-	-	-
+-	40:s	-	ordinal	45	-	front	-	-	-
+-	4:s	-	ordinal	45	-	front	-	-	-
+-	50:s	-	ordinal	45	-	front	-	-	-
+-	5:s	-	ordinal	45	-	front	-	-	-
+-	60:s	-	ordinal	45	-	front	-	-	-
+-	6:s	-	ordinal	45	-	back	-	-	-
+-	70:s	-	ordinal	45	-	front	-	-	-
+-	7:s	-	ordinal	45	-	front	-	-	-
+-	80:s	-	ordinal	45	-	front	-	-	-
+-	8:s	-	ordinal	45	-	back	-	-	-
+-	90:s	-	ordinal	45	-	front	-	-	-
+-	9:s	-	ordinal	45	-	front	-	-	-
 -	C	-	ordinal	XX	-	-	-	-	-
 -	I	-	ordinal	XX	-	-	-	-	-
 -	II	-	ordinal	XX	-	-	-	-	-
@@ -121048,6 +121184,7 @@
 -	yhdistyä	-	verb	52	-	front	-	-	-
 -	yhdistää	-	verb	53	-	front	-	-	-
 -	yhdyttää	-	verb	53	tt:t	front	-	-	-
+-	yhteisöllistää	-	verb	53	-	-	-	-	-
 -	yhtenäistyttää	-	verb	53	tt:t	front	-	-	-
 -	yhtenäistyä	-	verb	52	-	front	-	-	-
 -	yhtenäistää	-	verb	53	-	front	-	-	-
@@ -121360,6 +121497,7 @@
 -	kyseen|alaistaa	-	verb	53	-	-	-	-	-
 -	kyseen|alaistua	-	verb	52	-	-	-	-	-
 -	käsi|kirjoittaa	-	verb	53	tt:t	-	-	-	-
+-	käyttöön|ottaa	-	verb	53	tt:t	-	-	nstd	-
 -	laho|suojata	-	verb	73	-	-	-	-	-
 -	laimin|lyödä	-	verb	64	-	-	-	-	-
 -	laine|lautailla	-	verb	67	-	-	-	-	-
@@ -121581,6 +121719,7 @@
 -	yhteen|sovittaa	-	verb	53	tt:t	-	-	-	-
 -	yhteis|kunnallistaa	-	verb	53	-	-	-	-	-
 -	yhteis|kunnallistua	-	verb	52	-	-	-	-	-
+-	yhteis|rahoittaa	-	verb	53	tt:t	-	-	-	-
 -	yhteis|verottaa	-	verb	53	tt:t	-	-	-	-
 -	yksin|kertaistaa	-	verb	53	-	-	-	-	-
 -	yksin|kertaistua	-	verb	52	-	-	-	-	-

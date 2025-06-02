@@ -331,6 +331,7 @@
 -	Bolshunov	-	proper	5	-	-	-	-	-
 -	Bolsonaro	-	proper	1	-	-	-	-	-
 -	Bolt	-	proper	5	-	-	-	-	-
+-	Bolton	-	proper	?6	-	-	-	-	-
 -	Boltzmann	-	proper	5	-	-	-	-	-
 -	Bolívar	-	proper	5	-	-	-	-	-
 -	Bolšunov	-	proper	5	-	-	-	-	-
@@ -692,6 +693,7 @@
 -	Evans	-	proper	5	-	-	-	-	-
 -	Evensen	-	proper	5	-	-	-	-	-
 -	Everdingen	-	proper	6	-	-	-	-	-
+-	Everton	-	proper	?6	-	-	-	-	-
 -	Fabre	-	proper	8	-	-	-	-	-
 -	Fabricius	-	proper	39	-	-	-	-	-
 -	Fabritius	-	proper	39	-	-	-	-	-
@@ -1255,6 +1257,7 @@
 -	Hytönen	-	proper	38	-	-	-	-	-
 -	Hyvärinen	-	proper	38	-	-	-	-	-
 -	Hyvönen	-	proper	38	-	-	-	-	-
+-	Hyyryläinen	-	proper	38	-	-	-	-	-
 -	Hyyrynen	-	proper	38	-	-	-	-	-
 -	Hyytiäinen	-	proper	38	-	-	-	-	-
 -	Hägg	-	proper	5	-	-	-	-	-
@@ -1495,6 +1498,7 @@
 -	Kankainen	-	proper	38	-	-	-	-	-
 -	Kankkonen	-	proper	38	-	-	-	-	-
 -	Kankkunen	-	proper	38	-	-	-	-	-
+-	Kanninen	-	proper	38	-	-	-	-	-
 -	Kannisto	-	proper	1	-	-	-	-	-
 -	Kant	-	proper	5	-	-	-	-	-
 -	Kantanen	-	proper	38	-	-	-	-	-
@@ -2320,6 +2324,7 @@
 -	Myllylä	-	proper	12	-	-	-	-	-
 -	Myllynen	-	proper	38	-	-	-	-	-
 -	Mylläri	-	proper	?6	-	-	-	-	-
+-	Mynttinen	-	proper	38	-	-	-	-	-
 -	Myrberg	-	proper	5	-	-	-	-	-
 -	Myyryläinen	-	proper	38	-	-	-	-	-
 -	Márquez	-	proper	5	-	-	-	-	-
@@ -2529,6 +2534,7 @@
 -	Ortega	-	proper	9	-	-	-	-	-
 -	Otter	-	proper	6	-	-	-	-	-
 -	Otto	-	proper	1	tt:t	-	-	-	-
+-	Outinen	-	proper	38	-	-	-	-	-
 -	Ovaska	-	proper	13	-	-	-	-	-
 -	Ovaskainen	-	proper	38	-	-	-	-	-
 -	Ovetshkin	-	proper	5	-	-	-	-	-
@@ -2572,6 +2578,7 @@
 -	Palonen	-	proper	38	-	-	-	-	-
 -	Parikka	-	proper	14	kk:k	-	-	-	-
 -	Parisi	-	proper	5	-	-	-	-	-
+-	Parkatti	-	proper	5	tt:t	-	-	-	-
 -	Parker	-	proper	6	-	-	-	-	-
 -	Parkinson	-	proper	?6	-	-	-	-	-
 -	Parkkinen	-	proper	38	-	-	-	-	-
@@ -2615,6 +2622,7 @@
 -	Pence	-	proper	8	-	-	-	-	-
 -	Pennanen	-	proper	38	-	-	-	-	-
 -	Pentikäinen	-	proper	38	-	-	-	-	-
+-	Pentsinen	-	proper	38	-	-	-	-	-
 -	Penttala	-	proper	12	-	-	-	-	-
 -	Pentti	-	proper	5	tt:t	-	-	-	-
 -	Penttilä	-	proper	12	-	-	-	-	-
@@ -2688,7 +2696,8 @@
 -	Pohjolainen	-	proper	38	-	-	-	-	-
 -	Pohjonen	-	proper	38	-	-	-	-	-
 -	Pohtamo	-	proper	2	-	-	-	-	-
--	Poikola	-	proper	?12|10	-	-	-	-	-
+-	Poikola	-	proper	12	-	-	-	-	-
+-	Pokkinen	-	proper	38	-	-	-	-	-
 -	Politkovskaja	-	proper	10	-	-	-	-	-
 -	Pollari	-	proper	6	-	-	-	-	-
 -	Polo	-	proper	1	-	-	-	-	-
@@ -3402,6 +3411,7 @@
 -	Topić	-	proper	5	-	-	-	-	-
 -	Toppila	-	proper	13	-	-	-	-	-
 -	Torikka	-	proper	14	kk:k	-	-	-	-
+-	Toropainen	-	proper	38	-	-	-	-	-
 -	Torvinen	-	proper	38	-	-	-	-	-
 -	Tossavainen	-	proper	38	-	-	-	-	-
 -	Townsend	-	proper	5	-	-	-	-	-
@@ -3509,6 +3519,7 @@
 -	Vatanen	-	proper	38	-	-	-	-	-
 -	Vauhkonen	-	proper	38	-	-	-	-	-
 -	Vega	-	proper	9	-	-	-	-	-
+-	Vehko	-	proper	1	-	-	-	-	-
 -	Vehkonen	-	proper	38	-	-	-	-	-
 -	Vehmanen	-	proper	38	-	-	-	-	-
 -	Vehviläinen	-	proper	38	-	-	-	-	-
@@ -3571,6 +3582,7 @@
 -	Vogel	-	proper	?6	-	-	-	-	-
 -	Voigt	-	proper	5	-	-	-	-	-
 -	Volkov	-	proper	5	-	-	-	-	-
+-	Volotinen	-	proper	38	-	-	-	-	-
 -	Voltaire	-	proper	8	-	-	-	-	-
 -	Vornanen	-	proper	38	-	-	-	-	-
 -	Vorobjov	-	proper	5	-	-	-	-	-
@@ -3744,8 +3756,10 @@
 -	Hämeen-Anttila	-	proper	13	-	-	-	-	-
 -	Koiso-Kanttila	-	proper	13	-	-	-	-	-
 -	Kurki-Suonio	-	proper	3	-	-	-	-	-
--	Yli-Viikari	-	proper	?6	-	-	-	-	-
+-	Yli-Viikari	-	proper	6	-	-	-	-	-
 -	al-Assad	-	proper	5	-	-	-	-	-
+-	al-Bashir	-	proper	6	-	-	-	-	-
+-	al-Taee	-	proper	18	-	-	-	-	-
 -	Aarni|vala	-	proper	9	-	-	-	-	-
 -	Aho|niemi	-	proper	25	-	-	-	-	-
 -	Aho|pelto	-	proper	1	-	-	-	-	-
@@ -3773,6 +3787,7 @@
 -	Haapa|salmi	-	proper	7	-	-	-	-	-
 -	Haapa|salo	-	proper	1	-	-	-	-	-
 -	Haap|oja	-	proper	10	-	-	-	-	-
+-	Hakan|pää	-	proper	18	-	-	-	-	-
 -	Haka|salo	-	proper	1	-	-	-	-	-
 -	Halmet|oja	-	proper	10	-	-	-	-	-
 -	Hatan|pää	-	proper	18	-	-	-	-	-
@@ -3893,6 +3908,7 @@
 -	Niini|luoto	-	proper	1	t:d	-	-	-	-
 -	Niini|mäki	-	proper	7	k:	-	-	-	-
 -	Niitty|mäki	-	proper	7	k:	-	-	-	-
+-	Ohta|maa	-	proper	18	-	-	-	-	-
 -	Ojan|perä	-	proper	10	-	-	-	-	-
 -	Ojan|sivu	-	proper	1	-	-	-	-	-
 -	Oja|niemi	-	proper	25	-	-	-	-	-
