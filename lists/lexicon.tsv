@@ -35927,7 +35927,6 @@
 -	mikseri	-	noun	6	-	front	i	-	-
 -	mikstuura	-	noun	13	-	back	a	-	-
 -	miktio	-	noun	3	-	-	-	-	-
--	miktiokystografia	-	noun	12	-	-	-	-	-
 -	miliisi	-	noun	5	-	front	i	-	-
 -	militarisaatio	-	noun	3	-	-	-	-	-
 -	militarismi	-	noun	5	-	back	i	-	-
@@ -54564,6 +54563,7 @@
 -	emä|tila	-	noun	9	-	-	-	-	-
 -	emä|valhe	-	noun	48	-	-	-	coll	-
 -	emä|yhtiö	-	noun	3	-	-	-	-	-
+-	endorfiini|humala	-	noun	10|11	-	-	-	-	-
 -	endotoksiini|sokki	-	noun	5	kk:k	-	-	-	-
 -	endo|merkki	-	noun	5	kk:k	-	-	-	-
 -	enduro|ajo	-	noun	1	-	-	-	-	-
@@ -59299,7 +59299,7 @@
 -	isotooppi|kartoitus	-	noun	39	-	-	-	-	-
 -	isotooppi|kello	-	noun	1	-	-	-	-	-
 -	isotooppi|kuvaus	-	noun	39	-	-	-	-	-
--	isotooppi|miktiokystografia	-	noun	12	-	-	-	-	-
+-	isotooppi|ventrikulografia	-	noun	12	-	-	-	-	-
 -	iso|aivo	-	noun	1	-	-	-	rare	-
 -	iso|apollo	-	noun	2	-	-	-	-	-
 -	iso|baari	-	noun	5	-	-	-	-	-
@@ -61275,6 +61275,7 @@
 -	kaikki|valtius	-	noun	40	-	-	-	-	-
 -	kaikki|voipuus	-	noun	40	-	-	-	-	-
 -	kaiku|kammio	-	noun	3	-	-	-	-	-
+-	kaiku|kardiografia	-	noun	12	-	-	-	-	-
 -	kaiku|kartoitus	-	noun	39	-	-	-	-	-
 -	kaiku|koppa	-	noun	10	pp:p	-	-	-	-
 -	kaiku|kuva	-	noun	10	-	-	-	-	-
@@ -73291,6 +73292,7 @@
 -	madon|reikä	-	noun	10	k:	-	-	-	-
 -	magneetti|kenttä	-	noun	10	tt:t	-	-	-	-
 -	magneetti|kiisu	-	noun	1	-	-	-	-	-
+-	magneetti|kolangiografia	-	noun	12	-	-	-	-	-
 -	magneetti|kompassi	-	noun	5	-	-	-	-	-
 -	magneetti|kortti	-	noun	5	tt:t	-	-	-	-
 -	magneetti|kuvaus	-	noun	39	-	-	-	-	-
@@ -75042,6 +75044,7 @@
 -	mikro|uuni	-	noun	5	-	-	-	-	-
 -	mikro|vaaka	-	noun	9	k:	-	-	-	-
 -	mikro|yritys	-	noun	39	-	-	-	-	-
+-	miktio|kystografia	-	noun	12	-	-	-	-	-
 -	miliaari|tuberkuloosi	-	noun	5	-	-	-	-	-
 -	miliisi|järjestelmä	-	noun	10	-	-	-	-	-
 -	miljoonas|osa	-	noun	10	-	-	-	-	-
@@ -90789,6 +90792,7 @@
 -	suppa|lampi	-	noun	7	mp:mm	-	-	-	-
 -	suppilo|kukka	-	noun	10	kk:k	-	-	-	-
 -	suppilo|vahvero	-	noun	2	-	-	-	-	-
+-	supraspinatus|tendiniitti	-	noun	5	tt:t	-	-	-	-
 -	supra|johde	-	noun	48	t:d	-	-	-	-
 -	supra|johtavuus	-	noun	40	-	-	-	-	-
 -	supra|naturalismi	-	noun	5	-	-	-	-	-
@@ -103876,6 +103880,7 @@
 -	iskias|oire|yhtymä	-	noun	10	-	-	-	-	-
 -	isku|pora|kone	-	noun	48	-	-	-	-	-
 -	isotooppi|lääke|tiede	-	noun	48	t:d	-	-	-	-
+-	isotooppi|miktio|kystografia	-	noun	12	-	-	-	-	-
 -	iso|hirven|jäkälä	-	noun	10	-	-	-	-	-
 -	iso|käpy|lintu	-	noun	1	nt:nn	-	-	-	-
 -	iso|lyhty|koiso	-	noun	1	-	-	-	-	-
@@ -104097,6 +104102,7 @@
 -	kaksi|väri|painatus	-	noun	39	-	-	-	-	-
 -	kaksi|väri|painos	-	noun	39	-	-	-	-	-
 -	kaksois|näyttö|kello	-	noun	1	-	-	-	-	-
+-	kaksois|pallo|enteroskopia	-	noun	12	-	-	-	-	-
 -	kaksois|sokko|koe	-	noun	48	k:	-	-	-	-
 -	kaksois|valon|heitin	-	noun	33	tt:t	-	-	-	-
 -	kaksois|vedon|lyönti	-	noun	5	nt:nn	-	-	-	-
