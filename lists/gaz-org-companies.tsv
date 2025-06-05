@@ -1,3 +1,4 @@
+-	ABB	-	proper	?18B	-	-	-	-	-
 -	ABC	-	proper	18B	-	-	-	-	-
 -	Aava	-	proper	9	-	-	-	-	-
 -	About You	-	proper	21	-	-	-	-	-
@@ -15,11 +16,12 @@
 -	Attendo	-	proper	1	-	-	-	-	-
 -	BMW	-	proper	18B	-	-	-	-	-
 -	Barnes & Noble	-	proper	8	-	-	-	-	-
+-	Bayer	-	proper	?6	-	-	-	-	-
 -	Belizia	-	proper	12	-	-	-	-	-
 -	Bik Bok	-	proper	5	-	-	-	-	-
 -	BikBok	-	proper	5	-	-	-	-	-
 -	BioRex	-	proper	5	-	-	-	-	-
--	Bonnier	-	proper	5	-	-	-	-	-
+-	Bonnier	-	proper	22|5	-	-	-	-	-
 -	Booky.fi	-	proper	5B	-	-	-	-	-
 -	Boozt	-	proper	5	-	-	-	-	-
 -	Bytedance	-	proper	8	-	-	-	-	-
@@ -32,8 +34,10 @@
 -	Cubus	-	proper	39	-	-	-	-	-
 -	Cutters	-	proper	5	-	-	-	-	-
 -	Daimler	-	proper	6	-	-	-	-	-
+-	Destia	-	proper	12	-	-	-	-	-
 -	Disney	-	proper	21	-	-	i|y	-	-
 -	Dressmann	-	proper	5	-	-	-	-	-
+-	Elcoteq	-	proper	5	-	-	-	-	-
 -	Elisa	-	proper	13	-	-	-	-	-
 -	Elixia	-	proper	12	-	-	-	-	-
 -	Ellos	-	proper	39	-	-	-	-	-
@@ -60,6 +64,7 @@
 -	Glitter	-	proper	?6	-	-	-	-	-
 -	Google	-	proper	8	-	-	-	-	-
 -	H&M	-	proper	?10B	-	-	-	-	-
+-	HKL	-	proper	?10B	-	-	-	-	-
 -	HKScan	-	proper	5	-	-	-	-	-
 -	Halonen	-	proper	38	-	-	-	-	-
 -	Hartwall	-	proper	5	-	-	-	-	-
@@ -120,6 +125,7 @@
 -	SOL	-	proper	5B	-	-	-	-	-
 -	SRV	-	proper	18B	-	-	-	-	-
 -	Samsonite	-	proper	8	-	-	-	-	-
+-	Samsung	-	proper	5	-	-	-	-	-
 -	Sanoma	-	proper	10	-	-	-	-	-
 -	Seppälä	-	proper	12	-	-	-	-	-
 -	Shein	-	proper	5	-	-	-	-	-
@@ -128,7 +134,9 @@
 -	Sievi	-	proper	5	-	-	-	-	-
 -	Sinelli	-	proper	6	-	-	-	-	-
 -	Sitomo	-	proper	2	-	-	-	-	-
+-	Skanska	-	proper	9	-	-	-	-	-
 -	Skechers	-	proper	5	-	-	-	-	-
+-	Skoda	-	proper	10	-	-	-	-	-
 -	Sodexo	-	proper	1	-	-	-	-	-
 -	Sony	-	proper	1	-	-	-	-	-
 -	Spacehub	-	proper	5	-	-	-	-	-
@@ -161,9 +169,11 @@
 -	Vattenfall	-	proper	5	-	-	-	-	-
 -	Vero Moda	-	proper	10	-	-	-	-	-
 -	Voglia	-	proper	12	-	-	-	-	-
+-	Welho	-	proper	1	-	-	-	-	-
 -	Wish	-	proper	5	-	-	-	-	-
 -	Wärtsilä	-	proper	12	-	-	-	-	-
 -	YIT	-	proper	18B	-	-	-	-	-
+-	Yara	-	proper	9	-	-	-	-	-
 -	Zalando	-	proper	1	-	-	-	-	-
 -	Zara	-	proper	9	-	-	-	-	-
 -	eBay	-	proper	21	-	-	i|y	-	-

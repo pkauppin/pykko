@@ -1180,6 +1180,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	elif kotus_class == '8B':
 		x = word
 		een = f"{vowel}{vowel}n"
+		en = f"{vowel}n"
 		#
 		all_forms['sg|nom'] = [f"{x}"]
 		all_forms['sg|gen'] = [f"{x}:n"]
@@ -1191,6 +1192,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['pl|ine'] = [f"{x}:iss{a}"]
 		all_forms['sg|ess'] = [f"{x}:n{a}"]
 		all_forms['pl|ess'] = [f"{x}:in{a}"]
+		all_forms['sg|ill|nstd'] = [f"{x}:{en}"]
 		all_forms['@stem:clitics'] = [f"{x}:"]
 
 	# "5", "6"

@@ -3810,6 +3810,8 @@
 -	melkoinen	-	adjective	38	-	back	e	-	-
 -	melliläläinen	-	adjective	38	-	-	-	-	-
 -	melodinen	-	adjective	38	-	back	e	-	-
+-	melodraamallinen	-	adjective	38	-	-	-	-	-
+-	melodramaattinen	-	adjective	38	-	-	-	-	-
 -	melskeinen	-	adjective	38	-	front	e	-	-
 -	melto	-	adjective	1	lt:ll	back	o	-	-
 -	meluinen	-	adjective	38	-	back	e	-	-
@@ -10451,8 +10453,6 @@
 -	media|seksikäs	-	adjective	41	kk:k	-	-	coll	-
 -	mehevä|lehtinen	-	adjective	38	-	-	-	stacked	-
 -	mehi|lehtinen	-	adjective	38	-	-	-	-	-
--	melo|draamallinen	-	adjective	38	-	-	-	-	-
--	melo|dramaattinen	-	adjective	38	-	-	-	-	-
 -	menneen|kesäinen	-	adjective	38	-	-	-	-	-
 -	menneen|vuotinen	-	adjective	38	-	-	-	-	-
 -	mentaali|hygieeninen	-	adjective	38	-	-	-	-	-
@@ -16548,7 +16548,6 @@
 -	limittäin	-	adverb	-	-	-	-	-	-
 -	limitysten	-	adverb	-	-	-	-	-	-
 -	linjakkaasti	-	adverb	-	-	-	-	-	-
--	linnuntietä	-	adverb	-	-	-	-	-	-
 -	lintallaan	-	adverb	-	-	-	-	+poss	-
 -	lintalleen	-	adverb	-	-	-	-	+poss	-
 -	lintassa	-	adverb	-	-	-	-	-	-
@@ -16779,6 +16778,7 @@
 -	melko	-	adverb	-	-	-	-	-	-
 -	melkoisesti	-	adverb	-	-	-	-	-	-
 -	melodisesti	-	adverb	-	-	-	-	-	-
+-	melodramaattisesti	-	adverb	-	-	-	-	-	-
 -	meluisasti	-	adverb	-	-	-	-	-	-
 -	menehdyksiin	-	adverb	-	-	-	-	-	-
 -	menehdyksissä	-	adverb	-	-	-	-	-	-
@@ -19929,6 +19929,7 @@
 -	liki|määrin	-	adverb	-	-	-	-	-	-
 -	liki|määräisesti	-	adverb	-	-	-	-	-	-
 -	liki|pitäen	-	adverb	-	-	-	-	-	-
+-	linnun|tietä	-	adverb	-	-	-	-	-	-
 -	loppu|viimein	-	adverb	-	-	-	-	coll	-
 -	loppu|vuonna	-	adverb	-	-	-	-	-	-
 -	luja|kätisesti	-	adverb	-	-	-	-	-	-
@@ -19973,7 +19974,6 @@
 -	markka|määräisesti	-	adverb	-	-	-	-	-	-
 -	markkina|ehtoisesti	-	adverb	-	-	-	-	-	-
 -	matala|mielisesti	-	adverb	-	-	-	-	-	-
--	melo|dramaattisesti	-	adverb	-	-	-	-	-	-
 -	meno|päällä	-	adverb	-	-	-	-	-	-
 -	meri|sotilaallisesti	-	adverb	-	-	-	-	-	-
 -	meri|teitse	-	adverb	-	-	-	-	-	-
@@ -22433,6 +22433,7 @@
 -	ameba	-	noun	9	-	back	a	-	-
 -	ameeba	-	noun	9	-	-	-	-	-
 -	amenorrea	-	noun	12	-	back	a	-	-
+-	amerikanismi	-	noun	5	-	-	-	-	-
 -	amerikium	-	noun	5	-	-	-	-	-
 -	amerikkalainen	-	noun	38	-	-	-	-	-
 -	amerikkalaisuus	-	noun	40	-	back	u	-	-
@@ -22899,6 +22900,7 @@
 -	artenomi	-	noun	5	-	back	i	-	-
 -	arteria	-	noun	12	-	back	a	-	-
 -	arterioli	-	noun	5	-	-	-	-	-
+-	arterioskleroosi	-	noun	5	-	-	-	-	-
 -	artesaani	-	noun	5	-	back	i	-	-
 -	artikaiini	-	noun	5	-	-	-	-	-
 -	artikkeli	-	noun	6	-	back	i	-	-
@@ -27857,6 +27859,7 @@
 -	hydromorfoni	-	noun	5	-	-	-	-	-
 -	hydrosfääri	-	noun	5	-	front	i	-	-
 -	hydrospinning	-	noun	5	-	-	-	-	-
+-	hydrostatiikka	-	noun	9	kk:k	-	-	-	-
 -	hydroterminen	-	noun	38	-	-	-	-	-
 -	hyeena	-	noun	13	-	back	a	-	-
 -	hygieenikko	-	noun	4	kk:k	back	o	-	-
@@ -28521,6 +28524,7 @@
 -	informatiikka	-	noun	9	kk:k	back	a	-	-
 -	informointi	-	noun	5	nt:nn	back	i	-	-
 -	infra	-	noun	9	-	back	a	coll	-
+-	infrastruktuuri	-	noun	6	-	-	-	-	-
 -	infuusio	-	noun	3	-	back	o	-	-
 -	ingressi	-	noun	5	-	front	i	-	-
 -	inguuši	-	noun	5	-	-	-	-	-
@@ -28677,6 +28681,7 @@
 -	intubaatio	-	noun	3	-	-	-	-	-
 -	intuitiivisuus	-	noun	40	-	back	u	-	-
 -	intuitio	-	noun	3	-	back	o	-	-
+-	intuitionismi	-	noun	5	-	-	-	-	-
 -	inuiitti	-	noun	5	tt:t	back	i	-	-
 -	inuitti	-	noun	5	tt:t	back	i	-	-
 -	inuktitut	-	noun	5	-	-	-	-	-
@@ -31237,6 +31242,8 @@
 -	kiroilija	-	noun	12	-	back	a	-	-
 -	kiroilu	-	noun	2	-	back	u	-	-
 -	kiromantia	-	noun	12	-	-	-	-	-
+-	kiropraktiikka	-	noun	14	kk:k	-	-	-	-
+-	kiropraktikko	-	noun	1	kk:k	-	-	-	-
 -	kirous	-	noun	39	-	back	u	-	-
 -	kirpaisu	-	noun	2	-	back	u	-	-
 -	kirpeys	-	noun	40	-	front	y	-	-
@@ -31910,6 +31917,7 @@
 -	kontekstualismi	-	noun	5	-	-	-	-	-
 -	kontiainen	-	noun	38	-	back	e	-	-
 -	kontinenssi	-	noun	5	-	-	-	-	-
+-	kontinentti	-	noun	5	tt:t	-	-	-	-
 -	kontingentti	-	noun	5	tt:t	back	i	-	-
 -	kontinuumi	-	noun	5	-	back	i	-	-
 -	kontio	-	noun	3	-	back	o	poet	-
@@ -32380,6 +32388,7 @@
 -	kryofiili	-	noun	5	-	-	-	-	-
 -	kryofysiikka	-	noun	14	kk:k	back	a	-	-
 -	kryogeniikka	-	noun	9	kk:k	-	-	-	-
+-	kryosfääri	-	noun	5	-	-	-	-	-
 -	kryovulkanismi	-	noun	5	-	-	-	-	-
 -	krypta	-	noun	9|†10	-	back	a	-	-
 -	kryptaus	-	noun	39	-	back	u	coll	-
@@ -35630,6 +35639,8 @@
 -	melodiikka	-	noun	9	kk:k	back	a	-	-
 -	melodika	-	noun	9	-	-	-	-	-
 -	melodisuus	-	noun	40	-	back	u	-	-
+-	melodraama	-	noun	9	-	-	-	-	-
+-	melodramaattisuus	-	noun	40	-	-	-	-	-
 -	meloja	-	noun	10	-	back	a	-	-
 -	meloksikaami	-	noun	5	-	-	-	-	-
 -	meloni	-	noun	6	-	back	i	-	-
@@ -44043,6 +44054,7 @@
 -	skraka	-	noun	9	-	-	-	slang	-
 -	skrapa	-	noun	9	-	-	-	coll	-
 -	skrapi	-	noun	5	-	-	-	-	-
+-	skrapie	-	noun	8|21	-	-	-	nstd	-
 -	skribentti	-	noun	5	tt:t	front	i	-	-
 -	skriini	-	noun	5	-	-	-	coll	-
 -	skripta	-	noun	9	-	back	a	coll	-
@@ -52814,7 +52826,6 @@
 -	arrow|juuri	-	noun	26	-	-	-	-	-
 -	arseeni|happo	-	noun	1	pp:p	-	-	-	-
 -	arsenikki|myrkytys	-	noun	39	-	-	-	-	-
--	arterio|skleroosi	-	noun	5	-	-	-	-	-
 -	artikkeli|sarja	-	noun	9	-	-	-	-	-
 -	artikkeli|toimittaja	-	noun	10	-	-	-	-	-
 -	artisokan|sydän	-	noun	33	-	-	-	-	-
@@ -59108,7 +59119,6 @@
 -	info|tilaisuus	-	noun	40	-	-	-	-	-
 -	info|ähky	-	noun	1	-	-	-	jocul	-
 -	infra|sauna	-	noun	9	-	-	-	coll	-
--	infra|struktuuri	-	noun	6	-	-	-	-	-
 -	infra|ääni	-	noun	26	-	-	-	-	-
 -	inguinaali|hernia	-	noun	12	-	-	-	-	-
 -	inhalaatio|allergeeni	-	noun	5	-	-	-	-	-
@@ -65160,8 +65170,6 @@
 -	kirkossa|käynti	-	noun	5	nt:nn	-	-	-	-
 -	kirnun|mäntä	-	noun	10	nt:nn	-	-	-	-
 -	kirnu|piimä	-	noun	10	-	-	-	-	-
--	kiro|praktiikka	-	noun	14	kk:k	-	-	-	-
--	kiro|praktikko	-	noun	1	kk:k	-	-	-	-
 -	kiro|sana	-	noun	9	-	-	-	-	-
 -	kirppu|peli	-	noun	5	-	-	-	-	-
 -	kirppu|sirkus	-	noun	39	-	-	-	-	-
@@ -74277,8 +74285,6 @@
 -	mellakka|poliisi	-	noun	6	-	-	-	-	-
 -	mellotus|uuni	-	noun	5	-	-	-	-	-
 -	melonta|kilpailu	-	noun	2	-	-	-	-	-
--	melo|draama	-	noun	9	-	-	-	-	-
--	melo|dramaattisuus	-	noun	40	-	-	-	-	-
 -	melto|rauta	-	noun	9	t:d	-	-	-	-
 -	melun|lähde	-	noun	48	t:d	-	-	-	-
 -	melun|torjunta	-	noun	9	nt:nn	-	-	-	-

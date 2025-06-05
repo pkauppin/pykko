@@ -18,6 +18,7 @@
 -	Aatos	-	proper	39	-	-	-	-	-
 -	Aatto	-	proper	1	tt:t	-	-	-	-
 -	Aatu	-	proper	1	-	-	-	-	-
+-	Abdelaziz	-	proper	5	-	-	-	-	-
 -	Abdul	-	proper	5	-	-	-	-	-
 -	Abdullah	-	proper	5	-	-	-	-	-
 -	Abel	-	proper	6	-	-	-	-	-
@@ -146,6 +147,7 @@
 -	Amedeo	-	proper	3	-	-	-	-	-
 -	Ami	-	proper	5	-	-	-	-	-
 -	Amin	-	proper	5	-	-	-	-	-
+-	Amos	-	proper	39	-	-	-	-	-
 -	Amund	-	proper	5	-	-	-	-	-
 -	Amy	-	proper	1	-	-	-	-	-
 -	Amélie	-	proper	8|21	-	-	-	-	-
@@ -339,6 +341,7 @@
 -	Bernd	-	proper	5	-	-	-	-	-
 -	Berndt	-	proper	5	-	-	-	-	-
 -	Bernhard	-	proper	5	-	-	-	-	-
+-	Bernie	-	proper	8|21	-	-	-	-	-
 -	Bernt	-	proper	5	-	-	-	-	-
 -	Bert	-	proper	5	-	-	-	-	-
 -	Bertel	-	proper	?6	-	-	-	-	-
@@ -376,6 +379,7 @@
 -	Borna	-	proper	10	-	-	-	-	-
 -	Borys	-	proper	39	-	-	-	-	-
 -	Boštjan	-	proper	?6	-	-	-	-	-
+-	Brad	-	proper	5	-	-	-	-	-
 -	Branislav	-	proper	5	-	-	-	-	-
 -	Branko	-	proper	1	-	-	-	-	-
 -	Brendan	-	proper	?6	-	-	-	-	-
@@ -421,6 +425,7 @@
 -	Carson	-	proper	6	-	-	-	-	-
 -	Carsten	-	proper	?6	-	-	-	-	-
 -	Casper	-	proper	6	-	-	-	-	-
+-	Caster	-	proper	?6	-	-	-	-	-
 -	Catarina	-	proper	?13	-	-	-	-	-
 -	Caterina	-	proper	?13	-	-	-	-	-
 -	Catherine	-	proper	8	-	-	-	-	-
@@ -477,6 +482,7 @@
 -	Colm	-	proper	5	-	-	-	-	-
 -	Conan	-	proper	6	-	-	-	-	-
 -	Conchita	-	proper	9	-	-	-	-	-
+-	Connor	-	proper	?6	-	-	-	-	-
 -	Conny	-	proper	1	-	-	-	-	-
 -	Conor	-	proper	?6	-	-	-	-	-
 -	Conrad	-	proper	5	-	-	-	-	-
@@ -504,6 +510,7 @@
 -	Céline	-	proper	8	-	-	-	-	-
 -	César	-	proper	?6	-	-	-	-	-
 -	Daavid	-	proper	5	-	-	-	-	-
+-	Daenerys	-	proper	5	-	-	-	-	-
 -	Dag	-	proper	5	-	-	-	-	-
 -	Dagfinn	-	proper	5	-	-	-	-	-
 -	Dagmar	-	proper	?6	-	-	-	-	-
@@ -549,10 +556,10 @@
 -	Derek	-	proper	5	-	-	-	-	-
 -	Desmond	-	proper	5	-	-	-	-	-
 -	Detlef	-	proper	5	-	-	-	-	-
--	Dezső	-	proper	?21|1	-	-	-	-	-
+-	Dezső	-	proper	21|1	-	-	-	-	-
 -	Diana	-	proper	9	-	-	-	-	-
 -	Dick	-	proper	5	-	-	-	-	-
--	Didier	-	proper	5	-	-	-	-	-
+-	Didier	-	proper	22|†5	-	-	-	-	-
 -	Diego	-	proper	1	-	-	-	-	-
 -	Dieter	-	proper	6	-	-	-	-	-
 -	Dietmar	-	proper	?6	-	-	-	-	-
@@ -580,6 +587,7 @@
 -	Donovan	-	proper	5	-	-	-	-	-
 -	Dorian	-	proper	5	-	-	-	-	-
 -	Dorota	-	proper	10	-	-	-	-	-
+-	Dorothea	-	proper	12	-	-	-	-	-
 -	Dorothy	-	proper	1	-	-	-	-	-
 -	Doru	-	proper	1	-	-	-	-	-
 -	Douglas	-	proper	5	-	-	-	-	-
@@ -607,6 +615,7 @@
 -	Ede	-	proper	8	-	-	-	-	-
 -	Edgar	-	proper	6	-	-	-	-	-
 -	Edina	-	proper	13	-	-	-	-	-
+-	Edis	-	proper	5|39	-	-	-	-	-
 -	Edith	-	proper	5	-	-	-	-	-
 -	Edmond	-	proper	5	-	-	-	-	-
 -	Edmund	-	proper	5	-	-	-	-	-
@@ -1041,6 +1050,7 @@
 -	Hilja	-	proper	9	-	-	-	-	-
 -	Hilkka	-	proper	9	kk:k	-	-	-	-
 -	Hilla	-	proper	9	-	-	-	-	-
+-	Hillary	-	proper	1	-	-	-	-	-
 -	Hilma	-	proper	9	-	-	-	-	-
 -	Hiro	-	proper	1	-	-	-	-	-
 -	Hiroki	-	proper	5	-	-	-	-	-
@@ -1162,6 +1172,7 @@
 -	Italo	-	proper	2	-	-	-	-	-
 -	Ivan	-	proper	6	-	-	-	-	-
 -	Ivana	-	proper	13	-	-	-	-	-
+-	Ivanka	-	proper	9	-	-	-	-	-
 -	Ivar	-	proper	?6	-	-	-	-	-
 -	Iver	-	proper	6	-	-	-	-	-
 -	Ivica	-	proper	9	-	-	-	-	-
@@ -1180,6 +1191,7 @@
 -	Jaanus	-	proper	39|5	-	-	-	-	-
 -	Jaap	-	proper	5	-	-	-	-	-
 -	Jacek	-	proper	5	-	-	-	-	-
+-	Jacinda	-	proper	9	-	-	-	-	-
 -	Jack	-	proper	5	-	-	-	-	-
 -	Jackie	-	proper	8|21	-	-	-	-	-
 -	Jacky	-	proper	1	-	-	-	-	-
@@ -1200,6 +1212,7 @@
 -	Jali	-	proper	5	-	-	-	-	-
 -	Jalmari	-	proper	6	-	-	-	-	-
 -	Jalo	-	proper	1	-	-	-	-	-
+-	Jamal	-	proper	?6	-	-	-	-	-
 -	James	-	proper	5	-	-	-	-	-
 -	Jami	-	proper	5	-	-	-	-	-
 -	Jamie	-	proper	8|21	-	-	-	-	-
@@ -1217,6 +1230,7 @@
 -	Jannik	-	proper	5	-	-	-	-	-
 -	Janos	-	proper	39	-	-	-	-	-
 -	Janusz	-	proper	5	-	-	-	-	-
+-	Jared	-	proper	5	-	-	-	-	-
 -	Jari	-	proper	5	-	-	-	-	-
 -	Jarkko	-	proper	1	kk:k	-	-	-	-
 -	Jarl	-	proper	5	-	-	-	-	-
@@ -1259,9 +1273,11 @@
 -	Jerry	-	proper	1	-	-	-	-	-
 -	Jerzy	-	proper	1	-	-	-	-	-
 -	Jesper	-	proper	6	-	-	-	-	-
+-	Jesperi	-	proper	?6	-	-	-	-	-
 -	Jesse	-	proper	8	-	-	-	-	-
 -	Jessica	-	proper	9	-	-	-	-	-
 -	Jessie	-	proper	8|21	-	-	-	-	-
+-	Jesus	-	proper	5|†39	-	-	-	-	-
 -	Jesús	-	proper	5|†39	-	-	-	-	-
 -	Jevgeni	-	proper	5	-	-	-	-	-
 -	Jevgenija	-	proper	12	-	-	-	-	-
@@ -1284,6 +1300,7 @@
 -	Joan	-	proper	5	-	-	-	-	-
 -	Joanna	-	proper	9	-	-	-	-	-
 -	Joanne	-	proper	8	-	-	-	-	-
+-	Joao	-	proper	3	-	-	-	-	-
 -	Joaquim	-	proper	5	-	-	-	-	-
 -	Joaquin	-	proper	5	-	-	-	-	-
 -	Joaquín	-	proper	5	-	-	-	-	-
@@ -1459,6 +1476,7 @@
 -	Kati	-	proper	5	-	-	-	-	-
 -	Katie	-	proper	8|21	-	-	-	-	-
 -	Katja	-	proper	9	-	-	-	-	-
+-	Katju	-	proper	1	-	-	-	-	-
 -	Katri	-	proper	5	-	-	-	-	-
 -	Katriina	-	proper	13	-	-	-	-	-
 -	Katrin	-	proper	5	-	-	-	-	-
@@ -1497,6 +1515,7 @@
 -	Kerttu	-	proper	1	tt:t	-	-	-	-
 -	Kevin	-	proper	5	-	-	-	-	-
 -	Kiira	-	proper	9	-	-	-	-	-
+-	Kike	-	proper	8	-	-	-	-	-
 -	Kim	-	proper	5	-	-	-	-	-
 -	Kimi	-	proper	5	-	-	-	-	-
 -	Kimmo	-	proper	1	-	-	-	-	-
@@ -1546,6 +1565,7 @@
 -	Kurt	-	proper	5	-	-	-	-	-
 -	Kustaa	-	proper	20	-	-	-	-	-
 -	Kusti	-	proper	5	-	-	-	-	-
+-	Kyle	-	proper	8	-	-	-	-	-
 -	Kyllikki	-	proper	5	kk:k	-	-	-	-
 -	Kyrylo	-	proper	2	-	-	-	-	-
 -	Kyösti	-	proper	5	-	-	-	-	-
@@ -1585,9 +1605,11 @@
 -	Lauri	-	proper	5	-	-	-	-	-
 -	Lawrence	-	proper	8	-	-	-	-	-
 -	Lazare	-	proper	8	-	-	-	-	-
+-	LeBron	-	proper	5	-	-	-	-	-
 -	Lea	-	proper	9	-	-	-	-	-
 -	Leah	-	proper	22|†5	-	-	-	-	-
 -	Lee	-	proper	18	-	-	-	-	-
+-	Leea	-	proper	9	-	-	-	-	-
 -	Leena	-	proper	9	-	-	-	-	-
 -	Leevi	-	proper	5	-	-	-	-	-
 -	Lefa	-	proper	9	-	-	-	-	-
@@ -1635,6 +1657,7 @@
 -	Linda	-	proper	9	-	-	-	-	-
 -	Lindita	-	proper	9	-	-	-	-	-
 -	Lindsay	-	proper	21	-	-	i|y	-	-
+-	Lindsey	-	proper	21	-	-	i|y	-	-
 -	Line	-	proper	8	-	-	-	-	-
 -	Linn	-	proper	5	-	-	-	-	-
 -	Linnea	-	proper	12	-	-	-	-	-
@@ -1644,6 +1667,7 @@
 -	Lionel	-	proper	6	-	-	-	-	-
 -	Lisa	-	proper	9	-	-	-	-	-
 -	Lise	-	proper	8	-	-	-	-	-
+-	Liselott	-	proper	5	-	-	-	-	-
 -	Liudmila	-	proper	13	-	-	-	-	-
 -	Liv	-	proper	5	-	-	-	-	-
 -	Livia	-	proper	12	-	-	-	-	-
@@ -1692,6 +1716,7 @@
 -	Lukas	-	proper	5	-	-	-	-	-
 -	Luke	-	proper	8	-	-	-	-	-
 -	Lukáš	-	proper	5	-	-	-	-	-
+-	Lulu	-	proper	1	-	-	-	-	-
 -	Lutz	-	proper	5	-	-	-	-	-
 -	Luukas	-	proper	39	-	-	-	-	-
 -	Luís	-	proper	5	-	-	-	-	-
@@ -1771,6 +1796,7 @@
 -	Mariano	-	proper	1	-	-	-	-	-
 -	Marie	-	proper	21|8	-	-	-	-	-
 -	Marieke	-	proper	8	-	-	-	-	-
+-	Marigold	-	proper	5	-	-	-	-	-
 -	Mariia	-	proper	12	-	-	-	-	-
 -	Marija	-	proper	12	-	-	-	-	-
 -	Marika	-	proper	13	-	-	-	-	-
@@ -1963,6 +1989,7 @@
 -	Mirja	-	proper	9	-	-	-	-	-
 -	Mirjam	-	proper	5	-	-	-	-	-
 -	Mirjami	-	proper	5	-	-	-	-	-
+-	Mirka	-	proper	9	-	-	-	-	-
 -	Mirko	-	proper	1	-	-	-	-	-
 -	Miro	-	proper	1	-	-	-	-	-
 -	Miroslav	-	proper	5	-	-	-	-	-
@@ -2067,6 +2094,7 @@
 -	Niina	-	proper	9	-	-	-	-	-
 -	Niki	-	proper	5	-	-	-	-	-
 -	Nikita	-	proper	9	-	-	-	-	-
+-	Nikki	-	proper	5	kk:k	-	-	-	-
 -	Niklas	-	proper	39	-	-	-	-	-
 -	Niko	-	proper	1	-	-	-	-	-
 -	Nikola	-	proper	12	-	-	-	-	-
@@ -2093,6 +2121,7 @@
 -	Noriko	-	proper	1	-	-	-	-	-
 -	Norio	-	proper	3	-	-	-	-	-
 -	Norman	-	proper	?6	-	-	-	-	-
+-	Novak	-	proper	5	-	-	-	-	-
 -	Nozomi	-	proper	5	-	-	-	-	-
 -	Noël	-	proper	5	-	-	-	-	-
 -	Nuno	-	proper	1	-	-	-	-	-
@@ -2128,7 +2157,8 @@
 -	Olha	-	proper	10	-	-	-	-	-
 -	Oliver	-	proper	6	-	-	-	-	-
 -	Olivia	-	proper	12	-	-	-	-	-
--	Olivier	-	proper	5	-	-	-	-	-
+-	Olivier	-	proper	22|†5	-	-	-	-	-
+-	Oliwer	-	proper	6	-	-	-	-	-
 -	Olle	-	proper	8	-	-	-	-	-
 -	Olli	-	proper	5	-	-	-	-	-
 -	Olliver	-	proper	6	-	-	-	-	-
@@ -2354,6 +2384,7 @@
 -	Ricardo	-	proper	1	-	-	-	-	-
 -	Riccardo	-	proper	1	-	-	-	-	-
 -	Richard	-	proper	5	-	-	-	-	-
+-	Rick	-	proper	5	-	-	-	-	-
 -	Rickard	-	proper	5	-	-	-	-	-
 -	Rie	-	proper	8	-	-	-	-	-
 -	Rihanna	-	proper	9	-	-	-	-	-
@@ -2403,6 +2434,7 @@
 -	Roope	-	proper	8	-	-	-	-	-
 -	Roosa	-	proper	10	-	-	-	-	-
 -	Rosa	-	proper	10	-	-	-	-	-
+-	Rose	-	proper	8	-	-	-	-	-
 -	Ross	-	proper	5	-	-	-	-	-
 -	Roy	-	proper	21	-	-	i|y	-	-
 -	Ruben	-	proper	6	-	-	-	-	-
@@ -2514,6 +2546,7 @@
 -	Senni	-	proper	5	-	-	-	-	-
 -	Sepp	-	proper	5	-	-	-	-	-
 -	Seppo	-	proper	1	pp:p	-	-	-	-
+-	Serena	-	proper	13	-	-	-	-	-
 -	Serge	-	proper	8	-	-	-	-	-
 -	Sergei	-	proper	18	-	-	-	-	-
 -	Sergej	-	proper	22	-	-	-	-	-
@@ -2969,6 +3002,7 @@
 -	Vitalii	-	proper	18	-	-	-	-	-
 -	Vito	-	proper	1	-	-	-	-	-
 -	Vittorio	-	proper	3	-	-	-	-	-
+-	Viveca	-	proper	9	-	-	-	-	-
 -	Vjatšaslau	-	proper	21	-	-	-	-	-
 -	Vjatšeslav	-	proper	5	-	-	-	-	-
 -	Vladan	-	proper	6	-	-	-	-	-
@@ -2999,6 +3033,7 @@
 -	Waltteri	-	proper	6	-	-	-	-	-
 -	Warren	-	proper	?6	-	-	-	-	-
 -	Wataru	-	proper	1	-	-	-	-	-
+-	Wayne	-	proper	8	-	-	-	-	-
 -	Wei	-	proper	18	-	-	-	-	-
 -	Wenche	-	proper	8	-	-	-	-	-
 -	Werner	-	proper	6	-	-	-	-	-
@@ -3026,7 +3061,7 @@
 -	Wäinö	-	proper	1	-	-	-	-	-
 -	Władysław	-	proper	5	-	-	-	-	-
 -	Włodzimierz	-	proper	5	-	-	-	-	-
--	Xavier	-	proper	5	-	-	-	-	-
+-	Xavier	-	proper	5|22	-	-	-	-	-
 -	Xiuying	-	proper	5	-	-	-	-	-
 -	Yan	-	proper	5	-	-	-	-	-
 -	Yang	-	proper	5	-	-	-	-	-
@@ -3071,7 +3106,8 @@
 -	Yūsuke	-	proper	8	-	-	-	-	-
 -	Yūta	-	proper	9	-	-	-	-	-
 -	Yūto	-	proper	1	-	-	-	-	-
--	Yūzō	-	proper	?21|1	-	-	-	-	-
+-	Yūzō	-	proper	21|1	-	-	-	-	-
+-	Zach	-	proper	5	-	-	-	-	-
 -	Zbigniew	-	proper	5	-	-	-	-	-
 -	Zbyněk	-	proper	5	-	-	-	-	-
 -	Zdeněk	-	proper	5	-	-	-	-	-
@@ -3187,8 +3223,12 @@
 -	Veli-Pekka	-	proper	9	kk:k	-	-	-	-
 -	Vesa-Pekka	-	proper	9	kk:k	-	-	-	-
 -	Ville-Veikko	-	proper	1	kk:k	-	-	-	-
+-	Anna|stiina	-	proper	9	-	-	-	-	-
 -	Esa|pekka	-	proper	9	kk:k	-	-	-	-
+-	Hanna|kaisa	-	proper	9	-	-	-	-	-
 -	Juha|matti	-	proper	5	tt:t	-	-	-	-
+-	Mia|petra	-	proper	9	-	-	-	-	-
+-	Noora|lotta	-	proper	10	tt:t	-	-	-	-
 -	Risto|matti	-	proper	5	tt:t	-	-	-	-
 Cap	bert	-	proper	5	-	front|back	-	-	4.000
 Cap	fred	-	proper	5	-	front|back	-	-	4.000

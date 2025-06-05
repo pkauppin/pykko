@@ -120,6 +120,7 @@
 -	öfver	-	none	-	-	-	-	foreign	-
 -	över	-	none	-	-	-	-	foreign	-
 -	AC	-	noun	18B	-	front	-	foreign	-
+-	AS	-	noun	?10B	-	-	-	foreign	-
 -	About	-	noun	5	-	-	-	foreign	-
 -	Academy	-	noun	1	-	-	-	foreign	-
 -	Act	-	noun	5	-	-	-	foreign	-
@@ -188,6 +189,7 @@
 -	Backstory	-	noun	1	-	-	-	foreign	-
 -	Ball	-	noun	5	-	-	-	foreign	-
 -	Balls	-	noun	5	-	-	-	foreign	-
+-	Baltic	-	noun	5	-	-	-	foreign	-
 -	Baltica	-	noun	9	-	-	-	foreign	-
 -	Band	-	noun	5	-	-	-	foreign	-
 -	Bank	-	noun	5	-	-	-	foreign	-
@@ -215,12 +217,14 @@
 -	Blood	-	noun	5	-	-	-	foreign	-
 -	Blue	-	noun	8	-	-	-	foreign	-
 -	Board	-	noun	5	-	-	-	foreign	-
+-	Bohemia	-	noun	12	-	-	-	foreign	-
 -	Bon	-	noun	5	-	-	-	foreign	-
 -	Bonbon	-	noun	6	-	-	-	foreign	-
 -	Bone	-	noun	8	-	-	-	foreign	-
 -	Book	-	noun	5	-	-	-	foreign	-
 -	Books	-	noun	5	-	-	-	foreign	-
 -	Bottom	-	noun	5	-	-	-	foreign	-
+-	Bowl	-	noun	5	-	-	-	foreign	-
 -	Box	-	noun	5	-	-	-	foreign	-
 -	Boxer	-	noun	6	-	-	-	foreign	-
 -	Boxing	-	noun	5	-	-	-	foreign	-
@@ -243,16 +247,20 @@
 -	Burgers	-	noun	5	-	-	-	foreign	-
 -	Burj	-	noun	5	-	-	-	foreign	-
 -	Cabinet	-	noun	5	-	-	-	foreign	-
+-	Cafe	-	noun	8	-	-	-	foreign	-
 -	Café	-	noun	21	-	-	-	foreign	-
 -	Call	-	noun	5	-	-	-	foreign	-
 -	Calle	-	noun	8	-	-	-	foreign	-
 -	Can	-	noun	5	-	-	-	foreign	-
 -	Canada	-	noun	10|12	-	-	-	foreign	-
 -	Canadian	-	noun	5	-	-	-	foreign	-
+-	Canadiens	-	noun	5	-	-	-	foreign	-
 -	Canon	-	noun	6	-	-	-	foreign	-
 -	Canyon	-	noun	5	-	-	-	foreign	-
 -	Cap	-	noun	5	-	-	-	foreign	-
 -	Cape	-	noun	8	-	-	-	foreign	-
+-	Capital	-	noun	6	-	-	-	foreign	-
+-	Capitals	-	noun	5	-	-	-	foreign	-
 -	Captain	-	noun	5	-	-	-	foreign	-
 -	Carbon	-	noun	6	-	-	-	foreign	-
 -	Care	-	noun	8	-	-	-	foreign	-
@@ -262,6 +270,8 @@
 -	Cat	-	noun	5	-	-	-	foreign	-
 -	Cats	-	noun	5	-	-	-	foreign	-
 -	Cavaliers	-	noun	5	-	-	-	foreign	-
+-	Celtic	-	noun	5	-	-	-	foreign	-
+-	Celtics	-	noun	5	-	-	-	foreign	-
 -	Center	-	noun	6	-	-	-	foreign	-
 -	Central	-	noun	6	-	-	-	foreign	-
 -	Centre	-	noun	8	-	-	-	foreign	-
@@ -278,6 +288,7 @@
 -	Chip	-	noun	5	-	-	-	foreign	-
 -	Christian	-	noun	5	-	-	-	foreign	-
 -	Christianity	-	noun	1	-	-	-	foreign	-
+-	Christmas	-	noun	5	-	-	-	foreign	-
 -	Chronicle	-	noun	8	-	-	-	foreign	-
 -	Chronicles	-	noun	5	-	-	-	foreign	-
 -	Church	-	noun	5	-	-	-	foreign	-
@@ -291,10 +302,12 @@
 -	Cleantech	-	noun	5	-	-	-	foreign	-
 -	Clear	-	noun	5	-	-	-	foreign	-
 -	Client	-	noun	5	-	-	-	foreign	-
+-	Clippers	-	noun	5	-	-	-	foreign	-
 -	Club	-	noun	5	-	-	-	foreign	-
 -	Co.	-	noun	XX	-	-	-	foreign|abbr	-
 -	Coalition	-	noun	5	-	-	-	foreign	-
 -	Cock	-	noun	5	-	-	-	foreign	-
+-	Cocks	-	noun	5	-	-	-	foreign	-
 -	Code	-	noun	8	-	-	-	foreign	-
 -	Coin	-	noun	5	-	-	-	foreign	-
 -	Collection	-	noun	5	-	-	-	foreign	-
@@ -333,7 +346,9 @@
 -	Cut	-	noun	5	-	-	-	foreign	-
 -	Cyan	-	noun	6	-	-	-	foreign	-
 -	Daddy	-	noun	1	-	-	-	foreign	-
+-	Dagens	-	noun	5	-	-	-	foreign	-
 -	Daily	-	noun	1	-	-	-	foreign	-
+-	Dame	-	noun	8	-	-	-	foreign	-
 -	Dance	-	noun	8	-	-	-	foreign	-
 -	Dark	-	noun	5	-	-	-	foreign	-
 -	Darkness	-	noun	5	-	-	-	foreign	-
@@ -434,11 +449,13 @@
 -	Exit	-	noun	5	-	-	-	foreign	-
 -	Experience	-	noun	8	-	-	-	foreign	-
 -	Expo	-	noun	1	-	-	-	foreign	-
+-	Express	-	noun	5	-	-	-	foreign	-
 -	Eye	-	noun	8	-	-	-	foreign	-
 -	Fairy	-	noun	1	-	-	-	foreign	-
 -	Fairytale	-	noun	8	-	-	-	foreign	-
 -	Falls	-	noun	5	-	-	-	foreign	-
 -	False	-	noun	8	-	-	-	foreign	-
+-	Fame	-	noun	8	-	-	-	foreign	-
 -	Family	-	noun	1	-	-	-	foreign	-
 -	Fan	-	noun	5	-	back	a	foreign	-
 -	Fantasy	-	noun	2	-	-	-	foreign	-
@@ -463,7 +480,9 @@
 -	Fish	-	noun	5	-	-	-	foreign	-
 -	Fit	-	noun	5	-	-	-	foreign	-
 -	Five	-	noun	8	-	-	-	foreign	-
+-	Flames	-	noun	39	-	-	-	foreign	-
 -	Flow	-	noun	22|†5	-	-	u	foreign	-
+-	Flyers	-	noun	5	-	-	-	foreign	-
 -	Food	-	noun	5	-	-	-	foreign	-
 -	Foot	-	noun	5	-	-	-	foreign	-
 -	Football	-	noun	5	-	-	-	foreign	-
@@ -532,6 +551,8 @@
 -	Gun	-	noun	5	-	-	-	foreign	-
 -	Hair	-	noun	5	-	-	-	foreign	-
 -	Hand	-	noun	5	-	-	-	foreign	-
+-	Harbor	-	noun	6	-	-	-	foreign	-
+-	Harbour	-	noun	5	-	-	-	foreign	-
 -	Hard	-	noun	5	-	-	-	foreign	-
 -	Hardcore	-	noun	8	-	-	-	foreign	-
 -	Hardware	-	noun	8	-	-	-	foreign	-
@@ -584,6 +605,7 @@
 -	Intervention	-	noun	5	-	-	-	foreign	-
 -	Introduction	-	noun	5	-	-	-	foreign	-
 -	Invaders	-	noun	5	-	-	-	foreign	-
+-	Invisible	-	noun	8	-	-	-	foreign	-
 -	Ireland	-	noun	5	-	-	-	foreign	-
 -	Iron	-	noun	6	-	-	-	foreign	-
 -	Islamic	-	noun	5	-	-	-	foreign	-
@@ -592,6 +614,7 @@
 -	It	-	noun	5	-	-	-	foreign	-
 -	Italy	-	noun	1	-	-	-	foreign	-
 -	Item	-	noun	5	-	-	-	foreign	-
+-	Jackets	-	noun	5	-	-	-	foreign	-
 -	Japan	-	noun	6	-	-	-	foreign	-
 -	Jardin	-	noun	5	-	-	-	foreign	-
 -	Jet	-	noun	5	-	-	-	foreign	-
@@ -615,14 +638,17 @@
 -	Knights	-	noun	5	-	-	-	foreign	-
 -	Kong	-	noun	5	-	-	-	foreign	-
 -	Koran	-	noun	6	-	-	-	foreign	-
+-	Kronor	-	noun	?6	-	-	-	foreign	-
 -	Lab	-	noun	5	-	-	-	foreign	-
 -	Lag	-	noun	5	-	-	-	foreign	-
 -	Lake	-	noun	8	-	-	-	foreign	-
+-	Lakers	-	noun	5	-	-	-	foreign	-
 -	Land	-	noun	5	-	-	-	foreign	-
 -	Language	-	noun	8	-	-	-	foreign	-
 -	Lapland	-	noun	5	-	-	-	foreign	-
 -	Last	-	noun	5	-	-	-	foreign	-
 -	Law	-	noun	5	-	-	-	foreign	-
+-	Leader	-	noun	?6	-	-	-	foreign	-
 -	Leaf	-	noun	5	-	-	-	foreign	-
 -	League	-	noun	8	-	-	-	foreign	-
 -	Lean	-	noun	5	-	-	-	foreign	-
@@ -644,6 +670,7 @@
 -	Limit	-	noun	5	-	-	-	foreign	-
 -	Limited	-	noun	5	-	-	-	foreign	-
 -	Lion	-	noun	5	-	-	-	foreign	-
+-	Liquid	-	noun	5	-	-	-	foreign	-
 -	Little	-	noun	8	-	-	-	foreign	-
 -	Live	-	noun	8	-	-	-	foreign	-
 -	Loan	-	noun	5	-	-	-	foreign	-
@@ -694,6 +721,7 @@
 -	Might	-	noun	5	-	-	-	foreign	-
 -	Millennium	-	noun	5	-	back	u	foreign	-
 -	Million	-	noun	6	-	-	-	foreign	-
+-	Mining	-	noun	5	-	-	-	foreign	-
 -	Minute	-	noun	8	-	-	-	foreign	-
 -	Miss	-	noun	!	-	-	-	foreign	-
 -	Mission	-	noun	6	-	-	-	foreign	-
@@ -730,6 +758,7 @@
 -	Name	-	noun	8	-	-	-	foreign	-
 -	Nation	-	noun	6	-	-	-	foreign	-
 -	National	-	noun	5	-	-	-	foreign	-
+-	Natural	-	noun	5	-	-	-	foreign	-
 -	Nature	-	noun	8	-	-	-	foreign	-
 -	Network	-	noun	5	-	-	-	foreign	-
 -	Neutron	-	noun	6	-	-	-	foreign	-
@@ -751,13 +780,16 @@
 -	North	-	noun	5	-	-	-	foreign	-
 -	Northern	-	noun	5	-	-	-	foreign	-
 -	Norway	-	noun	21	-	-	i|y	foreign	-
+-	Notre	-	noun	8	-	-	-	foreign	-
 -	Novosti	-	noun	5	-	-	-	foreign	-
 -	Nyheter	-	noun	6	-	-	-	foreign	-
 -	OS	-	noun	10B	-	-	-	foreign	-
 -	Oaks	-	noun	5	-	-	-	foreign	-
 -	Object	-	noun	5	-	-	-	foreign	-
+-	Observer	-	noun	?6	-	-	-	foreign	-
 -	Ocean	-	noun	5	-	-	-	foreign	-
 -	Odyssey	-	noun	21	-	-	-	foreign	-
+-	Offensive	-	noun	8	-	-	-	foreign	-
 -	Office	-	noun	8	-	-	-	foreign	-
 -	Oil	-	noun	5	-	-	-	foreign	-
 -	Old	-	noun	5	-	-	-	foreign	-
@@ -783,6 +815,7 @@
 -	Pages	-	noun	5	-	-	-	foreign	-
 -	Pain	-	noun	5	-	-	-	foreign	-
 -	Palace	-	noun	8	-	-	-	foreign	-
+-	Palacio	-	noun	3	-	-	-	foreign	-
 -	Palazzo	-	noun	1	-	-	-	foreign	-
 -	Pan	-	noun	5	-	-	-	foreign	-
 -	Panthers	-	noun	5	-	-	-	foreign	-
@@ -898,6 +931,7 @@
 -	Respublika	-	noun	14	-	-	-	foreign	-
 -	Return	-	noun	5	-	-	-	foreign	-
 -	Revenge	-	noun	8	-	-	-	foreign	-
+-	Rhapsody	-	noun	1	-	-	-	foreign	-
 -	Rhythm	-	noun	5	-	-	-	foreign	-
 -	Rice	-	noun	8	-	-	-	foreign	-
 -	Rifle	-	noun	8	-	-	-	foreign	-
@@ -912,6 +946,7 @@
 -	Roll	-	noun	5	-	-	-	foreign	-
 -	Roma	-	noun	10	-	-	-	foreign	-
 -	Roman	-	noun	6	-	-	-	foreign	-
+-	Romantic	-	noun	5	-	-	-	foreign	-
 -	Room	-	noun	5	-	-	-	foreign	-
 -	Roses	-	noun	5	-	-	-	foreign	-
 -	Royal	-	noun	6	-	-	-	foreign	-
@@ -944,6 +979,7 @@
 -	Security	-	noun	1	-	-	-	foreign	-
 -	Seen	-	noun	5	-	-	-	foreign	-
 -	Serie	-	noun	8|21	-	-	-	foreign	-
+-	Series	-	noun	5	-	-	-	foreign	-
 -	Server	-	noun	6	-	-	-	foreign	-
 -	Service	-	noun	8	-	-	-	foreign	-
 -	Services	-	noun	5	-	-	-	foreign	-
@@ -954,6 +990,7 @@
 -	Sex	-	noun	5	-	-	-	foreign	-
 -	Shadow	-	noun	5	-	-	-	foreign	-
 -	Shadows	-	noun	5	-	-	-	foreign	-
+-	Sharks	-	noun	5	-	-	-	foreign	-
 -	Shimbun	-	noun	6	-	-	-	foreign	-
 -	Shinbun	-	noun	6	-	-	-	foreign	-
 -	Shit	-	noun	5	-	-	-	foreign	-
@@ -999,6 +1036,7 @@
 -	Speed	-	noun	5	-	-	-	foreign	-
 -	Sphere	-	noun	8	-	-	-	foreign	-
 -	Spice	-	noun	8	-	-	-	foreign	-
+-	Spiegel	-	noun	?6	-	-	-	foreign	-
 -	Spirit	-	noun	5	-	-	-	foreign	-
 -	Sport	-	noun	5	-	-	-	foreign	-
 -	Sports	-	noun	5	-	-	-	foreign	-
@@ -1067,6 +1105,7 @@
 -	Thought	-	noun	5	-	-	-	foreign	-
 -	Thousand	-	noun	5	-	-	-	foreign	-
 -	Three	-	noun	17	-	-	-	foreign	-
+-	Thrones	-	noun	5	-	-	-	foreign	-
 -	Thunder	-	noun	6	-	-	-	foreign	-
 -	Thursday	-	noun	21	-	-	i|y	foreign	-
 -	Tile	-	noun	8	-	-	-	foreign	-

@@ -1,13 +1,17 @@
 -	Ajax	-	proper	5	-	-	-	-	-
 -	Arsenal	-	proper	5	-	-	-	-	-
+-	Atalanta	-	proper	9	-	-	-	-	-
 -	Atletico	-	proper	1	-	-	-	-	-
 -	Atlético	-	proper	1	-	-	-	-	-
 -	Bayern	-	proper	5	-	-	-	-	-
 -	Betis	-	proper	5	-	-	-	-	-
+-	Blackhawks	-	proper	5	-	-	-	-	-
 -	Blues	-	proper	5	-	-	-	-	-
 -	Borussia	-	proper	12	-	-	-	-	-
 -	Bruins	-	proper	5	-	-	-	-	-
+-	Celta Vigo	-	proper	1	-	-	-	-	-
 -	Dynamo	-	proper	2	-	-	-	-	-
+-	Espanyol	-	proper	5	-	-	-	-	-
 -	FIFA	-	proper	10B	-	-	-	-	-
 -	FIS	-	proper	10B	-	-	-	-	-
 -	Fifa	-	proper	9	-	-	-	-	-
@@ -24,7 +28,11 @@
 -	KHL	-	proper	10B	-	-	-	-	-
 -	KalPa	-	proper	9	-	-	-	-	-
 -	KooKoo	-	proper	17	-	-	-	-	-
+-	KrP	-	proper	?18B	-	-	-	-	-
 -	KuPS	-	proper	5|5B	-	-	-	-	-
+-	Lazio	-	proper	3	-	-	-	-	-
+-	Levante	-	proper	8	-	-	-	-	-
+-	ManU	-	proper	?18B	-	-	-	-	-
 -	McLaren	-	proper	6	-	-	-	-	-
 -	NBA	-	proper	18B	-	-	-	-	-
 -	NHL	-	proper	10B	-	-	-	-	-
@@ -32,9 +40,12 @@
 -	PSG	-	proper	18B	-	-	-	-	-
 -	Pelicans	-	proper	5	-	-	-	-	-
 -	Rangers	-	proper	5	-	-	-	-	-
+-	Rayo Vallecano	-	proper	2	-	-	-	-	-
 -	Real Betis	-	proper	5	-	-	-	-	-
 -	RoPS	-	proper	5|5B	-	-	-	-	-
+-	Rockettes	-	proper	5	-	-	-	-	-
 -	SJK	-	proper	18B	-	-	-	-	-
+-	SPV	-	proper	?18B	-	-	-	-	-
 -	SaiPa	-	proper	9	-	-	-	-	-
 -	Seagulls	-	proper	5	-	-	-	-	-
 -	TPS	-	proper	10B	-	-	-	-	-
@@ -42,9 +53,13 @@
 -	Uefa	-	proper	9	-	-	-	-	-
 -	VaLePa	-	proper	9	-	-	-	-	-
 -	Bundes|liiga	-	proper	9	-	-	-	-	-
+-	Karhu|basket	-	proper	5	-	-	-	-	-
 -	Konferenssi|liiga	-	proper	9	-	-	-	-	-
+-	Koo|vee	-	proper	18	-	-	-	-	-
 -	Timantti|liiga	-	proper	9	-	-	-	-	-
 -	Helmarit	-	proper-pl	6	-	-	-	-	-
 -	Huuhkajat	-	proper-pl	10	-	-	-	-	-
 -	Jokerit	-	proper-pl	6	-	-	-	-	-
 -	Jukurit	-	proper-pl	6	-	-	-	-	-
+-	Kampparit	-	proper-pl	6	-	-	-	-	-
+-	Erä|Viikingit	-	proper-pl	5	-	-	-	-	-
