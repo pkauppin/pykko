@@ -14,6 +14,7 @@
 - `adjective` adjective
 - `adverb` adverb
 - `adposition` adposition
+- `participle` explicit participle
 - `pronoun` pronoun (singular)
 - `pronoun-pl` pronoun (plural)
 - `interjection` interjection
