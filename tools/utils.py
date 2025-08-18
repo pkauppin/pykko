@@ -3,8 +3,8 @@ import hfst
 from scripts.constants import PARSER_FST_PATH, FIELD_STRING
 from scripts.utils import validate_pos
 
-C = "[bcdfghjklmnpqrstvwxzšžč'’]"
-V = '[aeiouyäöüå]'
+C = "[bcdfghjklmnpqrstvwxzšžčśźćń'’]"
+V = '[aeiouyäöüåáéíóúâêîôûãø]'
 
 try:
 	input_stream = hfst.HfstInputStream(PARSER_FST_PATH)
@@ -13,6 +13,7 @@ try:
 except:
 	PARSER_FST = hfst.regex('?*')
 
+ALIGNMENT_FST = hfst.regex('[ 0:X:: | ?::0.0 | ?:?::0.0 | ?:0::1.0 | 0:?::1.0 ]+')
 
 inf = float('inf')
 
@@ -183,10 +184,17 @@ def lemmatize(word, pos=None):
 	return valid
 
 
-def syllabify(word, pos=None, compound=True):
+def syllabify(word, pos=None, compound=True, big_words=False):
 
 	validate_pos(pos)
 	word = add_compound_separators(word, pos, pick_first=True) if compound else word
+
+	# lito·grafia, mikro·skooppi (alternative syllabification)
+	if big_words:
+		word = re.sub(f'(?<=[a-zåäö])(sfääri|skooppi|skopia|skooppinen|struktio|stratus|steroli|globiini|glossa|glossia|grafia|grafinen|grafi|glasiaalinen|staattinen)$', r'·\1', word)
+		word = re.sub(f'^(ambi|amfi|andro|anti|antropo|arkeo|astro|ekstra|endo|ferro|geo|heksa|hepta|hetero|homo|hydro|hygro|hyper|hypo|iktyo|inter|intra|karbo|kata|kontra|kryo|krypto|kseno|labio|leuko|lito|magneto|makro|media|meta|mikro|okta|penta|pyro|sub|super|supra|tetra|ultra)(?=[a-zåäö])', r'\1·', word)
+	if big_words:
+		word = re.sub(f'(?<=[a-zåäöü])(stad|stadt|stetten|städte|bridge|brücken|spitz|spitze|spitzen|thorpe|shire|chester|grad|sted|stead|stedt)$', r'·\1', word)
 
 	# ma·ya
 	word = re.sub(f'(?<=[aeiou])(?=y[aeou])', '·', word)
@@ -213,7 +221,7 @@ def syllabify(word, pos=None, compound=True):
 	# ka·la
 	word = re.sub(f'(?<={V})(?={C}{V})', '·', word)
 
-	# kofe·ii, Mari·aanit
+	# kofe·iini, Mari·aanit
 	word = re.sub(f'(?<={V})(?=aa|ee|ii|oo|uu|yy|ää|öö)', '·', word)
 
 	# kau·an, liu·os
@@ -259,12 +267,13 @@ def add_compound_separators_to_proper_name(name):
 
 
 def transfer_separators(source, target):
+	target0 = target
 	segments = []
 	for part in source.split('|')[:-1]:
 		if target.lower().startswith(part.lower()):
 			segments.append(target[:len(part)])
 			target = target[len(part):]
 		else:
-			break
+			return target0
 	segments.append(target)
 	return '|'.join(segments)

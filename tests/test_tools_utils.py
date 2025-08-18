@@ -71,6 +71,14 @@ class ToolTests(unittest.TestCase):
         self.assertEqual(syllabify('kofeiini'), 'ko·fe·ii·ni')
         self.assertEqual(syllabify('rei’ittää'), 'rei·’it·tää')
         self.assertEqual(syllabify('cesium'), 'ce·si·um')
+
+        self.assertEqual(syllabify('mikroskooppi', big_words=True), 'mik·ro·skoop·pi')
+        self.assertEqual(syllabify('antistaattinen', big_words=True), 'an·ti·staat·ti·nen')
+        self.assertEqual(syllabify('hemoglobiini', big_words=True), 'he·mo·glo·bii·ni')
+        self.assertEqual(syllabify('stratosfääri', big_words=True), 'stra·to·sfää·ri')
+
+        self.assertEqual(syllabify('Neustadt', big_words=True), 'Neu·stadt')
+
         # self.assertEqual(syllabify('layout'), '')
 
 

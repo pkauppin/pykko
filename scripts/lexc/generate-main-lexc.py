@@ -30,7 +30,7 @@ MULTICHAR_SYMBOLS = {
 	"Guesser|Cap",
 	"⁅HYPHEN⁆",
 	"⁅BOUNDARY⁆",
-}
+} | CLITICS
 
 UPPERCASE_REGEX = '[' + '|'.join(f'"{c}"' for c in ALPHA_UPPER_EXTENDED) + ']'
 PSEUDO_PREFIXES = sorted(set(read_list('fi-prefixes-guesser.txt', directory='lists')))
