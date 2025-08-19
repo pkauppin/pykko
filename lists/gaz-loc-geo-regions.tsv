@@ -19,7 +19,7 @@
 -	Bengali	-	proper	6	-	-	-	-	-
 -	Bosnia	-	proper	12	-	-	-	-	-
 -	Bretagne	-	proper	8	-	-	-	-	-
--	Brie	-	proper	21|8	-	-	-	-	-
+-	Brie	-	proper	8|21	-	-	-	-	-
 -	Britannia	-	proper	12	-	-	-	-	-
 -	Böömi	-	proper	5	-	-	-	-	-
 -	Champagne	-	proper	8	-	-	-	-	-
@@ -103,7 +103,7 @@
 -	Rhodesia	-	proper	12	-	-	-	-	-
 -	Riviera	-	proper	9	-	-	-	-	-
 -	Ruija	-	proper	10	-	-	-	-	-
--	Sahara	-	proper	13	-	-	-	-	-
+-	Sahara	-	proper	12	-	-	-	-	-
 -	Sahel	-	proper	6	-	-	-	-	-
 -	Savoiji	-	proper	5	-	-	-	-	-
 -	Serengeti	-	proper	5	-	-	-	-	-
@@ -146,7 +146,7 @@
 -	Keski-Afrikka	-	proper	14	kk:k	-	-	-	-
 -	Keski-Amerikka	-	proper	14	kk:k	-	-	-	-
 -	Keski-Eurooppa	-	proper	10	pp:p	-	-	-	-
--	Keski-itä	-	proper	10	-	-	-	-	-
+-	Keski-itä	-	proper	10	t:d	-	-	-	-
 -	Lounais-Afrikka	-	proper	14	kk:k	-	-	-	-
 -	Lähi-itä	-	proper	10	t:d	-	-	-	-
 -	Länsi-Afrikka	-	proper	14	kk:k	-	-	-	-
