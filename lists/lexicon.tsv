@@ -3514,7 +3514,7 @@
 -	loistelias	-	adjective	41	-	back	a	-	-
 -	loisto	-	adjective	1	-	back	o	-	-
 -	loistokas	-	adjective	41	kk:k	back	a	-	-
--	loitto	-	adjective	1	tt:t	-	-	-	-
+-	loitto	-	adjective	1	tt:t	-	-	rare|dated	-
 -	loiva	-	adjective	10	-	back	a	-	-
 -	lojaali	-	adjective	5	-	back	i	-	-
 -	lojaalinen	-	adjective	38	-	back	e	-	-
@@ -17520,6 +17520,7 @@
 -	piupaut	-	adverb	-	-	-	-	-	-
 -	plastisesti	-	adverb	-	-	-	-	-	-
 -	plus	-	adverb	-	-	-	-	-	-
+-	plörinäksi	-	adverb	-	-	-	-	-	-
 -	pneumaattisesti	-	adverb	-	-	-	-	-	-
 -	pohjalaisittain	-	adverb	-	-	-	-	-	-
 -	pohjattomasti	-	adverb	-	-	-	-	-	-
@@ -20868,6 +20869,7 @@
 -	eläköön	-	interjection	-	-	-	-	-	-
 -	enivei	-	interjection	-	-	-	-	-	-
 -	evvk	-	interjection	-	-	-	-	abbr	-
+-	grr	-	interjection	-	-	-	-	-	-
 -	ha	-	interjection	-	-	-	-	-	-
 -	haa	-	interjection	-	-	-	-	-	-
 -	hah	-	interjection	-	-	-	-	-	-
@@ -21075,6 +21077,7 @@
 -	moron	-	interjection	-	-	-	-	coll	-
 -	mur	-	interjection	-	-	-	-	-	-
 -	muu	-	interjection	-	-	-	-	-	-
+-	mäiskis	-	interjection	-	-	-	-	-	-
 -	mää	-	interjection	-	-	-	-	-	-
 -	möö	-	interjection	-	-	-	-	-	-
 -	nam	-	interjection	-	-	-	-	child	-
@@ -23810,6 +23813,7 @@
 -	boikotointi	-	noun	5	nt:nn	back	i	-	-
 -	boikotti	-	noun	5	tt:t	back	i	-	-
 -	boileri	-	noun	6	-	back	i	-	-
+-	bojaari	-	noun	6	-	-	-	-	-
 -	bokmål	-	noun	5	-	-	-	-	-
 -	bokseri	-	noun	6	-	back	i	-	-
 -	boksi	-	noun	5	-	back	i	-	-
@@ -24011,6 +24015,7 @@
 -	burgundilainen	-	noun	38	-	-	-	-	-
 -	burjaatti	-	noun	5	tt:t	-	-	-	-
 -	burka	-	noun	10	-	back	a	-	-
+-	burkha	-	noun	10	-	-	-	-	-
 -	burkinafasolainen	-	noun	38	-	-	-	-	-
 -	burkinalainen	-	noun	38	-	-	-	-	-
 -	burkini	-	noun	6	-	back	i	-	-
@@ -33678,6 +33683,7 @@
 -	kätkö	-	noun	1	-	front	ö	-	-
 -	kätsy	-	noun	1	-	-	-	slang	-
 -	kättely	-	noun	2	-	front	y	-	-
+-	käty	-	noun	1	-	-	-	slang	-
 -	kätyri	-	noun	6	-	front	i	-	-
 -	kätönen	-	noun	38	-	front	e	jocul	-
 -	kävelijä	-	noun	12	-	front	ä	-	-
@@ -44119,6 +44125,7 @@
 -	sesessionismi	-	noun	5	-	-	-	-	-
 -	seslonki	-	noun	5	nk:ng	back	i	coll|dated	-
 -	sesonki	-	noun	5	nk:ng	back	i	-	-
+-	sesse	-	noun	8	-	-	-	dial	-
 -	sessiili	-	noun	6	-	-	-	-	-
 -	sessio	-	noun	3	-	back	o	-	-
 -	sesuura	-	noun	13	-	back	a	-	-
@@ -45872,6 +45879,7 @@
 -	synformi	-	noun	5	-	-	-	-	-
 -	synkeys	-	noun	40	-	front	y	poet	-
 -	synkistely	-	noun	2	-	front	y	coll	-
+-	synkkaus	-	noun	39	-	-	-	-	-
 -	synkkyys	-	noun	40	-	front	y	-	-
 -	synkliini	-	noun	6	-	-	-	-	-
 -	synkooppi	-	noun	5	pp:p	back	i	-	-
@@ -58729,6 +58737,7 @@
 -	huuli|puikko	-	noun	1	kk:k	-	-	-	-
 -	huuli|puna	-	noun	10	-	-	-	-	-
 -	huuli|rasva	-	noun	9	-	-	-	-	-
+-	huuli|synkkaus	-	noun	39	-	-	-	-	-
 -	huuli|syöpä	-	noun	10	p:v	-	-	-	-
 -	huuli|veikko	-	noun	1	kk:k	-	-	coll	-
 -	huuli|voide	-	noun	48	t:d	-	-	-	-
@@ -62650,6 +62659,7 @@
 -	kangas|vuokko	-	noun	1	kk:k	-	-	-	-
 -	kaniini|rotu	-	noun	1	t:d	-	-	-	-
 -	kanin|hoito	-	noun	1	t:d	-	-	-	-
+-	kanin|kolo	-	noun	1	-	-	-	-	-
 -	kanin|nahka	-	noun	9	k:|=	-	-	-	-
 -	kani|konttori	-	noun	6	-	-	-	-	-
 -	kani|koppi	-	noun	5	pp:p	-	-	-	-
@@ -72066,6 +72076,7 @@
 -	lipeä|kivi	-	noun	7	-	-	-	-	-
 -	lipeä|myrkytys	-	noun	39	-	-	-	-	-
 -	lipidi|vaippa	-	noun	9	pp:p	-	-	-	-
+-	lippa|kioski	-	noun	5	-	-	-	-	-
 -	lippa|lakki	-	noun	5	kk:k	-	-	-	-
 -	lippa|uistin	-	noun	33	-	-	-	-	-
 -	lippue|amiraali	-	noun	5	-	-	-	-	-
@@ -82807,6 +82818,7 @@
 -	politia|rikos	-	noun	39	-	-	-	dated	-
 -	politiikan|tekijä	-	noun	12	-	-	-	-	-
 -	politiikan|teko	-	noun	1	k:	-	-	-	-
+-	politiikan|tutkimus	-	noun	39	-	-	-	-	-
 -	poljin|nopeus	-	noun	40	-	-	-	-	-
 -	polkka|tukka	-	noun	10	kk:k	-	-	-	-
 -	polku|antura	-	noun	12	-	-	-	-	-
@@ -84566,6 +84578,7 @@
 -	päivän|koite	-	noun	48	tt:t	-	-	-	-
 -	päivän|koitto	-	noun	1	tt:t	-	-	-	-
 -	päivän|lilja	-	noun	9	-	-	-	-	-
+-	päivän|loiste	-	noun	48	-	-	-	-	-
 -	päivän|nouto	-	noun	1	t:d	-	-	-	-
 -	päivän|paiste	-	noun	48	-	-	-	-	-
 -	päivän|politiikka	-	noun	9	kk:k	-	-	-	-
@@ -99388,6 +99401,7 @@
 -	vauhti|hurjastelija	-	noun	12	-	-	-	-	-
 -	vauhti|hurjastelu	-	noun	2	-	-	-	-	-
 -	vauhti|hyppy	-	noun	1	pp:p	-	-	-	-
+-	vauhti|karkki	-	noun	5	kk:k	-	-	-	-
 -	vauhti|kävely	-	noun	2	-	-	-	-	-
 -	vauhti|mäki	-	noun	7	k:	-	-	-	-
 -	vauhti|pyörä	-	noun	10	-	-	-	-	-
@@ -105265,6 +105279,7 @@
 -	kissan|hännän|veto	-	noun	1	t:d	-	-	jocul	-
 -	kissan|raapima|tauti	-	noun	5	t:d	-	-	-	-
 -	kissan|silmä|ilmiö	-	noun	3	-	-	-	-	-
+-	kissan|tappo|video	-	noun	3	-	-	-	-	-
 -	kita|risa|tulehdus	-	noun	39	-	-	-	-	-
 -	kivi|erä|maa	-	noun	18	-	-	-	-	-
 -	kivi|harmo|sammal	-	noun	49	-	-	-	-	-
@@ -107596,6 +107611,7 @@
 -	ruohon|juuri|liike	-	noun	48	kk:k	-	-	-	-
 -	ruohon|juuri|taso	-	noun	1	-	-	-	-	-
 -	ruohon|leikkuu|kone	-	noun	48	-	-	-	-	-
+-	ruoka|osuus|kunta	-	noun	10	nt:nn	-	-	-	-
 -	ruoka|päivä|kirja	-	noun	9	-	-	-	-	-
 -	ruoka|salin|kalusto	-	noun	1	-	-	-	-	-
 -	ruoka|talouden|hoitaja	-	noun	10	-	-	-	-	-
@@ -111045,11 +111061,13 @@
 -	tukkilais|kisat	-	noun-pl	9	-	-	-	-	-
 -	tukki|pihdit	-	noun-pl	5	t:d	-	-	-	-
 -	tukki|sakset	-	noun-pl	7	-	-	-	-	-
+-	tunne|taidot	-	noun-pl	1	-	-	-	-	-
 -	tuomarin|ohjeet	-	noun-pl	48	-	-	-	-	-
 -	tuotanto|kustannukset	-	noun-pl	39	-	-	-	-	-
 -	tupaan|tuliaiset	-	noun-pl	38	-	-	-	-	-
 -	tupla|rattaat	-	noun-pl	41	tt:t	-	-	coll	-
 -	turpa|käräjät	-	noun-pl	10	-	-	-	jocul	-
+-	turva|takuut	-	noun-pl	17	-	-	-	-	-
 -	turva|valjaat	-	noun-pl	41	-	-	-	-	-
 -	turve|varat	-	noun-pl	9	-	-	-	-	-
 -	tuuli|olot	-	noun-pl	1	-	-	-	-	-
@@ -122206,6 +122224,7 @@
 -	hiili|hapottaa	-	verb	53	tt:t	-	-	-	-
 -	hohto|keilata	-	verb	73	-	-	-	-	-
 -	huomioon|ottaa	-	verb	53	tt:t	-	-	-	-
+-	huuli|synkata	-	verb	73	kk:k	-	-	-	-
 -	huuto|kaupata	-	verb	73	pp:p	-	-	-	-
 -	hyväksi|käyttää	-	verb	53	tt:t	-	-	-	-
 -	hyväksi|lukea	-	verb	58	k:	-	-	-	-
