@@ -265,6 +265,7 @@ def read_words():
 		'guesser.tsv',
 		'compound-only.tsv',
 		'participles.tsv',
+		'temporary.tsv', # FIXME!
 	]
 	filenames += glob(os.path.join(scripts_path, '..', 'lists', 'gaz-*.tsv'))
 	rows = [row for filename in filenames for row in read_tsv(filename, directory='lists')]
