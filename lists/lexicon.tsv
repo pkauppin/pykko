@@ -23392,6 +23392,7 @@
 -	autostrada	-	noun	9	-	-	-	coll	-
 -	autottomuus	-	noun	40	-	back	u	-	-
 -	autotypia	-	noun	12	-	back	a	-	-
+-	autsi	-	noun	5	-	-	-	dial|toponymy	1.000
 -	auttaja	-	noun	10	-	back	a	-	-
 -	auttavaisuus	-	noun	40	-	back	u	-	-
 -	autti	-	noun	5	tt:t	-	-	dial	-
@@ -27357,6 +27358,7 @@
 -	helleeni	-	noun	6	-	front	i	-	-
 -	hellenismi	-	noun	5	-	front	i	-	-
 -	hellenisti	-	noun	5	-	front	i	-	-
+-	helli	-	noun	5	-	-	-	dial|toponymy	1.000
 -	hellittämättömyys	-	noun	40	-	front	y	-	-
 -	helluntai	-	noun	18	-	back	i	-	-
 -	helluntailainen	-	noun	38	-	back	e	-	-
@@ -27847,6 +27849,7 @@
 -	holli	-	noun	5	-	back	i	coll	-
 -	hollolainen	-	noun	38	-	-	-	-	-
 -	hollolalainen	-	noun	38	-	-	-	-	-
+-	holma	-	noun	10	-	-	-	dial|toponymy	1.000
 -	holmium	-	noun	5	-	-	-	-	-
 -	holografia	-	noun	12	-	back	a	-	-
 -	hologrammi	-	noun	5	-	back	i	-	-
@@ -29797,6 +29800,7 @@
 -	jämä	-	noun	10	-	front	ä	coll	-
 -	jämäkkyys	-	noun	40	-	front	y	-	-
 -	jänis	-	noun	39	-	front	i	-	-
+-	jänkkä	-	noun	10	kk:k	-	-	dial|toponymy	1.000
 -	jänkä	-	noun	10	nk:ng	front	ä	-	-
 -	jänne	-	noun	48	nt:nn	front	e	-	-
 -	jännite	-	noun	48	tt:t	front	e	-	-
@@ -31335,6 +31339,7 @@
 -	kiekuna	-	noun	12	-	back	a	-	-
 -	kiekura	-	noun	12	-	back	a	-	-
 -	kielari	-	noun	6	-	-	-	slang	-
+-	kielas	-	noun	39	-	-	-	dial|toponymy	1.000
 -	kieleke	-	noun	48	kk:k	front	e	-	-
 -	kieli	-	noun	26	-	front	e	-	-
 -	kielijä	-	noun	12	-	front	ä	-	-
@@ -33182,6 +33187,7 @@
 -	kuolleisuus	-	noun	40	-	back	u	-	-
 -	kuollut	-	noun	47	-	-	-	-	-
 -	kuolo	-	noun	1	-	back	o	-	-
+-	kuolpuna	-	noun	12	-	-	-	dial|toponymy	1.000
 -	kuoma	-	noun	10	-	back	a	dated|jocul	-
 -	kuomu	-	noun	1	-	back	u	-	-
 -	kuona	-	noun	10	-	back	a	-	-
@@ -33273,6 +33279,7 @@
 -	kurki	-	noun	7	k:j	back	i	-	-
 -	kurkistelija	-	noun	12	-	back	a	-	-
 -	kurkistus	-	noun	39	-	back	u	-	-
+-	kurkkio	-	noun	3	-	-	-	dial|toponymy	1.000
 -	kurkku	-	noun	1	kk:k	back	u	-	-
 -	kurko	-	noun	1	-	back	o	coll	-
 -	kurkuma	-	noun	10	-	back	a	-	-
@@ -34129,6 +34136,7 @@
 -	lantio	-	noun	3	-	back	o	-	-
 -	lantrinki	-	noun	5	nk:ng	back	i	coll	-
 -	lantti	-	noun	5	tt:t	back	i	-	-
+-	lantto	-	noun	1	tt:t	-	-	dial|toponymy	1.000
 -	lanttu	-	noun	1	tt:t	back	u	-	-
 -	lanugo	-	noun	1	-	-	-	-	-
 -	lao	-	noun	1	-	-	-	-	-
@@ -35085,7 +35093,10 @@
 -	lomittaja	-	noun	10	-	back	a	-	-
 -	lomitus	-	noun	39	-	back	u	-	-
 -	lommo	-	noun	1	-	back	o	-	-
+-	lommol	-	noun	?49|5	-	-	-	dial|toponymy	1.000
 -	lompakko	-	noun	4	kk:k	back	o	-	-
+-	lompola	-	noun	12	-	-	-	dial|toponymy	1.000
+-	lompolo	-	noun	2	-	-	-	dial|toponymy	1.000
 -	lompsa	-	noun	10	-	back	a	slang	-
 -	lomélainen	-	noun	38	-	-	-	-	-
 -	long drink	-	noun	5	-	-	-	-	-
@@ -35947,6 +35958,7 @@
 -	marakassi	-	noun	5	-	back	i	-	-
 -	marakatti	-	noun	5	tt:t	back	i	-	-
 -	maraschino	-	noun	2	-	-	-	-	-
+-	marasto	-	noun	1	-	-	-	dial|toponymy	1.000
 -	marathi	-	noun	5	-	-	-	-	-
 -	maraton	-	noun	5	-	back	o	-	-
 -	maratoonari	-	noun	6	-	back	i	coll	-
@@ -35980,6 +35992,7 @@
 -	markkina	-	noun	12	-	back	a	-	-
 -	markkinoija	-	noun	10	-	back	a	-	-
 -	markkinointi	-	noun	5	nt:nn	back	i	-	-
+-	markku	-	noun	1	kk:k	-	-	dial|toponymy	1.000
 -	marksilainen	-	noun	38	-	-	-	-	-
 -	marksilaisuus	-	noun	40	-	back	u	-	-
 -	marksismi	-	noun	5	-	back	i	-	-
@@ -36065,6 +36078,7 @@
 -	masurkka	-	noun	14	kk:k	back	a	-	-
 -	masuuni	-	noun	5	-	back	i	-	-
 -	matadori	-	noun	5	-	back	i	-	-
+-	matala	-	noun	10	-	-	-	toponymy	-
 -	matalikko	-	noun	4	kk:k	back	o	-	-
 -	mataluus	-	noun	40	-	back	u	-	-
 -	matami	-	noun	5	-	back	i	dated	-
@@ -43522,6 +43536,7 @@
 -	saivartaja	-	noun	10	-	back	a	-	-
 -	saivartelija	-	noun	12	-	back	a	-	-
 -	saivartelu	-	noun	2	-	back	u	-	-
+-	saivo	-	noun	1	-	-	-	dial|toponymy	1.000
 -	saju	-	noun	1	-	back	u	dial	-
 -	sakaali	-	noun	6	-	back	i	-	-
 -	sakara	-	noun	12	-	back	a	-	-
@@ -47183,6 +47198,7 @@
 -	tietämä	-	noun	10	-	-	-	-	-
 -	tietämättömyys	-	noun	40	-	front	y	-	-
 -	tietävyys	-	noun	40	-	front	y	-	-
+-	tieva	-	noun	9	-	-	-	dial|toponymy	1.000
 -	tiff	-	noun	5B	-	-	-	abbr	-
 -	tiffany	-	noun	1	-	-	-	-	-
 -	tifo	-	noun	1	-	-	-	-	-
@@ -47579,6 +47595,7 @@
 -	touhuilu	-	noun	2	-	back	u	-	-
 -	touhukkuus	-	noun	40	-	back	u	-	-
 -	toukka	-	noun	10	kk:k	back	a	-	-
+-	toukki	-	noun	5	kk:k	-	-	dial|toponymy	1.000
 -	touko	-	noun	1	k:	back	o	-	-
 -	tournedos	-	noun	22|†5	-	back	o	-	-
 -	toutain	-	noun	33	-	back	i	-	-
@@ -50251,8 +50268,10 @@
 -	vuolin	-	noun	5	-	-	-	-	-
 -	vuolle	-	noun	48	lt:ll	back	e	-	-
 -	vuolu	-	noun	1	-	back	u	-	-
+-	vuoma	-	noun	10	-	-	-	dial|toponymy	1.000
 -	vuona	-	noun	10	-	back	a	-	-
 -	vuono	-	noun	1	-	back	o	-	-
+-	vuopio	-	noun	3	-	-	-	dial|toponymy	1.000
 -	vuoraus	-	noun	39	-	back	u	-	-
 -	vuori	1	noun	26	-	back	e	-	-
 -	vuori	2	noun	5|26	-	back	-	-	-
@@ -50794,6 +50813,7 @@
 -	äyskäri	-	noun	6	-	front	i	-	-
 -	äyskärillinen	-	noun	38	-	-	-	-	-
 -	äyskäröinti	-	noun	5	nt:nn	front	i	-	-
+-	äytsi	-	noun	5	-	-	-	dial|toponymy	1.000
 -	ää	-	noun	18	-	-	-	coll|non-compounding	-
 -	ääkkönen	-	noun	38	-	front	e	-	-
 -	ääliö	-	noun	3	-	front	ö	coll	-
