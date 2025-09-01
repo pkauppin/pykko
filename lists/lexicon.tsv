@@ -14870,6 +14870,8 @@
 -	alemma	-	adverb	-	-	-	-	-	-
 -	alemmaksi	-	adverb	-	-	-	-	-	-
 -	alemmas	-	adverb	-	-	-	-	-	-
+-	alemmillaan	-	adverb	-	-	-	-	+poss|nstd	-
+-	alemmilleen	-	adverb	-	-	-	-	+poss|nstd	-
 -	alempaa	-	adverb	-	-	-	-	-	-
 -	alempana	-	adverb	-	-	-	-	-	-
 -	alentuvaisesti	-	adverb	-	-	-	-	-	-
@@ -14887,10 +14889,6 @@
 -	alimmas	-	adverb	-	-	-	-	-	-
 -	alimmillaan	-	adverb	-	-	-	-	+poss	-
 -	alimmilleen	-	adverb	-	-	-	-	+poss	-
--	alemmillaan	-	adverb	-	-	-	-	+poss|nstd	-
--	alemmilleen	-	adverb	-	-	-	-	+poss|nstd	-
--	enimmillään	-	adverb	-	-	-	-	+poss	-
--	enemmillään	-	adverb	-	-	-	-	+poss|nstd	-
 -	alimpana	-	adverb	-	-	-	-	-	-
 -	alitse	-	adverb	-	-	-	-	-	-
 -	alituiseen	-	adverb	-	-	-	-	-	-
@@ -15155,11 +15153,13 @@
 -	emäksisesti	-	adverb	-	-	-	-	-	-
 -	endeemisesti	-	adverb	-	-	-	-	-	-
 -	endokrinologisesti	-	adverb	-	-	-	-	-	-
+-	enemmillään	-	adverb	-	-	-	-	+poss|nstd	-
 -	enemmälti	-	adverb	-	-	-	-	-	-
 -	enemmän	-	adverb	-	-	-	-	-	-
 -	enempää	-	adverb	-	-	-	-	-	-
 -	enenevästi	-	adverb	-	-	-	-	-	-
 -	energisesti	-	adverb	-	-	-	-	-	-
+-	enimmillään	-	adverb	-	-	-	-	+poss	-
 -	enimmin	-	adverb	-	-	-	-	-	-
 -	enimmiten	-	adverb	-	-	-	-	-	-
 -	enimmäkseen	-	adverb	-	-	-	-	-	-
@@ -17362,7 +17362,6 @@
 -	parhaiksi	-	adverb	-	-	-	-	-	-
 -	parhaillaan	-	adverb	-	-	-	-	+poss	-
 -	parhaimmillaan	-	adverb	-	-	-	-	+poss	-
--	suurimmillaan	-	adverb	-	-	-	-	+poss	-
 -	parhaimmin	-	adverb	-	-	-	-	-	-
 -	parhaiten	-	adverb	-	-	-	-	-	-
 -	parittain	-	adverb	-	-	-	-	-	-
@@ -18352,6 +18351,7 @@
 -	suurellisesti	-	adverb	-	-	-	-	-	-
 -	suurenmoisesti	-	adverb	-	-	-	-	-	-
 -	suuresti	-	adverb	-	-	-	-	-	-
+-	suurimmillaan	-	adverb	-	-	-	-	+poss	-
 -	suutuksiin	-	adverb	-	-	-	-	-	-
 -	suutuksissa	-	adverb	-	-	-	-	-	-
 -	suutuksissaan	-	adverb	-	-	-	-	+poss	-
@@ -27360,6 +27360,7 @@
 -	hellenismi	-	noun	5	-	front	i	-	-
 -	hellenisti	-	noun	5	-	front	i	-	-
 -	helli	-	noun	5	-	-	-	dial|toponymy	1.000
+-	helli	-	noun	5	-	-	-	dial|toponymy	1.000
 -	hellittämättömyys	-	noun	40	-	front	y	-	-
 -	helluntai	-	noun	18	-	back	i	-	-
 -	helluntailainen	-	noun	38	-	back	e	-	-
@@ -34138,8 +34139,6 @@
 -	lantrinki	-	noun	5	nk:ng	back	i	coll	-
 -	lantti	-	noun	5	tt:t	back	i	-	-
 -	lantto	-	noun	1	tt:t	-	-	dial|toponymy	1.000
--	skaiti	-	noun	5	t:d	-	-	dial|toponymy	1.000
--	helli	-	noun	5	-	-	-	dial|toponymy	1.000
 -	lanttu	-	noun	1	tt:t	back	u	-	-
 -	lanugo	-	noun	1	-	-	-	-	-
 -	lao	-	noun	1	-	-	-	-	-
@@ -44749,6 +44748,7 @@
 -	skaalautuvuus	-	noun	40	-	-	-	-	-
 -	skaba	-	noun	9	-	back	a	slang	-
 -	skagenröra	-	noun	10	-	-	-	foreign	-
+-	skaiti	-	noun	5	t:d	-	-	dial|toponymy	1.000
 -	skalaari	-	noun	6	-	-	-	-	-
 -	skaldi	-	noun	5	-	-	-	-	-
 -	skalpeeraus	-	noun	39	-	back	u	-	-
@@ -51252,6 +51252,7 @@
 -	YT-neuvottelu	-	noun	2	-	-	-	-	-
 -	YTA-alue	-	noun	48	-	-	-	-	-
 -	YTA-neuvottelu	-	noun	2	-	-	-	-	-
+-	aamu-tv	-	noun	18B	-	-	-	-	-
 -	aamu-unisuus	-	noun	40	-	-	-	-	-
 -	action-peli	-	noun	5	-	-	-	coll	-
 -	adoptio-oikeus	-	noun	40	-	-	-	-	-
@@ -71520,6 +71521,7 @@
 -	lento|yhtiö	-	noun	3	-	-	-	-	-
 -	lentäjän|lakki	-	noun	5	kk:k	-	-	-	-
 -	lentäjän|takki	-	noun	5	kk:k	-	-	-	-
+-	lentävä|koira	-	noun	10	-	-	-	-	-
 -	leopardi|monninen	-	noun	38	-	-	-	-	-
 -	lepakko|laji	-	noun	5	-	-	-	-	-
 -	lepakko|tuoli	-	noun	5	-	-	-	-	-
@@ -74262,6 +74264,7 @@
 -	mahti|mies	-	noun	42	-	-	-	-	-
 -	mahti|pontisuus	-	noun	40	-	-	-	-	-
 -	mahti|sana	-	noun	9	-	-	-	-	-
+-	mahti|sonni	-	noun	5	-	-	-	coll	-
 -	mahti|suku	-	noun	1	k:v	-	-	-	-
 -	mahti|tekijä	-	noun	12	-	-	-	-	-
 -	mahto|tapa	-	noun	9	p:v	-	-	dated	-
@@ -98227,6 +98230,7 @@
 -	vaihto|penkki	-	noun	5	kk:k	-	-	-	-
 -	vaihto|piiri	-	noun	5	-	-	-	-	-
 -	vaihto|pullo	-	noun	1	-	-	-	-	-
+-	vaihto|pää	-	noun	18	-	-	-	-	-
 -	vaihto|raha	-	noun	9	-	-	-	-	-
 -	vaihto|reaktio	-	noun	3	-	-	-	-	-
 -	vaihto|suhde	-	noun	48	t:d	-	-	-	-
@@ -100884,6 +100888,7 @@
 -	viini|tarhuri	-	noun	6	-	-	-	-	-
 -	viini|tila	-	noun	9	-	-	-	-	-
 -	viini|tilkka	-	noun	9	kk:k	-	-	-	-
+-	viini|tonkka	-	noun	10	kk:k	-	-	-	-
 -	viini|tynnyri	-	noun	6	-	-	-	-	-
 -	viini|vaahto	-	noun	1	t:d	-	-	-	-
 -	viini|viljelmä	-	noun	10	-	-	-	-	-
@@ -104830,6 +104835,7 @@
 -	isotooppi|miktio|kystografia	-	noun	12	-	-	-	-	-
 -	iso|hirven|jäkälä	-	noun	10	-	-	-	-	-
 -	iso|käpy|lintu	-	noun	1	nt:nn	-	-	-	-
+-	iso|lentävä|koira	-	noun	10	-	-	-	-	-
 -	iso|lyhty|koiso	-	noun	1	-	-	-	-	-
 -	iso|maksa|ruoho	-	noun	1	-	-	-	-	-
 -	iso|pistooli|ammunta	-	noun	9	nt:nn	-	-	-	-
@@ -104862,7 +104868,6 @@
 -	itse|säilytys|vietti	-	noun	5	tt:t	-	-	-	-
 -	itse|tuho|käyttäytyminen	-	noun	38	-	-	-	-	-
 -	itu|solu|kasvain	-	noun	33	-	-	-	-	-
--	itäinen%kreikan|kilpikonna	-	noun	10	-	-	-	-	-
 -	itä|meren|norppa	-	noun	10	pp:p	-	-	-	-
 -	itä|meren|suomalainen	-	noun	38	-	-	-	-	-
 -	itä|meren|suomi	-	noun	7	-	-	-	-	-
@@ -110167,7 +110172,6 @@
 -	kuiva%kausi	-	noun	27	-	-	-	nstd	-
 -	kultainen%noutaja	-	noun	10	-	-	-	-	-
 -	lentävä%koira	-	noun	10	-	-	-	-	-
--	lentävä|koira	-	noun	10	-	-	-	-	-
 -	lämmin%ruoka	-	noun	10	uok:uu|k:	-	-	-	-
 -	musta%leipä	-	noun	10	p:v	-	-	-	-
 -	musta%leski	-	noun	7	-	-	-	-	-
@@ -110211,7 +110215,7 @@
 -	vanha%poika	-	noun	10	ik:j	-	-	-	-
 -	comoron|lentävä%koira	-	noun	10	-	-	-	-	-
 -	iso|lentävä%koira	-	noun	10	-	-	-	-	-
--	iso|lentävä|koira	-	noun	10	-	-	-	-	-
+-	itäinen%kreikan|kilpikonna	-	noun	10	-	-	-	-	-
 -	musta%viini|marja	-	noun	9	-	-	-	-	-
 -	afterworkit	-	noun-pl	5	kk:k	-	-	-	-
 -	aivot	-	noun-pl	1	-	back	o	-	-
@@ -110240,6 +110244,7 @@
 -	caprit	-	noun-pl	5	-	back	i	-	-
 -	chinot	-	noun-pl	1	-	back	o	-	-
 -	converset	-	noun-pl	8	-	-	-	-	-
+-	dekot	-	noun-pl	1	-	-	-	slang	-
 -	dongarit	-	noun-pl	6	-	back	i	slang	-
 -	elkeet	-	noun-pl	18	k:j	front	e	-	-
 -	epäkkäät	-	noun-pl	41	kk:k	-	-	-	-
@@ -110521,6 +110526,7 @@
 -	vibat	-	noun-pl	9	-	-	-	-	-
 -	vihkiäiset	-	noun-pl	38	-	front	e	-	-
 -	viinakset	-	noun-pl	39	-	back	e	-	-
+-	visut	-	noun-pl	1	-	-	-	slang	-
 -	vyötäiset	-	noun-pl	38	-	front	e	-	-
 -	väittäjäiset	-	noun-pl	38	-	front	e	-	-
 -	vällyt	-	noun-pl	1	-	front	y	-	-
@@ -112112,6 +112118,7 @@
 -	dominoida	-	verb	62	-	back	-	-	-
 -	donkata	-	verb	73	kk:k	back	-	coll	-
 -	doupata	-	verb	73	pp:p	back	-	coll	-
+-	downloadata	-	verb	73	-	back	-	slang	-
 -	downshiftata	-	verb	73	-	-	-	-	-
 -	dramatisoida	-	verb	62	-	back	-	-	-
 -	drapeerata	-	verb	73	-	back	-	-	-
@@ -112301,7 +112308,6 @@
 -	farmata	-	verb	73	-	-	-	slang	-
 -	fasilitoida	-	verb	62	-	-	-	-	-
 -	fasinoida	-	verb	62	-	-	-	-	-
--	downloadata	-	verb	73	-	back	-	slang	-
 -	feidata	-	verb	73	-	back	-	slang	-
 -	feikata	-	verb	73	kk:k	back	-	slang	-
 -	feilata	-	verb	73	-	back	-	slang	-
@@ -122732,9 +122738,3 @@
 -	moni|tuhat|kertaistaa	-	verb	53	-	-	-	-	-
 -	pää|oma|valtaistua	-	verb	52	-	-	-	-	-
 -	väärin|suku|puolittaa	-	verb	53	tt:t	-	-	-	-
--	vaihto|pää	-	noun	18	-	-	-	-	-
--	viini|tonkka	-	noun	10	kk:k	-	-	-	-
--	dekot	-	noun-pl	1	-	-	-	slang	-
--	visut	-	noun-pl	1	-	-	-	slang	-
--	mahti|sonni	-	noun	5	-	-	-	coll	-
--	aamu-tv	-	noun	18B	-	-	-	-	-

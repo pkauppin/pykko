@@ -50,6 +50,7 @@
 -	Aigner	-	proper	6	-	-	-	-	-
 -	Aikio	-	proper	3	-	-	-	-	-
 -	Ailus	-	proper	39	-	-	-	-	-
+-	Ainali	-	proper	6	-	-	-	-	-
 -	Airaksinen	-	proper	38	-	-	-	-	-
 -	Airamo	-	proper	2	-	-	-	-	-
 -	Airas	-	proper	39	-	-	-	-	-
@@ -1047,6 +1048,7 @@
 -	Hahn	-	proper	5	-	-	-	-	-
 -	Haider	-	proper	?6	-	-	-	-	-
 -	Haikala	-	proper	12	-	-	-	-	-
+-	Haikka	-	proper	9	kk:k	-	-	-	-
 -	Haikonen	-	proper	38	-	-	-	-	-
 -	Haimi	-	proper	5	-	-	-	-	-
 -	Hakala	-	proper	12	-	-	-	-	-
@@ -1271,6 +1273,7 @@
 -	Honka	-	proper	10	-	-	-	-	-
 -	Honkala	-	proper	12	-	-	-	-	-
 -	Honkanen	-	proper	38	-	-	-	-	-
+-	Honkola	-	proper	12	-	-	-	-	-
 -	Honkonen	-	proper	38	-	-	-	-	-
 -	Hooper	-	proper	6	-	-	-	-	-
 -	Hopkins	-	proper	5	-	-	-	-	-
@@ -1355,6 +1358,7 @@
 -	Hägglund	-	proper	5	-	-	-	-	-
 -	Häggman	-	proper	5	-	-	-	-	-
 -	Häikiö	-	proper	3	-	-	-	-	-
+-	Häkkilä	-	proper	12	-	-	-	-	-
 -	Häkkinen	-	proper	38	-	-	-	-	-
 -	Häkkänen	-	proper	38	-	-	-	-	-
 -	Hällström	-	proper	5	-	-	-	-	-
@@ -1386,6 +1390,7 @@
 -	Iglesias	-	proper	5	-	-	-	-	-
 -	Ignatius	-	proper	39	-	-	-	-	-
 -	Ignatjev	-	proper	5	-	-	-	-	-
+-	Ihala	-	proper	12	-	-	-	-	-
 -	Ihalainen	-	proper	38	-	-	-	-	-
 -	Ihanus	-	proper	39	-	-	-	-	-
 -	Iisalo	-	proper	2	-	-	-	-	-
@@ -1521,6 +1526,7 @@
 -	Jurvelin	-	proper	5	-	-	-	-	-
 -	Jussila	-	proper	12	-	-	-	-	-
 -	Jutila	-	proper	12	-	-	-	-	-
+-	Juurakko	-	proper	4	kk:k	-	-	-	-
 -	Juurikkala	-	proper	12	-	-	-	-	-
 -	Juusela	-	proper	13	-	-	-	-	-
 -	Juutilainen	-	proper	38	-	-	-	-	-
@@ -1530,6 +1536,7 @@
 -	Juštšenko	-	proper	1	-	-	-	-	-
 -	Jylhä	-	proper	10	-	-	-	-	-
 -	Jyrkinen	-	proper	38	-	-	-	-	-
+-	Jyrkkä	-	proper	10	kk:k	-	-	-	-
 -	Jägerhorn	-	proper	5	-	-	-	-	-
 -	Jämsä	-	proper	10	-	-	-	-	-
 -	Jämsén	-	proper	5	-	-	-	-	-
@@ -1565,6 +1572,7 @@
 -	Kainulainen	-	proper	38	-	-	-	-	-
 -	Kainz	-	proper	5	-	-	-	-	-
 -	Kaipainen	-	proper	38	-	-	-	-	-
+-	Kaitainen	-	proper	38	-	-	-	-	-
 -	Kaitila	-	proper	13	-	-	-	-	-
 -	Kaivola	-	proper	12	-	-	-	-	-
 -	Kajander	-	proper	6	-	-	-	-	-
@@ -1629,6 +1637,7 @@
 -	Karvinen	-	proper	38	-	-	-	-	-
 -	Karvonen	-	proper	38	-	-	-	-	-
 -	Kasai	-	proper	18	-	-	-	-	-
+-	Kaskela	-	proper	13	-	-	-	-	-
 -	Kaski	-	proper	5	-	-	-	-	-
 -	Kaskinen	-	proper	38	-	-	-	-	-
 -	Kassila	-	proper	13	-	-	-	-	-
@@ -1696,6 +1705,7 @@
 -	Khomeini	-	proper	5	-	-	-	-	-
 -	Kianto	-	proper	1	nt:nn	-	-	-	-
 -	Kielland	-	proper	5	-	-	-	-	-
+-	Kiiala	-	proper	9	-	-	-	-	-
 -	Kiiski	-	proper	7	-	-	-	-	-
 -	Kiiskilä	-	proper	12	-	-	-	-	-
 -	Kiiskinen	-	proper	38	-	-	-	-	-
@@ -1705,6 +1715,7 @@
 -	Kilpeläinen	-	proper	38	-	-	-	-	-
 -	Kilpi	-	proper	5	-	-	-	-	-
 -	Kilpinen	-	proper	38	-	-	-	-	-
+-	Kilpiäinen	-	proper	38	-	-	-	-	-
 -	Kimiläinen	-	proper	38	-	-	-	-	-
 -	Kimpinen	-	proper	38	-	-	-	-	-
 -	Kimura	-	proper	10	-	-	-	-	-
@@ -1789,6 +1800,7 @@
 -	Konttinen	-	proper	38	-	-	-	-	-
 -	Kopitar	-	proper	?6	-	-	-	-	-
 -	Koponen	-	proper	38	-	-	-	-	-
+-	Koppelo	-	proper	2	-	-	-	-	-
 -	Kopra	-	proper	10	-	-	-	-	-
 -	Koren	-	proper	?6	-	-	-	-	-
 -	Korhonen	-	proper	38	-	-	-	-	-
@@ -1815,6 +1827,7 @@
 -	Kosunen	-	proper	38	-	-	-	-	-
 -	Kothen	-	proper	?6	-	-	-	-	-
 -	Kotilainen	-	proper	38	-	-	-	-	-
+-	Kotola	-	proper	12	-	-	-	-	-
 -	Kotro	-	proper	1	-	-	-	-	-
 -	Kottonen	-	proper	38	-	-	-	-	-
 -	Kouchner	-	proper	6	-	-	-	-	-
@@ -1895,15 +1908,18 @@
 -	Kurki	-	proper	7	k:j	-	-	-	-
 -	Kurkinen	-	proper	38	-	-	-	-	-
 -	Kuronen	-	proper	38	-	-	-	-	-
+-	Kurtakko	-	proper	4	kk:k	-	-	-	-
 -	Kurttila	-	proper	13	-	-	-	-	-
 -	Kurvinen	-	proper	38	-	-	-	-	-
 -	Kurz	-	proper	5	-	-	-	-	-
 -	Kushner	-	proper	6	-	-	-	-	-
+-	Kutila	-	proper	13	-	-	-	-	-
 -	Kutsherov	-	proper	5	-	-	-	-	-
 -	Kuukka	-	proper	10	kk:k	-	-	-	-
 -	Kuula	-	proper	10	-	-	-	-	-
 -	Kuusela	-	proper	12	-	-	-	-	-
 -	Kuusi	-	proper	5	-	-	-	-	-
+-	Kuusikko	-	proper	4	kk:k	-	-	-	-
 -	Kuusinen	-	proper	38	-	-	-	-	-
 -	Kuusisto	-	proper	1	-	-	-	-	-
 -	Kuustonen	-	proper	38	-	-	-	-	-
@@ -1931,6 +1947,7 @@
 -	Kärkinen	-	proper	38	-	-	-	-	-
 -	Kärkkäinen	-	proper	38	-	-	-	-	-
 -	Kärnä	-	proper	10	-	-	-	-	-
+-	Kärppä	-	proper	10	pp:p	-	-	-	-
 -	Kärävä	-	proper	10	-	-	-	-	-
 -	Kätkä	-	proper	10	-	-	-	-	-
 -	Käyhkö	-	proper	?21	-	-	-	-	-
@@ -1997,12 +2014,14 @@
 -	Lasker	-	proper	6	-	-	-	-	-
 -	Lassen	-	proper	?6	-	-	-	-	-
 -	Lassila	-	proper	12	-	-	-	-	-
+-	Lastunen	-	proper	38	-	-	-	-	-
 -	Latainen	-	proper	38	-	-	-	-	-
 -	Lattu	-	proper	1	tt:t	-	-	-	-
 -	Latvala	-	proper	12	-	-	-	-	-
 -	Lauda	-	proper	9	-	-	-	-	-
 -	Laudrup	-	proper	5	-	-	-	-	-
 -	Laukka	-	proper	9	kk:k	-	-	-	-
+-	Laukkala	-	proper	12	-	-	-	-	-
 -	Laukkanen	-	proper	38	-	-	-	-	-
 -	Launis	-	proper	39	-	-	-	-	-
 -	Launonen	-	proper	38	-	-	-	-	-
@@ -2037,6 +2056,7 @@
 -	Leimu	-	proper	1	-	-	-	-	-
 -	Leinen	-	proper	5	-	-	-	-	-
 -	Leino	-	proper	1	-	-	-	-	-
+-	Leinola	-	proper	12	-	-	-	-	-
 -	Leinonen	-	proper	38	-	-	-	-	-
 -	Leitner	-	proper	6	-	-	-	-	-
 -	Leivo	-	proper	1	-	-	-	-	-
@@ -2060,6 +2080,7 @@
 -	Leskelä	-	proper	12	-	-	-	-	-
 -	Leskinen	-	proper	38	-	-	-	-	-
 -	Lestadius	-	proper	39	-	-	-	-	-
+-	Leutola	-	proper	12	-	-	-	-	-
 -	Levengood	-	proper	5	-	-	-	-	-
 -	Levi	-	proper	5	-	-	-	-	-
 -	Levine	-	proper	8	-	-	-	-	-
@@ -2164,6 +2185,7 @@
 -	Ludwig	-	proper	5	-	-	-	-	-
 -	Luhrmann	-	proper	5	-	-	-	-	-
 -	Luik	-	proper	5	-	-	-	-	-
+-	Luiro	-	proper	1	-	-	-	-	-
 -	Lukašenka	-	proper	9	-	-	-	-	-
 -	Lukka	-	proper	10	kk:k	-	-	-	-
 -	Lukkari	-	proper	6	-	-	-	-	-
@@ -2275,6 +2297,7 @@
 -	Marin	-	proper	5	-	-	-	-	-
 -	Marini	-	proper	?6	-	-	-	-	-
 -	Marinov	-	proper	5	-	-	-	-	-
+-	Marjala	-	proper	12	-	-	-	-	-
 -	Marjanen	-	proper	38	-	-	-	-	-
 -	Markkanen	-	proper	38	-	-	-	-	-
 -	Markkula	-	proper	12	-	-	-	-	-
@@ -2361,6 +2384,7 @@
 -	Mendoza	-	proper	10	-	-	-	-	-
 -	Mendy	-	proper	1	-	-	-	-	-
 -	Mennander	-	proper	5	-	-	-	-	-
+-	Mentula	-	proper	12	-	-	-	-	-
 -	Menéndez	-	proper	5	-	-	-	-	-
 -	Mercier	-	proper	22|5	-	-	-	-	-
 -	Merilä	-	proper	12	-	-	-	-	-
@@ -2379,6 +2403,7 @@
 -	Mihailov	-	proper	5	-	-	-	-	-
 -	Mikkelsen	-	proper	?6	-	-	-	-	-
 -	Mikkelsson	-	proper	5	-	-	-	-	-
+-	Mikkelä	-	proper	12	-	-	-	-	-
 -	Mikkola	-	proper	12	-	-	-	-	-
 -	Mikkolainen	-	proper	38	-	-	-	-	-
 -	Mikkonen	-	proper	38	-	-	-	-	-
@@ -2432,6 +2457,7 @@
 -	Monteiro	-	proper	1	-	-	-	-	-
 -	Montgomery	-	proper	1	-	-	-	-	-
 -	Monti	-	proper	5	-	-	-	-	-
+-	Montola	-	proper	12	-	-	-	-	-
 -	Montonen	-	proper	38	-	-	-	-	-
 -	Moore	-	proper	8	-	-	-	-	-
 -	Morais	-	proper	5	-	-	-	-	-
@@ -2491,6 +2517,7 @@
 -	Myrberg	-	proper	5	-	-	-	-	-
 -	Myyryläinen	-	proper	38	-	-	-	-	-
 -	Márquez	-	proper	5	-	-	-	-	-
+-	Mäentaka	-	proper	9	-	-	-	-	-
 -	Mägi	-	proper	5	-	-	-	-	-
 -	Mähönen	-	proper	38	-	-	-	-	-
 -	Mäkelä	-	proper	12	-	-	-	-	-
@@ -2507,6 +2534,7 @@
 -	Mäntylä	-	proper	12	-	-	-	-	-
 -	Mäntynen	-	proper	38	-	-	-	-	-
 -	Määttä	-	proper	10	tt:t	-	-	-	-
+-	Määttälä	-	proper	12	-	-	-	-	-
 -	Määttänen	-	proper	38	-	-	-	-	-
 -	Månsson	-	proper	5	-	-	-	-	-
 -	Mårtenson	-	proper	6	-	-	-	-	-
@@ -2700,6 +2728,7 @@
 -	Olofsson	-	proper	5	-	-	-	-	-
 -	Olsen	-	proper	?6	-	-	-	-	-
 -	Olsson	-	proper	5	-	-	-	-	-
+-	Omenainen	-	proper	38	-	-	-	rare	-
 -	Onerva	-	proper	9	-	-	-	-	-
 -	Oostlander	-	proper	?6	-	-	-	-	-
 -	Oppenheimer	-	proper	?6	-	-	-	-	-
@@ -2762,6 +2791,7 @@
 -	Palola	-	proper	12	-	-	-	-	-
 -	Palonen	-	proper	38	-	-	-	-	-
 -	Papayannakis	-	proper	5|†39	-	-	-	-	-
+-	Pappila	-	proper	13	-	-	-	-	-
 -	Parikka	-	proper	14	kk:k	-	-	-	-
 -	Parisi	-	proper	5	-	-	-	-	-
 -	Parkatti	-	proper	5	tt:t	-	-	-	-
@@ -2801,6 +2831,7 @@
 -	Pellegrini	-	proper	?6	-	-	-	-	-
 -	Pelli	-	proper	5	-	-	-	-	-
 -	Pellikka	-	proper	14	kk:k	-	-	-	-
+-	Pellilä	-	proper	12	-	-	-	-	-
 -	Pellinen	-	proper	38	-	-	-	-	-
 -	Pelo	-	proper	1	-	-	-	-	-
 -	Pelosi	-	proper	5	-	-	-	-	-
@@ -2818,6 +2849,7 @@
 -	Penttinen	-	proper	38	-	-	-	-	-
 -	Pereira	-	proper	9	-	-	-	-	-
 -	Perez	-	proper	5	-	-	-	-	-
+-	Perkiö	-	proper	3	-	-	-	-	-
 -	Perko	-	proper	1	-	-	-	-	-
 -	Perrin	-	proper	5	-	-	-	-	-
 -	Perry	-	proper	1	-	-	-	-	-
@@ -2846,6 +2878,7 @@
 -	Pettersson	-	proper	5	-	-	-	-	-
 -	Petäjä	-	proper	?10	-	-	-	-	-
 -	Peura	-	proper	9	-	-	-	-	-
+-	Peurala	-	proper	12	-	-	-	-	-
 -	Peyron	-	proper	?6	-	-	-	-	-
 -	Phelps	-	proper	5	-	-	-	-	-
 -	Philippe	-	proper	8	-	-	-	-	-
@@ -2867,6 +2900,7 @@
 -	Piirainen	-	proper	38	-	-	-	-	-
 -	Piiroinen	-	proper	38	-	-	-	-	-
 -	Piironen	-	proper	38	-	-	-	-	-
+-	Piispala	-	proper	12	-	-	-	-	-
 -	Piispanen	-	proper	38	-	-	-	-	-
 -	Piitulainen	-	proper	38	-	-	-	-	-
 -	Pikkarainen	-	proper	38	-	-	-	-	-
@@ -2936,6 +2970,7 @@
 -	Pumpanen	-	proper	38	-	-	-	-	-
 -	Punkari	-	proper	?6	-	-	-	-	-
 -	Puolakka	-	proper	14	kk:k	-	-	-	-
+-	Puotila	-	proper	13	-	-	-	-	-
 -	Puranen	-	proper	38	-	-	-	-	-
 -	Purcell	-	proper	5	-	-	-	-	-
 -	Puro	-	proper	1	-	-	-	-	-
@@ -2953,6 +2988,7 @@
 -	Puurula	-	proper	12	-	-	-	-	-
 -	Puurunen	-	proper	38	-	-	-	-	-
 -	Puustinen	-	proper	38	-	-	-	-	-
+-	Pyhältö	-	proper	1	lt:ll	-	-	-	-
 -	Pyhälä	-	proper	12	-	-	-	-	-
 -	Pylkkänen	-	proper	38	-	-	-	-	-
 -	Pynnönen	-	proper	38	-	-	-	-	-
@@ -2972,6 +3008,7 @@
 -	Pöllänen	-	proper	38	-	-	-	-	-
 -	Pölönen	-	proper	38	-	-	-	-	-
 -	Pöntinen	-	proper	38	-	-	-	-	-
+-	Pöyhölä	-	proper	12	-	-	-	-	-
 -	Pöyhönen	-	proper	38	-	-	-	-	-
 -	Pöysti	-	proper	5	-	-	-	-	-
 -	Quinn	-	proper	5	-	-	-	-	-
@@ -3067,6 +3104,7 @@
 -	Richthofen	-	proper	?6	-	-	-	-	-
 -	Riemann	-	proper	5	-	-	-	-	-
 -	Rihanna	-	proper	13	-	-	-	-	-
+-	Riihelä	-	proper	12	-	-	-	-	-
 -	Riikola	-	proper	?12|10	-	-	-	-	-
 -	Riikonen	-	proper	38	-	-	-	-	-
 -	Riipinen	-	proper	38	-	-	-	-	-
@@ -3085,6 +3123,7 @@
 -	Ristolainen	-	proper	38	-	-	-	-	-
 -	Ritola	-	proper	12	-	-	-	-	-
 -	Ritter	-	proper	6	-	-	-	-	-
+-	Riuttanen	-	proper	38	-	-	-	-	-
 -	Rivera	-	proper	13	-	-	-	-	-
 -	Robb	-	proper	5	-	-	-	-	-
 -	Robert	-	proper	5	-	-	-	-	-
@@ -3176,6 +3215,7 @@
 -	Rydman	-	proper	5	-	-	-	-	-
 -	Ryhänen	-	proper	38	-	-	-	-	-
 -	Ryti	-	proper	5	t:d	-	-	-	-
+-	Rytky	-	proper	1	-	-	-	-	-
 -	Rytkönen	-	proper	38	-	-	-	-	-
 -	Ryynänen	-	proper	38	-	-	-	-	-
 -	Ryytty	-	proper	1	tt:t	-	-	-	-
@@ -3195,6 +3235,7 @@
 -	Rönkä	-	proper	10	-	-	-	-	-
 -	Rönnholm	-	proper	5	-	-	-	-	-
 -	Röyhkä	-	proper	10	-	-	-	-	-
+-	Röyttä	-	proper	10	tt:t	-	-	-	-
 -	Rønning	-	proper	5	-	-	-	-	-
 -	Saakašvili	-	proper	6	-	-	-	-	-
 -	Saapunki	-	proper	5	-	-	-	-	-
@@ -3252,6 +3293,7 @@
 -	Sannikka	-	proper	14	kk:k	-	-	-	-
 -	Santala	-	proper	12	-	-	-	-	-
 -	Santana	-	proper	13	-	-	-	-	-
+-	Santonen	-	proper	38	-	-	-	-	-
 -	Santos	-	proper	39	-	-	-	-	-
 -	Sanz	-	proper	5	-	-	-	-	-
 -	Sarajas	-	proper	39	-	-	-	-	-
@@ -3425,6 +3467,7 @@
 -	Solovjov	-	proper	5	-	-	-	-	-
 -	Sonck	-	proper	5	-	-	-	-	-
 -	Sopanen	-	proper	38	-	-	-	-	-
+-	Soppela	-	proper	13	-	-	-	-	-
 -	Sormunen	-	proper	38	-	-	-	-	-
 -	Sorrius	-	proper	39	-	-	-	-	-
 -	Sorsa	-	proper	10	-	-	-	-	-
@@ -3514,6 +3557,7 @@
 -	Sundqvist	-	proper	5	-	-	-	-	-
 -	Sundström	-	proper	5	-	-	-	-	-
 -	Suni	-	proper	5	-	-	-	-	-
+-	Sunila	-	proper	13	-	-	-	-	-
 -	Suninen	-	proper	38	-	-	-	-	-
 -	Suokas	-	proper	41	kk:k	-	-	-	-
 -	Suomalainen	-	proper	38	-	-	-	-	-
@@ -3570,6 +3614,7 @@
 -	Takeda	-	proper	9	-	-	-	-	-
 -	Takeuchi	-	proper	5	-	-	-	-	-
 -	Takkinen	-	proper	38	-	-	-	-	-
+-	Takkula	-	proper	12	-	-	-	-	-
 -	Takács	-	proper	5	-	-	-	-	-
 -	Talbot	-	proper	5	-	-	-	-	-
 -	Tallberg	-	proper	5	-	-	-	-	-
@@ -3593,6 +3638,7 @@
 -	Tarkiainen	-	proper	38	-	-	-	-	-
 -	Tarkka	-	proper	9	kk:k	-	-	-	-
 -	Tarkki	-	proper	5	kk:k	-	-	-	-
+-	Tarkkinen	-	proper	38	-	-	-	-	-
 -	Tarrant	-	proper	5	-	-	-	-	-
 -	Tarvainen	-	proper	38	-	-	-	-	-
 -	Taskila	-	proper	13	-	-	-	-	-
@@ -3611,6 +3657,8 @@
 -	Tella	-	proper	9	-	-	-	-	-
 -	Tenhunen	-	proper	38	-	-	-	-	-
 -	Tenkanen	-	proper	38	-	-	-	-	-
+-	Tennilä	-	proper	12	-	-	-	-	-
+-	Tepsa	-	proper	9	-	-	-	-	-
 -	Terho	-	proper	1	-	-	-	-	-
 -	Tervo	-	proper	1	-	-	-	-	-
 -	Tervonen	-	proper	38	-	-	-	-	-
@@ -3632,6 +3680,7 @@
 -	Thyssen	-	proper	6	-	-	-	-	-
 -	Tiainen	-	proper	38	-	-	-	-	-
 -	Tigerstedt	-	proper	5	-	-	-	-	-
+-	Tihilä	-	proper	12	-	-	-	-	-
 -	Tihinen	-	proper	38	-	-	-	-	-
 -	Tihonov	-	proper	5	-	-	-	-	-
 -	Tiihonen	-	proper	38	-	-	-	-	-
@@ -3701,11 +3750,13 @@
 -	Tuompo	-	proper	1	-	-	-	-	-
 -	Tuononen	-	proper	38	-	-	-	-	-
 -	Tuorila	-	proper	13	-	-	-	-	-
+-	Tuovila	-	proper	13	-	-	-	-	-
 -	Tuovinen	-	proper	38	-	-	-	-	-
 -	Tuppurainen	-	proper	38	-	-	-	-	-
 -	Turakainen	-	proper	38	-	-	-	-	-
 -	Turing	-	proper	5	-	-	-	-	-
 -	Turja	-	proper	10	-	-	-	-	-
+-	Turkia	-	proper	12	-	-	-	-	-
 -	Turkka	-	proper	10	kk:k	-	-	-	-
 -	Turkki	-	proper	5	kk:k	-	-	-	-
 -	Turkkila	-	proper	13	-	-	-	-	-
@@ -3759,6 +3810,7 @@
 -	Vainikka	-	proper	14	kk:k	-	-	-	-
 -	Vainio	-	proper	3	-	-	-	-	-
 -	Vaittinen	-	proper	38	-	-	-	-	-
+-	Vakkala	-	proper	12	-	-	-	-	-
 -	Vakkuri	-	proper	6	-	-	-	-	-
 -	Vala	-	proper	9	-	-	-	-	-
 -	Valencic	-	proper	5	-	-	-	-	-
@@ -3780,6 +3832,7 @@
 -	Vanne	-	proper	8	-	-	-	-	-
 -	Vanninen	-	proper	38	-	-	-	-	-
 -	Varga	-	proper	9	-	-	-	-	-
+-	Varila	-	proper	13	-	-	-	-	-
 -	Varis	-	proper	39	-	-	-	-	-
 -	Varjonen	-	proper	38	-	-	-	-	-
 -	Vartia	-	proper	12	-	-	-	-	-
@@ -3797,8 +3850,10 @@
 -	Veijalainen	-	proper	38	-	-	-	-	-
 -	Veikkola	-	proper	12|10	-	-	-	-	-
 -	Vennamo	-	proper	2	-	-	-	-	-
+-	Ventelä	-	proper	12	-	-	-	-	-
 -	Ventura	-	proper	10	-	-	-	-	-
 -	Venäläinen	-	proper	38	-	-	-	-	-
+-	Vepsä	-	proper	10	-	-	-	-	-
 -	Vepsäläinen	-	proper	38	-	-	-	-	-
 -	Verbeek	-	proper	5	-	-	-	-	-
 -	Verheijen	-	proper	?6	-	-	-	-	-
@@ -3837,6 +3892,7 @@
 -	Vikström	-	proper	5	-	-	-	-	-
 -	Vilander	-	proper	6	-	-	-	-	-
 -	Vilhjálmsson	-	proper	5	-	-	-	-	-
+-	Vilhula	-	proper	12	-	-	-	-	-
 -	Viljakainen	-	proper	38	-	-	-	-	-
 -	Viljanen	-	proper	38	-	-	-	-	-
 -	Villota	-	proper	10	-	-	-	-	-
@@ -4007,6 +4063,7 @@
 -	Álvarez	-	proper	5	-	-	-	-	-
 -	Árnadóttir	-	proper	5	-	-	-	-	-
 -	Äijälä	-	proper	12	-	-	-	-	-
+-	Ämmälä	-	proper	12	-	-	-	-	-
 -	Åberg	-	proper	5	-	-	-	-	-
 -	Ågren	-	proper	?6	-	-	-	-	-
 -	Åhlén	-	proper	5	-	-	-	-	-
@@ -4048,6 +4105,7 @@
 -	Koiso-Kanttila	-	proper	13	-	-	-	-	-
 -	Kumpula-Natri	-	proper	5	-	-	-	-	-
 -	Kurki-Suonio	-	proper	3	-	-	-	-	-
+-	Luoma-aho	-	proper	1	-	-	-	-	-
 -	Maij-Weggen	-	proper	?6	-	-	-	-	-
 -	Niemi-Nikkola	-	proper	12|10	-	-	-	-	-
 -	Randzio-Plath	-	proper	5	-	-	-	-	-
@@ -4128,6 +4186,7 @@
 -	Joki|aho	-	proper	1	-	-	-	-	-
 -	Joki|niemi	-	proper	25	-	-	-	-	-
 -	Joki|sipilä	-	proper	12	-	-	-	-	-
+-	Joki|varsi	-	proper	28	rt:rr	-	-	-	-
 -	Juu|järvi	-	proper	7	-	-	-	-	-
 -	Järven|pää	-	proper	18	-	-	-	-	-
 -	Järven|taus	-	proper	39	-	-	-	-	-
@@ -4457,62 +4516,3 @@ Cap	škin	-	proper	5	-	front|back	-	-	4.000
 Cap	šova	-	proper	10	-	-	-	-	4.000
 Cap	švili	-	proper	5	-	front|back	-	-	4.000
 Cap	n|heimo	-	proper	1	-	-	-	-	4.000
--	Juurakko	-	proper	4	kk:k	-	-	-	-
--	Jyrkkä	-	proper	10	kk:k	-	-	-	-
--	Kaitainen	-	proper	38	-	-	-	-	-
--	Kaskela	-	proper	13	-	-	-	-	-
--	Kuusikko	-	proper	4	kk:k	-	-	-	-
--	Luoma-aho	-	proper	1	-	-	-	-	-
--	Marjala	-	proper	12	-	-	-	-	-
--	Mentula	-	proper	12	-	-	-	-	-
--	Mikkelä	-	proper	12	-	-	-	-	-
--	Peurala	-	proper	12	-	-	-	-	-
--	Pyhältö	-	proper	1	lt:ll	-	-	-	-
--	Riihelä	-	proper	12	-	-	-	-	-
--	Rytky	-	proper	1	-	-	-	-	-
--	Röyttä	-	proper	10	tt:t	-	-	-	-
--	Santonen	-	proper	38	-	-	-	-	-
--	Soppela	-	proper	13	-	-	-	-	-
--	Takkula	-	proper	12	-	-	-	-	-
--	Tennilä	-	proper	12	-	-	-	-	-
--	Tepsa	-	proper	9	-	-	-	-	-
--	Tuovila	-	proper	13	-	-	-	-	-
--	Vakkala	-	proper	12	-	-	-	-	-
--	Varila	-	proper	13	-	-	-	-	-
--	Ventelä	-	proper	12	-	-	-	-	-
--	Vepsä	-	proper	10	-	-	-	-	-
--	Ainali	-	proper	6	-	-	-	-	-
--	Haikka	-	proper	9	kk:k	-	-	-	-
--	Honkola	-	proper	12	-	-	-	-	-
--	Häkkilä	-	proper	12	-	-	-	-	-
--	Ihala	-	proper	12	-	-	-	-	-
--	Joki|varsi	-	proper	28	rt:rr	-	-	-	-
--	Kiiala	-	proper	9	-	-	-	-	-
--	Kilpiäinen	-	proper	38	-	-	-	-	-
--	Koppelo	-	proper	2	-	-	-	-	-
--	Kotola	-	proper	12	-	-	-	-	-
--	Kurtakko	-	proper	4	kk:k	-	-	-	-
--	Kutila	-	proper	13	-	-	-	-	-
--	Kärppä	-	proper	10	pp:p	-	-	-	-
--	Lastunen	-	proper	38	-	-	-	-	-
--	Laukkala	-	proper	12	-	-	-	-	-
--	Leinola	-	proper	12	-	-	-	-	-
--	Leutola	-	proper	12	-	-	-	-	-
--	Luiro	-	proper	1	-	-	-	-	-
--	Montola	-	proper	12	-	-	-	-	-
--	Mäentaka	-	proper	9	-	-	-	-	-
--	Määttälä	-	proper	12	-	-	-	-	-
--	Pappila	-	proper	13	-	-	-	-	-
--	Pellilä	-	proper	12	-	-	-	-	-
--	Perkiö	-	proper	3	-	-	-	-	-
--	Piispala	-	proper	12	-	-	-	-	-
--	Puotila	-	proper	13	-	-	-	-	-
--	Pöyhölä	-	proper	12	-	-	-	-	-
--	Riuttanen	-	proper	38	-	-	-	-	-
--	Sunila	-	proper	13	-	-	-	-	-
--	Tarkkinen	-	proper	38	-	-	-	-	-
--	Tihilä	-	proper	12	-	-	-	-	-
--	Turkia	-	proper	12	-	-	-	-	-
--	Vilhula	-	proper	12	-	-	-	-	-
--	Ämmälä	-	proper	12	-	-	-	-	-
--	Omenainen	-	proper	38	-	-	-	rare	-
