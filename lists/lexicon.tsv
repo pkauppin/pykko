@@ -120,7 +120,7 @@
 -	albanialainen	-	adjective	38	-	back	e	-	-
 -	aleksandrialainen	-	adjective	38	-	-	-	-	-
 -	aleksityyminen	-	adjective	38	-	front|back	e	-	-
--	alempi	-	adjective	16	mp:mm	back	i	-	-
+-	alempi	-	adjective	16	mp:mm	back	i	+poss	-
 -	aleneva	-	adjective	10	-	back	a	-	-
 -	alentava	-	adjective	10	-	back	a	-	-
 -	alentuva	-	adjective	10	-	back	a	-	-
@@ -4737,7 +4737,7 @@
 -	parapleginen	-	adjective	38	-	-	-	-	-
 -	parapsykologinen	-	adjective	38	-	-	-	-	-
 -	parapsyykkinen	-	adjective	38	-	-	-	-	-
--	paras	-	adjective	41	-	-	-	-	-
+-	paras	-	adjective	41	rh:r	-	-	-	-
 -	parasympaattinen	-	adjective	38	-	-	-	-	-
 -	parataktinen	-	adjective	38	-	back	e	-	-
 -	parautoktoninen	-	adjective	38	-	-	-	-	-
@@ -4999,7 +4999,7 @@
 -	pitkästyttävä	-	adjective	10	-	front	ä	-	-
 -	pitsinen	-	adjective	38	-	front	e	-	-
 -	pittoreski	-	adjective	5	-	back	i	-	-
--	pituinen	-	adjective	38	-	back	e	-	-
+-	pituinen	-	adjective	38	-	back	e	+poss	-
 -	pitämätön	-	adjective	34	tt:t	front	ö	-	-
 -	pitävä	-	adjective	10	-	front	ä	-	-
 -	piukea	-	adjective	15	-	back	a	-	-
@@ -7717,7 +7717,7 @@
 -	yksityinen	-	adjective	38	-	front	e	-	-
 -	yleinen	-	adjective	38	-	front	e	-	-
 -	ylellinen	-	adjective	38	-	front	e	-	-
--	ylempi	-	adjective	16	mp:mm	front	i	-	-
+-	ylempi	-	adjective	16	mp:mm	front	i	+poss	-
 -	yletön	-	adjective	34	tt:t	front	ö	-	-
 -	ylevä	-	adjective	10	-	front	ä	-	-
 -	ylhäinen	-	adjective	38	-	front	e	-	-
@@ -14887,6 +14887,10 @@
 -	alimmas	-	adverb	-	-	-	-	-	-
 -	alimmillaan	-	adverb	-	-	-	-	+poss	-
 -	alimmilleen	-	adverb	-	-	-	-	+poss	-
+-	alemmillaan	-	adverb	-	-	-	-	+poss|nstd	-
+-	alemmilleen	-	adverb	-	-	-	-	+poss|nstd	-
+-	enimmillään	-	adverb	-	-	-	-	+poss	-
+-	enemmillään	-	adverb	-	-	-	-	+poss|nstd	-
 -	alimpana	-	adverb	-	-	-	-	-	-
 -	alitse	-	adverb	-	-	-	-	-	-
 -	alituiseen	-	adverb	-	-	-	-	-	-
@@ -17353,11 +17357,12 @@
 -	paratkoon	-	adverb	-	-	-	-	-	-
 -	pareittain	-	adverb	-	-	-	-	-	-
 -	paremmin	-	adverb	-	-	-	-	-	-
--	parempi	-	adverb	-	-	-	-	-	-
+-	parempi	-	adverb	-	-	-	-	-	1.000
 -	parhaastaan	-	adverb	-	-	-	-	-	-
 -	parhaiksi	-	adverb	-	-	-	-	-	-
 -	parhaillaan	-	adverb	-	-	-	-	+poss	-
 -	parhaimmillaan	-	adverb	-	-	-	-	+poss	-
+-	suurimmillaan	-	adverb	-	-	-	-	+poss	-
 -	parhaimmin	-	adverb	-	-	-	-	-	-
 -	parhaiten	-	adverb	-	-	-	-	-	-
 -	parittain	-	adverb	-	-	-	-	-	-
@@ -18104,7 +18109,7 @@
 -	sikäli	-	adverb	-	-	-	-	-	-
 -	sileästi	-	adverb	-	-	-	-	-	-
 -	silko	-	adverb	-	-	-	-	-	-
--	silleen	-	adverb	-	-	-	-	-	-
+-	silleen	-	adverb	-	-	-	-	no-poss	-
 -	sillensä	-	adverb	-	-	-	-	no-poss	-
 -	silloin	-	adverb	-	-	-	-	-	-
 -	sillään	-	adverb	-	-	-	-	-	-
@@ -20925,7 +20930,6 @@
 -	hoi	-	interjection	-	-	-	-	-	-
 -	hokkuspokkus	-	interjection	-	-	-	-	-	-
 -	hoo	-	interjection	-	-	-	-	-	-
--	hoosianna	-	interjection	-	-	-	-	-	-
 -	hop	-	interjection	-	-	-	-	-	-
 -	hop hop	-	interjection	-	-	-	-	-	-
 -	hopi hopi	-	interjection	-	-	-	-	-	-
@@ -21131,12 +21135,9 @@
 -	oukkidoukki	-	interjection	-	-	-	-	-	-
 -	oumaigaad	-	interjection	-	-	-	-	-	-
 -	pah	-	interjection	-	-	-	-	-	-
--	pahus	-	interjection	-	-	-	-	-	-
 -	pai	-	interjection	-	-	-	-	-	-
 -	pam	-	interjection	-	-	-	-	-	-
 -	pas	-	interjection	-	-	-	-	-	-
--	perhana	-	interjection	-	-	-	-	-	-
--	perkele	-	interjection	-	-	-	-	-	-
 -	perskuta	-	interjection	-	-	-	-	-	-
 -	perskutarallaa	-	interjection	-	-	-	-	-	-
 -	pfft	-	interjection	-	-	-	-	-	-
@@ -22455,7 +22456,7 @@
 -	alkio	-	noun	3	-	back	o	-	-
 -	alkiolainen	-	noun	38	-	-	-	-	-
 -	alkiolaisuus	-	noun	40	-	back	u	-	-
--	alkkari	-	noun	6	-	-	-	slang	-
+-	alkkari	-	noun	6	-	-	-	slang	1.000
 -	alkkis	-	noun	39	-	back	i	slang	-
 -	alkoholi	-	noun	5	-	back	i	-	-
 -	alkoholismi	-	noun	5	-	back	i	-	-
@@ -34137,6 +34138,8 @@
 -	lantrinki	-	noun	5	nk:ng	back	i	coll	-
 -	lantti	-	noun	5	tt:t	back	i	-	-
 -	lantto	-	noun	1	tt:t	-	-	dial|toponymy	1.000
+-	skaiti	-	noun	5	t:d	-	-	dial|toponymy	1.000
+-	helli	-	noun	5	-	-	-	dial|toponymy	1.000
 -	lanttu	-	noun	1	tt:t	back	u	-	-
 -	lanugo	-	noun	1	-	-	-	-	-
 -	lao	-	noun	1	-	-	-	-	-
@@ -36078,7 +36081,7 @@
 -	masurkka	-	noun	14	kk:k	back	a	-	-
 -	masuuni	-	noun	5	-	back	i	-	-
 -	matadori	-	noun	5	-	back	i	-	-
--	matala	-	noun	10	-	-	-	toponymy	-
+-	matala	-	noun	10	-	-	-	toponymy	1.000
 -	matalikko	-	noun	4	kk:k	back	o	-	-
 -	mataluus	-	noun	40	-	back	u	-	-
 -	matami	-	noun	5	-	back	i	dated	-
@@ -36449,7 +36452,6 @@
 -	mg	-	noun	0B	-	back	-	unit	-
 -	mi	-	noun	18	-	-	-	non-compounding	-
 -	miasma	-	noun	13	-	-	-	-	-
--	miau	-	noun	21	-	-	-	rare	-
 -	michif	-	noun	5	-	-	-	-	-
 -	micmac	-	noun	5	-	-	-	-	-
 -	midatsolaami	-	noun	5	-	-	-	-	-
@@ -43647,7 +43649,7 @@
 -	samizdat	-	noun	5	-	-	-	foreign	-
 -	sammakko	-	noun	4	kk:k	back	o	-	-
 -	sammal	-	noun	49	-	back	a	-	-
--	sammale	-	noun	49b	-	-	-	rare	-
+-	sammale	-	noun	49b	-	-	-	rare|dubious	1.000
 -	sammalikko	-	noun	4	kk:k	back	o	-	-
 -	sammalisto	-	noun	1	-	back	o	-	-
 -	sammallus	-	noun	39	-	back	u	-	-
@@ -44546,7 +44548,6 @@
 -	simpukka	-	noun	14	kk:k	back	a	-	-
 -	simputtaja	-	noun	10	-	back	a	-	-
 -	simputus	-	noun	39	-	back	u	-	-
--	simsalabim	-	noun	5	-	back	i	-	-
 -	simsetti	-	noun	5	tt:t	front	i	dated	-
 -	simulaatio	-	noun	3	-	back	o	-	-
 -	simulaattori	-	noun	6	-	back	i	-	-
@@ -104861,7 +104862,7 @@
 -	itse|säilytys|vietti	-	noun	5	tt:t	-	-	-	-
 -	itse|tuho|käyttäytyminen	-	noun	38	-	-	-	-	-
 -	itu|solu|kasvain	-	noun	33	-	-	-	-	-
--	itäinen|kreikan|kilpikonna	-	noun	10	-	-	-	-	-
+-	itäinen%kreikan|kilpikonna	-	noun	10	-	-	-	-	-
 -	itä|meren|norppa	-	noun	10	pp:p	-	-	-	-
 -	itä|meren|suomalainen	-	noun	38	-	-	-	-	-
 -	itä|meren|suomi	-	noun	7	-	-	-	-	-
@@ -110166,6 +110167,7 @@
 -	kuiva%kausi	-	noun	27	-	-	-	nstd	-
 -	kultainen%noutaja	-	noun	10	-	-	-	-	-
 -	lentävä%koira	-	noun	10	-	-	-	-	-
+-	lentävä|koira	-	noun	10	-	-	-	-	-
 -	lämmin%ruoka	-	noun	10	uok:uu|k:	-	-	-	-
 -	musta%leipä	-	noun	10	p:v	-	-	-	-
 -	musta%leski	-	noun	7	-	-	-	-	-
@@ -110209,6 +110211,7 @@
 -	vanha%poika	-	noun	10	ik:j	-	-	-	-
 -	comoron|lentävä%koira	-	noun	10	-	-	-	-	-
 -	iso|lentävä%koira	-	noun	10	-	-	-	-	-
+-	iso|lentävä|koira	-	noun	10	-	-	-	-	-
 -	musta%viini|marja	-	noun	9	-	-	-	-	-
 -	afterworkit	-	noun-pl	5	kk:k	-	-	-	-
 -	aivot	-	noun-pl	1	-	back	o	-	-
@@ -112298,6 +112301,7 @@
 -	farmata	-	verb	73	-	-	-	slang	-
 -	fasilitoida	-	verb	62	-	-	-	-	-
 -	fasinoida	-	verb	62	-	-	-	-	-
+-	downloadata	-	verb	73	-	back	-	slang	-
 -	feidata	-	verb	73	-	back	-	slang	-
 -	feikata	-	verb	73	kk:k	back	-	slang	-
 -	feilata	-	verb	73	-	back	-	slang	-
@@ -117072,7 +117076,6 @@
 -	nuortua	-	verb	52	rt:rr	back	-	-	-
 -	nuotata	-	verb	73	tt:t	back	-	-	-
 -	nuotintaa	-	verb	54	nt:nn	back	-	-	-
--	nuotita	-	verb	69	-	-	-	rare|arch|dubious	0.500
 -	nuotittaa	-	verb	53	tt:t	back	-	-	-
 -	nupouttaa	-	verb	53	tt:t	back	-	-	-
 -	nurista	-	verb	66	-	back	-	-	-
@@ -117768,7 +117771,7 @@
 -	pimentää	-	verb	54	nt:nn	front	-	-	-
 -	pimetä	-	verb	72	-	front	-	-	-
 -	pimittää	-	verb	53	tt:t	front	-	-	-
--	pimitä	-	verb	75	-	-	-	rare|arch|dubious	0.500
+-	pimitä	-	verb	75	-	-	-	rare	1.000
 -	pimpata	-	verb	73	pp:p	back	-	slang	-
 -	pimpottaa	-	verb	53	tt:t	back	-	-	-
 -	pimputtaa	-	verb	53	tt:t	back	-	-	-
@@ -118207,7 +118210,7 @@
 -	purskautella	-	verb	67	tt:t	-	-	-	-
 -	purskauttaa	-	verb	53	tt:t	back	-	-	-
 -	purskua	-	verb	52	-	back	-	-	-
--	purskuta	-	verb	74	-	-	-	rare|dubious	-
+-	purskuta	-	verb	74	-	-	-	nstd	-
 -	purskutella	-	verb	67	tt:t	back	-	-	-
 -	purskuttaa	-	verb	53	tt:t	back	-	-	-
 -	pursottaa	-	verb	53	tt:t	back	-	-	-
@@ -118590,7 +118593,6 @@
 -	raskauttaa	-	verb	53	tt:t	back	-	-	-
 -	raskautua	-	verb	52	t:d	-	-	-	-
 -	raskia	-	verb	61	-	back	-	-	-
--	raskita	-	verb	69	-	-	-	rare|arch|dubious	0.500
 -	raspata	-	verb	73	-	back	-	-	-
 -	rassailla	-	verb	67	-	back	-	coll	-
 -	rassata	-	verb	73	-	back	-	coll	-
@@ -118851,7 +118853,7 @@
 -	risteyttää	-	verb	53	tt:t	front	-	-	-
 -	risteytyä	-	verb	52	t:d	front	-	-	-
 -	ristikoida	-	verb	62	-	back	-	-	-
--	ristitä	-	verb	69	-	-	-	rare|arch|dubious	0.500
+-	ristitä	-	verb	69	-	-	-	rare|arch|dubious	1.000
 -	ristiä	-	verb	61	-	front	-	-	-
 -	ritistä	-	verb	66	-	front	-	-	-
 -	riuduttaa	-	verb	53	tt:t	back	-	-	-
@@ -118870,7 +118872,7 @@
 -	rohmuta	-	verb	74	-	back	-	coll	-
 -	rohtua	-	verb	52	t:d	back	-	-	-
 -	roihahtaa	-	verb	53	t:d	back	-	-	-
--	roihua	-	verb	52	-	-	-	rare|arch|dubious	0.500
+-	roihua	-	verb	52	-	-	-	rare|arch|dubious	1.000
 -	roihuta	-	verb	74	-	back	-	-	-
 -	roikaa	-	verb	78	-	back	-	-	-
 -	roikkua	-	verb	52	kk:k	back	-	coll	-
@@ -120632,7 +120634,7 @@
 -	tirskutella	-	verb	67	tt:t	back	-	-	-
 -	tirskuttaa	-	verb	53	tt:t	back	-	-	-
 -	tirsua	-	verb	52	-	back	-	-	-
--	tirsuta	-	verb	74	-	-	-	rare|arch|dubious	0.500
+-	tirsuta	-	verb	74	-	-	-	rare|arch|dubious	1.000
 -	tiskata	-	verb	73	-	back	-	-	-
 -	tislaantua	-	verb	52	nt:nn	back	-	-	-
 -	tislata	-	verb	73	-	back	-	-	-
@@ -120810,7 +120812,7 @@
 -	tuiskahdella	-	verb	67	t:d	back	-	-	-
 -	tuiskahtaa	-	verb	53	t:d	back	-	-	-
 -	tuiskia	-	verb	61	-	back	-	-	-
--	tuiskua	-	verb	52	-	-	-	rare|arch|dubious	0.500
+-	tuiskua	-	verb	52	-	-	-	rare|arch|dubious	1.000
 -	tuiskuta	-	verb	74	-	back	-	-	-
 -	tuiskuttaa	-	verb	53	tt:t	back	-	-	-
 -	tuittuilla	-	verb	67	-	back	-	-	-
@@ -121252,7 +121254,7 @@
 -	uhkailla	-	verb	67	-	back	-	-	-
 -	uhkua	-	verb	52	-	back	-	-	-
 -	uhmata	-	verb	73	-	back	-	-	-
--	uhoa	-	verb	52	-	-	-	rare|arch|dubious	0.500
+-	uhoa	-	verb	52	-	-	-	rare|arch|dubious	1.000
 -	uhota	-	verb	74	-	back	-	-	-
 -	uhrata	-	verb	73	-	back	-	-	-
 -	uhrautua	-	verb	52	t:d	back	-	-	-
@@ -122730,3 +122732,9 @@
 -	moni|tuhat|kertaistaa	-	verb	53	-	-	-	-	-
 -	pää|oma|valtaistua	-	verb	52	-	-	-	-	-
 -	väärin|suku|puolittaa	-	verb	53	tt:t	-	-	-	-
+-	vaihto|pää	-	noun	18	-	-	-	-	-
+-	viini|tonkka	-	noun	10	kk:k	-	-	-	-
+-	dekot	-	noun-pl	1	-	-	-	slang	-
+-	visut	-	noun-pl	1	-	-	-	slang	-
+-	mahti|sonni	-	noun	5	-	-	-	coll	-
+-	aamu-tv	-	noun	18B	-	-	-	-	-

@@ -16,7 +16,3 @@ class FiParserTests(unittest.TestCase):
 			checkbox = '✔️' if generated == forms else '❌'
 			if forms != generated:
 				print(checkbox, lemma, pos, morphtags, forms, '<>', generated)
-
-	# TODO
-	# - Rautalampi (homonymy?)
-	# - Uusikaarlepyy (?)

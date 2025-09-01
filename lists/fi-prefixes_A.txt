@@ -15,9 +15,11 @@ mega
 molempi
 moni
 muka
+niukka
 peri
 pieni
 puoli
+runsas
 sala
 sika
 sisä
@@ -29,6 +31,7 @@ täys
 ulko
 ultra
 umpi
+vähä
 väli
 yli
 yltiö

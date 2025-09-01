@@ -8,7 +8,7 @@ from scripts.inflection.utils import \
 	plural2singular, merge_inflections
 from scripts.utils import ADVERB_INFLECTIONS, clean
 from scripts.inflection.verb_derivations import derive_agent_noun, derive_action_noun
-
+from pprint import pprint
 
 def get_comparison(adjective, inflections, kotus_class=''):
 
@@ -1933,6 +1933,8 @@ def inflect_adjective(word, kotus_class, gradtype=None, harmony=None, vowel=None
 	inflections = inflect_noun(word, kotus_class, gradtype, harmony, vowel)
 	if 'non-comparable' not in info:
 		inflections.update(get_comparison(word, inflections, kotus_class))
+	pprint(inflections)
+	print(info)
 	if '+poss' not in info:
 		inflections['@stem:possessives'] = []
 	inflections['@stem:clitics'] = []
@@ -1964,7 +1966,7 @@ def inflect_adposition(word, info=''):
 	return {'@base': [word], '': [word],  '@stem:possessives': [word]}
 
 
-def inflect_adverb(word, info):
+def inflect_adverb(word, info=''):
 
 	info = info or ''
 
@@ -2002,9 +2004,11 @@ def inflect(word, pos, kotus_class=None, gradation=None, harmony=None, vowel=Non
 
 	kotus_class = kotus_class or ''
 	gradation = gradation or ''
+	harmony = harmony or ''
 	info = info or ''
 
 	# TODO: Add patching function to adjust inflections of individual words
+	# TODO: Mole elegant handling of dialectal/rare/nonstandard inflections
 
 	if '|' in kotus_class:
 		class1, class2 = kotus_class.split('|')
@@ -2018,6 +2022,13 @@ def inflect(word, pos, kotus_class=None, gradation=None, harmony=None, vowel=Non
 		style = 'dial' if '‡' in grad2 else 'nstd' if '†' in grad2 else 'rare' if '(' in grad2 else ''
 		inflections1 = inflect(word, pos, kotus_class, grad1, harmony, vowel, info)
 		inflections2 = inflect(word, pos, kotus_class, grad2, harmony, vowel, info)
+		return merge_inflections(inflections1, inflections2, secondary_tag=style)
+
+	if '|' in harmony:
+		harm1, harm2 = harmony.split('|')
+		style = 'dial' if '‡' in harm2 else 'nstd' if '†' in harm2 else 'rare' if '(' in harm2 else ''
+		inflections1 = inflect(word, pos, kotus_class, gradation, harm1, vowel, info)
+		inflections2 = inflect(word, pos, kotus_class, gradation, harm2, vowel, info)
 		return merge_inflections(inflections1, inflections2, secondary_tag=style)
 
 	kotus_class = kotus_class.replace('†', '').replace('‡', '').replace(')', '').replace('(', '')
@@ -2039,7 +2050,7 @@ def inflect(word, pos, kotus_class=None, gradation=None, harmony=None, vowel=Non
 	elif pos == 'verb':
 		return inflect_verb(word, kotus_class, gradation, harmony)
 	elif pos == 'adjective':
-		return inflect_adjective(word, kotus_class, gradation, harmony, vowel, info)
+		return inflect_adjective(word, kotus_class, gradation, harmony, vowel, info=info)
 	elif pos == 'adverb':
 		return inflect_adverb(word, info)
 	elif pos == 'adposition':

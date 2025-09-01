@@ -191,7 +191,8 @@
   ],
   "paras": [
     ["hyvä", "adjective", "+superlative+sg+nom"],
-    ["paras", "noun", "+sg+nom"]
+    ["paras", "noun", "+sg+nom"],
+    ["paras", "adjective", "+sg+nom"]
   ],
   "oy:n": [
     ["oy", "noun", "+sg+gen"]
@@ -397,7 +398,13 @@
   ],
   "hyväkseen": [
     ["hyväksi", "adposition", "+poss3"],
+    ["hyväkseen", "adverb", "+poss3"],
     ["hyvä", "noun", "+sg+tra+poss3"]
+  ],
+  "hyväkseni": [
+    ["hyväksi", "adposition", "+poss1"],
+    ["hyväkseen", "adverb", "+poss1"],
+    ["hyvä", "noun", "+sg+tra+poss1"]
   ],
   "hämilläni": [
     ["hämillään", "adverb", "+poss1sg"]
@@ -577,10 +584,12 @@
     ["liika|rasittunut", "adjective", "+sg+gen"]
   ],
   "luona": [
-    ["luona", "adposition", ""]
+    ["luona", "adposition", ""],
+    ["luo", "noun", "+sg+ess"]
   ],
   "luonani": [
-    ["luona", "adposition", "+poss1sg"]
+    ["luona", "adposition", "+poss1sg"],
+    ["luo", "noun", "+sg+ess+poss1sg"]
   ],
   "lähelleen": [
     ["lähelle", "adposition", "+poss3"]
@@ -625,7 +634,9 @@
   ],
   "miltäpäs": [
     ["mikä", "pronoun", "+sg+abl+pa+s"],
-    ["mikä", "pronoun", "+pl+abl+pa+s"]
+    ["mikä", "pronoun", "+pl+abl+pa+s"],
+    ["mi", "noun", "+sg+abl+pa+s"],
+    ["mi", "noun", "+pl+abl+pa+s"]
   ],
   "miltäs": [
     ["mikä", "pronoun", "+pl+abl+s"],
@@ -638,7 +649,9 @@
   "missäpäs": [
     ["missä", "adverb", "+pa+s"],
     ["mikä", "pronoun", "+sg+ine+pa+s"],
-    ["mikä", "pronoun", "+pl+ine+pa+s"]
+    ["mikä", "pronoun", "+pl+ine+pa+s"],
+    ["mi", "noun", "+sg+ine+pa+s"],
+    ["mi", "noun", "+pl+ine+pa+s"]
   ],
   "missäs": [
     ["mikä", "pronoun", "+pl+ine+s"],
@@ -700,7 +713,8 @@
     ["para", "noun", "+sg+ela"],
     ["hyvä", "adjective", "+superlative+sg+par"],
     ["parka", "noun", "+sg+ela"],
-    ["paras", "noun", "+sg+par"]
+    ["paras", "noun", "+sg+par"],
+    ["paras", "adjective", "+sg+par"]
   ],
   "paremman": [
     ["hyvä", "adjective", "+comparative+sg+gen"],
@@ -718,7 +732,8 @@
   ],
   "parempi": [
     ["parempi", "adjective", "+sg+nom"],
-    ["hyvä", "adjective", "+comparative+sg+nom"]
+    ["hyvä", "adjective", "+comparative+sg+nom"],
+    ["parempi", "adverb", ""]
   ],
   "parhaan": [
     ["paras", "noun", "+sg+gen"],
@@ -976,7 +991,8 @@
     ["tähti", "noun", "+sg+nom+poss3"]
   ],
   "valitun": [
-    ["valita", "verb", "+pass+part_past+sg+gen"]
+    ["valita", "verb", "+pass+part_past+sg+gen"],
+    ["valittu", "noun", "+sg+gen"]
   ],
   "venyttelyllä": [
     ["venyttely", "noun", "+sg+ade"]
@@ -1058,7 +1074,8 @@
     ["isä|meitä", "noun", "+sg+par"]
   ],
   "isämeidän": [
-    ["isä|meitä", "noun", "+sg+gen"]
+    ["isä|meitä", "noun", "+sg+gen"],
+	["isä|meidän", "noun", "+sg+nom"]
   ],
   "Thaimaaseen": [
     ["Thai|maa", "proper", "+sg+ill+nstd"]
@@ -1169,5 +1186,20 @@
   "liu’un": [
     ["liukua", "verb", "+pres+1sg"],
     ["liuku", "noun", "+sg+gen"]
+  ],
+  "kaltaisilleni": [
+    [""]
+  ],
+  "ylemmilleni": [
+    [""]
+  ],
+  "alempiaan": [
+    [""]
+  ],
+  "ylempiarvoisiaan": [
+    [""]
+  ],
+  "alempiarvoisiaan": [
+    [""]
   ]
 }
