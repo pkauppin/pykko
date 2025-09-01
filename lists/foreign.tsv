@@ -88,7 +88,6 @@
 -	of	-	none	!	-	-	-	foreign	-
 -	om	-	none	-	-	-	-	foreign	-
 -	on	-	none	!	-	-	-	foreign	-
--	online	-	none	-	-	-	-	foreign	-
 -	onto	-	none	!	-	-	-	foreign	-
 -	or	-	none	!	-	-	-	foreign	-
 -	os	-	none	!	-	-	-	foreign	-
@@ -745,7 +744,7 @@
 -	Mountain	-	noun	5	-	-	-	foreign	-
 -	Mouth	-	noun	5	-	-	-	foreign	-
 -	Movement	-	noun	5	-	-	-	foreign	-
--	Mt.	-	noun	!	-	-	-	foreign	-
+-	Mt.	-	none	-	-	-	-	foreign	-
 -	Murder	-	noun	6	-	-	-	foreign	-
 -	Museum	-	noun	5	-	-	-	foreign	-
 -	Music	-	noun	5	-	-	-	foreign	-
@@ -787,7 +786,7 @@
 -	OS	-	noun	10B	-	-	-	foreign	-
 -	Oaks	-	noun	5	-	-	-	foreign	-
 -	Object	-	noun	5	-	-	-	foreign	-
--	Observer	-	noun	?6	-	-	-	foreign	-
+-	Observer	-	noun	6	-	-	-	foreign	-
 -	Ocean	-	noun	5	-	-	-	foreign	-
 -	Odyssey	-	noun	21	-	-	-	foreign	-
 -	Offensive	-	noun	8	-	-	-	foreign	-
@@ -797,6 +796,7 @@
 -	Olympics	-	noun	5	-	-	-	foreign	-
 -	One	-	noun	8	-	-	-	foreign	-
 -	Online	-	noun	8	-	-	-	foreign	-
+-	Offline	-	noun	8	-	-	-	foreign	-
 -	Open	-	noun	6	-	-	-	foreign	-
 -	Opinion	-	noun	5	-	-	-	foreign	-
 -	Orchestra	-	noun	10|12	-	-	-	foreign	-

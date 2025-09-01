@@ -13,7 +13,7 @@ class InflectionProperties:
 		self.info = info
 
 	def __str__(self):
-		return str((self.infl_class, self.gradation, self.harmony, self.chroneme))
+		return str((self.infl_class, self.gradation, self.harmony, self.chroneme, self.info))
 
 
 NoneInfl = InflectionProperties()

@@ -62,12 +62,12 @@
 -	ahlaislainen	-	adjective	38	-	-	-	-	-
 -	ahnas	-	adjective	41	-	back	a	-	-
 -	ahne	-	adjective	48	-	back	e	-	-
--	aiempi	-	adjective	16	mp:mm	back	i	-	-
+-	aiempi	-	adjective	16	mp:mm	back	i	non-comparable	-
 -	aiheellinen	-	adjective	38	-	back	e	-	-
 -	aiheeton	-	adjective	34	tt:t	back	o	-	-
 -	aika	-	adjective	!	-	back	a	-	-
 -	aikainen	-	adjective	38	-	back	e	-	-
--	aikaisempi	-	adjective	16	mp:mm	-	-	-	-
+-	aikaisempi	-	adjective	16	mp:mm	-	-	non-comparable	-
 -	aikava	-	adjective	10	-	back	a	-	-
 -	aikuinen	-	adjective	38	-	back	e	-	-
 -	aikuismainen	-	adjective	38	-	back	e	-	-
@@ -120,7 +120,7 @@
 -	albanialainen	-	adjective	38	-	back	e	-	-
 -	aleksandrialainen	-	adjective	38	-	-	-	-	-
 -	aleksityyminen	-	adjective	38	-	front|back	e	-	-
--	alempi	-	adjective	16	mp:mm	back	i	+poss	-
+-	alempi	-	adjective	16	mp:mm	back	i	+poss|non-comparable	-
 -	aleneva	-	adjective	10	-	back	a	-	-
 -	alentava	-	adjective	10	-	back	a	-	-
 -	alentuva	-	adjective	10	-	back	a	-	-
@@ -130,7 +130,7 @@
 -	algerilainen	-	adjective	38	-	-	-	-	-
 -	alhainen	-	adjective	38	-	back	e	-	-
 -	alimmainen	-	adjective	38	-	back	e	-	-
--	alin	-	adjective	36	-	back	i	-	-
+-	alin	-	adjective	36	-	back	-	non-comparable	-
 -	alinen	-	adjective	38	-	back	e	rare	-
 -	alisteinen	-	adjective	38	-	back	e	-	-
 -	alistuva	-	adjective	10	-	back	a	-	-
@@ -572,7 +572,7 @@
 -	chișinăulainen	-	adjective	38	-	-	-	-	-
 -	colombolainen	-	adjective	38	-	-	-	-	-
 -	conakrylainen	-	adjective	38	-	-	-	-	-
--	cool	-	adjective	5	-	back	o	slang	-
+-	cool	-	adjective	5	-	back	-	slang	-
 -	costaricalainen	-	adjective	38	-	-	-	-	-
 -	cotonoulainen	-	adjective	38	-	-	-	-	-
 -	curaçãolainen	-	adjective	38	-	-	-	-	-
@@ -733,7 +733,7 @@
 -	eheä	-	adjective	15	-	front	ä	-	-
 -	ehjä	-	adjective	10	-	front	ä	-	-
 -	ehkäisevä	-	adjective	10	-	-	-	-	-
--	ehompi	-	adjective	16	mp:mm	-	-	-	-
+-	ehompi	-	adjective	16	mp:mm	-	-	non-comparable	-
 -	ehta	-	adjective	9	t:d	back	a	-	-
 -	ehtiväinen	-	adjective	38	-	front	e	-	-
 -	ehtoisa	-	adjective	10	-	back	a	jocul	-
@@ -853,13 +853,13 @@
 -	endomorfinen	-	adjective	38	-	-	-	-	-
 -	endorektaalinen	-	adjective	38	-	-	-	-	-
 -	endoterminen	-	adjective	38	-	front	-	-	-
--	enempi	-	adjective	16	mp:mm	front	i	-	-
+-	enempi	-	adjective	16	mp:mm	front	i	non-comparable	-
 -	enenevä	-	adjective	10	-	front	ä	-	-
 -	energinen	-	adjective	38	-	front	e	-	-
 -	englantilainen	-	adjective	38	-	back	e	-	-
 -	englasiaalinen	-	adjective	38	-	-	-	-	-
 -	enigmaattinen	-	adjective	38	-	-	-	-	-
--	enin	-	adjective	36	-	front	i	-	-
+-	enin	-	adjective	36	-	front	i	non-comparable	-
 -	enkelimäinen	-	adjective	38	-	-	-	-	-
 -	ennakoimaton	-	adjective	34	tt:t	back	o	-	-
 -	ennusteellinen	-	adjective	38	-	back	e	-	-
@@ -1743,7 +1743,7 @@
 -	iberialainen	-	adjective	38	-	-	-	-	-
 -	ideaalinen	-	adjective	38	-	back	e	-	-
 -	idealistinen	-	adjective	38	-	back	e	-	-
--	idempi	-	adjective	16	mp:mm	-	-	-	-
+-	idempi	-	adjective	16	mp:mm	-	-	non-comparable	-
 -	identtinen	-	adjective	38	-	front	e	-	-
 -	ideologinen	-	adjective	38	-	back	e	-	-
 -	idiografinen	-	adjective	38	-	-	-	-	-
@@ -1805,7 +1805,7 @@
 -	ilmeikäs	-	adjective	41	kk:k	front	ä	-	-
 -	ilmeinen	-	adjective	38	-	front	e	-	-
 -	ilmetty	-	adjective	1	tt:t	front	y	-	-
--	ilmi	-	adjective	!	-	front	i	-	-
+-	ilmi	-	adjective	!	-	front	i	rare	1.000
 -	ilmiömäinen	-	adjective	38	-	front	e	-	-
 -	ilmoinen	-	adjective	38	-	-	-	poet|rare	-
 -	iloinen	-	adjective	38	-	back	e	-	-
@@ -2443,14 +2443,14 @@
 -	katuvainen	-	adjective	38	-	back	e	-	-
 -	katveinen	-	adjective	38	-	back	e	-	-
 -	kaudaalinen	-	adjective	38	-	-	-	-	-
--	kauempi	-	adjective	16	mp:mm	-	-	-	-
+-	kauempi	-	adjective	16	mp:mm	-	-	non-comparable	-
 -	kauhallinen	-	adjective	38	-	back	e	-	-
 -	kauhavainen	-	adjective	38	-	-	-	-	-
 -	kauhavalainen	-	adjective	38	-	-	-	-	-
 -	kauhea	-	adjective	15	-	back	a	-	-
 -	kauhistuttava	-	adjective	10	-	-	-	-	-
 -	kauimmainen	-	adjective	38	-	back	e	-	-
--	kauin	-	adjective	36	-	-	-	rare	-
+-	kauin	-	adjective	36	-	-	-	rare|non-comparable	-
 -	kaukainen	-	adjective	38	-	back	e	-	-
 -	kaukalomainen	-	adjective	38	-	back	e	-	-
 -	kaukasialainen	-	adjective	38	-	back	e	-	-
@@ -3263,7 +3263,7 @@
 -	laho	-	adjective	1	-	back	o	-	-
 -	lahtelainen	-	adjective	38	-	-	-	-	-
 -	laidallinen	-	adjective	38	-	back	e	-	-
--	laidempi	-	adjective	16	mp:mm	-	-	-	-
+-	laidempi	-	adjective	16	mp:mm	-	-	non-comparable	-
 -	laiha	-	adjective	9	-	back	a	-	-
 -	laihialainen	-	adjective	38	-	-	-	-	-
 -	laikkuinen	-	adjective	38	-	back	e	-	-
@@ -3455,8 +3455,8 @@
 -	likainen	-	adjective	38	-	back	e	-	-
 -	likeinen	-	adjective	38	-	front	e	-	-
 -	likekkäinen	-	adjective	38	-	front	e	-	-
--	likempi	-	adjective	16	mp:mm	-	-	-	-
--	likin	-	adjective	36	-	-	-	-	-
+-	likempi	-	adjective	16	mp:mm	-	-	non-comparable	-
+-	likin	-	adjective	36	-	-	-	non-comparable	-
 -	likvidi	-	adjective	5	-	front	i	-	-
 -	lila	-	adjective	9	-	back	a	-	-
 -	liljendalilainen	-	adjective	38	-	-	-	-	-
@@ -3623,15 +3623,15 @@
 -	lyömätön	-	adjective	34	tt:t	front	ö	-	-
 -	läheinen	-	adjective	38	-	front	e	-	-
 -	lähekkäinen	-	adjective	38	-	front	e	-	-
--	lähempi	-	adjective	16	mp:mm	-	-	-	-
--	lähin	-	adjective	36	-	front	i	-	-
+-	lähempi	-	adjective	16	mp:mm	-	-	non-comparable	-
+-	lähin	-	adjective	36	-	front	i	non-comparable	-
 -	lähtemätön	-	adjective	34	tt:t	front	ö	-	-
 -	läikikäs	-	adjective	41	kk:k	front	ä	-	-
 -	läikkäinen	-	adjective	38	-	front	e	-	-
 -	läiskikäs	-	adjective	41	kk:k	front	ä	-	-
 -	läiskäinen	-	adjective	38	-	front	e	-	-
 -	lälly	-	adjective	1	-	front	y	coll	-
--	lämmin	-	adjective	35	mp:mm	front	i	-	-
+-	lämmin	-	adjective	35	mp:mm	front	-	-	-
 -	lämpöinen	-	adjective	38	-	front	e	-	-
 -	läntinen	-	adjective	38	-	front	e	-	-
 -	läpäisemätön	-	adjective	34	tt:t	front	ö	-	-
@@ -3712,7 +3712,7 @@
 -	makea	-	adjective	15	-	back	a	-	-
 -	makeahko	-	adjective	1	-	back	o	-	-
 -	makedonialainen	-	adjective	38	-	back	e	-	-
--	makee	-	adjective	20	-	back	a	-	-
+-	makee	-	adjective	20	-	back	-	-	-
 -	makkaramainen	-	adjective	38	-	back	e	-	-
 -	makoinen	-	adjective	38	-	back	e	-	-
 -	makoisa	-	adjective	10	-	back	a	-	-
@@ -4138,7 +4138,7 @@
 -	myyttinen	-	adjective	38	-	front	e	-	-
 -	myyty	-	adjective	1	t:d	front	y	-	-
 -	myyvä	-	adjective	10	-	-	-	-	-
--	myöhempi	-	adjective	16	mp:mm	-	-	-	-
+-	myöhempi	-	adjective	16	mp:mm	-	-	non-comparable	-
 -	myöhä	-	adjective	10	-	front	ä	-	-
 -	myöhäinen	-	adjective	38	-	front	e	-	-
 -	myönteinen	-	adjective	38	-	front	e	-	-
@@ -4513,7 +4513,7 @@
 -	oloinen	-	adjective	38	-	back	e	-	-
 -	olympialainen	-	adjective	38	-	-	-	rare	-
 -	olympolainen	-	adjective	38	-	back	e	poet	-
--	oma	-	adjective	10	-	back	a	+poss	-
+-	oma	-	adjective	10	-	back	a	+poss|non-comparable	-
 -	omanilainen	-	adjective	38	-	-	-	-	-
 -	omariittoinen	-	adjective	38	-	-	-	-	-
 -	ombrofiilinen	-	adjective	38	-	front|back	-	-	-
@@ -4718,7 +4718,7 @@
 -	paradoksinen	-	adjective	38	-	back	e	-	-
 -	parafrastinen	-	adjective	38	-	-	-	-	-
 -	paraguaylainen	-	adjective	38	-	-	-	-	-
--	parahin	-	adjective	36	-	-	-	poet	-
+-	parahin	-	adjective	36	-	-	-	poet|non-comparable	-
 -	parahultainen	-	adjective	38	-	back	e	coll	-
 -	paraislainen	-	adjective	38	-	-	-	-	-
 -	paraistelainen	-	adjective	38	-	-	-	-	-
@@ -4737,17 +4737,17 @@
 -	parapleginen	-	adjective	38	-	-	-	-	-
 -	parapsykologinen	-	adjective	38	-	-	-	-	-
 -	parapsyykkinen	-	adjective	38	-	-	-	-	-
--	paras	-	adjective	41	rh:r	-	-	-	-
+-	paras	-	adjective	41	rh:r	-	-	non-comparable	-
 -	parasympaattinen	-	adjective	38	-	-	-	-	-
 -	parataktinen	-	adjective	38	-	back	e	-	-
 -	parautoktoninen	-	adjective	38	-	-	-	-	-
 -	pareittainen	-	adjective	38	-	back	e	-	-
--	parempi	-	adjective	16	mp:mm	-	-	-	-
+-	parempi	-	adjective	16	mp:mm	-	-	non-comparable	-
 -	parenkymaalinen	-	adjective	38	-	-	-	-	-
 -	parentaalinen	-	adjective	38	-	-	-	-	-
 -	parenteettinen	-	adjective	38	-	-	-	-	-
 -	parenteraalinen	-	adjective	38	-	-	-	-	-
--	parhain	-	adjective	36	-	-	-	-	-
+-	parhain	-	adjective	36	-	-	-	non-comparable	-
 -	parietaalinen	-	adjective	38	-	-	-	-	-
 -	pariisilainen	-	adjective	38	-	-	-	-	-
 -	parikkalainen	-	adjective	38	-	-	-	-	-
@@ -4836,7 +4836,7 @@
 -	peralumiininen	-	adjective	38	-	-	-	-	-
 -	perehtymätön	-	adjective	34	tt:t	-	-	-	-
 -	perehtynyt	-	adjective	47	-	-	-	-	-
--	perempi	-	adjective	16	mp:mm	-	-	-	-
+-	perempi	-	adjective	16	mp:mm	-	-	non-comparable	-
 -	perfektionistinen	-	adjective	38	-	back	e	-	-
 -	performatorinen	-	adjective	38	-	-	-	-	-
 -	perforoiva	-	adjective	10	-	-	-	-	-
@@ -4848,7 +4848,7 @@
 -	perifrastinen	-	adjective	38	-	-	-	-	-
 -	perikolinen	-	adjective	38	-	-	-	-	-
 -	perimmäinen	-	adjective	38	-	front	e	-	-
--	perin	-	adjective	36	-	front	i	-	-
+-	perin	-	adjective	36	-	front	i	non-comparable	-
 -	perinataali	-	adjective	5	-	-	-	-	-
 -	perinataalinen	-	adjective	38	-	-	-	-	-
 -	perinnäinen	-	adjective	38	-	front	e	-	-
@@ -4914,7 +4914,7 @@
 -	petäjäinen	-	adjective	38	-	front	e	-	-
 -	peukaloinen	-	adjective	38	-	back	e	-	-
 -	pianistinen	-	adjective	38	-	back	e	-	-
--	pidempi	-	adjective	16	mp:mm	-	-	-	-
+-	pidempi	-	adjective	16	mp:mm	-	-	non-comparable	-
 -	pidäkkeetön	-	adjective	34	tt:t	front	ö	-	-
 -	pidättynyt	-	adjective	47	-	front	y	-	-
 -	pidättyvä	-	adjective	10	-	front	ä	-	-
@@ -6094,10 +6094,10 @@
 -	sirpakka	-	adjective	14	kk:k	back	a	coll	-
 -	sirpaleinen	-	adjective	38	-	back	e	-	-
 -	sisarellinen	-	adjective	38	-	back	e	-	-
--	sisempi	-	adjective	16	mp:mm	-	-	-	-
+-	sisempi	-	adjective	16	mp:mm	-	-	non-comparable	-
 -	sisilialainen	-	adjective	38	-	-	-	-	-
 -	sisimmäinen	-	adjective	38	-	front	e	-	-
--	sisin	-	adjective	36	-	-	-	-	-
+-	sisin	-	adjective	36	-	-	-	non-comparable	-
 -	sisukas	-	adjective	41	kk:k	back	a	-	-
 -	sisustuksellinen	-	adjective	38	-	back	e	-	-
 -	sisäinen	-	adjective	38	-	front	e	-	-
@@ -6539,9 +6539,9 @@
 -	sökö	-	adjective	1	-	front	ö	coll	-
 -	söpö	-	adjective	1	-	front	ö	coll	-
 -	söötti	-	adjective	5	tt:t	front	i	coll	-
--	taaempi	-	adjective	16	mp:mm	back	i	-	-
+-	taaempi	-	adjective	16	mp:mm	back	i	non-comparable	-
 -	taaimmainen	-	adjective	38	-	back	e	-	-
--	taain	-	adjective	36	-	back	i	-	-
+-	taain	-	adjective	36	-	back	-	non-comparable	-
 -	taaja	-	adjective	9	-	back	a	-	-
 -	taajuinen	-	adjective	38	-	back	e	-	-
 -	taalalainen	-	adjective	38	-	-	-	-	-
@@ -6550,7 +6550,7 @@
 -	taantumuksellinen	-	adjective	38	-	back	e	-	-
 -	taattu	-	adjective	1	tt:t	back	u	-	-
 -	tadžikistanilainen	-	adjective	38	-	-	-	-	-
--	taempi	-	adjective	16	mp:mm	-	-	-	-
+-	taempi	-	adjective	16	mp:mm	-	-	non-comparable	-
 -	tahallinen	-	adjective	38	-	back	e	-	-
 -	tahaton	-	adjective	34	tt:t	back	o	-	-
 -	tahdikas	-	adjective	41	kk:k	back	a	-	-
@@ -6571,7 +6571,7 @@
 -	taikinainen	-	adjective	38	-	back	e	-	-
 -	taikinamainen	-	adjective	38	-	back	e	-	-
 -	taimmainen	-	adjective	38	-	back	e	-	-
--	tain	-	adjective	36	-	back	i	-	-
+-	tain	-	adjective	36	-	back	-	non-comparable	-
 -	taipeilainen	-	adjective	38	-	-	-	-	-
 -	taipuisa	-	adjective	10	-	back	a	-	-
 -	taipumaton	-	adjective	34	tt:t	back	o	-	-
@@ -7124,9 +7124,9 @@
 -	ulkoneva	-	adjective	10	-	back	a	-	-
 -	ullavalainen	-	adjective	38	-	-	-	-	-
 -	uloimmainen	-	adjective	38	-	back	e	-	-
--	uloin	-	adjective	36	-	back	i	-	-
+-	uloin	-	adjective	36	-	back	-	non-comparable	-
 -	ulommainen	-	adjective	38	-	back	e	-	-
--	ulompi	-	adjective	16	mp:mm	back	i	-	-
+-	ulompi	-	adjective	16	mp:mm	back	i	non-comparable	-
 -	ulotteikas	-	adjective	41	kk:k	back	a	-	-
 -	ulseratiivinen	-	adjective	38	-	-	-	-	-
 -	ultramafinen	-	adjective	38	-	-	-	-	-
@@ -7315,9 +7315,9 @@
 -	vanhahko	-	adjective	1	-	-	-	-	-
 -	vanhahtava	-	adjective	10	-	back	a	-	-
 -	vanhastava	-	adjective	10	-	back	a	rare	-
--	vanhempi	-	adjective	16	mp:mm	-	-	-	-
+-	vanhempi	-	adjective	16	mp:mm	-	-	non-comparable	-
 -	vanhentunut	-	adjective	47	-	-	-	-	-
--	vanhin	-	adjective	36	-	back	i	-	-
+-	vanhin	-	adjective	36	-	back	-	non-comparable	-
 -	vanhoillinen	-	adjective	38	-	back	e	-	-
 -	vanhurskas	-	adjective	41	-	back	a	-	-
 -	vankka	-	adjective	9	kk:k	back	a	-	-
@@ -7337,8 +7337,8 @@
 -	varaukseton	-	adjective	34	tt:t	back	o	-	-
 -	varauksinen	-	adjective	38	-	back	e	-	-
 -	varhainen	-	adjective	38	-	back	e	-	-
--	varhempi	-	adjective	16	mp:mm	-	-	-	-
--	varhin	-	adjective	36	-	-	-	rare	-
+-	varhempi	-	adjective	16	mp:mm	-	-	non-comparable	-
+-	varhin	-	adjective	36	-	-	-	rare|non-comparable	-
 -	vari	-	adjective	5	-	back	i	-	-
 -	variaabeli	-	adjective	6	-	-	-	-	-
 -	varikoinen	-	adjective	38	-	-	-	-	-
@@ -7359,7 +7359,7 @@
 -	vartioimaton	-	adjective	34	tt:t	back	o	-	-
 -	vartiolainen	-	adjective	38	-	-	-	-	-
 -	vasemmistolainen	-	adjective	38	-	back	e	-	-
--	vasen	-	adjective	37	-	back	e	-	-
+-	vasen	-	adjective	37	-	back	-	non-comparable	-
 -	vasikkamainen	-	adjective	38	-	back	e	-	-
 -	vasituinen	-	adjective	38	-	back	e	dial	-
 -	vaskinen	-	adjective	38	-	back	e	-	-
@@ -7507,7 +7507,7 @@
 -	viimainen	-	adjective	38	-	back	e	-	-
 -	viime	-	adjective	!	-	-	-	-	-
 -	viimeinen	-	adjective	38	-	front	e	-	-
--	viimeisin	-	adjective	36	-	-	-	-	-
+-	viimeisin	-	adjective	36	-	-	-	non-comparable	-
 -	viimeistelemätön	-	adjective	34	tt:t	front	ö	-	-
 -	viinainen	-	adjective	38	-	back	e	-	-
 -	viinaton	-	adjective	34	tt:t	back	o	-	-
@@ -7646,7 +7646,7 @@
 -	väekäs	-	adjective	41	kk:k	front	ä	-	-
 -	väestöllinen	-	adjective	38	-	front	e	-	-
 -	väetön	-	adjective	34	tt:t	front	ö	-	-
--	vähempi	-	adjective	16	mp:mm	front	i	-	-
+-	vähempi	-	adjective	16	mp:mm	front	i	non-comparable	-
 -	vähittäinen	-	adjective	38	-	front	e	-	-
 -	vähä	-	adjective	10	-	front	ä	-	-
 -	vähäinen	-	adjective	38	-	front	e	-	-
@@ -7717,13 +7717,13 @@
 -	yksityinen	-	adjective	38	-	front	e	-	-
 -	yleinen	-	adjective	38	-	front	e	-	-
 -	ylellinen	-	adjective	38	-	front	e	-	-
--	ylempi	-	adjective	16	mp:mm	front	i	+poss	-
+-	ylempi	-	adjective	16	mp:mm	front	i	+poss|non-comparable	-
 -	yletön	-	adjective	34	tt:t	front	ö	-	-
 -	ylevä	-	adjective	10	-	front	ä	-	-
 -	ylhäinen	-	adjective	38	-	front	e	-	-
 -	ylimmäinen	-	adjective	38	-	front	e	-	-
 -	ylimyksellinen	-	adjective	38	-	front	e	-	-
--	ylin	-	adjective	36	-	front	i	-	-
+-	ylin	-	adjective	36	-	front	i	non-comparable	-
 -	ylinen	-	adjective	38	-	front	e	-	-
 -	ylistaroinen	-	adjective	38	-	-	-	-	-
 -	ylistarolainen	-	adjective	38	-	-	-	-	-
@@ -8022,7 +8022,7 @@
 -	ala|veteliläinen	-	adjective	38	-	-	-	-	-
 -	ala|vieskalainen	-	adjective	38	-	-	-	-	-
 -	ala|vireinen	-	adjective	38	-	-	-	-	-
--	alempi|arvoinen	-	adjective	38	-	-	-	-	-
+-	alempi|arvoinen	-	adjective	38	-	-	-	+poss	-
 -	alempi|palkkainen	-	adjective	38	-	-	-	-	-
 -	alfa|numeerinen	-	adjective	38	-	-	-	-	-
 -	alhais|sukuinen	-	adjective	38	-	-	-	-	-
@@ -14069,7 +14069,7 @@
 -	yleis|tajuinen	-	adjective	38	-	-	-	-	-
 -	yleis|vaarallinen	-	adjective	38	-	-	-	-	-
 -	ylemmyyden|tuntoinen	-	adjective	38	-	-	-	-	-
--	ylempi|arvoinen	-	adjective	38	-	-	-	-	-
+-	ylempi|arvoinen	-	adjective	38	-	-	-	+poss	-
 -	ylen|katseellinen	-	adjective	38	-	-	-	-	-
 -	ylen|määräinen	-	adjective	38	-	-	-	-	-
 -	ylen|palttinen	-	adjective	38	-	-	-	-	-
@@ -24257,7 +24257,7 @@
 -	crêpe	-	noun	8	-	-	-	-	-
 -	css	-	noun	10B	-	-	-	abbr	-
 -	csv	-	noun	18B	-	-	-	abbr	-
--	csárdás	-	noun	5|39	-	-	-	-	-
+-	csárdás	-	noun	5|39	-	back	-	-	-
 -	cubitus	-	noun	39	-	-	-	foreign|rare	-
 -	cum laude	-	noun	8	-	-	-	-	-
 -	cum laude approbatur	-	noun	6	-	-	-	-	-
@@ -30959,7 +30959,7 @@
 -	kefalometria	-	noun	12	-	-	-	-	-
 -	kefalosporiini	-	noun	5	-	back	i	-	-
 -	kefeidi	-	noun	5	-	-	-	-	-
--	kefiiri	-	noun	5|†6	-	front	i	-	-
+-	kefiiri	-	noun	5|†6	-	front	-	-	-
 -	keftriaksoni	-	noun	6	-	-	-	-	-
 -	kefuroksiimi	-	noun	5	-	-	-	-	-
 -	kehaisu	-	noun	2	-	back	u	-	-
@@ -31299,7 +31299,7 @@
 -	keveys	-	noun	40	-	front	y	-	-
 -	keväin	-	noun	33	-	front	i	poet	-
 -	keväistys	-	noun	39	-	front	y	-	-
--	kevät	-	noun	44	-	front	ä	-	-
+-	kevät	-	noun	44	-	front	-	-	-
 -	keyri	-	noun	5	-	-	-	dial	-
 -	kg	-	noun	0B	-	back	-	unit	-
 -	khaki	-	noun	5	-	back	i	-	-
@@ -31858,7 +31858,7 @@
 -	klimatoterapia	-	noun	12	-	-	-	-	-
 -	klimppi	-	noun	5	pp:p	front	i	coll	-
 -	klindamysiini	-	noun	5	-	-	-	-	-
--	klingon	-	noun	5|†6	-	back	o	-	-
+-	klingon	-	noun	5|†6	-	back	-	-	-
 -	klinikka	-	noun	14	kk:k	back	a	-	-
 -	klinimetria	-	noun	12	-	-	-	-	-
 -	klinkkeri	-	noun	6	-	front	i	-	-
@@ -31986,7 +31986,7 @@
 -	koipi	-	noun	7	p:v	back	i	-	-
 -	koira	-	noun	10	-	back	a	-	-
 -	koirakko	-	noun	4	kk:k	back	o	-	-
--	koiras	-	noun	41|39	-	back	a	-	-
+-	koiras	-	noun	41|(39)	-	back	-	-	-
 -	koiruus	-	noun	40	-	back	u	-	-
 -	koisa	-	noun	10	-	back	a	-	-
 -	koiso	-	noun	1	-	back	o	-	-
@@ -32761,7 +32761,7 @@
 -	kovuus	-	noun	40	-	back	u	-	-
 -	koyra chiini	-	noun	5	-	-	-	-	-
 -	koyraboro senni	-	noun	5	-	-	-	-	-
--	košer	-	noun	5	-	back	e	-	-
+-	košer	-	noun	6	-	back	-	-	-
 -	kpelle	-	noun	8	-	-	-	-	-
 -	kr	-	noun	XX	-	back	-	abbr	-
 -	kraana	-	noun	9	-	back	a	coll	-
@@ -33320,7 +33320,7 @@
 -	kusiainen	-	noun	38	-	back	e	coll	-
 -	kuskaus	-	noun	39	-	back	u	coll	-
 -	kuski	-	noun	5	-	back	i	coll	-
--	kuskus	-	noun	5|39	-	back	u	-	-
+-	kuskus	-	noun	5|39	-	back	-	-	-
 -	kustanne	-	noun	48	nt:nn	back	e	-	-
 -	kustannus	-	noun	39	-	back	u	-	-
 -	kustantaja	-	noun	10	-	back	a	-	-
@@ -35472,7 +35472,7 @@
 -	lällättely	-	noun	2	-	-	-	child|coll	-
 -	lällätys	-	noun	39	-	-	-	child	-
 -	lämmike	-	noun	48	kk:k	front	e	-	-
--	lämmin	-	noun	35	mp:mm	front	i	-	-
+-	lämmin	-	noun	35	mp:mm	front	-	-	-
 -	lämmitin	-	noun	33	tt:t	front	i	-	-
 -	lämmittely	-	noun	2	-	front	y	-	-
 -	lämmittäjä	-	noun	10	-	front	ä	-	-
@@ -36486,7 +36486,7 @@
 -	mieluisuus	-	noun	40	-	back	u	-	-
 -	miero	-	noun	1	-	back	o	poet	-
 -	mierolainen	-	noun	38	-	back	e	poet	-
--	mies	-	noun	42	-	front	e	-	-
+-	mies	-	noun	42	-	front	-	-	-
 -	miesmäisyys	-	noun	40	-	front	y	-	-
 -	miete	-	noun	48	tt:t	front	e	-	-
 -	mietelmä	-	noun	10	-	front	ä	-	-
@@ -37817,7 +37817,7 @@
 -	neva	-	noun	9	-	back	a	-	-
 -	new age	-	noun	8	-	front|back	-	-	-
 -	newari	-	noun	6	-	-	-	-	-
--	newton	-	noun	5|†6	-	back	o	-	-
+-	newton	-	noun	5|†6	-	back	-	-	-
 -	newyorkilainen	-	noun	38	-	-	-	-	-
 -	nexus	-	noun	39	-	-	-	foreign	-
 -	ngambay	-	noun	21	-	-	-	-	-
@@ -39619,7 +39619,7 @@
 -	peeveli	-	noun	6	-	front	i	coll	-
 -	peffa	-	noun	9	-	back	a	coll	-
 -	pefletti	-	noun	5	tt:t	-	-	-	-
--	pegasos	-	noun	39|1S	-	back	o	-	-
+-	pegasos	-	noun	39|1S	-	back	-	-	-
 -	pegasus	-	noun	39	-	-	-	-	-
 -	pegmatiitti	-	noun	5	tt:t	back	i	-	-
 -	peherrys	-	noun	39	-	front	y	-	-
@@ -42541,7 +42541,7 @@
 -	revansisti	-	noun	5	-	back	i	-	-
 -	revanssi	-	noun	5	-	back	i	-	-
 -	revari	-	noun	6	-	back	i	coll	-
--	reviiri	-	noun	5|†6	-	front	i	-	-
+-	reviiri	-	noun	5|†6	-	front	-	-	-
 -	reviisori	-	noun	6	-	back	i	-	-
 -	revinnäinen	-	noun	38	-	front	e	-	-
 -	revintä	-	noun	9	nt:nn	front	ä	-	-
@@ -49356,7 +49356,7 @@
 -	vasemmisto	-	noun	1	-	back	o	-	-
 -	vasemmistolainen	-	noun	38	-	-	-	-	-
 -	vasemmistolaisuus	-	noun	40	-	back	u	-	-
--	vasen	-	noun	37	-	back	e	-	-
+-	vasen	-	noun	37	-	back	-	-	-
 -	vasikka	-	noun	14	kk:k	back	a	-	-
 -	vasikointi	-	noun	5	nt:nn	back	i	-	-
 -	vaskaus	-	noun	39	-	back	u	-	-
@@ -110234,7 +110234,7 @@
 -	avajaiset	-	noun-pl	38	-	back	e	-	-
 -	avut	-	noun-pl	1	-	-	-	-	-
 -	bailut	-	noun-pl	1	-	back	u	coll	-
--	bermudat	-	noun-pl	9|†13	-	back	a	-	-
+-	bermudat	-	noun-pl	9|†13	-	back	-	-	-
 -	bikinit	-	noun-pl	6	-	front	i	-	-
 -	bileet	-	noun-pl	48	-	front	e	coll	-
 -	bokserit	-	noun-pl	6	-	back	i	-	-
@@ -110246,7 +110246,7 @@
 -	converset	-	noun-pl	8	-	-	-	-	-
 -	dekot	-	noun-pl	1	-	-	-	slang	-
 -	dongarit	-	noun-pl	6	-	back	i	slang	-
--	elkeet	-	noun-pl	18	k:j	front	e	-	-
+-	elkeet	-	noun-pl	18	k:j	front	-	-	-
 -	epäkkäät	-	noun-pl	41	kk:k	-	-	-	-
 -	erojaiset	-	noun-pl	38	-	back	e	-	-
 -	etkot	-	noun-pl	1	-	back	o	coll	-
@@ -110277,9 +110277,9 @@
 -	hoksottimet	-	noun-pl	33	tt:t	back	e	jocul	-
 -	housut	-	noun-pl	1	-	back	u	-	-
 -	hyntteet	-	noun-pl	48	-	front	e	coll	-
--	hynttyyt	-	noun-pl	17	-	front	y	coll	-
+-	hynttyyt	-	noun-pl	17	-	front	-	coll	-
 -	hyppyset	-	noun-pl	38	-	front	e	-	-
--	häät	-	noun-pl	18	-	front	ä	-	-
+-	häät	-	noun-pl	18	-	front	-	-	-
 -	hönöt	-	noun-pl	21	-	-	-	-	-
 -	ikenet	-	noun-pl	32	k:	front	e	-	-
 -	illalliset	-	noun-pl	38	-	back	e	-	-
@@ -110301,7 +110301,7 @@
 -	kamppeet	-	noun-pl	48	pp:p	back	e	coll	-
 -	kamppiaiset	-	noun-pl	38	-	back	e	-	-
 -	kampsut	-	noun-pl	1	-	back	u	coll	-
--	kapiot	-	noun-pl	3	-	back	o	-	-
+-	kapiot	-	noun-pl	3	-	back	-	-	-
 -	kastajaiset	-	noun-pl	38	-	back	e	-	-
 -	kastanjetit	-	noun-pl	5	tt:t	back	i	-	-
 -	kasvot	-	noun-pl	1	-	back	o	-	-
@@ -110354,7 +110354,7 @@
 -	lehdekset	-	noun-pl	39	-	front	e	-	-
 -	lemput	-	noun-pl	1	pp:p	back	u	coll	-
 -	levikset	-	noun-pl	39	-	-	-	coll	-
--	liittoutuneet	-	noun-pl	47	-	back	e	-	-
+-	liittoutuneet	-	noun-pl	47	-	back	-	-	-
 -	lipat	-	noun-pl	9	-	-	-	coll	-
 -	liperit	-	noun-pl	6	-	front	i	-	-
 -	lollot	-	noun-pl	1	-	-	-	slang	-
@@ -110482,7 +110482,7 @@
 -	synnyttimet	-	noun-pl	33	tt:t	front	e	-	-
 -	synttärit	-	noun-pl	6	-	-	-	slang	-
 -	syömingit	-	noun-pl	5	nk:ng	front	i	-	-
--	talkoot	-	noun-pl	17	-	back	o	-	-
+-	talkoot	-	noun-pl	17	-	back	-	-	-
 -	tamineet	-	noun-pl	48	-	back	e	coll	-
 -	tangat	-	noun-pl	9	-	back	a	-	-
 -	tanssiaiset	-	noun-pl	38	-	back	e	-	-

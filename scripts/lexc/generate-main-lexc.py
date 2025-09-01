@@ -242,7 +242,7 @@ def add_auxiliary_lexica():
 		add_word(ending, pos, infl=infl, auxtags=tag, auxname=auxname)
 
 
-def add_irregular_forms():
+def add_irregular_and_defective_words():
 
 	"""
 	Individual irregular word forms w/ their analyses.
@@ -266,6 +266,7 @@ def read_words():
 		'compound-only.tsv',
 		'participles.tsv',
 		'temporary.tsv', # FIXME!
+		#'temp.tsv'
 	]
 	filenames += glob(os.path.join(scripts_path, '..', 'lists', 'gaz-*.tsv'))
 	rows = [row for filename in filenames for row in read_tsv(filename, directory='lists')]
@@ -280,8 +281,8 @@ def read_words():
 	# Add auxuliary lexica
 	add_auxiliary_lexica()
 
-	# Add irregular wordforms
-	add_irregular_forms()
+	# Add irregular and defective words
+	add_irregular_and_defective_words()
 
 	print('Done.')
 

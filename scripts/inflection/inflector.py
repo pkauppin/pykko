@@ -8,7 +8,6 @@ from scripts.inflection.utils import \
 	plural2singular, merge_inflections
 from scripts.utils import ADVERB_INFLECTIONS, clean
 from scripts.inflection.verb_derivations import derive_agent_noun, derive_action_noun
-from pprint import pprint
 
 def get_comparison(adjective, inflections, kotus_class=''):
 
@@ -113,7 +112,6 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	v = vowel = vowel or determine_stem_vowel(word, kotus_class)
 	harmony = harmony or determine_harmony(word, kotus_class)
 	a, o, u, aa, oo, _ = HARMONY_MAPPING[harmony]
-	vv = v + v
 
 	if not kotus_class:
 		return {'': [word], '@base': [word]}
@@ -160,7 +158,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	# "valo"
 	elif kotus_class == "1":
 		katto = word
-		kattoo = katto + vowel
+		kattoo = katto + word[-1]
 		kato = grad_weak(word, gradtype)
 		katoi = grad_weak(word, gradtype, vowel_follows=True) + 'i'
 		#
@@ -177,6 +175,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	# "€"
 	elif kotus_class == "1B":
 		d = word
+		vv = vowel + vowel
 		#
 		all_forms['sg|nom'] = [f"{d}"]
 		all_forms['sg|gen'] = [f"{d}:n"]
@@ -208,7 +207,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	# "palvelu"
 	elif kotus_class == "2":
 		palvelu = word
-		palveluu = palvelu + vowel
+		palveluu = palvelu + word[-1]
 		#
 		all_forms['sg|gen'] = [f"{palvelu}n"]
 		all_forms['sg|par'] = [f"{palvelu}{a}"]
@@ -223,7 +222,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	# "valtio"
 	elif kotus_class == "3":
 		valtio = word
-		valtioo = word + vowel
+		valtioo = word + word[-1]
 		#
 		all_forms['sg|gen'] = [f"{valtio}n"]
 		all_forms['sg|par'] = [f"{valtio}t{a}"]
@@ -564,7 +563,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	elif kotus_class == "18":
 		maa = word
 		ma = word[:-1]
-		han = f"h{vowel}n"
+		han = f'h{word[-1]}n'
 		#
 		all_forms['sg|gen'] = [f"{maa}n"]
 		all_forms['sg|par'] = [f"{maa}t{a}"]
@@ -579,7 +578,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	# "leu"
 	elif kotus_class == "18U":
 		tau = word
-		hun = f'h{vowel}n'
+		hun = f'h{word[-1]}n'
 		#
 		all_forms['sg|gen'] = [f"{tau}n"]
 		all_forms['sg|par'] = [f"{tau}t{a}"]
@@ -612,7 +611,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	elif kotus_class == "19":
 		suo = word
 		so = word[:-2] + word[-1]
-		hon = f"h{vowel}n"
+		hon = f"h{word[-1]}n"
 		#
 		all_forms['sg|gen'] = [f"{suo}n"]
 		all_forms['sg|par'] = [f"{suo}t{a}"]
@@ -628,7 +627,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	elif kotus_class == "20":
 		patee = word
 		pate = word[:-1]
-		hen = f"h{vowel}n"
+		hon = f"h{word[-1]}n"
 		#
 		all_forms['sg|gen'] = [f"{patee}n"]
 		all_forms['sg|par'] = [f"{patee}t{a}"]
@@ -862,6 +861,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		if word.endswith('hapan'):
 			happa = erotti
 			all_forms['sg|gen'] += [f"{happa}man"]
+			all_forms['sg|ill'] += [f"{happa}maan"]
 
 	# "onneton", "alaston"
 	elif kotus_class == "34":
@@ -917,7 +917,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		rikas = word
 		rika = word[:-1]
 		rikka = grad_strong(rika, gradtype)
-		rikkaa = rikka + vowel
+		rikkaa = rikka + word[:-2]
 		#
 		all_forms['sg|nom'] = [f"{rikas}"]
 		all_forms['sg|gen'] = [f"{rikkaa}n"]
@@ -1014,11 +1014,11 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['sg|ess'] = [f"{kuolle}en{a}"]
 		all_forms['pl|ess'] = [f"{kuolle}in{a}"]
 
-	# "hame", "moite"
+	# "hame", "moite", "kiiru", "ori"
 	elif kotus_class == "48" or kotus_class == '49b':
 		moite = word
 		moitte = grad_strong(moite, gradtype)
-		moittee = moitte + vowel
+		moittee = moitte + word[-1]
 		#
 		all_forms['sg|nom'] = [f"{moite}"]
 		all_forms['sg|gen'] = [f"{moittee}n"]
@@ -1933,8 +1933,6 @@ def inflect_adjective(word, kotus_class, gradtype=None, harmony=None, vowel=None
 	inflections = inflect_noun(word, kotus_class, gradtype, harmony, vowel)
 	if 'non-comparable' not in info:
 		inflections.update(get_comparison(word, inflections, kotus_class))
-	pprint(inflections)
-	print(info)
 	if '+poss' not in info:
 		inflections['@stem:possessives'] = []
 	inflections['@stem:clitics'] = []
@@ -2033,6 +2031,7 @@ def inflect(word, pos, kotus_class=None, gradation=None, harmony=None, vowel=Non
 
 	kotus_class = kotus_class.replace('†', '').replace('‡', '').replace(')', '').replace('(', '')
 	gradation = gradation.replace('†', '').replace('‡', '').replace(')', '').replace('(', '')
+	harmony = harmony.replace('†', '').replace('‡', '').replace(')', '').replace('(', '')
 
 	if info == '#':
 		return {'': [word], '@base': [word]}

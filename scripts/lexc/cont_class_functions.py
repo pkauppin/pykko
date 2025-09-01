@@ -130,7 +130,7 @@ def adjective_cont_class(lemma, pairs, morphtag, harmony=None):
 		return []
 
 	# Inflected forms or "paras"
-	if lemma == 'hyvä' and (tags > {'superlative', 'sg'} or tags > {'superlative', 'pl'}):
+	elif lemma == 'hyvä' and (tags > {'superlative', 'sg'} or tags > {'superlative', 'pl'}):
 		rows = [(pairs, f'CLITIC_%s' % harmony)]
 	elif lemma == 'hyvä' and wordform == 'paras':
 		return []  # ?
