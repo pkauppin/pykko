@@ -293,7 +293,7 @@
 -	Church	-	noun	5	-	-	-	foreign	-
 -	Circle	-	noun	8	-	-	-	foreign	-
 -	Citizen	-	noun	6	-	-	-	foreign	-
--	City	-	noun	1	-	front	y	foreign	-
+-	City	-	noun	1	-	front	-	foreign	-
 -	Clan	-	noun	6	-	-	-	foreign	-
 -	Class	-	noun	5	-	-	-	foreign	-
 -	Classic	-	noun	5	-	-	-	foreign	-
@@ -310,7 +310,7 @@
 -	Code	-	noun	8	-	-	-	foreign	-
 -	Coin	-	noun	5	-	-	-	foreign	-
 -	Collection	-	noun	5	-	-	-	foreign	-
--	College	-	noun	2	-	back	e	foreign	-
+-	College	-	noun	2	-	back	-	foreign	-
 -	Comics	-	noun	5	-	-	-	foreign	-
 -	Comission	-	noun	5	-	-	-	foreign|nstd	-
 -	Command	-	noun	5	-	-	-	foreign	-
@@ -325,10 +325,10 @@
 -	Congress	-	noun	5	-	-	-	foreign	-
 -	Continental	-	noun	6	-	-	-	foreign	-
 -	Convention	-	noun	5	-	-	-	foreign	-
--	Copy	-	noun	1	-	front|back	y	foreign	-
+-	Copy	-	noun	1	-	front|back	-	foreign	-
 -	Corporation	-	noun	5	-	-	-	foreign	-
 -	Council	-	noun	5	-	-	-	foreign	-
--	Country	-	noun	1	-	front|back	y	foreign	-
+-	Country	-	noun	1	-	front|back	-	foreign	-
 -	Court	-	noun	5	-	-	-	foreign	-
 -	Crash	-	noun	5	-	-	-	foreign	-
 -	Cream	-	noun	5	-	-	-	foreign	-
@@ -422,7 +422,7 @@
 -	Eleven	-	noun	6	-	-	-	foreign	-
 -	Else	-	noun	8	-	-	-	foreign	-
 -	Emerald	-	noun	5	-	-	-	foreign	-
--	Empire	-	noun	8	-	front	e	foreign	-
+-	Empire	-	noun	8	-	front	-	foreign	-
 -	Empty	-	noun	1	-	-	-	foreign	-
 -	Encyclopedia	-	noun	12	-	-	-	foreign	-
 -	Encyclopædia	-	noun	12	-	-	-	foreign	-
@@ -456,7 +456,7 @@
 -	False	-	noun	8	-	-	-	foreign	-
 -	Fame	-	noun	8	-	-	-	foreign	-
 -	Family	-	noun	1	-	-	-	foreign	-
--	Fan	-	noun	5	-	back	a	foreign	-
+-	Fan	-	noun	5	-	back	-	foreign	-
 -	Fantasy	-	noun	2	-	-	-	foreign	-
 -	Fashion	-	noun	5	-	-	-	foreign	-
 -	Federal	-	noun	5	-	-	-	foreign	-
@@ -580,7 +580,7 @@
 -	Hotel	-	noun	6	-	-	-	foreign	-
 -	Hotels	-	noun	5	-	-	-	foreign	-
 -	Hour	-	noun	5	-	-	-	foreign	-
--	House	-	noun	8	-	back	e	foreign	-
+-	House	-	noun	8	-	back	-	foreign	-
 -	Hub	-	noun	5	-	-	-	foreign	-
 -	Human	-	noun	6	-	-	-	foreign	-
 -	Hundred	-	noun	5	-	-	-	foreign	-
@@ -719,7 +719,7 @@
 -	Microsystems	-	noun	5	-	-	-	foreign	-
 -	Middle	-	noun	8	-	-	-	foreign	-
 -	Might	-	noun	5	-	-	-	foreign	-
--	Millennium	-	noun	5	-	back	u	foreign	-
+-	Millennium	-	noun	5	-	back	-	foreign	-
 -	Million	-	noun	6	-	-	-	foreign	-
 -	Mining	-	noun	5	-	-	-	foreign	-
 -	Minute	-	noun	8	-	-	-	foreign	-
@@ -823,14 +823,14 @@
 -	Paradise	-	noun	8	-	-	-	foreign	-
 -	Paris	-	noun	5	-	-	-	foreign	-
 -	Park	-	noun	5	-	-	-	foreign	-
--	Party	-	noun	1	-	front|back	y	foreign	-
+-	Party	-	noun	1	-	front|back	-	foreign	-
 -	Passion	-	noun	5	-	-	-	foreign	-
 -	Paste	-	noun	8	-	-	-	foreign	-
 -	Path	-	noun	5	-	-	-	foreign	-
 -	Pearl	-	noun	5	-	-	-	foreign	-
 -	Pen	-	noun	5	-	-	-	foreign	-
 -	Penguins	-	noun	5	-	-	-	foreign	-
--	Penny	-	noun	1	-	front	y	foreign	-
+-	Penny	-	noun	1	-	front	-	foreign	-
 -	People	-	noun	8	-	-	-	foreign	-
 -	Person	-	noun	6	-	-	-	foreign	-
 -	Personal	-	noun	6	-	-	-	foreign	-
@@ -926,7 +926,7 @@
 -	Republic	-	noun	5	-	-	-	foreign	-
 -	Republika	-	noun	13	-	-	-	foreign	-
 -	República	-	noun	13	-	-	-	foreign	-
--	Requiem	-	noun	5	-	back	e	foreign	-
+-	Requiem	-	noun	5	-	back	-	foreign	-
 -	Research	-	noun	5	-	-	-	foreign	-
 -	Resident	-	noun	5	-	-	-	foreign	-
 -	Respublika	-	noun	14	-	-	-	foreign	-
@@ -942,7 +942,7 @@
 -	Rising	-	noun	5	-	-	-	foreign	-
 -	River	-	noun	6	-	-	-	foreign	-
 -	Road	-	noun	5	-	-	-	foreign	-
--	Rock	-	noun	5	-	back	o	foreign	-
+-	Rock	-	noun	5	-	back	-	foreign	-
 -	Rocks	-	noun	5	-	-	-	foreign	-
 -	Roll	-	noun	5	-	-	-	foreign	-
 -	Roma	-	noun	10	-	-	-	foreign	-
@@ -995,7 +995,7 @@
 -	Shimbun	-	noun	6	-	-	-	foreign	-
 -	Shinbun	-	noun	6	-	-	-	foreign	-
 -	Shit	-	noun	5	-	-	-	foreign	-
--	Shop	-	noun	5	-	back	o	foreign	-
+-	Shop	-	noun	5	-	back	-	foreign	-
 -	Sierra	-	noun	9	-	-	-	foreign	-
 -	Sign	-	noun	5	-	-	-	foreign	-
 -	Silicon	-	noun	6	-	-	-	foreign	-
@@ -1182,13 +1182,13 @@
 -	Waters	-	noun	5	-	-	-	foreign	-
 -	Wave	-	noun	8	-	-	-	foreign	-
 -	Weapon	-	noun	6	-	-	-	foreign	-
--	Web	-	noun	5	-	front	e	foreign	-
+-	Web	-	noun	5	-	front	-	foreign	-
 -	Wednesday	-	noun	21	-	-	i|y	foreign	-
 -	Week	-	noun	5	-	-	-	foreign	-
 -	Weekly	-	noun	1	-	-	-	foreign	-
 -	Well	-	noun	5	-	-	-	foreign	-
 -	West	-	noun	5	-	-	-	foreign	-
--	Western	-	noun	5	-	front	e	foreign	-
+-	Western	-	noun	5	-	front	-	foreign	-
 -	What	-	noun	5	-	-	-	foreign	-
 -	When	-	noun	5	-	-	-	foreign	-
 -	Where	-	noun	8	-	-	-	foreign	-

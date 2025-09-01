@@ -646,8 +646,8 @@ Num	-prosenttisesti	-	adverb	38	-	-	-	-	3.000
 .+	ious	-	noun	5	-	-	-	foreign	4.000
 .+	ic	-	noun	5	-	-	-	foreign	5.000
 
-Vä	gh	-	proper	22|5	-	front|back	-	foreign	4.500
-Va	gh	-	proper	22|5	-	front|back	-	foreign	4.500
+.+	ugh	-	proper	22|5	-	back	u	foreign	4.500
+.+	igh	-	proper	22|5	-	front|back	i	foreign	4.500
 .+	ghes	-	proper	5	-	front|back	-	foreign	4.500
 .+	bbes	-	proper	5	-	front|back	-	foreign	4.500
 .+	ins	-	proper	5	-	front|back	-	foreign	4.500
@@ -840,8 +840,10 @@ Va	gh	-	proper	22|5	-	front|back	-	foreign	4.500
 .+	lkkä	-	noun	10	kk:k	-	-	-	5.000
 .+	nkkä	-	noun	10	kk:k	-	-	-	5.000
 
-m	ppi	-	noun	5	pp:p	front|back	-	-	5.000
-m	ppe	-	noun	8	-	front|back	-	-	5.000
+Va	mppi	-	noun	5	pp:p	back	-	-	5.000
+Va	mppe	-	noun	8	-	back	-	-	5.000
+Vä	mppi	-	noun	5	pp:p	front	-	-	5.000
+Vä	mppe	-	noun	8	-	front	-	-	5.000
 Va	ppi	-	noun	5	pp:p	back	-	-	5.000
 Vä	ppi	-	noun	5	pp:p	front	-	-	5.000
 Va	ppe	-	noun	8	-	back	-	-	5.000
@@ -886,26 +888,34 @@ Vä	ppö	-	noun	4	pp:p	-	-	-	5.000
 .+	uttu	-	noun	4	tt:t	-	-	-	5.000
 .+	ytty	-	noun	4	tt:t	-	-	-	5.000
 .+	yttö	-	noun	4	tt:t	-	-	-	5.000
-.+	rtti	-	noun	5	tt:t	front|back	-	-	5.000
-.+	rtte	-	noun	8	-	front|back	-	-	5.000
+Vä	rtti	-	noun	5	tt:t	front	-	-	5.000
+Vä	rtte	-	noun	8	-	front	-	-	5.000
+Va	rtti	-	noun	5	tt:t	back	-	-	5.000
+Va	rtte	-	noun	8	-	back	-	-	5.000
 .+	rtto	-	noun	4	tt:t	-	-	-	5.000
 .+	rttu	-	noun	4	tt:t	-	-	-	5.000
 .+	rtty	-	noun	4	tt:t	-	-	-	5.000
 .+	rttö	-	noun	4	tt:t	-	-	-	5.000
-.+	ltti	-	noun	5	tt:t	front|back	-	-	5.000
-.+	ltte	-	noun	8	-	front|back	-	-	5.000
+Vä	ltti	-	noun	5	tt:t	front	-	-	5.000
+Vä	ltte	-	noun	8	-	front	-	-	5.000
+Va	ltti	-	noun	5	tt:t	back	-	-	5.000
+Va	ltte	-	noun	8	-	back	-	-	5.000
 .+	ltto	-	noun	4	tt:t	-	-	-	5.000
 .+	lttu	-	noun	4	tt:t	-	-	-	5.000
 .+	ltty	-	noun	4	tt:t	-	-	-	5.000
 .+	lttö	-	noun	4	tt:t	-	-	-	5.000
-.+	ntti	-	noun	5	tt:t	front|back	-	-	5.000
-.+	ntte	-	noun	8	-	front|back	-	-	5.000
+Vä	ntti	-	noun	5	tt:t	front	-	-	5.000
+Vä	ntte	-	noun	8	-	front	-	-	5.000
+Va	ntti	-	noun	5	tt:t	back	-	-	5.000
+Va	ntte	-	noun	8	-	back	-	-	5.000
 .+	ntto	-	noun	4	tt:t	-	-	-	5.000
 .+	nttu	-	noun	4	tt:t	-	-	-	5.000
 .+	ntty	-	noun	4	tt:t	-	-	-	5.000
 .+	nttö	-	noun	4	tt:t	-	-	-	5.000
-n	kki	-	noun	5	kk:k	front|back	-	-	5.000
-n	kke	-	noun	8	-	front|back	-	-	5.000
+Va	nkki	-	noun	5	kk:k	back	-	-	5.000
+Va	nkke	-	noun	8	-	back	-	-	5.000
+Vä	nkki	-	noun	5	kk:k	front	-	-	5.000
+Vä	nkke	-	noun	8	-	front	-	-	5.000
 Va	kki	-	noun	5	kk:k	back	-	-	5.000
 Vä	kki	-	noun	5	kk:k	front	-	-	5.000
 Va	kke	-	noun	8	-	back	-	-	5.000
@@ -987,13 +997,13 @@ Vä	kätä	-	verb	73	kk:k	-	-	-	4.500
 .*	ata	-	verb	73	-	-	-	-	5.000
 .*	ätä	-	verb	73	-	-	-	-	5.000
 
-.+	ay	-	noun	21	-	front|back	-	-	5.000
-.+	ey	-	noun	21	-	front|back	-	-	5.000
-.+	oy	-	noun	21	-	back	-	-	5.000
+.+	ay	-	noun	21	-	front|back	i|y	-	5.000
+.+	ey	-	noun	21	-	front|back	i|y	-	5.000
+.+	oy	-	noun	21	-	back	i|y	-	5.000
 
-.+	aw	-	noun	22|5	-	back	-	o|u	5.000
-.+	ew	-	noun	22|5	-	front|back	-	u	5.000
-.+	ow	-	noun	22|5	-	back	-	u	5.000
+.+	aw	-	noun	22|5	-	back	o|u	o|u	5.000
+.+	ew	-	noun	22|5	-	front|back	u	-	5.000
+.+	ow	-	noun	22|5	-	back	u	-	5.000
 
 .+	aa	-	noun	20	-	-	-	-	6.000
 .+	ee	-	noun	20	-	front|back	-	-	6.000

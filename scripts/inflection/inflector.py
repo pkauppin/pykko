@@ -109,7 +109,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	Return all possible numbers and cases of given Finnish noun, adjective, ordinal number etc.
 	"""
 
-	v = vowel = vowel or determine_stem_vowel(word, kotus_class)
+	vowel = vowel or determine_stem_vowel(word, kotus_class)
 	harmony = harmony or determine_harmony(word, kotus_class)
 	a, o, u, aa, oo, _ = HARMONY_MAPPING[harmony]
 
@@ -175,12 +175,13 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	# "€"
 	elif kotus_class == "1B":
 		d = word
-		vv = vowel + vowel
+		vvn = f"{vowel}{vowel}n"
+		vn = f"{vowel}n"
 		#
 		all_forms['sg|nom'] = [f"{d}"]
 		all_forms['sg|gen'] = [f"{d}:n"]
 		all_forms['sg|par'] = [f"{d}:{a}"]
-		all_forms['sg|ill'] = [f"{d}:{vv}n", f"{d}:{v}n"]
+		all_forms['sg|ill'] = [f"{d}:{vvn}", f"{d}:{vn}"]
 		all_forms['pl|gen'] = [f"{d}:jen"]
 		all_forms['pl|par'] = [f"{d}:j{a}"]
 		all_forms['pl|ill'] = [f"{d}:ihin"]
@@ -627,7 +628,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	elif kotus_class == "20":
 		patee = word
 		pate = word[:-1]
-		hon = f"h{word[-1]}n"
+		hen = f"h{word[-1]}n"
 		#
 		all_forms['sg|gen'] = [f"{patee}n"]
 		all_forms['sg|par'] = [f"{patee}t{a}"]
@@ -917,7 +918,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		rikas = word
 		rika = word[:-1]
 		rikka = grad_strong(rika, gradtype)
-		rikkaa = rikka + word[:-2]
+		rikkaa = rikka + rikka[-1]
 		#
 		all_forms['sg|nom'] = [f"{rikas}"]
 		all_forms['sg|gen'] = [f"{rikkaa}n"]
