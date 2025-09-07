@@ -8,7 +8,7 @@ def noun_cont_class(_, pairs, morphtag, harmony=None):
 
 	rows = []
 	wordform = get_wordform(pairs)
-	harmony = determine_wordform_harmony(wordform, harmony)
+	harmony = determine_wordform_harmony(wordform, harmony).upper()
 	tags = get_tags(morphtag)
 
 	# Clitics should be attached to separate stem
@@ -121,7 +121,7 @@ def adjective_cont_class(lemma, pairs, morphtag, harmony=None):
 
 	rows = []
 	wordform = get_wordform(pairs)
-	harmony = determine_wordform_harmony(wordform, harmony)
+	harmony = determine_wordform_harmony(wordform, harmony).upper()
 	tags = get_tags(morphtag)
 
 	if morphtag == '@stem:clitics':
@@ -175,7 +175,7 @@ def verb_cont_class(lemma, pairs, morphtag, harmony=None):
 
 	rows = []
 	wordform = get_wordform(pairs)
-	harmony = determine_wordform_harmony(wordform, harmony)
+	harmony = determine_wordform_harmony(wordform, harmony).upper()
 	tags = get_tags(morphtag)
 
 	if lemma == 'ei' and 'imper' in morphtag:
@@ -286,7 +286,7 @@ def adposition_cont_class(lemma, pairs, morphtag, harmony=None):
 
 	rows = []
 	wordform = get_wordform(pairs)
-	harmony = determine_wordform_harmony(wordform, harmony)
+	harmony = determine_wordform_harmony(wordform, harmony).upper()
 
 	if morphtag != '@stem:possessives':
 		return [(pairs, f'CLITIC_%s' % harmony)]
@@ -323,7 +323,7 @@ def adverb_cont_class(_, pairs, morphtag, harmony=None):
 
 	rows = []
 	wordform = get_wordform(pairs)
-	harmony = determine_wordform_harmony(wordform, harmony)
+	harmony = determine_wordform_harmony(wordform, harmony).upper()
 
 	# itsekseen, kallelleen / pahoillaan, mielissään
 	if morphtag == '@stem:possessives' and wordform.endswith('e'):
@@ -378,7 +378,7 @@ def pronoun_cont_class(lemma, pairs, morphtag=None, harmony=None):
 
 	rows = []
 	wordform = get_wordform(pairs)
-	harmony = determine_wordform_harmony(wordform, harmony)
+	harmony = determine_wordform_harmony(wordform, harmony).upper()
 
 	if morphtag == '@stem:clitics':
 		return []
@@ -413,7 +413,7 @@ def ettei_cont_class(_, pairs, morphtag=None, harmony=None):
 def default_cont_class(_, pairs, morphtag=None, harmony=None):
 
 	wordform = get_wordform(pairs)
-	harmony = determine_wordform_harmony(wordform, harmony)
+	harmony = determine_wordform_harmony(wordform, harmony).upper()
 
 	return [(pairs, f'CLITIC_%s' % harmony)]
 

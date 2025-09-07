@@ -1,7 +1,6 @@
 import re
 import hfst
 from scripts.constants import PARSER_FST_PATH, FIELD_STRING
-from scripts.utils import validate_pos
 
 C = "[bcdfghjklmnpqrstvwxzšžčśźćń'’]"
 V = '[aeiouyäöüåáéíóúâêîôûãø]'
@@ -13,7 +12,6 @@ try:
 except:
 	PARSER_FST = hfst.regex('?*')
 
-ALIGNMENT_FST = hfst.regex('[ 0:X:: | ?::0.0 | ?:?::0.0 | ?:0::1.0 | 0:?::1.0 ]+')
 
 inf = float('inf')
 
@@ -81,6 +79,8 @@ def compare_with_others(a_source, analyses):
 			participle_tag = morphtags_source.replace(morphtags_target, '')
 			a_target[5] += f' ← {pos}:{lemma_source}:{participle_tag}'
 			return 'has-participle'
+
+	return
 
 
 def analyze(word, only_best=True, normalize_separators=True, ignore_derivatives=True):
@@ -186,7 +186,6 @@ def lemmatize(word, pos=None):
 
 def syllabify(word, pos=None, compound=True, big_words=False):
 
-	validate_pos(pos)
 	word = add_compound_separators(word, pos, pick_first=True) if compound else word
 
 	# lito·grafia, mikro·skooppi (alternative syllabification)

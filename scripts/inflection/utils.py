@@ -59,39 +59,6 @@ def grad_weak(s, gradtype=None, vowel_follows=False):
 	return s[1:]
 
 
-def determine_harmony(s, kotus_class=None, allow_multiple=False):
-
-	s = s.split('-').pop()
-	s = s.split('|').pop()
-	s = s.split(' ').pop()
-
-	if s.endswith('ainen'):
-		return 'back'
-	if s.endswith('äinen'):
-		return 'front'
-
-	if kotus_class == '18B':
-		c = s[-1].lower()
-		if c in set('bcdefgjilmnprstvwxyzäöü'):
-			return 'front'
-		return 'back'
-
-	if re.fullmatch('.*yy[^aou2368]*', s):
-		return 'front'
-
-	if re.fullmatch('.*[aou].*y[^aou]*', s) and allow_multiple:
-		return 'front|back'
-
-	for c in reversed(s.lower()):
-		if c in set('aouáóúàòùâôû'):
-			return 'back'
-		if c in set('äöü'):
-			return 'front'
-		if c in set('2368'):
-			return 'back'
-	return 'front'
-
-
 def determine_stem_vowel(word, kotus_class=None):
 
 	# Initialisms "tv", "CNN"

@@ -4,7 +4,6 @@
 -	budapestiläinen	-	adjective	38	-	-	-	-	-
 -	euforisoiva	-	adjective	10	-	-	-	-	-
 -	haukattava	-	adjective	10	-	-	-	-	-
--	huimapää	-	adjective	18	-	-	-	-	-
 -	infektoitunut	-	adjective	47	-	-	-	-	-
 -	jaettava	-	adjective	10	-	-	-	-	-
 -	katabolinen	-	adjective	38	-	-	-	-	-
@@ -35,7 +34,6 @@
 -	väärennetty	-	adjective	1	tt:t	-	-	-	-
 -	-henkinen	-	adjective	38	-	-	-	-	-
 -	-ilmeinen	-	adjective	38	-	-	-	-	-
--	-karvainen	-	adjective	38	-	-	-	-	-
 -	-karvainen	-	adjective	38	-	-	-	-	-
 -	-kielinen	-	adjective	38	-	-	-	-	-
 -	-kohtainen	-	adjective	38	-	-	-	-	-
@@ -113,6 +111,7 @@
 -	-älyinen	-	adjective	38	-	-	-	-	-
 -	-ääninen	-	adjective	38	-	-	-	-	-
 -	etelä|savolainen	-	adjective	38	-	-	-	-	-
+-	huima|pää	-	adjective	18	-	-	-	-	-
 -	juutalais|kristitty	-	adjective	1	tt:t	-	-	-	-
 -	silmin|näkemätön	-	adjective	34	tt:t	-	-	-	-
 -	tuittu|pää	-	adjective	18	-	-	-	-	-

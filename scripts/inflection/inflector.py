@@ -4,9 +4,9 @@ from collections import defaultdict
 from scripts.inflection.utils import \
 	C, V, VV, \
 	grad_strong, grad_weak, \
-	HARMONY_MAPPING, determine_harmony, determine_stem_vowel, \
+	HARMONY_MAPPING, determine_stem_vowel, \
 	plural2singular, merge_inflections
-from scripts.utils import ADVERB_INFLECTIONS, clean
+from scripts.utils import ADVERB_INFLECTIONS, clean, determine_wordform_harmony, determine_lemma_vowel_harmony
 from scripts.inflection.verb_derivations import derive_agent_noun, derive_action_noun
 
 def get_comparison(adjective, inflections, kotus_class=''):
@@ -110,7 +110,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	"""
 
 	vowel = vowel or determine_stem_vowel(word, kotus_class)
-	harmony = harmony or determine_harmony(word, kotus_class)
+	harmony = harmony or determine_lemma_vowel_harmony(word, kotus_class)
 	a, o, u, aa, oo, _ = HARMONY_MAPPING[harmony]
 
 	if not kotus_class:
@@ -657,20 +657,25 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 
 	# "parfait"
 	elif kotus_class == "22":
-		parfait = word
-		hen = f"h{vowel}n"
+		show = word
+		hun = f"h{vowel}n"
 		#
-		all_forms['sg|nom'] = [f"{parfait}"]
-		all_forms['sg|gen'] = [f"{parfait}’n"]
-		all_forms['sg|par'] = [f"{parfait}’t{a}"]
-		all_forms['sg|ill'] = [f"{parfait}’{hen}"]
-		all_forms['pl|gen'] = [f"{parfait}’iden", f"{parfait}’itten"]
-		all_forms['pl|par'] = [f"{parfait}’it{a}"]
-		all_forms['pl|ill'] = [f"{parfait}’ihin"]
-		all_forms['pl|ine'] = [f"{parfait}’iss{a}"]
-		all_forms['sg|ess'] = [f"{parfait}’n{a}"]
-		all_forms['pl|ess'] = [f"{parfait}’in{a}"]
-		# TODO: Add nonstandard inflections *here*!
+		all_forms['sg|nom'] = [f"{show}"]
+		all_forms['sg|gen'] = [f"{show}’n"]
+		all_forms['sg|par'] = [f"{show}’t{a}"]
+		all_forms['sg|ill'] = [f"{show}’{hun}"]
+		all_forms['pl|gen'] = [f"{show}’iden", f"{show}’itten"]
+		all_forms['pl|par'] = [f"{show}’it{a}"]
+		all_forms['pl|ill'] = [f"{show}’ihin"]
+		all_forms['pl|ine'] = [f"{show}’iss{a}"]
+		all_forms['sg|ess'] = [f"{show}’n{a}"]
+		all_forms['pl|ess'] = [f"{show}’in{a}"]
+
+		if word.endswith('w'):
+			all_forms['sg|gen|nstd'] = [f"{show}n"]
+			all_forms['sg|par|nstd'] = [f"{show}t{a}"]
+			all_forms['sg|ill|nstd'] = [f"{show}{hun}"]
+			all_forms['sg|ess|nstd'] = [f"{show}n{a}"]
 
 	# "tiili"
 	elif kotus_class == "23":
@@ -1269,7 +1274,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 
 def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 
-	harmony = harmony or determine_harmony(word)
+	harmony = harmony or determine_lemma_harmony(word)
 	a, o, u, aa, oo, _ = HARMONY_MAPPING[harmony]
 
 	all_forms = defaultdict(list)
@@ -1845,7 +1850,7 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 			all_forms[f'pass|pres|conneg{style}'] += [f"{jaeta}"]
 
 		for jaett in [f[:-3] for f in all_forms[f'pass|past{style}']]:
-			a, o, u, _, _, _ = HARMONY_MAPPING[determine_harmony(jaett)]
+			a, o, u, _, _, _ = HARMONY_MAPPING[determine_wordform_harmony(jaett)]
 			all_forms[f'pass|past{style}'] += [f"{jaett}iin"]
 			all_forms[f'pass|cond{style}'] += [f"{jaett}{a}isiin"]
 			all_forms[f'pass|poten{style}'] += [f"{jaett}{a}neen"]
@@ -1861,7 +1866,7 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 			all_forms[f'pass|inf3|ins{style}'] += [f"{jaett}{a}m{a}n"]
 
 		for jaka in [f[:-2] for f in all_forms[f'part_ma{style}']]:
-			a, o, _, aa, _, _ = HARMONY_MAPPING[determine_harmony(jaka)]
+			a, o, _, aa, _, _ = HARMONY_MAPPING[determine_wordform_harmony(jaka)]
 			all_forms[f'part_pres{style}'] += [f"{jaka}v{a}"]
 			all_forms[f'part_maton{style}'] += [f"{jaka}m{a}t{o}n"]
 			all_forms[f'pres|3pl{style}'] += [f"{jaka}v{a}t"]
@@ -1875,11 +1880,11 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 			all_forms[f'inf5{style}'] = [f"{jaka}m{a}isill{aa}n"]
 
 		for jakoi in [f for f in all_forms[f'past|3sg{style}']]:
-			a, _, _, _, _, _ = HARMONY_MAPPING[determine_harmony(jakoi)]
+			a, _, _, _, _, _ = HARMONY_MAPPING[determine_wordform_harmony(jakoi)]
 			all_forms[f'past|3pl{style}'] += [f"{jakoi}v{a}t"]
 
 		for jakaisi in [f for f in all_forms[f'cond|3sg{style}']]:
-			a, _, _, _, _, _ = HARMONY_MAPPING[determine_harmony(jakaisi)]
+			a, _, _, _, _, _ = HARMONY_MAPPING[determine_wordform_harmony(jakaisi)]
 			all_forms[f'cond|1sg{style}'] += [f"{jakaisi}n"]
 			all_forms[f'cond|2sg{style}'] += [f"{jakaisi}t"]
 			all_forms[f'cond|3sg{style}'] += [f"{jakaisi}"]
@@ -1889,7 +1894,7 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 			all_forms[f'cond|conneg{style}'] += [f"{jakaisi}"]
 
 		for jakane in [f[:-1] for f in all_forms[f'poten|3sg{style}']]:
-			a, _, _, _, _, _ = HARMONY_MAPPING[determine_harmony(jakane)]
+			a, _, _, _, _, _ = HARMONY_MAPPING[determine_wordform_harmony(jakane)]
 			all_forms[f'poten|1sg{style}'] += [f"{jakane}n"]
 			all_forms[f'poten|2sg{style}'] += [f"{jakane}t"]
 			all_forms[f'poten|3sg{style}'] += [f"{jakane}e"]

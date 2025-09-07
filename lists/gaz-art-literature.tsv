@@ -5,7 +5,7 @@
 -	Decamerone	-	proper	8	-	-	-	-	-
 -	Dracula	-	proper	12	-	-	-	-	-
 -	Gilgameš	-	proper	5	-	-	-	-	-
--	Ilias	-	proper	39|41	-	-	-	-	-
+-	Ilias	-	proper	41|†39	-	-	-	-	-
 -	Inferno	-	proper	1	-	-	-	-	-
 -	Kalevala	-	proper	12	-	-	-	-	-
 -	Kama Sutra	-	proper	10	-	-	-	-	-
@@ -14,6 +14,7 @@
 -	Koraani	-	proper	6	-	-	-	-	-
 -	Mahabharata	-	proper	9	-	-	-	-	-
 -	Mahābhārata	-	proper	9	-	-	-	-	-
+-	Mein Kampf	-	proper	5	-	-	-	-	-
 -	Necronomicon	-	proper	6	-	-	-	-	-
 -	Odysseia	-	proper	9	-	-	-	-	-
 -	Paradiso	-	proper	1	-	-	-	-	-
@@ -25,6 +26,8 @@
 -	Raamattu	-	proper	1	-	-	-	-	-
 -	Ramayana	-	proper	9	-	-	-	-	-
 -	Rigveda	-	proper	9	-	-	-	-	-
+-	Septuaginta	-	proper	9	-	-	-	-	-
+-	Taisteluni	-	proper	!	-	-	-	-	-
 -	Talmud	-	proper	5	-	-	-	-	-
 -	Tanak	-	proper	5	-	-	-	-	-
 -	Toora	-	proper	10	-	-	-	-	-
@@ -33,3 +36,4 @@
 -	Korinttilais|kirje	-	proper	48	-	-	-	-	-
 -	Korinttolais|kirje	-	proper	48	-	-	-	-	-
 -	Mielensä|pahoittaja	-	proper	10	-	-	-	-	-
+-	Pää|oma	-	proper	10	-	-	-	-	-
