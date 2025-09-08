@@ -103,7 +103,7 @@ def get_comparison(adjective, inflections, kotus_class=''):
 	return clean(all_forms)
 
 
-def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
+def inflect_noun(word, kotus_class, gradtype, harmony, vowel=None):
 
 	"""
 	Return all possible numbers and cases of given Finnish noun, adjective, ordinal number etc.
@@ -1274,7 +1274,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 
 def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 
-	harmony = harmony or determine_lemma_harmony(word)
+	harmony = harmony or determine_lemma_vowel_harmony(word)
 	a, o, u, aa, oo, _ = HARMONY_MAPPING[harmony]
 
 	all_forms = defaultdict(list)
@@ -1920,7 +1920,7 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 	return clean(all_forms)
 
 
-def inflect_noun_pl(word, kotus_class, gradtype=None, harmony=None, vowel=None):
+def inflect_noun_pl(word, kotus_class, gradtype, harmony, vowel=None):
 
 	if not kotus_class:
 		return {'': [word], '@base': [word]}
@@ -1935,7 +1935,7 @@ def inflect_noun_pl(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	return inflections
 
 
-def inflect_adjective(word, kotus_class, gradtype=None, harmony=None, vowel=None, info=''):
+def inflect_adjective(word, kotus_class, gradtype, harmony, vowel=None, info=''):
 	inflections = inflect_noun(word, kotus_class, gradtype, harmony, vowel)
 	if 'non-comparable' not in info:
 		inflections.update(get_comparison(word, inflections, kotus_class))
@@ -2008,11 +2008,11 @@ def inflect(word, pos, kotus_class=None, gradation=None, harmony=None, vowel=Non
 
 	kotus_class = kotus_class or ''
 	gradation = gradation or ''
-	harmony = harmony or ''
+	harmony = harmony or determine_lemma_vowel_harmony(word)
 	info = info or ''
 
 	# TODO: Add patching function to adjust inflections of individual words
-	# TODO: Mole elegant handling of dialectal/rare/nonstandard inflections
+	# TODO: More elegant handling of dialectal/rare/nonstandard inflections
 
 	if '|' in kotus_class:
 		class1, class2 = kotus_class.split('|')

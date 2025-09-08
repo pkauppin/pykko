@@ -176,7 +176,7 @@
 -	Yara	-	proper	9	-	-	-	-	-
 -	Zalando	-	proper	1	-	-	-	-	-
 -	Zara	-	proper	9	-	-	-	-	-
--	eBay	-	proper	21	-	-	i|y	-	-
+-	eBay	-	proper	21	-	front|back	i|y	-	-
 -	HOK-Elanto	-	proper	1	-	-	-	-	-
 -	Kulta-Aika	-	proper	9	-	-	-	-	-
 -	Lähi-Tapiola	-	proper	12	-	-	-	-	-

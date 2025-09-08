@@ -105,7 +105,7 @@
 -	Boliden	-	proper	?6	-	-	-	-	-
 -	Bollnäs	-	proper	5	-	-	-	-	-
 -	Bologna	-	proper	10	-	-	-	-	-
--	Bombay	-	proper	21	-	-	i|y	-	-
+-	Bombay	-	proper	21	-	front|back	i|y	-	-
 -	Bonn	-	proper	5	-	-	-	-	-
 -	Bordeaux	-	proper	22|†5	-	-	o	-	-
 -	Borlänge	-	proper	8	-	-	-	-	-
@@ -134,7 +134,7 @@
 -	Buenos Aires	-	proper	5	-	-	-	-	-
 -	Buffalo	-	proper	2	-	-	-	-	-
 -	Bukarest	-	proper	5	-	-	-	-	-
--	Burnley	-	proper	21	-	-	-	-	-
+-	Burnley	-	proper	21	-	front|back	-	-	-
 -	Bydgoszcz	-	proper	5	-	-	-	-	-
 -	Caen	-	proper	5	-	-	-	-	-
 -	Calais	-	proper	22|†5	-	-	e	-	-
@@ -171,11 +171,10 @@
 -	Columbus	-	proper	39|5	-	-	-	-	-
 -	Conakry	-	proper	1	-	-	-	-	-
 -	Constanţa	-	proper	10	-	-	-	-	-
--	Conventry	-	proper	1	-	-	-	-	-
 -	Cordoba	-	proper	10	-	-	-	-	-
 -	Corinto	-	proper	1	-	-	-	-	-
 -	Cotonou	-	proper	21	-	-	-	-	-
--	Coventry	-	proper	1	-	-	-	-	-
+-	Coventry	-	proper	1	-	front|back	-	-	-
 -	Craiova	-	proper	10	-	-	-	-	-
 -	Curitiba	-	proper	9	-	-	-	-	-
 -	Cusco	-	proper	1	-	-	-	-	-
@@ -271,7 +270,7 @@
 -	Golan	-	proper	6	-	-	-	-	-
 -	Gorki	-	proper	5	-	-	-	-	-
 -	Gotham	-	proper	5	-	-	-	-	-
--	Gotham City	-	proper	1	-	-	-	-	-
+-	Gotham City	-	proper	1	-	front	-	-	-
 -	Gouda	-	proper	10	-	-	-	-	-
 -	Granada	-	proper	9	-	-	-	-	-
 -	Graz	-	proper	5	-	-	-	-	-
@@ -279,7 +278,7 @@
 -	Groningen	-	proper	6	-	-	-	-	-
 -	Guadalajara	-	proper	13	-	-	-	-	-
 -	Guangzhou	-	proper	21	-	-	-	-	-
--	Guatemala City	-	proper	1	-	-	-	-	-
+-	Guatemala City	-	proper	1	-	front	-	-	-
 -	Guayaquil	-	proper	5	-	-	-	-	-
 -	Guingamp	-	proper	5	-	-	-	-	-
 -	Györ	-	proper	5	-	-	-	-	-
@@ -596,7 +595,7 @@
 -	Leverkusen	-	proper	5	-	-	-	-	-
 -	Leyden	-	proper	6	-	front|back	-	-	-
 -	León	-	proper	5	-	back	-	-	-
--	Liberty City	-	proper	1	-	-	-	-	-
+-	Liberty City	-	proper	1	-	front	-	-	-
 -	Libreville	-	proper	8	-	-	-	-	-
 -	Lidköping	-	proper	5	-	-	-	-	-
 -	Lieksa	-	proper	9	-	-	-	-	-
@@ -704,7 +703,7 @@
 -	Mombasa	-	proper	9	-	-	-	-	-
 -	Monrovia	-	proper	12	-	-	-	-	-
 -	Mons	-	proper	5	-	-	-	-	-
--	Monterrey	-	proper	21	-	-	i|y	-	-
+-	Monterrey	-	proper	21	-	front|back	i|y	-	-
 -	Montevideo	-	proper	3	-	-	-	-	-
 -	Montpellier	-	proper	22|†5	-	-	-	-	-
 -	Montreal	-	proper	5	-	-	-	-	-
@@ -732,7 +731,7 @@
 -	Mäntsälä	-	proper	12	-	-	-	-	-
 -	Mänttä	-	proper	10	tt:t	-	-	-	-
 -	México	-	proper	2	-	-	-	-	-
--	México City	-	proper	1	-	-	-	-	-
+-	México City	-	proper	1	-	front	-	-	-
 -	München	-	proper	6	-	-	-	-	-
 -	Münster	-	proper	6	-	-	-	-	-
 -	Naantali	-	proper	6	-	-	-	-	-
@@ -761,7 +760,7 @@
 -	New York	-	proper	5	-	-	-	-	-
 -	Newcastle	-	proper	8	-	-	-	-	-
 -	Ngerulmud	-	proper	5	-	-	-	-	-
--	Niamey	-	proper	21	-	-	i|y	-	-
+-	Niamey	-	proper	21	-	front|back	i|y	-	-
 -	Nietoo	-	proper	17	-	-	-	-	-
 -	Nikea	-	proper	12	-	-	-	-	-
 -	Nikosia	-	proper	12	-	-	-	-	-
@@ -806,7 +805,7 @@
 -	Ohrid	-	proper	5	-	-	-	-	-
 -	Oitti	-	proper	5	tt:t	-	-	-	-
 -	Ojamo	-	proper	2	-	-	-	-	-
--	Oklahoma City	-	proper	1	-	-	-	-	-
+-	Oklahoma City	-	proper	1	-	front	-	-	-
 -	Omaha	-	proper	9	-	-	-	-	-
 -	Omsk	-	proper	5	-	-	-	-	-
 -	Oostende	-	proper	8	-	-	-	-	-
@@ -890,7 +889,7 @@
 -	Pori	-	proper	5	-	-	-	-	-
 -	Pornainen	-	proper	38-pl	-	-	-	-	-
 -	Port Louis	-	proper	22|†5	-	-	-	-	-
--	Port Moresby	-	proper	1	-	-	-	-	-
+-	Port Moresby	-	proper	1	-	front|back	-	-	-
 -	Port Vila	-	proper	9	-	-	-	-	-
 -	Port of Spain	-	proper	5	-	-	-	-	-
 -	Portland	-	proper	5	-	-	-	-	-
@@ -924,7 +923,7 @@
 -	Pärnu	-	proper	1	-	-	-	-	-
 -	Pécs	-	proper	5	-	-	-	-	-
 -	Pöytyä	-	proper	12	-	-	-	-	-
--	Quezon City	-	proper	1	-	-	-	-	-
+-	Quezon City	-	proper	1	-	front	-	-	-
 -	Quito	-	proper	1	-	-	-	-	-
 -	Raahe	-	proper	8	-	-	-	-	-
 -	Raasepori	-	proper	6	-	-	-	-	-
@@ -971,7 +970,7 @@
 -	Rivoli	-	proper	5	-	-	-	-	-
 -	Rochefort	-	proper	5	-	-	-	-	-
 -	Rochester	-	proper	5	-	-	-	-	-
--	Ronneby	-	proper	21|†1	-	-	-	-	-
+-	Ronneby	-	proper	21|†1	-	front|back	-	-	-
 -	Rontu	-	proper	1	nt:nn	-	-	-	-
 -	Rooma	-	proper	10	-	-	-	-	-
 -	Roseau	-	proper	21	-	-	-	-	-
@@ -1225,7 +1224,7 @@
 -	Versailles	-	proper	22|5	-	-	-	-	-
 -	Vesanto	-	proper	1	nt:nn	-	-	-	-
 -	Veteli	-	proper	6	-	-	-	-	-
--	Vice City	-	proper	1	-	-	-	-	-
+-	Vice City	-	proper	1	-	front	-	-	-
 -	Vichy	-	proper	1	-	-	-	-	-
 -	Victoria	-	proper	12	-	-	-	-	-
 -	Vientiane	-	proper	8	-	-	-	-	-

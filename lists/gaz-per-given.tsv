@@ -286,7 +286,7 @@
 -	Atte	-	proper	8	tt:t	-	-	-	-
 -	Attila	-	proper	13	-	-	-	-	-
 -	Attilio	-	proper	3	-	-	-	-	-
--	Audrey	-	proper	21	-	-	i|y	-	-
+-	Audrey	-	proper	21	-	front|back	i|y	-	-
 -	August	-	proper	5	-	-	-	-	-
 -	Auguste	-	proper	8	-	-	-	-	-
 -	Augustin	-	proper	5	-	-	-	-	-
@@ -860,7 +860,7 @@
 -	Gennadi	-	proper	5	-	-	-	-	-
 -	Gennaro	-	proper	2	-	-	-	-	-
 -	Geoff	-	proper	5	-	-	-	-	-
--	Geoffrey	-	proper	21	-	-	i|y	-	-
+-	Geoffrey	-	proper	21	-	front|back	i|y	-	-
 -	Georg	-	proper	5	-	-	-	-	-
 -	George	-	proper	8	-	-	-	-	-
 -	Georges	-	proper	39|5	-	-	-	-	-
@@ -906,7 +906,7 @@
 -	Gladys	-	proper	39	-	-	-	-	-
 -	Gleb	-	proper	5	-	-	-	-	-
 -	Goce	-	proper	8	-	-	-	-	-
--	Godfrey	-	proper	21	-	-	i|y	-	-
+-	Godfrey	-	proper	21	-	front|back	i|y	-	-
 -	Goffredo	-	proper	1	-	-	-	-	-
 -	Gonzalo	-	proper	2	-	-	-	-	-
 -	Gonçalo	-	proper	2	-	-	-	-	-
@@ -935,7 +935,7 @@
 -	Gustaf	-	proper	5	-	-	-	-	-
 -	Gustav	-	proper	5	-	-	-	-	-
 -	Gustave	-	proper	8	-	-	-	-	-
--	Guy	-	proper	1	-	-	-	-	-
+-	Guy	-	proper	1	-	front|back	-	-	-
 -	Guðmundur	-	proper	5	-	-	-	-	-
 -	Guðrún	-	proper	5	-	-	-	-	-
 -	Gyda	-	proper	10	-	-	-	-	-
@@ -953,7 +953,7 @@
 -	Haakon	-	proper	?6	-	-	-	-	-
 -	Hadise	-	proper	8	-	-	-	-	-
 -	Hajime	-	proper	8	-	-	-	-	-
--	Haley	-	proper	21	-	-	i|y	-	-
+-	Haley	-	proper	21	-	front|back	i|y	-	-
 -	Halina	-	proper	13	-	-	-	-	-
 -	Halldór	-	proper	5	-	-	-	-	-
 -	Halvor	-	proper	?6	-	-	-	-	-
@@ -978,7 +978,7 @@
 -	Hartwig	-	proper	5	-	-	-	-	-
 -	Haruka	-	proper	10	-	-	-	-	-
 -	Haruna	-	proper	?13	-	-	-	-	-
--	Harvey	-	proper	21	-	-	i|y	-	-
+-	Harvey	-	proper	21	-	front|back	i|y	-	-
 -	Hassan	-	proper	6	-	-	-	-	-
 -	Hasse	-	proper	8	-	-	-	-	-
 -	Haukur	-	proper	6	-	-	-	-	-
@@ -1248,7 +1248,7 @@
 -	Jaume	-	proper	8	-	-	-	-	-
 -	Javi	-	proper	5	-	-	-	-	-
 -	Javier	-	proper	5	-	-	-	-	-
--	Jay	-	proper	21	-	-	i|y	-	-
+-	Jay	-	proper	21	-	front|back	i|y	-	-
 -	Jean	-	proper	5	-	-	-	-	-
 -	Jeanne	-	proper	8	-	-	-	-	-
 -	Jeff	-	proper	5	-	-	-	-	-
@@ -1484,7 +1484,7 @@
 -	Katsutoshi	-	proper	5	-	-	-	-	-
 -	Katy	-	proper	1	-	-	-	-	-
 -	Kauko	-	proper	1	-	-	-	-	-
--	Kay	-	proper	21	-	-	i|y	-	-
+-	Kay	-	proper	21	-	front|back	i|y	-	-
 -	Kazimierz	-	proper	5	-	-	-	-	-
 -	Kazuki	-	proper	5	-	-	-	-	-
 -	Kazumi	-	proper	5	-	-	-	-	-
@@ -1656,7 +1656,7 @@
 -	Lina	-	proper	9	-	-	-	-	-
 -	Linda	-	proper	9	-	-	-	-	-
 -	Lindita	-	proper	9	-	-	-	-	-
--	Lindsay	-	proper	21	-	-	i|y	-	-
+-	Lindsay	-	proper	21	-	front|back	i|y	-	-
 -	Lindsey	-	proper	21	-	-	i|y	-	-
 -	Line	-	proper	8	-	-	-	-	-
 -	Linn	-	proper	5	-	-	-	-	-
@@ -2102,7 +2102,7 @@
 -	Nikolaj	-	proper	22|†5	-	-	-	-	-
 -	Nikolas	-	proper	39|5	-	-	-	-	-
 -	Nikolaus	-	proper	39|5	-	-	-	-	-
--	Nikolay	-	proper	21	-	-	i|y	-	-
+-	Nikolay	-	proper	21	-	front|back	i|y	-	-
 -	Nils	-	proper	5	-	-	-	-	-
 -	Nina	-	proper	9	-	-	-	-	-
 -	Ninni	-	proper	5	-	-	-	-	-
@@ -2348,7 +2348,7 @@
 -	Rauli	-	proper	5	-	-	-	-	-
 -	Rauni	-	proper	5	-	-	-	-	-
 -	Rauno	-	proper	1	-	-	-	-	-
--	Ray	-	proper	21	-	-	i|y	-	-
+-	Ray	-	proper	21	-	front|back	i|y	-	-
 -	Raymond	-	proper	5	-	-	-	-	-
 -	Raúl	-	proper	5	-	-	-	-	-
 -	Rebecca	-	proper	9	-	-	-	-	-
@@ -2647,7 +2647,7 @@
 -	Stanislav	-	proper	5	-	-	-	-	-
 -	Stanisław	-	proper	5	-	-	-	-	-
 -	Stanko	-	proper	1	-	-	-	-	-
--	Stanley	-	proper	21	-	-	i|y	-	-
+-	Stanley	-	proper	21	-	front|back	i|y	-	-
 -	Stefan	-	proper	6	-	-	-	-	-
 -	Stefania	-	proper	12	-	-	-	-	-
 -	Stefanie	-	proper	8|21	-	-	-	-	-

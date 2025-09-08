@@ -204,7 +204,7 @@
 -	Bagh	-	proper	5	-	-	-	-	-
 -	Bahdanovitš	-	proper	5	-	-	-	-	-
 -	Bahne	-	proper	8	-	-	-	-	-
--	Bailly	-	proper	1	-	-	-	-	-
+-	Bailly	-	proper	1	-	front|back	-	-	-
 -	Baker	-	proper	6	-	-	-	-	-
 -	Bakke	-	proper	8	-	-	-	-	-
 -	Baldi	-	proper	5	-	-	-	-	-
@@ -466,7 +466,7 @@
 -	Canth	-	proper	5	-	-	-	-	-
 -	Capello	-	proper	1	-	-	-	-	-
 -	Cardoso	-	proper	1	-	-	-	-	-
--	Carey	-	proper	21	-	-	i|y	-	-
+-	Carey	-	proper	21	-	front|back	i|y	-	-
 -	Carlson	-	proper	6	-	-	-	-	-
 -	Carlsson	-	proper	5	-	-	-	-	-
 -	Carlstedt	-	proper	5	-	-	-	-	-
@@ -596,7 +596,7 @@
 -	Dean	-	proper	5	-	-	-	-	-
 -	Degerholm	-	proper	5	-	-	-	-	-
 -	Dekker	-	proper	6	-	-	-	-	-
--	Delaunay	-	proper	21	-	-	i|y	-	-
+-	Delaunay	-	proper	21	-	front|back	i|y	-	-
 -	Delgado	-	proper	1	-	-	-	-	-
 -	Delors	-	proper	5	-	-	-	-	-
 -	Delvaux	-	proper	22|†5	-	-	o	-	-
@@ -625,7 +625,7 @@
 -	Dixon	-	proper	6	-	-	-	-	-
 -	Djokovic	-	proper	5	-	-	-	-	-
 -	Dobrev	-	proper	5	-	-	-	-	-
--	Doherty	-	proper	1	-	-	-	-	-
+-	Doherty	-	proper	1	-	front|back	-	-	-
 -	Doi	-	proper	18	-	-	-	-	-
 -	Dongen	-	proper	6	-	-	-	-	-
 -	Donner	-	proper	6	-	-	-	-	-
@@ -761,7 +761,7 @@
 -	Falk	-	proper	5	-	-	-	-	-
 -	Falkenberg	-	proper	5	-	-	-	-	-
 -	Fanchini	-	proper	5	-	-	-	-	-
--	Faraday	-	proper	21	-	-	i|y	-	-
+-	Faraday	-	proper	21	-	front|back	i|y	-	-
 -	Farage	-	proper	8	-	-	-	-	-
 -	Farina	-	proper	13	-	-	-	-	-
 -	Farkas	-	proper	39	-	-	-	-	-
@@ -954,7 +954,7 @@
 -	Granström	-	proper	5	-	-	-	-	-
 -	Grant	-	proper	5	-	-	-	-	-
 -	Granö	-	proper	21|†1	-	-	-	-	-
--	Gray	-	proper	21	-	-	i|y	-	-
+-	Gray	-	proper	21	-	front|back	i|y	-	-
 -	Graça	-	proper	9	-	-	-	-	-
 -	Green	-	proper	5	-	-	-	-	-
 -	Greene	-	proper	8	-	-	-	-	-
@@ -1107,11 +1107,11 @@
 -	Harrison	-	proper	?6	-	-	-	-	-
 -	Hartikainen	-	proper	38	-	-	-	-	-
 -	Hartikka	-	proper	14	kk:k	-	-	-	-
--	Hartley	-	proper	21	-	-	i|y	-	-
+-	Hartley	-	proper	21	-	front|back	i|y	-	-
 -	Hartman	-	proper	5	-	-	-	-	-
 -	Hartmann	-	proper	5	-	-	-	-	-
 -	Hartonen	-	proper	38	-	-	-	-	-
--	Harvey	-	proper	21	-	-	i|y	-	-
+-	Harvey	-	proper	21	-	front|back	i|y	-	-
 -	Hasegawa	-	proper	9	-	-	-	-	-
 -	Hashimoto	-	proper	1	-	-	-	-	-
 -	Hassi	-	proper	5	-	-	-	-	-
@@ -1292,7 +1292,7 @@
 -	Hovland	-	proper	5	-	-	-	-	-
 -	Howard	-	proper	5	-	-	-	-	-
 -	Hoxha	-	proper	10	-	-	-	-	-
--	Hradecky	-	proper	1	-	-	-	nstd	-
+-	Hradecky	-	proper	1	-	front|back	-	nstd	-
 -	Hradecký	-	proper	?21|1	-	-	-	-	-
 -	Hristov	-	proper	5	-	-	-	-	-
 -	Hruštšev	-	proper	5	-	-	-	-	-
@@ -1335,7 +1335,7 @@
 -	Huusko	-	proper	1	-	-	-	-	-
 -	Huuskonen	-	proper	38	-	-	-	-	-
 -	Huutonen	-	proper	38	-	-	-	-	-
--	Huxley	-	proper	21	-	-	i|y	-	-
+-	Huxley	-	proper	21	-	front|back	i|y	-	-
 -	Huygens	-	proper	5	-	-	-	-	-
 -	Hynninen	-	proper	38	-	-	-	-	-
 -	Hynynen	-	proper	38	-	-	-	-	-
@@ -2190,7 +2190,7 @@
 -	Lukka	-	proper	10	kk:k	-	-	-	-
 -	Lukkari	-	proper	6	-	-	-	-	-
 -	Lukkarinen	-	proper	38	-	-	-	-	-
--	Lumley	-	proper	21	-	-	-	-	-
+-	Lumley	-	proper	21	-	front|back	-	-	-
 -	Lumme	-	proper	48	mp:mm	-	-	-	-
 -	Lund	-	proper	5	-	-	-	-	-
 -	Lundahl	-	proper	5	-	-	-	-	-
@@ -2304,7 +2304,7 @@
 -	Marklund	-	proper	5	-	-	-	-	-
 -	Markov	-	proper	5	-	-	-	-	-
 -	Marković	-	proper	5	-	-	-	-	-
--	Marley	-	proper	21	-	-	i|y	-	-
+-	Marley	-	proper	21	-	front|back	i|y	-	-
 -	Marosi	-	proper	5	-	-	-	-	-
 -	Mars	-	proper	5	-	-	-	-	-
 -	Marsh	-	proper	5	-	-	-	-	-
@@ -2351,13 +2351,13 @@
 -	Mauri	-	proper	5	-	-	-	-	-
 -	Maurstad	-	proper	5	-	-	-	-	-
 -	Maxwell	-	proper	5	-	-	-	-	-
--	May	-	proper	21	-	-	i|y	-	-
+-	May	-	proper	21	-	front|back	i|y	-	-
 -	Mayer	-	proper	6	-	-	-	-	-
 -	Mbappe	-	proper	8	-	-	-	-	-
 -	Mbappé	-	proper	21	-	-	-	-	-
 -	Mbeki	-	proper	5	-	-	-	-	-
 -	McCarthy	-	proper	1	-	-	-	-	-
--	McCartney	-	proper	21	-	-	i|y	-	-
+-	McCartney	-	proper	21	-	front|back	i|y	-	-
 -	McCoy	-	proper	21	-	-	i|y	-	-
 -	McDavid	-	proper	5	-	-	-	-	-
 -	McKee	-	proper	21	-	-	-	-	-
@@ -2455,7 +2455,7 @@
 -	Montalvo	-	proper	1	-	-	-	-	-
 -	Monte	-	proper	8	-	-	-	-	-
 -	Monteiro	-	proper	1	-	-	-	-	-
--	Montgomery	-	proper	1	-	-	-	-	-
+-	Montgomery	-	proper	1	-	front|back	-	-	-
 -	Monti	-	proper	5	-	-	-	-	-
 -	Montola	-	proper	12	-	-	-	-	-
 -	Montonen	-	proper	38	-	-	-	-	-
@@ -2496,7 +2496,7 @@
 -	Munsterhjelm	-	proper	5	-	-	-	-	-
 -	Murakami	-	proper	5	-	-	-	-	-
 -	Murphy	-	proper	1	-	-	-	-	-
--	Murray	-	proper	21	-	-	i|y	-	-
+-	Murray	-	proper	21	-	front|back	i|y	-	-
 -	Murto	-	proper	1	rt:rr	-	-	-	-
 -	Musk	-	proper	5	-	-	-	-	-
 -	Mussolini	-	proper	5	-	-	-	-	-
@@ -3034,7 +3034,7 @@
 -	Rajala	-	proper	12	-	-	-	-	-
 -	Raksila	-	proper	13	-	-	-	-	-
 -	Ramos	-	proper	39	-	-	-	-	-
--	Ramsay	-	proper	21	-	-	i|y	-	-
+-	Ramsay	-	proper	21	-	front|back	i|y	-	-
 -	Ramstedt	-	proper	5	-	-	-	-	-
 -	Randelin	-	proper	5	-	-	-	-	-
 -	Ranieri	-	proper	5	-	-	-	-	-
@@ -3176,7 +3176,7 @@
 -	Rostedt	-	proper	5	-	-	-	-	-
 -	Rotenberg	-	proper	5	-	-	-	-	-
 -	Roth	-	proper	5	-	-	-	-	-
--	Rothley	-	proper	21	-	-	-	-	-
+-	Rothley	-	proper	21	-	front|back	-	-	-
 -	Rotkirch	-	proper	5	-	-	-	-	-
 -	Rouhiainen	-	proper	38	-	-	-	-	-
 -	Rousseau	-	proper	21	-	-	-	-	-
@@ -3487,7 +3487,7 @@
 -	Stallone	-	proper	8	-	-	-	-	-
 -	Standertskjöld	-	proper	5	-	-	-	-	-
 -	Stanford	-	proper	5	-	-	-	-	-
--	Stanley	-	proper	21	-	-	i|y	-	-
+-	Stanley	-	proper	21	-	front|back	i|y	-	-
 -	Stauner	-	proper	?6	-	-	-	-	-
 -	Stavitski	-	proper	5	-	-	-	-	-
 -	Stedingk	-	proper	5	-	-	-	-	-
@@ -3588,7 +3588,7 @@
 -	Syrjälä	-	proper	12	-	-	-	-	-
 -	Syrjänen	-	proper	38	-	-	-	-	-
 -	Szabó	-	proper	?21|1	-	-	-	-	-
--	Szathmáry	-	proper	1	-	-	-	-	-
+-	Szathmáry	-	proper	1	-	front|back	-	-	-
 -	Szász	-	proper	5	-	-	-	-	-
 -	Sánchez	-	proper	5	-	-	-	-	-
 -	Säkkinen	-	proper	38	-	-	-	-	-

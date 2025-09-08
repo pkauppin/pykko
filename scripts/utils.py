@@ -5,6 +5,7 @@ from scripts.file_tools import load_json
 from scripts.constants import POS_TAGS
 from collections import defaultdict
 from tools.utils import syllabify
+C = '[bcdfghjklmnpqrstvwxz]'
 
 try:
 	ADVERB_INFLECTIONS = load_json(filename='adverbs.json', directory='scripts/inflection')
@@ -90,7 +91,10 @@ def determine_separator(w1, w2, default='0', strip_zeros=True):
 
 
 def get_parts(lemma):
-	return re.findall(r'[^-|%]+[-|%]?', lemma) or [lemma]
+	return re.findall(r'[^-|% ]+[-|% ]?', lemma) or [lemma]
+
+def get_base_lemma(lemma):
+	return get_parts(lemma)[-1]
 
 
 def count_syllables(lemma):
@@ -107,7 +111,9 @@ def determine_lemma_vowel_harmony(lemma, kotus_class=None):
 		return 'back'
 
 	# "prototyyppi", "prototyyppinen", "geotekninen", "biokteknisesti"
-	if re.fullmatch('.*(depressiivi|elementti|elementtisesti|kineettinen|kineettisesti|kliininen|kliinisesti|oeettinen|oeettisesti|semiitti|semiittinen|semitismi|semitisti|semitistinen|semitistisesti|sentrinen|sentrisesti|sentrismi|synteesi|synteettinen|synteettisesti|tekninen|teknisesti|tyyppi|tyyppinen|tyyppisesti)', lemma):
+	if re.fullmatch('.*('
+		'depressiivi|elementti|elementtisesti|kineettinen|kineettisesti|kliininen|kliinisesti|oeettinen|oeettisesti|semiitti|semiittinen|semitismi|semitisti|semitistinen|semitistisesti|sentrinen|sentrisesti|sentrismi|synteesi|synteettinen|synteettisesti|tekninen|teknisesti|tyyppi|tyyppinen|tyyppisesti|syklinen|'
+		'syklisesti|psyykkinen|psyykkisesti|fyysinen|fyysisesti)', lemma):
 		return 'front'
 
 	# "makromolekyyli", "psykoanalyyttinen"
@@ -115,7 +121,7 @@ def determine_lemma_vowel_harmony(lemma, kotus_class=None):
 		return 'front|back'
 
 	# "porfyyri", polyyppi", "dialyysi", "porfyriini", "molybdeeni"
-	if re.fullmatch('.*[aou].*(y..?i|y..?inen|y..?isesti|y..?ismi|y..?isti|y..?ii..?i|y..?ee..?i)', lemma):
+	if re.fullmatch(f'.*[aou].*(y{C}{C}?i|y{C}{C}?inen|y{C}{C}?isesti|y{C}{C}?ismi|y{C}{C}?isti|y{C}{C}?ii{C}{C}?i|y{C}{C}?ee{C}{C}?i)', lemma):
 		return 'front|back'
 
 	#  "anglofiili", "karsinogeeni", "telomeeri", "ortopedi", "antisepti", "dynamometri"/"barometri" "hypoteesi"
@@ -133,12 +139,16 @@ def determine_lemma_vowel_harmony(lemma, kotus_class=None):
 		return 'back'
 	if re.fullmatch('.*[123456789]0(:s)?', lemma):
 		return 'front'
-	if re.fullmatch('[^aouAOU]+oy', lemma):
+	if re.fullmatch('.+oy', lemma):
+		return 'back'
+	if re.fullmatch(f'.*[aouAOU]{C}+y', lemma):
 		return 'back'
 	if re.fullmatch('.*[aouAOU].*y', lemma):
 		return 'front|back'
 	if kotus_class in {'18B', '10B'} and lemma[-1] in set('bcdefgijlmnprstvwxyzäöüé'):
 		return 'front'
+	if kotus_class in {'18B', '10B'}:
+		return 'back'
 
 	return determine_wordform_harmony(lemma)
 

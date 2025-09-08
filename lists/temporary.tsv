@@ -122,7 +122,7 @@
 -	aerofagia	-	noun	12	-	-	-	-	-
 -	afalgesia	-	noun	12	-	-	-	-	-
 -	affiisio	-	noun	3	-	-	-	-	-
--	aflibersepti	-	noun	5	-	-	-	-	-
+-	aflibersepti	-	noun	5	-	front|back	-	-	-
 -	agapaksia	-	noun	12	-	-	-	-	-
 -	agglutiniini	-	noun	5	-	-	-	-	-
 -	agglutinogeeni	-	noun	5	-	front|back	-	-	-
@@ -214,7 +214,7 @@
 -	bysantologia	-	noun	12	-	-	-	-	-
 -	costalgia	-	noun	12	-	-	-	-	-
 -	coxalgia	-	noun	12	-	-	-	-	-
--	daktyliitti	-	noun	5	tt:t	-	-	-	-
+-	daktyliitti	-	noun	5	tt:t	front|back	-	-	-
 -	daltepariini	-	noun	5	-	-	-	-	-
 -	dedikaatio	-	noun	3	-	-	-	-	-
 -	deesi	-	noun	5	-	-	-	-	-
@@ -247,7 +247,7 @@
 -	diadokokinesia	-	noun	12	-	-	-	-	-
 -	dialektologi	-	noun	5	-	-	-	-	-
 -	dialysaattori	-	noun	6	-	-	-	-	-
--	dibetsoksatsepiini	-	noun	5	-	-	-	-	-
+-	dibetsoksatsepiini	-	noun	5	-	front|back	-	-	-
 -	digrammi	-	noun	5	-	-	-	-	-
 -	dihydroergotamiini	-	noun	5	-	-	-	-	-
 -	dilaatio	-	noun	3	-	-	-	-	-
@@ -373,7 +373,7 @@
 -	flebografia	-	noun	12	-	-	-	-	-
 -	floridalainen	-	noun	38	-	-	-	-	-
 -	fonokardiografia	-	noun	12	-	-	-	-	-
--	fonometri	-	noun	5	-	-	-	-	-
+-	fonometri	-	noun	5	-	front|back	-	-	-
 -	fonotaksia	-	noun	12	-	-	-	-	-
 -	formalisaatio	-	noun	3	-	-	-	-	-
 -	fosfatointi	-	noun	5	nt:nn	-	-	-	-
@@ -431,7 +431,7 @@
 -	hambergiitti	-	noun	5	tt:t	-	-	-	-
 -	haplofaasi	-	noun	5	-	-	-	-	-
 -	haplologia	-	noun	12	-	-	-	-	-
--	haptometri	-	noun	5	-	-	-	-	-
+-	haptometri	-	noun	5	-	front|back	-	-	-
 -	harmonisaatio	-	noun	3	-	-	-	-	-
 -	harvalyöntisyys	-	noun	40	-	-	-	-	-
 -	hebraismi	-	noun	5	-	-	-	-	-
@@ -484,7 +484,7 @@
 -	hostiliteetti	-	noun	5	tt:t	-	-	-	-
 -	humiliaatio	-	noun	3	-	-	-	-	-
 -	hyaliitti	-	noun	5	tt:t	-	-	-	-
--	hydroksilysiini	-	noun	5	-	-	-	-	-
+-	hydroksilysiini	-	noun	5	-	front|back	-	-	-
 -	hydroskooppi	-	noun	5	pp:p	-	-	-	-
 -	hydrostaatti	-	noun	5	tt:t	-	-	-	-
 -	hygieenisuus	-	noun	40	-	-	-	-	-
@@ -582,7 +582,7 @@
 -	irritamentti	-	noun	5	tt:t	-	-	-	-
 -	islamistiikka	-	noun	9	kk:k	-	-	-	-
 -	isolationisti	-	noun	5	-	-	-	-	-
--	isolysiini	-	noun	5	-	-	-	-	-
+-	isolysiini	-	noun	5	-	front|back	-	-	-
 -	istmusablaatio	-	noun	3	-	-	-	-	-
 -	jaksottaminen	-	noun	38	-	-	-	-	-
 -	japanologi	-	noun	5	-	-	-	-	-
@@ -605,7 +605,7 @@
 -	kardiolipiini	-	noun	5	-	-	-	-	-
 -	karniotomia	-	noun	12	-	-	-	-	-
 -	karotiini	-	noun	5	-	-	-	-	-
--	karrikatyristi	-	noun	5	-	-	-	-	-
+-	karrikatyristi	-	noun	5	-	front|back	-	-	-
 -	karsinogeneesi	-	noun	5	-	front|back	-	-	-
 -	karsinologia	-	noun	12	-	-	-	-	-
 -	karsinostaatti	-	noun	5	tt:t	-	-	-	-
@@ -640,7 +640,7 @@
 -	klaustrofilia	-	noun	12	-	-	-	-	-
 -	kleptofobia	-	noun	12	-	-	-	-	-
 -	klerikaali	-	noun	5	-	-	-	-	-
--	klinometri	-	noun	5	-	-	-	-	-
+-	klinometri	-	noun	5	-	front|back	-	-	-
 -	klismafilia	-	noun	12	-	-	-	-	-
 -	klorpromatsiini	-	noun	5	-	-	-	-	-
 -	koeksistenssi	-	noun	5	-	-	-	-	-
@@ -689,7 +689,7 @@
 -	kordooma	-	noun	10	-	-	-	-	-
 -	koreologia	-	noun	12	-	-	-	-	-
 -	korioamniitti	-	noun	5	tt:t	-	-	-	-
--	kormofyytti	-	noun	5	tt:t	-	-	-	-
+-	kormofyytti	-	noun	5	tt:t	front|back	-	-	-
 -	koronaatio	-	noun	3	-	-	-	-	-
 -	korpulenssi	-	noun	5	-	-	-	-	-
 -	korrespondentti	-	noun	5	tt:t	-	-	-	-
@@ -842,7 +842,7 @@
 -	nietzscheläinen	-	noun	38	-	-	-	-	-
 -	nigerilainen	-	noun	38	-	-	-	-	-
 -	niskurointi	-	noun	5	nt:nn	-	-	-	-
--	nitrofyytti	-	noun	5	tt:t	-	-	-	-
+-	nitrofyytti	-	noun	5	tt:t	front|back	-	-	-
 -	nivaali	-	noun	5	-	-	-	-	-
 -	nominaatio	-	noun	3	-	-	-	-	-
 -	nominalisti	-	noun	5	-	-	-	-	-
@@ -878,7 +878,7 @@
 -	oligoartriitti	-	noun	5	tt:t	-	-	-	-
 -	oligodontia	-	noun	12	-	-	-	-	-
 -	oligotrofi	-	noun	5	-	-	-	-	-
--	olisteesi	-	noun	5	-	-	-	-	-
+-	olisteesi	-	noun	5	-	front|back	-	-	-
 -	olympolainen	-	noun	38	-	-	-	-	-
 -	omentti	-	noun	5	tt:t	-	-	-	-
 -	ominoosi	-	noun	5	-	-	-	-	-
@@ -904,7 +904,7 @@
 -	osfresiofobia	-	noun	12	-	-	-	-	-
 -	osmofobia	-	noun	12	-	-	-	-	-
 -	osseiini	-	noun	5	-	-	-	-	-
--	osteofyytti	-	noun	5	tt:t	-	-	-	-
+-	osteofyytti	-	noun	5	tt:t	front|back	-	-	-
 -	osteotomia	-	noun	12	-	-	-	-	-
 -	otiatria	-	noun	12	-	-	-	-	-
 -	ovariektomia	-	noun	12	-	-	-	-	-
@@ -1097,10 +1097,10 @@
 -	skopofilia	-	noun	12	-	-	-	-	-
 -	skrutiini	-	noun	5	-	-	-	-	-
 -	somatologia	-	noun	12	-	-	-	-	-
--	sonometri	-	noun	5	-	-	-	-	-
+-	sonometri	-	noun	5	-	front|back	-	-	-
 -	sonorisuus	-	noun	40	-	-	-	-	-
 -	sosiologismi	-	noun	5	-	-	-	-	-
--	spermatofyytti	-	noun	5	tt:t	-	-	-	-
+-	spermatofyytti	-	noun	5	tt:t	front|back	-	-	-
 -	spermiogeneesi	-	noun	5	-	front|back	-	-	-
 -	spesiaalisuus	-	noun	40	-	-	-	-	-
 -	spesiaalius	-	noun	40	-	-	-	-	-
@@ -1212,7 +1212,7 @@
 -	veristi	-	noun	5	-	-	-	-	-
 -	viabiliteetti	-	noun	5	tt:t	-	-	-	-
 -	vibrografi	-	noun	5	-	-	-	-	-
--	vibrometri	-	noun	5	-	-	-	-	-
+-	vibrometri	-	noun	5	-	front|back	-	-	-
 -	viekastelija	-	noun	12	-	-	-	-	-
 -	viriliteetti	-	noun	5	tt:t	-	-	-	-
 -	viroosi	-	noun	5	-	-	-	-	-
@@ -1249,7 +1249,7 @@
 -	magneetti|pelvimetria	-	noun	12	-	-	-	-	-
 -	okkipitaali|neuralgia	-	noun	12	-	-	-	-	-
 -	pan|romanttisuus	-	noun	40	-	-	-	-	-
--	pilot|signaali	-	noun	5	-	-	-	-	-
+-	pilot|signaali	-	noun	6	-	-	-	-	-
 -	portlandin|sementti	-	noun	5	tt:t	-	-	-	-
 -	proteoglykaani|synteesi	-	noun	5	-	front	-	-	-
 -	puerperaali|mastiitti	-	noun	5	tt:t	-	-	-	-

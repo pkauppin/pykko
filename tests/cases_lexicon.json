@@ -10,10 +10,12 @@
     ["pitkä", "adjective", "+superlative+pl+nom"]
   ],
   "saatuaan": [
-    ["saada", "verb", "+pass+part_past+sg+par+poss3"]
+    ["saada", "verb", "+pass+part_past+sg+par+poss3"],
+    ["saatu", "participle", "+sg+par+poss3"]
   ],
   "tehtyämme": [
-    ["tehdä", "verb", "+pass+part_past+sg+par+poss1pl"]
+    ["tehdä", "verb", "+pass+part_past+sg+par+poss1pl"],
+    ["tehty", "participle", "+sg+par+poss1pl"]
   ],
   "vaikkakin": [
     ["vaikkakin", "adverb", ""]
@@ -47,7 +49,8 @@
   ],
   "kopioitua": [
     ["kopioitua", "verb", "+inf1"],
-    ["kopioida", "verb", "+pass+part_past+sg+par"]
+    ["kopioida", "verb", "+pass+part_past+sg+par"],
+    ["kopioitu", "participle", "+sg+par"]
   ],
   "show’nsa": [
     ["show", "noun", "+sg+gen+poss3"],
@@ -149,8 +152,10 @@
     ["haltuun", "adposition", "+poss3"]
   ],
   "-niminen": [
+    ["-niminen", "adjective", "+sg+nom"]
   ],
   "-vuotias": [
+    ["-vuotias", "adjective", "+sg+nom"]
   ],
   "toisiinsa": [
     ["toinen", "pronoun", "+pl+ill+poss3"]
@@ -292,23 +297,33 @@
     ["farkku", "noun", "+pl+nom"]
   ],
   "hakanneen": [
-    ["hakata", "verb", "+part_past+sg+gen"]
+    ["hakata", "verb", "+part_past+sg+gen"],
+    ["hakannut", "participle", "+sg+gen"]
   ],
   "hakanneeni": [
-    ["hakata", "verb", "+part_past+poss1sg"]
+    ["hakata", "verb", "+part_past+poss1sg"],
+    ["hakannut", "participle", "+sg+nom+poss1sg"],
+	["hakannut", "participle", "+sg+gen+poss1sg"],
+    ["hakannut", "participle", "+pl+nom+poss1sg"]
   ],
   "hakanneensa": [
-    ["hakata", "verb", "+part_past+poss3"]
+    ["hakata", "verb", "+part_past+poss3"],
+	["hakannut", "participle", "+sg+nom+poss3"],
+	["hakannut", "participle", "+sg+gen+poss3"],
+    ["hakannut", "participle", "+pl+nom+poss3"]
   ],
   "hakanneita": [
-    ["hakata", "verb", "+part_past+pl+par"]
+    ["hakata", "verb", "+part_past+pl+par"],
+    ["hakannut", "participle", "+pl+par"]
   ],
   "hakannut": [
     ["hakata", "verb", "+part_past+sg+nom"],
-    ["hakata", "verb", "+past+conneg+sg"]
+    ["hakata", "verb", "+past+conneg+sg"],
+    ["hakannut", "participle", "+sg+nom"]
   ],
   "hakannutta": [
-    ["hakata", "verb", "+part_past+sg+par"]
+    ["hakata", "verb", "+part_past+sg+par"],
+    ["hakannut", "participle", "+sg+par"]
   ],
   "hakata": [
     ["hakata", "verb", "+pass+pres+conneg"],
@@ -318,29 +333,40 @@
     ["hakata", "verb", "+inf2+ine+poss1sg"]
   ],
   "hakattava": [
-    ["hakata", "verb", "+pass+part_pres+sg+nom"]
+    ["hakata", "verb", "+pass+part_pres+sg+nom"],
+    ["hakattava", "participle", "+sg+nom"]
   ],
   "hakattavaa": [
-    ["hakata", "verb", "+pass+part_pres+sg+par"]
+    ["hakata", "verb", "+pass+part_pres+sg+par"],
+    ["hakattava", "participle", "+sg+par"]
   ],
   "hakattavaani": [
     ["hakata", "verb", "+pass+part_pres+sg+ill+poss1sg"],
-    ["hakata", "verb", "+pass+part_pres+sg+par+poss1sg"]
+    ["hakata", "verb", "+pass+part_pres+sg+par+poss1sg"],
+    ["hakattava", "participle", "+sg+par+poss1sg"],
+    ["hakattava", "participle", "+sg+ill+poss1sg"]
   ],
   "hakattavani": [
     ["hakata", "verb", "+pass+part_pres+pl+nom+poss1sg"],
     ["hakata", "verb", "+pass+part_pres+sg+gen+poss1sg"],
-    ["hakata", "verb", "+pass+part_pres+sg+nom+poss1sg"]
+    ["hakata", "verb", "+pass+part_pres+sg+nom+poss1sg"],
+    ["hakattava", "participle", "+sg+nom+poss1sg"],
+    ["hakattava", "participle", "+sg+gen+poss1sg"],
+	["hakattava", "participle", "+pl+nom+poss1sg"]
+
   ],
   "hakattu": [
     ["hakata", "verb", "+pass+past+conneg"],
-    ["hakata", "verb", "+pass+part_past+sg+nom"]
+    ["hakata", "verb", "+pass+part_past+sg+nom"],
+    ["hakattu", "participle", "+sg+nom"]
   ],
   "hakattuani": [
-    ["hakata", "verb", "+pass+part_past+sg+par+poss1sg"]
+    ["hakata", "verb", "+pass+part_past+sg+par+poss1sg"],
+    ["hakattu", "participle", "+sg+par+poss1sg"]
   ],
   "hakatun": [
-    ["hakata", "verb", "+pass+part_past+sg+gen"]
+    ["hakata", "verb", "+pass+part_past+sg+gen"],
+    ["hakattu", "participle", "+sg+gen"]
   ],
   "hakkaa": [
     ["hakata", "verb", "+pres+conneg"],
@@ -361,13 +387,15 @@
     ["hakata", "verb", "+inf4+sg+nom"]
   ],
   "hakkaava": [
-    ["hakata", "verb", "+part_pres+sg+nom"]
+    ["hakata", "verb", "+part_pres+sg+nom"],
+    ["hakkaava", "participle", "+sg+nom"]
   ],
   "hakkaavampi": [
     ["hakata", "verb", "+part_pres+comparative+sg+nom"]
   ],
   "hakkaavan": [
-    ["hakata", "verb", "+part_pres+sg+gen"]
+    ["hakata", "verb", "+part_pres+sg+gen"],
+    ["hakkaava", "participle", "+sg+gen"]
   ],
   "hakkasi": [
     ["hakata", "verb", "+past+3sg"]
@@ -385,7 +413,8 @@
     ["havaitsija", "noun", "+sg+nom"]
   ],
   "havaitut": [
-    ["havaita", "verb", "+pass+part_past+pl+nom"]
+    ["havaita", "verb", "+pass+part_past+pl+nom"],
+    ["havaittu", "participle", "+pl+nom"]
   ],
   "hitain": [
     ["hidas", "adjective", "+superlative+sg+nom"],
@@ -402,9 +431,9 @@
     ["hyvä", "noun", "+sg+tra+poss3"]
   ],
   "hyväkseni": [
-    ["hyväksi", "adposition", "+poss1"],
-    ["hyväkseen", "adverb", "+poss1"],
-    ["hyvä", "noun", "+sg+tra+poss1"]
+    ["hyväksi", "adposition", "+poss1sg"],
+    ["hyväkseen", "adverb", "+poss1sg"],
+    ["hyvä", "noun", "+sg+tra+poss1sg"]
   ],
   "hämilläni": [
     ["hämillään", "adverb", "+poss1sg"]
@@ -566,7 +595,8 @@
     ["kyse", "noun", "+sg+ine"]
   ],
   "käsiteltäväkseen": [
-    ["käsitellä", "verb", "+pass+part_pres+sg+tra+poss3"]
+    ["käsitellä", "verb", "+pass+part_pres+sg+tra+poss3"],
+    ["käsiteltävä", "participle", "+sg+tra+poss3"]
   ],
   "laaja": [
     ["laaja", "adjective", "+sg+nom"]
@@ -598,16 +628,20 @@
     ["lähellä", "adposition", "+poss2sg"]
   ],
   "maksavaksi": [
-    ["maksaa", "verb", "+part_pres+sg+tra"]
+    ["maksaa", "verb", "+part_pres+sg+tra"],
+    ["maksava", "participle", "+sg+tra"]
   ],
   "maksettavakseen": [
-    ["maksaa", "verb", "+pass+part_pres+sg+tra+poss3"]
+    ["maksaa", "verb", "+pass+part_pres+sg+tra+poss3"],
+    ["maksettava", "participle", "+sg+tra+poss3"]
   ],
   "maksettavakseni": [
-    ["maksaa", "verb", "+pass+part_pres+sg+tra+poss1sg"]
+    ["maksaa", "verb", "+pass+part_pres+sg+tra+poss1sg"],
+    ["maksettava", "participle", "+sg+tra+poss1sg"]
   ],
   "maksettavaksi": [
-    ["maksaa", "verb", "+pass+part_pres+sg+tra"]
+    ["maksaa", "verb", "+pass+part_pres+sg+tra"],
+    ["maksettava", "participle", "+sg+tra"]
   ],
   "matkustusrajoituksin": [
     ["matkustus|rajoitus", "noun", "+pl+ins"]
@@ -682,10 +716,12 @@
   ],
   "myydyn": [
     ["myydä", "verb", "+pass+part_past+sg+gen"],
-    ["myyty", "adjective", "+sg+gen"]
+    ["myyty", "adjective", "+sg+gen"],
+    ["myyty", "participle", "+sg+gen"]
   ],
   "nimetyn": [
-    ["nimetä", "verb", "+pass+part_past+sg+gen"]
+    ["nimetä", "verb", "+pass+part_past+sg+gen"],
+    ["nimetty", "participle", "+sg+gen"]
   ],
   "nipistelijä": [
   ],
@@ -1188,18 +1224,18 @@
     ["liuku", "noun", "+sg+gen"]
   ],
   "kaltaisilleni": [
-    [""]
+    ["kaltainen", "adjective", "+pl+all+poss1sg"]
   ],
   "ylemmilleni": [
-    [""]
+   ["ylempi", "adjective", "+pl+all+poss1sg"]
   ],
   "alempiaan": [
-    [""]
+    ["alempi", "adjective", "+pl+par+poss3"]
   ],
   "ylempiarvoisiaan": [
-    [""]
+   ["ylempi|arvoinen", "adjective", "+pl+par+poss3"]
   ],
   "alempiarvoisiaan": [
-    [""]
+    ["alempi|arvoinen", "adjective", "+pl+par+poss3"]
   ]
 }

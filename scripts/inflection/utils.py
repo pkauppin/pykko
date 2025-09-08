@@ -9,8 +9,7 @@ VV = '([aeiouyäö]|[aeiou][ui]|[äeiöy][yi]|ie|uo|yö|aa|ee|ii|oo|uu|yy|ää|�
 HARMONY_MAPPING = {
 	'back': ('a', 'o', 'u', 'aa', 'oo', 'uu'),
 	'front': ('ä', 'ö', 'y', 'ää', 'öö', 'yy'),
-	'BACK': ('a', 'o', 'u', 'aa', 'oo', 'uu'),
-	'FRONT': ('ä', 'ö', 'y', 'ää', 'öö', 'yy'),
+	'variable': ('', '', '', '', '', ''),
 }
 
 

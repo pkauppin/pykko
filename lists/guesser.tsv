@@ -373,7 +373,7 @@ Num	-karaattinen	-	adjective	38	-	-	-	-	3.000
 Num	-kerroksinen	-	adjective	38	-	-	-	-	3.000
 Num	-kertainen	-	adjective	38	-	-	-	-	3.000
 Num	-kiloinen	-	adjective	38	-	-	-	-	3.000
-Num	-kilometrinen	-	adjective	38	front|back	-	-	-	3.000
+Num	-kilo|metrinen	-	adjective	38	front	-	-	-	3.000
 Num	-kuinen	-	adjective	38	-	-	-	-	3.000
 Num	-kulmainen	-	adjective	38	-	-	-	-	3.000
 Num	-kuutioinen	-	adjective	38	-	-	-	-	3.000
