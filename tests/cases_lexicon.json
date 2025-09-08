@@ -768,11 +768,11 @@
   ],
   "parempi": [
     ["parempi", "adjective", "+sg+nom"],
-    ["hyvä", "adjective", "+comparative+sg+nom"],
-    ["parempi", "adverb", ""]
+    ["hyvä", "adjective", "+comparative+sg+nom"]
   ],
   "parhaan": [
     ["paras", "noun", "+sg+gen"],
+    ["paras", "adjective", "+sg+gen"],
     ["hyvä", "adjective", "+superlative+sg+gen"]
   ],
   "parhaimman": [
@@ -791,6 +791,7 @@
   ],
   "parhain": [
     ["paras", "noun", "+pl+ins"],
+    ["paras", "adjective", "+pl+ins"],
     ["parhain", "adjective", "+sg+nom"],
     ["hyvä", "adjective", "+superlative+sg+nom"],
     ["hyvä", "adjective", "+superlative+pl+ins"]
@@ -812,9 +813,6 @@
   ],
   "pujahteli": [
     ["pujahdella", "verb", "+past+3sg"]
-  ],
-  "puolentoista": [
-    ["puoli|toista", "numeral", "+sg+gen"]
   ],
   "puurakentamisen": [
     ["puu|rakentaminen", "noun", "+sg+gen"]
@@ -854,23 +852,33 @@
     ["sanoa", "verb", "+inf4+sg+nom"]
   ],
   "sanoneen": [
-    ["sanoa", "verb", "+part_past+sg+gen"]
+    ["sanoa", "verb", "+part_past+sg+gen"],
+    ["sanonut", "participle", "+sg+gen"]
   ],
   "sanoneeni": [
-    ["sanoa", "verb", "+part_past+poss1sg"]
+	["sanoa", "verb", "+part_past+poss1sg"],
+	["sanonut", "participle", "+sg+gen+poss1sg"],
+	["sanonut", "participle", "+sg+nom+poss1sg"],
+    ["sanonut", "participle", "+pl+nom+poss1sg"]
   ],
   "sanoneensa": [
-    ["sanoa", "verb", "+part_past+poss3"]
+    ["sanoa", "verb", "+part_past+poss3"],
+	["sanonut", "participle", "+sg+gen+poss3"],
+	["sanonut", "participle", "+sg+nom+poss3"],
+    ["sanonut", "participle", "+pl+nom+poss3"]
   ],
   "sanoneita": [
-    ["sanoa", "verb", "+part_past+pl+par"]
+    ["sanoa", "verb", "+part_past+pl+par"],
+    ["sanonut", "participle", "+pl+par"]
   ],
   "sanonut": [
     ["sanoa", "verb", "+part_past+sg+nom"],
-    ["sanoa", "verb", "+past+conneg+sg"]
+    ["sanoa", "verb", "+past+conneg+sg"],
+    ["sanonut", "participle", "+sg+nom"]
   ],
   "sanonutta": [
-    ["sanoa", "verb", "+part_past+sg+par"]
+    ["sanoa", "verb", "+part_past+sg+par"],
+    ["sanonut", "participle", "+sg+par"]
   ],
   "sanoo": [
     ["sanoa", "verb", "+pres+3sg"]
@@ -878,18 +886,22 @@
   "sanottava": [
     ["sanottava", "noun", "+sg+nom"],
     ["sanoa", "verb", "+pass+part_pres+sg+nom"],
-    ["sanottava", "adjective", "+sg+nom"]
+    ["sanottava", "adjective", "+sg+nom"],
+    ["sanottava", "participle", "+sg+nom"]
   ],
   "sanottavaa": [
     ["sanottava", "adjective", "+sg+par"],
     ["sanottava", "noun", "+sg+par"],
-    ["sanoa", "verb", "+pass+part_pres+sg+par"]
+    ["sanoa", "verb", "+pass+part_pres+sg+par"],
+    ["sanottava", "participle", "+sg+par"]
   ],
   "sanottavaani": [
     ["sanoa", "verb", "+pass+part_pres+sg+par+poss1sg"],
     ["sanoa", "verb", "+pass+part_pres+sg+ill+poss1sg"],
     ["sanottava", "noun", "+sg+par+poss1sg"],
-    ["sanottava", "noun", "+sg+ill+poss1sg"]
+    ["sanottava", "noun", "+sg+ill+poss1sg"],
+    ["sanottava", "participle", "+sg+par+poss1sg"],
+    ["sanottava", "participle", "+sg+ill+poss1sg"]
   ],
   "sanottavani": [
     ["sanoa", "verb", "+pass+part_pres+sg+nom+poss1sg"],
@@ -897,34 +909,43 @@
     ["sanoa", "verb", "+pass+part_pres+pl+nom+poss1sg"],
     ["sanottava", "noun", "+sg+nom+poss1sg"],
     ["sanottava", "noun", "+sg+gen+poss1sg"],
-    ["sanottava", "noun", "+pl+nom+poss1sg"]
+    ["sanottava", "noun", "+pl+nom+poss1sg"],
+	["sanottava", "participle", "+sg+nom+poss1sg"],
+    ["sanottava", "participle", "+sg+gen+poss1sg"],
+    ["sanottava", "participle", "+pl+nom+poss1sg"]
   ],
   "sanottu": [
     ["sanoa", "verb", "+pass+past+conneg"],
     ["sanottu", "adjective", "+sg+nom"],
-    ["sanoa", "verb", "+pass+part_past+sg+nom"]
+    ["sanoa", "verb", "+pass+part_past+sg+nom"],
+    ["sanottu", "participle", "+sg+nom"]
   ],
   "sanottuani": [
-    ["sanoa", "verb", "+pass+part_past+sg+par+poss1sg"]
+    ["sanoa", "verb", "+pass+part_past+sg+par+poss1sg"],
+    ["sanottu", "participle", "+sg+par+poss1sg"]
   ],
   "sanotun": [
     ["sanottu", "adjective", "+sg+gen"],
-    ["sanoa", "verb", "+pass+part_past+sg+gen"]
+    ["sanoa", "verb", "+pass+part_past+sg+gen"],
+    ["sanottu", "participle", "+sg+gen"]
   ],
   "sanova": [
-    ["sanoa", "verb", "+part_pres+sg+nom"]
+    ["sanoa", "verb", "+part_pres+sg+nom"],
+    ["sanova", "participle", "+sg+nom"]
   ],
   "sanovampi": [
     ["sanoa", "verb", "+part_pres+comparative+sg+nom"]
   ],
   "sanovan": [
-    ["sanoa", "verb", "+part_pres+sg+gen"]
+    ["sanoa", "verb", "+part_pres+sg+gen"],
+    ["sanova", "participle", "+sg+gen"]
   ],
   "sellaisenaan": [
     ["sellaisenaan", "adverb", ""]
   ],
   "suunnatun": [
-    ["suunnata", "verb", "+pass+part_past+sg+gen"]
+    ["suunnata", "verb", "+pass+part_past+sg+gen"],
+    ["suunnattu", "participle", "+sg+gen"]
   ],
   "taiteilijuuteen": [
   ],
@@ -939,16 +960,13 @@
   ],
   "toinen": [
     ["toinen", "pronoun", "+sg+nom"],
-    ["toinen", "ordinal", "+sg+nom"],
     ["toinen", "adjective", "+sg+nom"]
   ],
   "toiselle": [
-    ["toinen", "ordinal", "+sg+all"],
     ["toinen", "pronoun", "+sg+all"],
     ["toinen", "adjective", "+sg+all"]
   ],
   "toisen": [
-    ["toinen", "ordinal", "+sg+gen"],
     ["toinen", "pronoun", "+sg+gen"],
     ["toinen", "adjective", "+sg+gen"]
   ],
@@ -957,11 +975,9 @@
   ],
   "toiset": [
     ["toinen", "pronoun", "+pl+nom"],
-    ["toinen", "ordinal", "+pl+nom"],
     ["toinen", "adjective", "+pl+nom"]
   ],
   "toisia": [
-    ["toinen", "ordinal", "+pl+par"],
     ["toinen", "pronoun", "+pl+par"],
     ["toinen", "adjective", "+pl+par"]
   ],
@@ -972,7 +988,6 @@
     ["toinen", "pronoun", "+pl+par+poss3"]
   ],
   "toisille": [
-    ["toinen", "ordinal", "+pl+all"],
     ["toinen", "pronoun", "+pl+all"],
     ["toinen", "adjective", "+pl+all"]
   ],
@@ -987,7 +1002,6 @@
   ],
   "toista": [
     ["toinen", "pronoun", "+sg+par"],
-    ["toinen", "ordinal", "+sg+par"],
     ["toinen", "adjective", "+sg+par"],
     ["toistaa", "verb", "+imper+2sg+conneg"],
     ["toistaa", "verb", "+imper+2sg"],
@@ -1001,14 +1015,14 @@
   ],
   "toisten": [
     ["toinen", "pronoun", "+pl+gen"],
-    ["toinen", "ordinal", "+pl+gen"],
     ["toinen", "adjective", "+pl+gen"]
   ],
   "toistensa": [
     ["toinen", "pronoun", "+pl+gen+poss3"]
   ],
   "tuotettavakseen": [
-    ["tuottaa", "verb", "+pass+part_pres+sg+tra+poss3"]
+    ["tuottaa", "verb", "+pass+part_pres+sg+tra+poss3"],
+    ["tuotettava", "participle", "+sg+tra+poss3"]
   ],
   "tähden": [
     ["tähden", "adposition", ""],
@@ -1028,7 +1042,8 @@
   ],
   "valitun": [
     ["valita", "verb", "+pass+part_past+sg+gen"],
-    ["valittu", "noun", "+sg+gen"]
+    ["valittu", "noun", "+sg+gen"],
+    ["valittu", "participle", "+sg+gen"]
   ],
   "venyttelyllä": [
     ["venyttely", "noun", "+sg+ade"]

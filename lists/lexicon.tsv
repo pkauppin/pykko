@@ -15381,6 +15381,7 @@
 -	halpamaisesti	-	adverb	-	-	-	-	-	-
 -	haltioihinsa	-	adverb	-	-	-	-	+poss	-
 -	haltioissaan	-	adverb	-	-	-	-	+poss	-
+-	haltuun	-	adverb	-	-	-	-	-	-
 -	halukkaasti	-	adverb	-	-	-	-	-	-
 -	haluttomasti	-	adverb	-	-	-	-	-	-
 -	halventavasti	-	adverb	-	-	-	-	-	-
@@ -15518,7 +15519,6 @@
 -	hiukan	-	adverb	-	-	-	-	-	-
 -	hiukka	-	adverb	-	-	-	-	-	-
 -	hohdokkaasti	-	adverb	-	-	-	-	-	-
--	hokkuspokkus	-	adverb	-	-	-	-	-	-
 -	hollilla	-	adverb	-	-	-	-	-	-
 -	holtittomasti	-	adverb	-	-	-	-	-	-
 -	horteessa	-	adverb	-	-	-	-	-	-
@@ -15577,6 +15577,7 @@
 -	hyvilleen	-	adverb	-	-	-	-	+poss	-
 -	hyvillään	-	adverb	-	-	-	-	+poss	-
 -	hyvin	-	adverb	-	-	-	-	-	-
+-	hyvinkin	-	adverb	-	-	-	-	-	-
 -	hyväkseen	-	adverb	-	-	-	-	+poss	-
 -	hyväksi	-	adverb	-	-	-	-	-	-
 -	hyväksyttävästi	-	adverb	-	-	-	-	-	-
@@ -16920,6 +16921,7 @@
 -	mihinkään	-	adverb	-	-	-	-	#	-
 -	mihkään	-	adverb	-	-	-	-	dial	-
 -	miimisesti	-	adverb	-	-	-	-	-	-
+-	miinus	-	adverb	-	-	-	-	-	-
 -	mikroskooppisesti	-	adverb	-	-	-	-	-	-
 -	miksi	-	adverb	-	-	-	-	-	-
 -	miljoonittain	-	adverb	-	-	-	-	-	-
@@ -18662,6 +18664,8 @@
 -	tietoisesti	-	adverb	-	-	-	-	-	-
 -	tiettäväksi	-	adverb	-	-	-	-	-	-
 -	tiettävästi	-	adverb	-	-	-	-	-	-
+-	tietymättömiin	-	adverb	-	-	-	-	-	-
+-	tietymättömissä	-	adverb	-	-	-	-	-	-
 -	tietysti	-	adverb	-	-	-	-	-	-
 -	tietämille	-	adverb	-	-	-	-	-	-
 -	tietämillä	-	adverb	-	-	-	-	-	-
@@ -19856,6 +19860,7 @@
 -	ilmi|elävästi	-	adverb	-	-	-	-	-	-
 -	ilmi|selvästi	-	adverb	-	-	-	-	-	-
 -	ilo|mielin	-	adverb	-	-	-	-	-	-
+-	ilta|päivisin	-	adverb	-	-	-	-	-	-
 -	imu|teitse	-	adverb	-	-	-	-	-	-
 -	into|himoisesti	-	adverb	-	-	-	-	-	-
 -	into|himottomasti	-	adverb	-	-	-	-	-	-
@@ -20696,6 +20701,7 @@
 -	yhden|mukaisesti	-	adverb	-	-	-	-	-	-
 -	yhden|vertaisesti	-	adverb	-	-	-	-	-	-
 -	yhteis|kunnallisesti	-	adverb	-	-	-	-	-	-
+-	yhteis|toimin	-	adverb	-	-	-	-	-	-
 -	yhteis|tuumin	-	adverb	-	-	-	-	-	-
 -	yhteis|vastuisesti	-	adverb	-	-	-	-	-	-
 -	yhteis|vastuullisesti	-	adverb	-	-	-	-	-	-
