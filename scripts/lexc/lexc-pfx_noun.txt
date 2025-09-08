@@ -108004,6 +108004,8 @@ polte:polte NOUN_PFX2 "weight: 1.0" ;
 polterabend:polterabend NOUN_PFX2 "weight: 1.0" ;
 polterabendin:polterabendin NOUN_PFX2 "weight: 1.0" ;
 poltergeist:poltergeist NOUN_PFX2 "weight: 1.0" ;
+poltergeist-ilmiö:poltergeist-ilmiö NOUN_PFX2 "weight: 1.0" ;
+poltergeist-ilmiön:poltergeist-ilmiön NOUN_PFX2 "weight: 1.0" ;
 poltergeistin:poltergeistin NOUN_PFX2 "weight: 1.0" ;
 poltin:poltin NOUN_PFX2 "weight: 1.0" ;
 poltin|karva:poltin0karva NOUN_PFX2 "weight: 1.0" ;
