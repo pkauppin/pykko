@@ -15,8 +15,6 @@ INFLECTION_SUBLEXICA = {}
 COUNTERS = defaultdict(int)
 POS_SUBLEXICA = defaultdict(str)
 
-CUTOFFS = set()
-
 MULTICHAR_SYMBOLS = {
 	TAB,
 	"Lexicon",
@@ -151,7 +149,6 @@ def inflections2lexicon(inflections: dict, pos: str, harmony=None, separator=Non
 	function = get_cont_class_function(pos, info)
 	head, cutoff = get_wordform_head(inflections_aligned)
 	inverse_cutoff = (cutoff - len(lemma.replace(ZERO, '0')))
-	CUTOFFS.add(inverse_cutoff)
 
 	lexicon_rows = []
 	for tag, forms in inflections_aligned.items():
@@ -192,8 +189,7 @@ def add_word(lemma, pos, homonym=None, infl=None, style=None, inflections=None, 
 	compound_parts, lemma = get_compound_parts(lemma, irregular=bool(inflections))
 	agreement = has_agreement(lemma)
 
-	fharm = determine_wordform_harmony(lemma)
-	pattern_key = lemma[-6:], homonym, pos, fharm, style, str(infl)  # Is style redundant?
+	pattern_key = lemma[-6:], homonym, pos, style, str(infl)  # Is style redundant?
 
 	if PATTERNS.get(pattern_key) and not (inflections or auxname or agreement):
 		head, inverse_cutoff, lexicon_name = PATTERNS[pattern_key]
@@ -351,8 +347,6 @@ def main():
 	read_words()
 	lexc = generate_lexc()
 	save_txt(filename='fi.lexc', directory='.', text=lexc)
-
-	# print(CUTOFFS)
 
 
 main()

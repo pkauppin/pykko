@@ -401,6 +401,7 @@
     ["hakata", "verb", "+past+3sg"]
   ],
   "haltuun": [
+    ["haltuun", "adverb", ""],
     ["haltuun", "adposition", ""]
   ],
   "haltuuni": [
@@ -959,14 +960,17 @@
     ["tehostetusti", "adverb", ""]
   ],
   "toinen": [
+    ["toinen", "ordinal", "+sg+nom"],
     ["toinen", "pronoun", "+sg+nom"],
     ["toinen", "adjective", "+sg+nom"]
   ],
   "toiselle": [
+    ["toinen", "ordinal", "+sg+all"],
     ["toinen", "pronoun", "+sg+all"],
     ["toinen", "adjective", "+sg+all"]
   ],
   "toisen": [
+    ["toinen", "ordinal", "+sg+gen"],
     ["toinen", "pronoun", "+sg+gen"],
     ["toinen", "adjective", "+sg+gen"]
   ],
@@ -974,10 +978,12 @@
     ["toinen", "pronoun", "+sg+ine+poss3"]
   ],
   "toiset": [
+    ["toinen", "ordinal", "+pl+nom"],
     ["toinen", "pronoun", "+pl+nom"],
     ["toinen", "adjective", "+pl+nom"]
   ],
   "toisia": [
+    ["toinen", "ordinal", "+pl+par"],
     ["toinen", "pronoun", "+pl+par"],
     ["toinen", "adjective", "+pl+par"]
   ],
@@ -988,6 +994,7 @@
     ["toinen", "pronoun", "+pl+par+poss3"]
   ],
   "toisille": [
+    ["toinen", "ordinal", "+pl+all"],
     ["toinen", "pronoun", "+pl+all"],
     ["toinen", "adjective", "+pl+all"]
   ],
@@ -1001,6 +1008,7 @@
     ["toinen", "pronoun", "+pl+ine+poss3"]
   ],
   "toista": [
+    ["toinen", "ordinal", "+sg+par"],
     ["toinen", "pronoun", "+sg+par"],
     ["toinen", "adjective", "+sg+par"],
     ["toistaa", "verb", "+imper+2sg+conneg"],
@@ -1014,6 +1022,7 @@
     ["toinen", "pronoun", "+sg+par+poss3"]
   ],
   "toisten": [
+    ["toinen", "ordinal", "+pl+gen"],
     ["toinen", "pronoun", "+pl+gen"],
     ["toinen", "adjective", "+pl+gen"]
   ],

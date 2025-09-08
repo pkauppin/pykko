@@ -137,7 +137,7 @@ for tag in TAGS:
 	numeral = 'kymmenen'
 	if FORMS[numeral][tag]:
 		lexc += f'LEXICON NUMERAL_{tag}_x10f\n'
-		harmony = determine_wordform_harmony(numeral)
+		harmony = determine_wordform_harmony(numeral).upper()
 		cutoff = get_lemma_length(FORMS[numeral])
 		for pairs in FORMS[numeral][tag]:
 			string1 = get_output_string(MULTIPLIER_PARTITIVE[numeral])
@@ -152,7 +152,7 @@ for tag in TAGS:
 	numeral = 'sata'
 	if FORMS[numeral][tag]:
 		lexc += f'LEXICON NUMERAL_{tag}_x100f\n'
-		harmony = determine_wordform_harmony(numeral)
+		harmony = determine_wordform_harmony(numeral).upper()
 		cutoff = get_lemma_length(FORMS[numeral])
 		for pairs in FORMS[numeral][tag]:
 			string1 = get_output_string(MULTIPLIER_PARTITIVE[numeral])
@@ -167,7 +167,7 @@ for tag in TAGS:
 	numeral = 'tuhat'
 	if FORMS[numeral][tag]:
 		lexc += f'LEXICON NUMERAL_{tag}_x1000f\n'
-		harmony = determine_wordform_harmony(numeral)
+		harmony = determine_wordform_harmony(numeral).upper()
 		cutoff = get_lemma_length(FORMS[numeral])
 		for pairs in FORMS[numeral][tag]:
 			string1 = get_output_string(MULTIPLIER_PARTITIVE[numeral])
@@ -183,7 +183,7 @@ for tag in TAGS:
 
 	lexc += f'LEXICON NUMERAL_{tag}_+2f\n'
 	for numeral in NUM + ['kymmenen', 'sata']:
-		harmony = determine_wordform_harmony(numeral)
+		harmony = determine_wordform_harmony(numeral).upper()
 		cutoff = get_lemma_length(FORMS[numeral])
 		for pairs in FORMS[numeral][tag]:
 			string1, string2 = get_input_and_output_strings(pairs[:cutoff])
@@ -192,7 +192,7 @@ for tag in TAGS:
 			string2 = string2 + POS_OUT + ending
 			lexc += f'{string1}:{string2} CLITIC_{harmony} ;\n'
 	for numeral in NUM + ['puoli']:
-		harmony = determine_wordform_harmony(numeral)
+		harmony = determine_wordform_harmony(numeral).upper()
 		cutoff = get_lemma_length(FORMS[numeral])
 		for pairs in FORMS[numeral][tag]:
 			string1, string2 = get_input_and_output_strings(pairs[:cutoff])
@@ -205,7 +205,7 @@ for tag in TAGS:
 	numeral = 'tuhat'
 	if FORMS[numeral][tag]:
 		lexc += f'LEXICON NUMERAL_{tag}_+1000f\n'
-		harmony = determine_wordform_harmony(numeral)
+		harmony = determine_wordform_harmony(numeral).upper()
 		cutoff = get_lemma_length(FORMS[numeral])
 		for pairs in FORMS[numeral][tag]:
 			string1, string2 = get_input_and_output_strings(pairs[:cutoff])

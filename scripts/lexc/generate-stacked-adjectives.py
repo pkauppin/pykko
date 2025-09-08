@@ -57,7 +57,7 @@ for row in read_list_tsv('lexicon.tsv'):
 
 	w1, h1, w2 = re.fullmatch('(.+)([-|])(.+)', lemma).groups()
 	w2 = w2[:-4]
-	harmony = determine_wordform_harmony(w2)
+	harmony = determine_wordform_harmony(w2).upper()
 
 	for comparative in COMPARATIVES[w1]:
 		s1, s2 = get_input_and_output_strings(comparative)
