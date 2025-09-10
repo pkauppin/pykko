@@ -851,7 +851,7 @@ def inflect_noun(word, kotus_class, gradtype, harmony, vowel=None):
 	# "kytkin"
 	elif kotus_class == "33":
 		eroti = word[:-1]
-		erotti = grad_strong(eroti, gradtype)
+		erotti = 'kertoi' if word.endswith('kerroin') else grad_strong(eroti, gradtype)
 		#
 		all_forms['sg|nom'] = [f"{eroti}n"]
 		all_forms['sg|gen'] = [f"{erotti}men"]

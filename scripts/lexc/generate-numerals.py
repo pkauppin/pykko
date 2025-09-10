@@ -24,6 +24,7 @@ TAGS = sorted({
 } - {'pl|gen|nstd'})
 
 MULTIPLIER_PARTITIVE = {
+	'kymppi': FORMS_EQUALIZED['kymppi']['sg|par'][0],
 	'kymmenen': FORMS_EQUALIZED['kymmenen']['sg|par'][0],
 	'sata': FORMS_EQUALIZED['sata']['sg|par'][0],
 	'tuhat': FORMS_EQUALIZED['tuhat']['sg|par'][0],
@@ -134,19 +135,19 @@ for tag in TAGS:
 
 	""""""
 
-	numeral = 'kymmenen'
-	if FORMS[numeral][tag]:
+	if FORMS['kymmenen'][tag]:
 		lexc += f'LEXICON NUMERAL_{tag}_x10f\n'
-		harmony = determine_wordform_harmony(numeral).upper()
-		cutoff = get_lemma_length(FORMS[numeral])
-		for pairs in FORMS[numeral][tag]:
-			string1 = get_output_string(MULTIPLIER_PARTITIVE[numeral])
-			string2 = string1 if tag == 'sg|nom' else get_output_string(pairs[:cutoff])
-			string2 += '0' * (len(string1) - len(string2))
-			tags, ending = get_input_and_output_strings(pairs[cutoff:])
-			string1 = string1 + POS_IN + tags
-			string2 = string2 + POS_OUT + ending
-			lexc += f'{string1}:{string2} CLITIC_{harmony} ;\n'
+		for numeral in 'kymmenen', 'kymppi':
+			harmony = determine_wordform_harmony(numeral).upper()
+			cutoff = get_lemma_length(FORMS[numeral])
+			for pairs in FORMS[numeral].get(tag) or []:
+				string1 = get_output_string(MULTIPLIER_PARTITIVE[numeral])
+				string2 = string1 if tag == 'sg|nom' else get_output_string(pairs[:cutoff])
+				string2 += '0' * (len(string1) - len(string2))
+				tags, ending = get_input_and_output_strings(pairs[cutoff:])
+				string1 = string1 + POS_IN + tags
+				string2 = string2 + POS_OUT + ending
+				lexc += f'{string1}:{string2} CLITIC_{harmony} ;\n'
 		lexc += '\n'
 
 	numeral = 'sata'

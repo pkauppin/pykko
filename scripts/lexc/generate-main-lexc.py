@@ -262,13 +262,14 @@ def read_words():
 		'compound-only.tsv',
 		'participles.tsv',
 		'temporary.tsv', # FIXME!
-		#'temp.tsv'
 	]
 	filenames += glob(os.path.join(scripts_path, '..', 'lists', 'gaz-*.tsv'))
+	# filenames = ['_temp.tsv']
 	rows = [row for filename in filenames for row in read_tsv(filename, directory='lists')]
 
 	for row in tqdm(rows):
 		regex_pfx, lemma, homonym, pos, infl_classes, gradations, harmonies, chronemes, info, weight = row
+		harmonies = harmonies or determine_lemma_vowel_harmony(lemma)
 		for infl_class, gradation, harmony, chroneme in unpack(infl_classes, gradations, harmonies, chronemes):
 			infl = InflectionProperties(infl_class, gradation, harmony, chroneme, info)
 			style = '|'.join(sorted(re.findall(f'{STYLE_TAG_REGEX}', info)))

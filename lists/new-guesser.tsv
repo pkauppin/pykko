@@ -93,6 +93,7 @@
 .*	|kuvioinen	-	adjective	38	-	-	-	-	3.000
 .*	|kykyinen	-	adjective	38	-	-	-	-	3.000
 .*	|kymppinen	-	adjective	38	-	-	-	-	3.000
+.*	|käyttöinen	-	adjective	38	-	-	-	-	3.000
 .*	|köyhä	-	adjective	10	-	-	-	-	3.000
 .*	|laatuinen	-	adjective	38	-	-	-	-	3.000
 .*	|lahtelainen	-	adjective	38	-	-	-	-	3.000
@@ -111,6 +112,8 @@
 .*	|moinen	-	adjective	38	-	-	-	-	3.000
 .*	|mukainen	-	adjective	38	-	-	-	-	3.000
 .*	|muotoinen	-	adjective	38	-	-	-	-	3.000
+.*	|muotoinen	-	adjective	38	-	-	-	-	3.000
+.*	|määräinen	-	adjective	38	-	-	-	-	3.000
 .*	|nahkainen	-	adjective	38	-	-	-	-	3.000
 .*	|negatiivinen	-	adjective	38	-	-	-	-	3.000
 .*	|oikeudellinen	-	adjective	38	-	-	-	-	3.000
@@ -121,6 +124,7 @@
 .*	|painoinen	-	adjective	38	-	-	-	-	3.000
 .*	|palkkainen	-	adjective	38	-	-	-	-	3.000
 .*	|partainen	-	adjective	38	-	-	-	-	3.000
+.*	|peitteinen	-	adjective	38	-	-	-	-	3.000
 .*	|peräinen	-	adjective	38	-	-	-	-	3.000
 .*	|piirteinen	-	adjective	38	-	-	-	-	3.000
 .*	|pintainen	-	adjective	38	-	-	-	-	3.000
@@ -135,7 +139,9 @@
 .*	|punainen	-	adjective	38	-	-	-	-	3.000
 .*	|puoleinen	-	adjective	38	-	-	-	-	3.000
 .*	|puolinen	-	adjective	38	-	-	-	-	3.000
+.*	|päällysteinen	-	adjective	38	-	-	-	-	3.000
 .*	|raitainen	-	adjective	38	-	-	-	-	3.000
+.*	|rakenteinen	-	adjective	38	-	-	-	-	3.000
 .*	|rakenteinen	-	adjective	38	-	-	-	-	3.000
 .*	|rikas	-	adjective	41	kk:k	-	-	-	3.000
 .*	|runkoinen	-	adjective	38	-	-	-	-	3.000
@@ -157,6 +163,7 @@
 .*	|takainen	-	adjective	38	-	-	-	-	3.000
 .*	|taloudellinen	-	adjective	38	-	-	-	-	3.000
 .*	|tapainen	-	adjective	38	-	-	-	-	3.000
+.*	|tasoinen	-	adjective	38	-	-	-	-	3.000
 .*	|tasoinen	-	adjective	38	-	-	-	-	3.000
 .*	|taustainen	-	adjective	38	-	-	-	-	3.000
 .*	|tautinen	-	adjective	38	-	-	-	-	3.000

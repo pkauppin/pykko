@@ -171,6 +171,7 @@
 -	Athletic	-	noun	5	-	-	-	foreign	-
 -	Atlantic	-	noun	5	-	-	-	foreign	-
 -	Attack	-	noun	5	-	-	-	foreign	-
+-	Attention	-	noun	5	-	-	-	foreign	-
 -	Australian	-	noun	5	-	-	-	foreign	-
 -	Authority	-	noun	2	-	front|back	-	foreign	-
 -	Automotive	-	noun	8	-	-	-	foreign	-
@@ -303,7 +304,7 @@
 -	Client	-	noun	5	-	-	-	foreign	-
 -	Clippers	-	noun	5	-	-	-	foreign	-
 -	Club	-	noun	5	-	-	-	foreign	-
--	Co.	-	noun	XX	-	-	-	foreign|abbr	-
+-	Co.	-	noun	XX	-	-	-	abbr|foreign	-
 -	Coalition	-	noun	5	-	-	-	foreign	-
 -	Cock	-	noun	5	-	-	-	foreign	-
 -	Cocks	-	noun	5	-	-	-	foreign	-
@@ -316,6 +317,8 @@
 -	Command	-	noun	5	-	-	-	foreign	-
 -	Commission	-	noun	5	-	-	-	foreign	-
 -	Commodore	-	noun	8	-	-	-	foreign	-
+-	Community	-	noun	1	-	front|back	-	foreign	-
+-	Compact	-	noun	5	-	-	-	foreign	-
 -	Company	-	noun	2	-	-	-	foreign	-
 -	Compass	-	noun	5	-	-	-	foreign	-
 -	Computer	-	noun	6	-	-	-	foreign	-
@@ -325,6 +328,7 @@
 -	Congress	-	noun	5	-	-	-	foreign	-
 -	Continental	-	noun	6	-	-	-	foreign	-
 -	Convention	-	noun	5	-	-	-	foreign	-
+-	Copilot	-	noun	5	-	-	-	foreign	-
 -	Copy	-	noun	1	-	front|back	-	foreign	-
 -	Corporation	-	noun	5	-	-	-	foreign	-
 -	Council	-	noun	5	-	-	-	foreign	-
@@ -370,10 +374,12 @@
 -	Deutsche	-	noun	8	-	-	-	foreign	-
 -	Deutschland	-	noun	5	-	-	-	foreign	-
 -	Developer	-	noun	6	-	-	-	foreign	-
+-	Development	-	noun	5	-	-	-	foreign	-
 -	Devil	-	noun	5	-	-	-	foreign	-
 -	Devils	-	noun	5	-	-	-	foreign	-
 -	Diamond	-	noun	5	-	-	-	foreign	-
 -	Dictionary	-	noun	1	-	-	-	foreign	-
+-	Digital	-	noun	5	-	-	-	foreign	-
 -	Dinamo	-	noun	2	-	-	-	foreign	-
 -	Director	-	noun	6	-	-	-	foreign	-
 -	Disc	-	noun	5	-	-	-	foreign	-
@@ -513,6 +519,7 @@
 -	Fun	-	noun	5	-	-	-	foreign	-
 -	Fund	-	noun	5	-	-	-	foreign	-
 -	Future	-	noun	8	-	-	-	foreign	-
+-	Fédération	-	noun	5	-	-	-	foreign	-
 -	Game	-	noun	8	-	-	-	foreign	-
 -	Gamer	-	noun	6	-	-	-	foreign	-
 -	Games	-	noun	5	-	-	-	foreign	-
@@ -601,6 +608,7 @@
 -	Inside	-	noun	8	-	-	-	foreign	-
 -	Institute	-	noun	8	-	-	-	foreign	-
 -	International	-	noun	6	-	-	-	foreign	-
+-	Internationale	-	noun	8	-	-	-	foreign	-
 -	Intervention	-	noun	5	-	-	-	foreign	-
 -	Introduction	-	noun	5	-	-	-	foreign	-
 -	Invaders	-	noun	5	-	-	-	foreign	-
@@ -727,6 +735,7 @@
 -	Mission	-	noun	6	-	-	-	foreign	-
 -	Modern	-	noun	5	-	-	-	foreign	-
 -	Monday	-	noun	21	-	front|back	i|y	foreign	-
+-	Monetary	-	noun	1	-	-	-	foreign	-
 -	Monitor	-	noun	6	-	-	-	foreign	-
 -	Monster	-	noun	6	-	-	-	foreign	-
 -	Monsters	-	noun	5	-	-	-	foreign	-
@@ -880,6 +889,7 @@
 -	Productions	-	noun	5	-	-	-	foreign	-
 -	Profile	-	noun	8	-	-	-	foreign	-
 -	Project	-	noun	5	-	-	-	foreign	-
+-	Protocol	-	noun	5	-	-	-	foreign	-
 -	Proton	-	noun	6	-	-	-	foreign	-
 -	Pub	-	noun	5	-	-	-	foreign	-
 -	Public	-	noun	5	-	-	-	foreign	-
@@ -908,6 +918,7 @@
 -	Rapid	-	noun	5	-	-	-	foreign	-
 -	Rapids	-	noun	5	-	-	-	foreign	-
 -	Rat	-	noun	5	-	-	-	foreign	-
+-	Rate	-	noun	8	-	-	-	foreign	-
 -	Ratio	-	noun	3	-	-	-	foreign	-
 -	Ration	-	noun	6	-	-	-	foreign	-
 -	Rats	-	noun	5	-	-	-	foreign	-
@@ -1043,6 +1054,7 @@
 -	Square	-	noun	8	-	-	-	foreign	-
 -	Stage	-	noun	8	-	-	-	foreign	-
 -	Stand	-	noun	5	-	-	-	foreign	-
+-	Standard	-	noun	5	-	-	-	foreign	-
 -	Star	-	noun	6	-	-	-	foreign	-
 -	Stars	-	noun	5	-	-	-	foreign	-
 -	Start	-	noun	5	-	-	-	foreign	-

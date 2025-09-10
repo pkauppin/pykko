@@ -114,6 +114,7 @@ tuha0t00ta0|:tuhans0itta0 NUMERAL_pl|abe_100+ ;
 
 LEXICON NUMERAL_pl|abe_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+pl+abe00:kymmen00000000000ittä CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+pl+abe00:kymp0e000000000ittä CLITIC_FRONT ;
 
 LEXICON NUMERAL_pl|abe_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+pl+abe00:sado000000000itta CLITIC_BACK ;
@@ -234,6 +235,7 @@ tuha0t00ta0|:tuhans0ilta0 NUMERAL_pl|abl_100+ ;
 
 LEXICON NUMERAL_pl|abl_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+pl+abl00:kymmen00000000000iltä CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+pl+abl00:kymp0e000000000iltä CLITIC_FRONT ;
 
 LEXICON NUMERAL_pl|abl_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+pl+abl00:sado000000000ilta CLITIC_BACK ;
@@ -354,6 +356,7 @@ tuha0t00ta0|:tuhans0illa0 NUMERAL_pl|ade_100+ ;
 
 LEXICON NUMERAL_pl|ade_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+pl+ade00:kymmen00000000000illä CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+pl+ade00:kymp0e000000000illä CLITIC_FRONT ;
 
 LEXICON NUMERAL_pl|ade_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+pl+ade00:sado000000000illa CLITIC_BACK ;
@@ -474,6 +477,7 @@ tuha0t00ta0|:tuhans0ille0 NUMERAL_pl|all_100+ ;
 
 LEXICON NUMERAL_pl|all_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+pl+all00:kymmen00000000000ille CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+pl+all00:kymp0e000000000ille CLITIC_FRONT ;
 
 LEXICON NUMERAL_pl|all_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+pl+all00:sado000000000ille CLITIC_BACK ;
@@ -594,6 +598,7 @@ tuha0t00ta0|:tuhans0ine00 NUMERAL_pl|com_100+ ;
 
 LEXICON NUMERAL_pl|com_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+pl+com0:kymmen00000000000ine CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+pl+com0:kymppe000000000ine CLITIC_FRONT ;
 
 LEXICON NUMERAL_pl|com_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+pl+com0:sato000000000ine CLITIC_BACK ;
@@ -714,6 +719,7 @@ tuha0t00ta0|:tuhans0ista0 NUMERAL_pl|ela_100+ ;
 
 LEXICON NUMERAL_pl|ela_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+pl+ela00:kymmen00000000000istä CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+pl+ela00:kymp0e000000000istä CLITIC_FRONT ;
 
 LEXICON NUMERAL_pl|ela_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+pl+ela00:sado000000000ista CLITIC_BACK ;
@@ -834,6 +840,7 @@ tuha0t00ta0|:tuhans0ina00 NUMERAL_pl|ess_100+ ;
 
 LEXICON NUMERAL_pl|ess_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+pl+ess0:kymmen00000000000inä CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+pl+ess0:kymppe000000000inä CLITIC_FRONT ;
 
 LEXICON NUMERAL_pl|ess_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+pl+ess0:sato000000000ina CLITIC_BACK ;
@@ -963,6 +970,7 @@ tuha0t00ta0|:tuhans0ien00 NUMERAL_pl|gen_100+ ;
 LEXICON NUMERAL_pl|gen_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+pl0+gen:kymmen00000000000ten CLITIC_FRONT ;
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+pl0+gen:kymmen00000000000ien CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+pl0+gen:kympp0000000000ien CLITIC_FRONT ;
 
 LEXICON NUMERAL_pl|gen_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+pl0+gen:sato000000000jen CLITIC_BACK ;
@@ -1169,6 +1177,7 @@ tuha0t00ta0|:tuhans0iin00 NUMERAL_pl|ill_100+ ;
 
 LEXICON NUMERAL_pl|ill_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+pl+ill0:kymmen00000000000iin CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+pl+ill00:kymppe000000000ihin CLITIC_FRONT ;
 
 LEXICON NUMERAL_pl|ill_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+pl+ill00:sato000000000ihin CLITIC_BACK ;
@@ -1289,6 +1298,7 @@ tuha0t00ta0|:tuhans0issa0 NUMERAL_pl|ine_100+ ;
 
 LEXICON NUMERAL_pl|ine_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+pl+ine00:kymmen00000000000issä CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+pl+ine00:kymp0e000000000issä CLITIC_FRONT ;
 
 LEXICON NUMERAL_pl|ine_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+pl+ine00:sado000000000issa CLITIC_BACK ;
@@ -1409,6 +1419,7 @@ tuha0t00ta0|:tuhans0in000 NUMERAL_pl|ins_100+ ;
 
 LEXICON NUMERAL_pl|ins_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+pl+ins:kymmen00000000000in CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+pl+ins:kymp0e000000000in CLITIC_FRONT ;
 
 LEXICON NUMERAL_pl|ins_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+pl+ins:sado000000000in CLITIC_BACK ;
@@ -1529,6 +1540,7 @@ tuha0t00ta0|:tuhannet0000 NUMERAL_pl|nom_100+ ;
 
 LEXICON NUMERAL_pl|nom_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+pl+nom:kymmene0000000000t0 CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+pl+nom:kymp0i000000000t0 CLITIC_FRONT ;
 
 LEXICON NUMERAL_pl|nom_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+pl+nom:sada000000000t0 CLITIC_BACK ;
@@ -1649,6 +1661,7 @@ tuha0t00ta0|:tuhans0ia000 NUMERAL_pl|par_100+ ;
 
 LEXICON NUMERAL_pl|par_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+pl+par:kymmen00000000000iä CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+pl+par:kymppe000000000jä CLITIC_FRONT ;
 
 LEXICON NUMERAL_pl|par_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+pl+par:sato000000000ja CLITIC_BACK ;
@@ -1769,6 +1782,7 @@ tuha0t00ta0|:tuhans0iksi0 NUMERAL_pl|tra_100+ ;
 
 LEXICON NUMERAL_pl|tra_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+pl+tra00:kymmen00000000000iksi CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+pl+tra00:kymp0e000000000iksi CLITIC_FRONT ;
 
 LEXICON NUMERAL_pl|tra_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+pl+tra00:sado000000000iksi CLITIC_BACK ;
@@ -1889,6 +1903,7 @@ tuha0t00ta0|:tuhanne0tta0 NUMERAL_sg|abe_100+ ;
 
 LEXICON NUMERAL_sg|abe_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+sg+abe00:kymmene00000000000ttä CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+sg+abe00:kymp0i0000000000ttä CLITIC_FRONT ;
 
 LEXICON NUMERAL_sg|abe_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+sg+abe00:sada0000000000tta CLITIC_BACK ;
@@ -2009,6 +2024,7 @@ tuha0t00ta0|:tuhanne0lta0 NUMERAL_sg|abl_100+ ;
 
 LEXICON NUMERAL_sg|abl_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+sg+abl00:kymmene00000000000ltä CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+sg+abl00:kymp0i0000000000ltä CLITIC_FRONT ;
 
 LEXICON NUMERAL_sg|abl_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+sg+abl00:sada0000000000lta CLITIC_BACK ;
@@ -2129,6 +2145,7 @@ tuha0t00ta0|:tuhanne0lla0 NUMERAL_sg|ade_100+ ;
 
 LEXICON NUMERAL_sg|ade_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+sg+ade00:kymmene00000000000llä CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+sg+ade00:kymp0i0000000000llä CLITIC_FRONT ;
 
 LEXICON NUMERAL_sg|ade_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+sg+ade00:sada0000000000lla CLITIC_BACK ;
@@ -2249,6 +2266,7 @@ tuha0t00ta0|:tuhanne0lle0 NUMERAL_sg|all_100+ ;
 
 LEXICON NUMERAL_sg|all_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+sg+all00:kymmene00000000000lle CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+sg+all00:kymp0i0000000000lle CLITIC_FRONT ;
 
 LEXICON NUMERAL_sg|all_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+sg+all00:sada0000000000lle CLITIC_BACK ;
@@ -2369,6 +2387,7 @@ tuha0t00ta0|:tuhanne0sta0 NUMERAL_sg|ela_100+ ;
 
 LEXICON NUMERAL_sg|ela_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+sg+ela00:kymmene00000000000stä CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+sg+ela00:kymp0i0000000000stä CLITIC_FRONT ;
 
 LEXICON NUMERAL_sg|ela_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+sg+ela00:sada0000000000sta CLITIC_BACK ;
@@ -2489,6 +2508,7 @@ tuha0t00ta0|:tuhante0na00 NUMERAL_sg|ess_100+ ;
 
 LEXICON NUMERAL_sg|ess_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+sg+ess0:kymmene00000000000nä CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+sg+ess0:kymppi0000000000nä CLITIC_FRONT ;
 
 LEXICON NUMERAL_sg|ess_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+sg+ess0:sata0000000000na CLITIC_BACK ;
@@ -2609,6 +2629,7 @@ tuha0t00ta0|:tuhanne0n000 NUMERAL_sg|gen_100+ ;
 
 LEXICON NUMERAL_sg|gen_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+sg+gen:kymmene00000000000n CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+sg+gen:kymp0i0000000000n CLITIC_FRONT ;
 
 LEXICON NUMERAL_sg|gen_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+sg+gen:sada0000000000n CLITIC_BACK ;
@@ -2729,6 +2750,7 @@ tuha0t00ta0|:tuhante0en00 NUMERAL_sg|ill_100+ ;
 
 LEXICON NUMERAL_sg|ill_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+sg+ill0:kymmene00000000000en CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+sg+ill0:kymppi0000000000in CLITIC_FRONT ;
 
 LEXICON NUMERAL_sg|ill_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+sg+ill0:sata0000000000an CLITIC_BACK ;
@@ -2849,6 +2871,7 @@ tuha0t00ta0|:tuhanne0ssa0 NUMERAL_sg|ine_100+ ;
 
 LEXICON NUMERAL_sg|ine_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+sg+ine00:kymmene00000000000ssä CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+sg+ine00:kymp0i0000000000ssä CLITIC_FRONT ;
 
 LEXICON NUMERAL_sg|ine_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+sg+ine00:sada0000000000ssa CLITIC_BACK ;
@@ -2969,6 +2992,7 @@ tuha0t00ta0|:tuha0t00ta00 NUMERAL_sg|nom_100+ ;
 
 LEXICON NUMERAL_sg|nom_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+sg+nom:kymmen000tä00000000 CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+sg+nom:kymppi0ä000000000 CLITIC_FRONT ;
 
 LEXICON NUMERAL_sg|nom_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+sg+nom:sata0a000000000 CLITIC_BACK ;
@@ -3089,6 +3113,7 @@ tuha0t00ta0|:tuha0t00ta00 NUMERAL_sg|par_100+ ;
 
 LEXICON NUMERAL_sg|par_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+sg+par0:kymmen000000000000tä CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+sg+par:kymppi0000000000ä CLITIC_FRONT ;
 
 LEXICON NUMERAL_sg|par_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+sg+par:sata0000000000a CLITIC_BACK ;
@@ -3209,6 +3234,7 @@ tuha0t00ta0|:tuhanne0ksi0 NUMERAL_sg|tra_100+ ;
 
 LEXICON NUMERAL_sg|tra_x10f
 kymmen000tä0^TAB^numeral^TAB^TAB^TAB+sg+tra00:kymmene00000000000ksi CLITIC_FRONT ;
+kymppi0ä00^TAB^numeral^TAB^TAB^TAB+sg+tra00:kymp0i0000000000ksi CLITIC_FRONT ;
 
 LEXICON NUMERAL_sg|tra_x100f
 sata0a00^TAB^numeral^TAB^TAB^TAB+sg+tra00:sada0000000000ksi CLITIC_BACK ;

@@ -1261,5 +1261,20 @@
   ],
   "alempiarvoisiaan": [
     ["alempi|arvoinen", "adjective", "+pl+par+poss3"]
+  ],
+  "pienempiään": [
+    ["pieni", "adjective", "+comparative+pl+par+poss3"]
+  ],
+  "vajaamielistä": [
+    ["vajaa|mielinen", "adjective", "+sg+par"]
+  ],
+  "valtamerellä": [
+    ["valta|meri", "noun", "+sg+ade"]
+  ],
+  "valtamerta": [
+    ["valta|meri", "noun", "+sg+par"]
+  ],
+  "kertoimen": [
+    ["kerroin", "noun", "+sg+gen"]
   ]
 }

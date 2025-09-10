@@ -147,8 +147,3 @@ if __name__ == '__main__':
 	for line in sys.stdin:
 		line = line.replace('&amp; ', '&').replace('&lt; ', '<').replace('&gt; ', '>')
 		print(tokenize(line), end="")
-
-
-
-
-
