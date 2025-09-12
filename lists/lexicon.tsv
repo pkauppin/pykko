@@ -66,7 +66,7 @@
 -	aiheellinen	-	adjective	38	-	back	-	-	-
 -	aiheeton	-	adjective	34	tt:t	back	-	-	-
 -	aika	-	adjective	!	-	back	-	-	-
--	aikainen	-	adjective	38	-	back	-	-	-
+-	aikainen	-	adjective	38	-	back	-	+poss	-
 -	aikaisempi	-	adjective	16	mp:mm	-	-	non-comparable	-
 -	aikava	-	adjective	10	-	back	-	-	-
 -	aikuinen	-	adjective	38	-	back	-	-	-
@@ -871,7 +871,7 @@
 -	ensyklopedinen	-	adjective	38	-	front|back	-	-	-
 -	enteellinen	-	adjective	38	-	front	-	-	-
 -	enteraalinen	-	adjective	38	-	-	-	-	-
--	entinen	-	adjective	38	-	front	-	-	-
+-	entinen	-	adjective	38	-	front	-	+poss	-
 -	entooppinen	-	adjective	38	-	-	-	-	-
 -	entsymaattinen	-	adjective	38	-	back	-	-	-
 -	entusiastinen	-	adjective	38	-	back	-	-	-
@@ -1482,7 +1482,7 @@
 -	himokas	-	adjective	41	kk:k	back	-	-	-
 -	hindulainen	-	adjective	38	-	back	-	-	-
 -	hinnakas	-	adjective	41	kk:k	back	-	-	-
--	hintainen	-	adjective	38	-	back	-	-	-
+-	hintainen	-	adjective	38	-	back	-	+poss	-
 -	hintava	-	adjective	10	-	back	-	-	-
 -	hintelä	-	adjective	10	-	front	-	-	-
 -	hiomaton	-	adjective	34	tt:t	back	-	-	-
@@ -2908,7 +2908,7 @@
 -	korkillinen	-	adjective	38	-	-	-	-	-
 -	korkkaamaton	-	adjective	34	tt:t	back	-	coll	-
 -	korkkinen	-	adjective	38	-	back	-	-	-
--	korkuinen	-	adjective	38	-	back	-	-	-
+-	korkuinen	-	adjective	38	-	back	-	+poss	-
 -	korni	-	adjective	5	-	back	-	slang	-
 -	korollinen	-	adjective	38	-	back	-	-	-
 -	koronaarinen	-	adjective	38	-	-	-	-	-
@@ -4527,7 +4527,7 @@
 -	oliguurinen	-	adjective	38	-	-	-	-	-
 -	olkaimellinen	-	adjective	38	-	back	-	-	-
 -	olkinen	-	adjective	38	-	back	-	-	-
--	oloinen	-	adjective	38	-	back	-	-	-
+-	oloinen	-	adjective	38	-	back	-	+poss	-
 -	olympialainen	-	adjective	38	-	-	-	rare	-
 -	olympolainen	-	adjective	38	-	back	-	poet	-
 -	oma	-	adjective	10	-	back	-	+poss|non-comparable	-
@@ -4633,7 +4633,6 @@
 -	ottava	-	adjective	10	-	back	-	-	-
 -	ottawalainen	-	adjective	38	-	-	-	-	-
 -	ouagadougoulainen	-	adjective	38	-	-	-	-	-
--	oudonlainen	-	adjective	38	-	-	-	-	-
 -	oulaislainen	-	adjective	38	-	-	-	-	-
 -	oulaistelainen	-	adjective	38	-	-	-	-	-
 -	oululainen	-	adjective	38	-	-	-	-	-
@@ -5727,7 +5726,6 @@
 -	rukiinen	-	adjective	38	-	back	-	-	-
 -	rullamainen	-	adjective	38	-	-	-	-	-
 -	ruma	-	adjective	10	-	back	-	-	-
--	rumanlainen	-	adjective	38	-	-	-	-	-
 -	runebergiläinen	-	adjective	38	-	front	-	-	-
 -	runollinen	-	adjective	38	-	back	-	-	-
 -	runoton	-	adjective	34	tt:t	back	-	-	-
@@ -5982,7 +5980,7 @@
 -	selkeä	-	adjective	15	-	front	-	-	-
 -	selkiintymätön	-	adjective	34	tt:t	-	-	-	-
 -	selkiytymätön	-	adjective	34	tt:t	front	-	-	-
--	sellainen	-	adjective	38	-	back	-	-	-
+-	sellainen	-	adjective	38	-	back	-	+poss	-
 -	sellistinen	-	adjective	38	-	front	-	-	-
 -	selvittämätön	-	adjective	34	tt:t	front	-	-	-
 -	selvä	-	adjective	10	-	front	-	-	-
@@ -7683,7 +7681,7 @@
 -	väkäsellinen	-	adjective	38	-	front	-	-	-
 -	välillinen	-	adjective	38	-	front	-	-	-
 -	välineellinen	-	adjective	38	-	front	-	-	-
--	välinen	-	adjective	38	-	front	-	-	-
+-	välinen	-	adjective	38	-	front	-	+poss	-
 -	välitön	-	adjective	34	tt:t	front	-	-	-
 -	väljä	-	adjective	10	-	front	-	-	-
 -	välkky	-	adjective	1	kk:k	front	-	coll	-
@@ -10993,11 +10991,11 @@
 -	nyhä|laitainen	-	adjective	38	-	-	-	-	-
 -	nykerö|nenäinen	-	adjective	38	-	-	-	-	-
 -	nykyisen|kaltainen	-	adjective	38	-	-	-	-	-
--	nykyisen|lainen	-	adjective	38	-	-	-	-	-
+-	nykyisen|lainen	-	adjective	38	-	-	-	+poss	-
 -	nyky|aikainen	-	adjective	38	-	-	-	-	-
 -	nyky|hetkinen	-	adjective	38	-	-	-	-	-
 -	nyky|kielinen	-	adjective	38	-	-	-	-	-
--	nyky|muotoinen	-	adjective	38	-	-	-	-	-
+-	nyky|muotoinen	-	adjective	38	-	-	-	+poss	-
 -	nyky|suomalainen	-	adjective	38	-	-	-	-	-
 -	nyrkin|kokoinen	-	adjective	38	-	-	-	-	-
 -	näkö|alaton	-	adjective	34	tt:t	-	-	-	-
@@ -11048,7 +11046,7 @@
 -	olympia|kelpoinen	-	adjective	38	-	-	-	-	-
 -	oman|kielinen	-	adjective	38	-	-	-	-	-
 -	oman|lainen	-	adjective	38	-	-	-	+poss	-
--	oman|näköinen	-	adjective	38	-	-	-	stacked	-
+-	oman|näköinen	-	adjective	38	-	-	-	stacked|+poss	-
 -	oma|ehtoinen	-	adjective	38	-	-	-	-	-
 -	oma|harkintainen	-	adjective	38	-	-	-	-	-
 -	oma|hyväinen	-	adjective	38	-	-	-	-	-
@@ -11111,6 +11109,7 @@
 -	osto|voimainen	-	adjective	38	-	-	-	-	-
 -	osuus|kunnallinen	-	adjective	38	-	-	-	-	-
 -	osuus|toiminnallinen	-	adjective	38	-	-	-	-	-
+-	oudon|lainen	-	adjective	38	-	-	-	-	-
 -	oudon|makuinen	-	adjective	38	-	-	-	stacked	-
 -	oudon|näköinen	-	adjective	38	-	-	-	stacked	-
 -	oulu|jokelainen	-	adjective	38	-	-	-	-	-
@@ -11941,6 +11940,7 @@
 -	roteva|tekoinen	-	adjective	38	-	-	-	stacked	-
 -	rotu|puhdas	-	adjective	41	t:d	-	-	-	-
 -	rubiinin|punainen	-	adjective	38	-	-	-	-	-
+-	ruman|lainen	-	adjective	38	-	-	-	-	-
 -	ruman|näköinen	-	adjective	38	-	-	-	stacked	-
 -	ruman|värinen	-	adjective	38	-	-	-	stacked	-
 -	ruma|piirteinen	-	adjective	38	-	-	-	stacked	-
