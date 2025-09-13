@@ -194,6 +194,7 @@
 -	Band	-	noun	5	-	-	-	foreign	-
 -	Bank	-	noun	5	-	-	-	foreign	-
 -	Baptist	-	noun	5	-	-	-	foreign	-
+-	Bar	-	noun	5	-	-	-	foreign	-
 -	Basket	-	noun	5	-	-	-	foreign	-
 -	Battle	-	noun	8	-	-	-	foreign	-
 -	Bay	-	noun	21	-	front|back	i|y	foreign	-
@@ -228,6 +229,7 @@
 -	Box	-	noun	5	-	-	-	foreign	-
 -	Boxer	-	noun	6	-	-	-	foreign	-
 -	Boxing	-	noun	5	-	-	-	foreign	-
+-	Boy	-	noun	21	-	-	i|y	foreign	-
 -	Boys	-	noun	5	-	-	-	foreign	-
 -	Brain	-	noun	5	-	-	-	foreign	-
 -	Branch	-	noun	5	-	-	-	foreign	-
@@ -340,7 +342,7 @@
 -	Creek	-	noun	5	-	-	-	foreign	-
 -	Crimson	-	noun	6	-	-	-	foreign	-
 -	Crown	-	noun	5	-	-	-	foreign	-
--	Cry	-	noun	21	-	-	-	foreign	-
+-	Cry	-	noun	21	-	-	i|y	foreign	-
 -	Crystal	-	noun	6	-	-	-	foreign	-
 -	Crème	-	noun	8	-	-	-	foreign	-
 -	Cube	-	noun	8	-	-	-	foreign	-
@@ -402,6 +404,7 @@
 -	Dream	-	noun	5	-	-	-	foreign	-
 -	Dreams	-	noun	5	-	-	-	foreign	-
 -	Drink	-	noun	5	-	-	-	foreign	-
+-	Drive	-	noun	8	-	-	-	foreign	-
 -	Duck	-	noun	5	-	-	-	foreign	-
 -	Ducks	-	noun	5	-	-	-	foreign	-
 -	Dukkah	-	noun	22|5	-	-	-	foreign	-
@@ -436,6 +439,8 @@
 -	England	-	noun	5	-	-	-	foreign	-
 -	English	-	noun	5	-	-	-	foreign	-
 -	Enter	-	noun	6	-	-	-	foreign	-
+-	Enterprise	-	noun	8	-	-	-	foreign	-
+-	Enterprises	-	noun	5	-	-	-	foreign	-
 -	Entertainment	-	noun	5	-	-	-	foreign	-
 -	Epic	-	noun	5	-	-	-	foreign	-
 -	Episode	-	noun	8	-	-	-	foreign	-
@@ -520,6 +525,7 @@
 -	Fund	-	noun	5	-	-	-	foreign	-
 -	Future	-	noun	8	-	-	-	foreign	-
 -	Fédération	-	noun	5	-	-	-	foreign	-
+-	Führer	-	noun	6	-	-	-	foreign	-
 -	Game	-	noun	8	-	-	-	foreign	-
 -	Gamer	-	noun	6	-	-	-	foreign	-
 -	Games	-	noun	5	-	-	-	foreign	-
@@ -563,6 +569,7 @@
 -	Hardcore	-	noun	8	-	-	-	foreign	-
 -	Hardware	-	noun	8	-	-	-	foreign	-
 -	Harmony	-	noun	2	-	-	-	foreign	-
+-	Haunted	-	noun	5	-	-	-	foreign	-
 -	Haus	-	noun	5	-	-	-	foreign	-
 -	Hawk	-	noun	5	-	-	-	foreign	-
 -	Health	-	noun	5	-	-	-	foreign	-
@@ -574,6 +581,7 @@
 -	Here	-	noun	8	-	-	-	foreign	-
 -	Hero	-	noun	1	-	-	-	foreign	-
 -	Heroes	-	noun	5	-	-	-	foreign	-
+-	Herr	-	noun	5	-	-	-	foreign	-
 -	Hidden	-	noun	6	-	-	-	foreign	-
 -	High	-	noun	5	-	-	-	foreign	-
 -	Hill	-	noun	5	-	-	-	foreign	-
@@ -691,6 +699,7 @@
 -	Lost	-	noun	5	-	-	-	foreign	-
 -	Love	-	noun	8	-	-	-	foreign	-
 -	Ltd.	-	noun	XX	-	-	-	abbr|foreign	-
+-	Lucky	-	noun	1	-	-	-	foreign	-
 -	Lugn	-	noun	5	-	-	-	foreign	-
 -	Lunar	-	noun	6	-	-	-	foreign	-
 -	Lunch	-	noun	5	-	-	-	foreign	-
@@ -968,6 +977,7 @@
 -	Russian	-	noun	6	-	-	-	foreign	-
 -	Sabbath	-	noun	5	-	-	-	foreign	-
 -	Sabres	-	noun	5	-	-	-	foreign	-
+-	Sacred	-	noun	5	-	-	-	foreign	-
 -	Safety	-	noun	1	-	front|back	-	foreign	-
 -	Saffron	-	noun	6	-	-	-	foreign	-
 -	Saga	-	noun	9	-	-	-	foreign	-
@@ -1146,6 +1156,7 @@
 -	Tree	-	noun	21	-	-	-	foreign	-
 -	Triangle	-	noun	8	-	-	-	foreign	-
 -	Trillion	-	noun	5	-	-	-	foreign	-
+-	Trinity	-	noun	1	-	-	-	foreign	-
 -	True	-	noun	8	-	-	-	foreign	-
 -	Trust	-	noun	5	-	-	-	foreign	-
 -	Tuesday	-	noun	21	-	front|back	i|y	foreign	-
@@ -1183,6 +1194,7 @@
 -	Visit	-	noun	5	-	-	-	foreign	-
 -	Volley	-	noun	21	-	front|back	i|y	foreign	-
 -	Volume	-	noun	8	-	-	-	foreign	-
+-	Walk	-	noun	5	-	-	-	foreign	-
 -	Walking	-	noun	5	-	-	-	foreign	-
 -	War	-	noun	5	-	-	-	foreign	-
 -	Warrior	-	noun	5	-	-	-	foreign	-
@@ -1228,6 +1240,7 @@
 -	Yellow	-	noun	5	-	-	-	foreign	-
 -	You	-	noun	21	-	-	-	foreign	-
 -	Zeitung	-	noun	5	-	-	-	foreign	-
+-	Zentrum	-	noun	5	-	-	-	foreign	-
 -	Zero	-	noun	1	-	-	-	foreign	-
 -	Zion	-	noun	5	-	-	-	foreign	-
 -	Zombie	-	noun	8|21	-	-	-	foreign	-

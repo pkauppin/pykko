@@ -942,7 +942,8 @@
     ["sanova", "participle", "+sg+gen"]
   ],
   "sellaisenaan": [
-    ["sellaisenaan", "adverb", ""]
+    ["sellaisenaan", "adverb", ""],
+	["sellainen", "adjective", "+sg+ess+poss3"]
   ],
   "suunnatun": [
     ["suunnata", "verb", "+pass+part_past+sg+gen"],
@@ -1276,5 +1277,11 @@
   ],
   "kertoimen": [
     ["kerroin", "noun", "+sg+gen"]
+  ],
+  "tullessamme": [
+    ["tulla", "verb", "+inf2+ine+poss1pl"]
+  ],
+  "ollessamme": [
+    ["olla", "verb", "+inf2+ine+poss1pl"]
   ]
 }

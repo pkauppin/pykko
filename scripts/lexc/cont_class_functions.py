@@ -178,6 +178,8 @@ def verb_cont_class(lemma, pairs, morphtag, harmony=None):
 	harmony = determine_wordform_harmony(wordform, harmony).upper()
 	tags = get_tags(morphtag)
 
+	# print(lemma, wordform)
+
 	if lemma == 'ei' and 'imper' in morphtag:
 		return [(pairs, f'CLIT_ÄLÄ')]
 	if lemma == 'ei':

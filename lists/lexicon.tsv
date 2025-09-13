@@ -10205,6 +10205,7 @@
 -	liberaali|demokraattinen	-	adjective	38	-	-	-	-	-
 -	lieju|pohjainen	-	adjective	38	-	-	-	-	-
 -	liettuan|kielinen	-	adjective	38	-	-	-	-	-
+-	lievä|oireinen	-	adjective	38	-	-	-	-	-
 -	lihaksen|sisäinen	-	adjective	38	-	-	-	-	-
 -	liha|pitoinen	-	adjective	38	-	-	-	-	-
 -	liidun|valkea	-	adjective	15	-	-	-	-	-
@@ -21839,6 +21840,7 @@
 -	vrt.	-	none	-	-	-	-	abbr	-
 -	vs.	-	none	-	-	-	-	abbr	-
 -	vt.	-	none	-	-	-	-	abbr	-
+-	walk in	-	none	-	-	-	-	foreign	-
 -	xD	-	none	-	-	-	-	abbr	-
 -	yks.	-	none	-	-	-	-	abbr	-
 -	ym.	-	none	-	-	-	-	abbr	-
@@ -21884,6 +21886,7 @@
 -	≥	-	none	-	-	-	-	-	-
 -	:-(	-	none	-	-	-	-	-	-
 -	:-)	-	none	-	-	-	-	-	-
+-	walk-in	-	none	-	-	-	-	foreign	-
 -	-_-	-	none	-	-	-	-	-	-
 -	back-to-back	-	none	-	-	-	-	foreign	-
 -	business-to-business	-	none	-	-	-	-	foreign	-
@@ -28115,6 +28118,7 @@
 -	housu	-	noun	1	-	-	-	rare	-
 -	houtskarilainen	-	noun	38	-	-	-	-	-
 -	hovi	-	noun	5	-	back	-	-	-
+-	hra	-	noun	!	-	-	-	abbr	-
 -	html	-	noun	10B	-	-	-	abbr	-
 -	huge	-	noun	8	-	-	-	slang|dated	-
 -	hugenotti	-	noun	5	tt:t	back	-	-	-
@@ -35236,7 +35240,7 @@
 -	lomittaja	-	noun	10	-	back	-	-	-
 -	lomitus	-	noun	39	-	back	-	-	-
 -	lommo	-	noun	1	-	back	-	-	-
--	lommol	-	noun	?49|5	-	-	-	dial|toponymy	1.000
+-	lommol	-	noun	49|5	-	-	-	dial|toponymy	1.000
 -	lompakko	-	noun	4	kk:k	back	-	-	-
 -	lompola	-	noun	12	-	-	-	dial|toponymy	1.000
 -	lompolo	-	noun	2	-	-	-	dial|toponymy	1.000
@@ -36588,7 +36592,7 @@
 -	mettinen	-	noun	38	-	front	-	dial|poet	-
 -	metvursti	-	noun	5	-	back	-	-	-
 -	metyyli	-	noun	6	-	-	-	-	-
--	meze	-	noun	8|?21	-	-	-	-	-
+-	meze	-	noun	8|21	-	-	-	-	-
 -	mezuza	-	noun	10	-	-	-	-	-
 -	mezzoforte	-	noun	8	-	-	-	-	-
 -	mezzopiano	-	noun	1	-	-	-	-	-
@@ -36943,6 +36947,7 @@
 -	monotonisuus	-	noun	40	-	back	-	-	-
 -	monotypia	-	noun	12	-	back	-	-	-
 -	monrovialainen	-	noun	38	-	-	-	-	-
+-	monsieur	-	noun	22|5	-	-	-	foreign	-
 -	monsteri	-	noun	6	-	back	-	coll	-
 -	monstranssi	-	noun	5	-	-	-	-	-
 -	monstrumi	-	noun	5	-	back	-	-	-
@@ -38240,6 +38245,7 @@
 -	noviteetti	-	noun	5	tt:t	-	-	-	-
 -	novum	-	noun	5	-	-	-	foreign	-
 -	nro	-	noun	1B	-	-	o	abbr	-
+-	nti	-	noun	!	-	-	-	abbr	-
 -	nudismi	-	noun	5	-	back	-	-	-
 -	nudisti	-	noun	5	-	back	-	-	-
 -	nuer	-	noun	6	-	-	-	-	-
@@ -42559,6 +42565,7 @@
 -	repliikki	-	noun	5	kk:k	front	-	-	-
 -	replika	-	noun	13	-	back	-	-	-
 -	replikaatio	-	noun	3	-	-	-	-	-
+-	replikaattori	-	noun	6	-	-	-	-	-
 -	replikointi	-	noun	5	nt:nn	back	-	-	-
 -	repo	-	noun	1	p:v	back	-	-	-
 -	repolainen	-	noun	38	-	back	-	-	-
@@ -43173,6 +43180,7 @@
 -	rundi	-	noun	5	-	back	-	slang	-
 -	runkkari	-	noun	6	-	back	-	vulg	-
 -	runkkaus	-	noun	39	-	back	-	coll	-
+-	runkku	-	noun	1	kk:k	-	-	-	-
 -	runko	-	noun	1	nk:ng	back	-	-	-
 -	runo	-	noun	1	-	back	-	-	-
 -	runoelma	-	noun	10	-	back	-	-	-
@@ -43310,6 +43318,7 @@
 -	ruuvari	-	noun	6	-	-	-	coll|slang	-
 -	ruuvi	-	noun	5	-	back	-	-	-
 -	ruvettuma	-	noun	10	-	back	-	-	-
+-	rva	-	noun	!	-	-	-	abbr	-
 -	rwa	-	noun	21	-	-	-	-	-
 -	ry	-	noun	18B	-	-	y	abbr	-
 -	ryhdikkyys	-	noun	40	-	front	-	-	-
@@ -43802,7 +43811,7 @@
 -	samizdat	-	noun	5	-	-	-	foreign	-
 -	sammakko	-	noun	4	kk:k	back	-	-	-
 -	sammal	-	noun	49	-	back	-	-	-
--	sammale	-	noun	49b	-	-	-	rare|dubious	1.000
+-	sammale	-	noun	49b	-	-	-	rare	1.000
 -	sammalikko	-	noun	4	kk:k	back	-	-	-
 -	sammalisto	-	noun	1	-	back	-	-	-
 -	sammallus	-	noun	39	-	back	-	-	-
@@ -51732,6 +51741,7 @@
 -	korkea-aste	-	noun	48	-	-	-	-	-
 -	korko-ompelu	-	noun	2	-	-	-	-	-
 -	korona-aika	-	noun	9	ik:j	-	-	-	-
+-	korona-altistuminen	-	noun	38	-	-	-	-	-
 -	korpi-imarre	-	noun	48	rt:rr	-	-	-	-
 -	korva-aukko	-	noun	1	kk:k	-	-	-	-
 -	kos-salaatti	-	noun	5	tt:t	-	-	-	-
@@ -122545,6 +122555,7 @@
 -	eko|betonoida	-	verb	62	-	-	-	-	-
 -	elin|kelpoistaa	-	verb	53	-	-	-	-	-
 -	elo|kuvata	-	verb	73	-	-	-	-	-
+-	ennakko|äänestää	-	verb	53	-	-	-	-	-
 -	ennalta|ehkäistä	-	verb	66	-	-	-	-	-
 -	ensi|esittää	-	verb	53	tt:t	-	-	-	-
 -	ensi|sijaistaa	-	verb	53	-	-	-	-	-

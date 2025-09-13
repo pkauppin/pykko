@@ -1815,6 +1815,7 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 		[lukea] = all_forms['inf1']
 		luke = lukea[:-1]
 		luki = luke[:-1] + 'i' if luke.endswith('e') else luke
+		a, _, _, _, _, _ = HARMONY_MAPPING[determine_wordform_harmony(luki)]
 		all_forms['inf1|tra'] = [f'{lukea}kseen']
 		all_forms['inf2|ins'] = [f'{luki}en']
 		all_forms['inf2|ine'] = [f'{luki}ess{a}']
@@ -1836,6 +1837,7 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 			all_forms[f'past|2pl{style}'] += [f"{jaoi}tte"]
 
 		for jakak in [f[:-3] for f in all_forms[f'imper|3sg{style}']]:
+			a, o, _, aa, oo, _ = HARMONY_MAPPING[determine_wordform_harmony(jakak)]
 			all_forms[f'imper|2pl{style}'] += [f"{jakak}{aa}"]
 			all_forms[f'imper|3pl{style}'] += [f"{jakak}{oo}t"]
 			all_forms[f'imper|1pl'] = [f"{jakak}{aa}mme"]
@@ -1846,6 +1848,7 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 			all_forms[f'imper|3sg|conneg'] = [f"{jakak}{o}"]
 
 		for jaeta in [f[:-2] for f in all_forms[f'pass|pres{style}']]:
+			a, _, _, _, _, _ = HARMONY_MAPPING[determine_wordform_harmony(jaeta)]
 			all_forms[f'pass|pres{style}'] += [f"{jaeta}{a}n"]
 			all_forms[f'pass|pres|conneg{style}'] += [f"{jaeta}"]
 
@@ -2080,9 +2083,9 @@ def inflect(word, pos, kotus_class=None, gradation=None, harmony=None, vowel=Non
 """
 from pprint import pprint
 
-for line in ---.strip().split('\n'):
-	row = ['' if val == '-' else val for val in line.split('\t')]
-	_, lemma, _, pos, inflclass, grad = row[:6]
-	pprint(inflect(lemma, pos, inflclass, grad))
-	print()
+line = "-	olla	-	verb	67	-	variable	-	-	-"
+row = ['' if val == '-' else val for val in line.split('\t')]
+_, lemma, _, pos, inflclass, grad, harmony = row[:7]
+pprint(inflect(lemma, pos, inflclass, grad))
+print()
 """

@@ -183,6 +183,9 @@ def derive_action_noun(inflections):
 
 def derive_agent_noun(inflections):
 
+	if inflections['@base'] == ['olla']:
+		return ['olija']
+
 	result = []
 	for kulkevat in inflections.get('pres|3pl', []) + inflections.get('pres|3pl|rare', []):
 		a = kulkevat[-2]
