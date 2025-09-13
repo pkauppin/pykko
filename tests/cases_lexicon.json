@@ -1283,5 +1283,21 @@
   ],
   "ollessamme": [
     ["olla", "verb", "+inf2+ine+poss1pl"]
+  ],
+  "kaikkine": [
+    ["kaikki", "pronoun", "+pl+com"]
+  ],
+  "kaikkineen": [
+    ["kaikki", "pronoun", "+pl+com+poss3"],
+    ["kaikkineen", "adverb", "+poss3"]
+  ],
+  "minunlaiselleni": [
+    ["minun|laiseni", "adjective", "+sg+all"]
+  ],
+  "sinunlaisellesi": [
+    ["sinun|laisesi", "adjective", "+sg+all"]
+  ],
+  "hänenlaiselleen": [
+    ["hänen|laisensa", "adjective", "+sg+all"]
   ]
 }

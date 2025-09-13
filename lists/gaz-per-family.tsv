@@ -1,45 +1,3 @@
--	Barnett	-	proper	5	-	-	-	-	-
--	Beckett	-	proper	5	-	-	-	-	-
--	Bishop	-	proper	5	-	-	-	-	-
--	Bly	-	proper	21	-	front|back	i|y	-	-
--	Bond	-	proper	5	-	-	-	-	-
--	Bristow	-	proper	22|†5	-	-	u	-	-
--	Casey	-	proper	21	-	front|back	i|y	-	-
--	Chandler	-	proper	?6	-	-	-	-	-
--	Chester	-	proper	?6	-	-	-	-	-
--	Cole	-	proper	8	-	-	-	-	-
--	Colt	-	proper	5	-	-	-	-	-
--	Corleone	-	proper	8	-	-	-	-	-
--	Earl	-	proper	5	-	-	-	-	-
--	Fry	-	proper	21	-	front|back	i|y	-	-
--	Garibaldi	-	proper	5	-	-	-	-	-
--	Göring	-	proper	5	-	-	-	-	-
--	Hammond	-	proper	5	-	-	-	-	-
--	Hart	-	proper	5	-	-	-	-	-
--	Joyce	-	proper	8	-	-	-	-	-
--	Kinsey	-	proper	21	-	-	i|y	-	-
--	Kirk	-	proper	5	-	-	-	-	-
--	Kramer	-	proper	6	-	-	-	-	-
--	Kuier	-	proper	5	-	-	-	-	-
--	Käsmä	-	proper	10	-	-	-	-	-
--	MacGyver	-	proper	6	-	-	-	-	-
--	Mahoney	-	proper	21	-	front|back	i|y	-	-
--	McClane	-	proper	8	-	-	-	-	-
--	McKay	-	proper	21	-	front|back	i|y	-	-
--	O’Neill	-	proper	5	-	-	-	-	-
--	Potter	-	proper	6	-	-	-	-	-
--	Reppuli	-	proper	6	-	-	-	-	-
--	Scully	-	proper	1	-	-	-	-	-
--	Sheppard	-	proper	5	-	-	-	-	-
--	Sherman	-	proper	5	-	-	-	-	-
--	Sinclair	-	proper	5	-	-	-	-	-
--	Skinner	-	proper	6	-	-	-	-	-
--	Sloane	-	proper	8	-	-	-	-	-
--	Spencer	-	proper	6	-	-	-	-	-
--	Wallace	-	proper	8	-	-	-	-	-
--	Walsh	-	proper	5	-	-	-	-	-
--	Weir	-	proper	5	-	-	-	-	-
--	Willow	-	proper	22|†5	-	-	u	-	-
 -	Aaltio	-	proper	3	-	-	-	-	-
 -	Aalto	-	proper	1	lt:ll	-	-	-	-
 -	Aaltola	-	proper	12	-	-	-	-	-
@@ -263,6 +221,7 @@
 -	Barker	-	proper	6	-	-	-	-	-
 -	Barkov	-	proper	5	-	-	-	-	-
 -	Barnes	-	proper	39	-	-	-	-	-
+-	Barnett	-	proper	5	-	-	-	-	-
 -	Barnier	-	proper	22|5	-	-	-	-	-
 -	Barrett	-	proper	5	-	-	-	-	-
 -	Barrière	-	proper	8	-	-	-	-	-
@@ -285,6 +244,7 @@
 -	Beckenbauer	-	proper	6	-	-	-	-	-
 -	Becker	-	proper	6	-	-	-	-	-
 -	Becket	-	proper	5	-	-	-	-	-
+-	Beckett	-	proper	5	-	-	-	-	-
 -	Beckham	-	proper	5	-	-	-	-	-
 -	Becquerel	-	proper	5	-	-	-	-	-
 -	Bedford	-	proper	5	-	-	-	-	-
@@ -358,6 +318,7 @@
 -	Birjukov	-	proper	5	-	-	-	-	-
 -	Birkeland	-	proper	5	-	-	-	-	-
 -	Birn	-	proper	5	-	-	-	-	-
+-	Bishop	-	proper	5	-	-	-	-	-
 -	Bjarnason	-	proper	5	-	-	-	-	-
 -	Björk	-	proper	5	-	-	-	-	-
 -	Björkenheim	-	proper	5	-	-	-	-	-
@@ -379,6 +340,7 @@
 -	Blomberg	-	proper	5	-	-	-	-	-
 -	Blomqvist	-	proper	5	-	-	-	-	-
 -	Blomstedt	-	proper	5	-	-	-	-	-
+-	Bly	-	proper	21	-	front|back	i|y	-	-
 -	Blåfield	-	proper	5	-	-	-	-	-
 -	Bobrikov	-	proper	5	-	-	-	-	-
 -	Bobrovski	-	proper	5	-	-	-	-	-
@@ -404,6 +366,7 @@
 -	Bolívar	-	proper	5	-	-	-	-	-
 -	Bolšunov	-	proper	5	-	-	-	-	-
 -	Boman	-	proper	5	-	-	-	-	-
+-	Bond	-	proper	5	-	-	-	-	-
 -	Bondarenko	-	proper	1	-	-	-	-	-
 -	Bondartšuk	-	proper	5	-	-	-	-	-
 -	Bonet	-	proper	22|†5	-	-	-	-	-
@@ -447,6 +410,7 @@
 -	Breton	-	proper	6	-	-	-	-	-
 -	Brežnev	-	proper	5	-	-	-	-	-
 -	Briand	-	proper	5	-	-	-	-	-
+-	Bristow	-	proper	22|†5	-	-	u	-	-
 -	Broas	-	proper	39	-	-	-	-	-
 -	Broberg	-	proper	5	-	-	-	-	-
 -	Broch	-	proper	5	-	-	-	-	-
@@ -527,6 +491,7 @@
 -	Carvalho	-	proper	1	-	-	-	-	-
 -	Casaca	-	proper	9	-	-	-	-	-
 -	Casagrande	-	proper	8	-	-	-	-	-
+-	Casey	-	proper	21	-	front|back	i|y	-	-
 -	Cash	-	proper	5	-	-	-	-	-
 -	Castillejo	-	proper	1	-	-	-	-	-
 -	Castillo	-	proper	1	-	-	-	-	-
@@ -548,11 +513,13 @@
 -	Chamberlain	-	proper	5	-	-	-	-	-
 -	Chambers	-	proper	5	-	-	-	-	-
 -	Chan	-	proper	5	-	-	-	-	-
+-	Chandler	-	proper	?6	-	-	-	-	-
 -	Chang	-	proper	5	-	-	-	-	-
 -	Chaplin	-	proper	5	-	-	-	-	-
 -	Chapman	-	proper	5	-	-	-	-	-
 -	Charpentier	-	proper	22|†5	-	-	-	-	-
 -	Chen	-	proper	5	-	-	-	-	-
+-	Chester	-	proper	?6	-	-	-	-	-
 -	Chiba	-	proper	9	-	-	-	-	-
 -	Chiesa	-	proper	9	-	-	-	-	-
 -	Chirac	-	proper	5	-	-	-	-	-
@@ -578,6 +545,7 @@
 -	Coelho	-	proper	1	-	-	-	-	-
 -	Coen	-	proper	5	-	-	-	-	-
 -	Cohen	-	proper	6	-	-	-	-	-
+-	Cole	-	proper	8	-	-	-	-	-
 -	Coletti	-	proper	5	tt:t	-	-	-	-
 -	Collan	-	proper	5	-	-	-	-	-
 -	Colliander	-	proper	5	-	-	-	-	-
@@ -585,6 +553,7 @@
 -	Collins	-	proper	5	-	-	-	-	-
 -	Colman	-	proper	?6	-	-	-	-	-
 -	Colombo	-	proper	1	-	-	-	-	-
+-	Colt	-	proper	5	-	-	-	-	-
 -	Columbus	-	proper	39|5	-	-	-	-	-
 -	Constant	-	proper	5	-	-	-	-	-
 -	Conte	-	proper	8	-	-	-	-	-
@@ -595,6 +564,7 @@
 -	Corander	-	proper	5	-	-	-	-	-
 -	Corbett	-	proper	5	-	-	-	-	-
 -	Corbyn	-	proper	5	-	-	-	-	-
+-	Corleone	-	proper	8	-	-	-	-	-
 -	Cornet	-	proper	22|†5	-	-	-	-	-
 -	Corrie	-	proper	8|21	-	-	-	-	-
 -	Cortez	-	proper	5	-	-	-	-	-
@@ -698,6 +668,7 @@
 -	Díez	-	proper	5	-	-	-	-	-
 -	Dürr	-	proper	5	-	-	-	-	-
 -	Dąbrowski	-	proper	5	-	-	-	-	-
+-	Earl	-	proper	5	-	-	-	-	-
 -	Ebert	-	proper	5	-	-	-	-	-
 -	Edelfelt	-	proper	5	-	-	-	-	-
 -	Edelheim	-	proper	5	-	-	-	-	-
@@ -896,6 +867,7 @@
 -	Fromm	-	proper	5	-	-	-	-	-
 -	Frost	-	proper	5	-	-	-	-	-
 -	Frosterus	-	proper	39	-	-	-	-	-
+-	Fry	-	proper	21	-	front|back	i|y	-	-
 -	Fuchs	-	proper	5	-	-	-	-	-
 -	Fuente	-	proper	8	-	-	-	-	-
 -	Fujimoto	-	proper	1	-	-	-	-	-
@@ -932,6 +904,7 @@
 -	Garcia	-	proper	12	-	-	-	-	-
 -	García	-	proper	12	-	-	-	-	-
 -	Gardie	-	proper	8|21	-	-	-	-	-
+-	Garibaldi	-	proper	5	-	-	-	-	-
 -	Garitano	-	proper	2	-	-	-	-	-
 -	Gartz	-	proper	5	-	-	-	-	-
 -	Gasparin	-	proper	5	-	-	-	-	-
@@ -1054,6 +1027,7 @@
 -	Gábor	-	proper	?6	-	-	-	-	-
 -	Gómez	-	proper	5	-	-	-	-	-
 -	Göransson	-	proper	5	-	-	-	-	-
+-	Göring	-	proper	5	-	-	-	-	-
 -	Götz	-	proper	5	-	-	-	-	-
 -	Göös	-	proper	5	-	-	-	-	-
 -	Günther	-	proper	6	-	-	-	-	-
@@ -1122,6 +1096,7 @@
 -	Hamberg	-	proper	5	-	-	-	-	-
 -	Hamilton	-	proper	6	-	-	-	-	-
 -	Hammar	-	proper	?6	-	-	-	-	-
+-	Hammond	-	proper	5	-	-	-	-	-
 -	Hanhela	-	proper	13	-	-	-	-	-
 -	Hannikainen	-	proper	38	-	-	-	-	-
 -	Hanninen	-	proper	38	-	-	-	-	-
@@ -1151,6 +1126,7 @@
 -	Harrington	-	proper	?6	-	-	-	-	-
 -	Harris	-	proper	39	-	-	-	-	-
 -	Harrison	-	proper	?6	-	-	-	-	-
+-	Hart	-	proper	5	-	-	-	-	-
 -	Hartikainen	-	proper	38	-	-	-	-	-
 -	Hartikka	-	proper	14	kk:k	-	-	-	-
 -	Hartley	-	proper	21	-	front|back	i|y	-	-
@@ -1554,6 +1530,7 @@
 -	Jouhki	-	proper	5	-	-	-	-	-
 -	Jouppila	-	proper	13	-	-	-	-	-
 -	Joutsen	-	proper	?6	-	-	-	-	-
+-	Joyce	-	proper	8	-	-	-	-	-
 -	Juhola	-	proper	12	-	-	-	-	-
 -	Julin	-	proper	5	-	-	-	-	-
 -	Julku	-	proper	1	-	-	-	-	-
@@ -1772,10 +1749,12 @@
 -	Kinnunen	-	proper	38	-	-	-	-	-
 -	Kinoshita	-	proper	9	-	-	-	-	-
 -	Kinsella	-	proper	9	-	-	-	-	-
+-	Kinsey	-	proper	21	-	-	i|y	-	-
 -	Kiprusoff	-	proper	5	-	-	-	-	-
 -	Kirchhoff	-	proper	5	-	-	-	-	-
 -	Kirjavainen	-	proper	38	-	-	-	-	-
 -	Kirjonen	-	proper	38	-	-	-	-	-
+-	Kirk	-	proper	5	-	-	-	-	-
 -	Kirkhope	-	proper	8	-	-	-	-	-
 -	Kirves	-	proper	39	-	-	-	-	-
 -	Kishimoto	-	proper	1	-	-	-	-	-
@@ -1892,6 +1871,7 @@
 -	Košir	-	proper	5	-	-	-	-	-
 -	Kraemer	-	proper	6	-	-	-	-	-
 -	Krafft	-	proper	5	-	-	-	-	-
+-	Kramer	-	proper	6	-	-	-	-	-
 -	Kraus	-	proper	39|40	-	-	-	-	-
 -	Krause	-	proper	8	-	-	-	-	-
 -	Krejčí	-	proper	?21	-	-	-	-	-
@@ -1918,6 +1898,7 @@
 -	Kudō	-	proper	21|1	-	-	-	-	-
 -	Kuhlström	-	proper	5	-	-	-	-	-
 -	Kuhne	-	proper	8	-	-	-	-	-
+-	Kuier	-	proper	5	-	-	-	-	-
 -	Kuikka	-	proper	10	kk:k	-	-	-	-
 -	Kuipers	-	proper	5	-	-	-	-	-
 -	Kuisma	-	proper	10	-	-	-	-	-
@@ -1999,6 +1980,7 @@
 -	Kärnä	-	proper	10	-	-	-	-	-
 -	Kärppä	-	proper	10	pp:p	-	-	-	-
 -	Kärävä	-	proper	10	-	-	-	-	-
+-	Käsmä	-	proper	10	-	-	-	-	-
 -	Kätkä	-	proper	10	-	-	-	-	-
 -	Käyhkö	-	proper	?21	-	-	-	-	-
 -	Kääpä	-	proper	10	p:v	-	-	-	-
@@ -2289,6 +2271,7 @@
 -	Lőrincz	-	proper	5	-	-	-	-	-
 -	Ma	-	proper	21	-	-	-	-	-
 -	MacCormick	-	proper	5	-	-	-	-	-
+-	MacGyver	-	proper	6	-	-	-	-	-
 -	MacKinnon	-	proper	?6	-	-	-	-	-
 -	Machado	-	proper	1	-	-	-	-	-
 -	Macleod	-	proper	5	-	-	-	-	-
@@ -2304,6 +2287,7 @@
 -	Magritte	-	proper	8	-	-	-	-	-
 -	Mahler	-	proper	6	-	-	-	-	-
 -	Mahonen	-	proper	38	-	-	-	-	-
+-	Mahoney	-	proper	21	-	front|back	i|y	-	-
 -	Maier	-	proper	5	-	-	-	-	-
 -	Maijala	-	proper	12	-	-	-	-	-
 -	Maijanen	-	proper	38	-	-	-	-	-
@@ -2409,8 +2393,10 @@
 -	Mbeki	-	proper	5	-	-	-	-	-
 -	McCarthy	-	proper	1	-	-	-	-	-
 -	McCartney	-	proper	21	-	front|back	i|y	-	-
+-	McClane	-	proper	8	-	-	-	-	-
 -	McCoy	-	proper	21	-	-	i|y	-	-
 -	McDavid	-	proper	5	-	-	-	-	-
+-	McKay	-	proper	21	-	front|back	i|y	-	-
 -	McKee	-	proper	21	-	-	-	-	-
 -	McKenna	-	proper	9	-	-	-	-	-
 -	McKenzie	-	proper	8|21	-	-	-	-	-
@@ -2803,6 +2789,7 @@
 -	O’Bannon	-	proper	?6	-	-	-	-	-
 -	O’Brien	-	proper	5	-	-	-	-	-
 -	O’Connor	-	proper	?6	-	-	-	-	-
+-	O’Neill	-	proper	5	-	-	-	-	-
 -	O’Shaughnessy	-	proper	1	-	front|back	-	-	-
 -	O’Sullivan	-	proper	?6	-	-	-	-	-
 -	Paajanen	-	proper	38	-	-	-	-	-
@@ -2996,6 +2983,7 @@
 -	Postinen	-	proper	38	-	-	-	-	-
 -	Postma	-	proper	10	-	-	-	-	-
 -	Potkonen	-	proper	38	-	-	-	-	-
+-	Potter	-	proper	6	-	-	-	-	-
 -	Pottier	-	proper	22|†5	-	-	-	-	-
 -	Poulsen	-	proper	?6	-	-	-	-	-
 -	Poutanen	-	proper	38	-	-	-	-	-
@@ -3140,6 +3128,7 @@
 -	Renvall	-	proper	5	-	-	-	-	-
 -	Repo	-	proper	1	p:v	-	-	-	-
 -	Reponen	-	proper	38	-	-	-	-	-
+-	Reppuli	-	proper	6	-	-	-	-	-
 -	Reunanen	-	proper	38	-	-	-	-	-
 -	Reuter	-	proper	6	-	-	-	-	-
 -	Rey	-	proper	21	-	-	i|y	-	-
@@ -3407,6 +3396,7 @@
 -	Schäfer	-	proper	6	-	-	-	-	-
 -	Schüssel	-	proper	?6	-	-	-	-	-
 -	Scott	-	proper	5	-	-	-	-	-
+-	Scully	-	proper	1	-	-	-	-	-
 -	Sedlák	-	proper	5	-	-	-	-	-
 -	Segercrantz	-	proper	5	-	-	-	-	-
 -	Segerstam	-	proper	5	-	-	-	-	-
@@ -3428,7 +3418,9 @@
 -	Sharp	-	proper	5	-	-	-	-	-
 -	Shaw	-	proper	22|†5	-	-	o	-	-
 -	Sheeran	-	proper	6	-	-	-	-	-
+-	Sheppard	-	proper	5	-	-	-	-	-
 -	Sheridan	-	proper	?6	-	-	-	-	-
+-	Sherman	-	proper	5	-	-	-	-	-
 -	Sherwood	-	proper	5	-	-	-	-	-
 -	Shimizu	-	proper	1	-	-	-	-	-
 -	Sibelius	-	proper	39	-	-	-	-	-
@@ -3464,6 +3456,7 @@
 -	Simpson	-	proper	6	-	-	-	-	-
 -	Simula	-	proper	12	-	-	-	-	-
 -	Sinatra	-	proper	9	-	-	-	-	-
+-	Sinclair	-	proper	5	-	-	-	-	-
 -	Sinervo	-	proper	1	-	-	-	-	-
 -	Singh	-	proper	5	-	-	-	-	-
 -	Sinkkonen	-	proper	38	-	-	-	-	-
@@ -3490,6 +3483,7 @@
 -	Sjöstrand	-	proper	5	-	-	-	-	-
 -	Skarsgård	-	proper	5	-	-	-	-	-
 -	Skinnari	-	proper	6	-	-	-	-	-
+-	Skinner	-	proper	6	-	-	-	-	-
 -	Skog	-	proper	5	-	-	-	-	-
 -	Skoglund	-	proper	5	-	-	-	-	-
 -	Skovgaard	-	proper	5	-	-	-	-	-
@@ -3498,6 +3492,7 @@
 -	Skyttä	-	proper	10	tt:t	-	-	-	-
 -	Skúlason	-	proper	?6	-	-	-	-	-
 -	Slind	-	proper	5	-	-	-	-	-
+-	Sloane	-	proper	8	-	-	-	-	-
 -	Smeds	-	proper	5	-	-	-	-	-
 -	Smetana	-	proper	13	-	-	-	-	-
 -	Smirnov	-	proper	5	-	-	-	-	-
@@ -3531,6 +3526,7 @@
 -	Sparre	-	proper	8	-	-	-	-	-
 -	Sparv	-	proper	5	-	-	-	-	-
 -	Spears	-	proper	5	-	-	-	-	-
+-	Spencer	-	proper	6	-	-	-	-	-
 -	Spinoza	-	proper	10	-	-	-	-	-
 -	Springer	-	proper	6	-	-	-	-	-
 -	Springsteen	-	proper	5	-	-	-	-	-
@@ -4003,11 +3999,13 @@
 -	Waidacher	-	proper	6	-	-	-	-	-
 -	Walker	-	proper	6	-	-	-	-	-
 -	Wall	-	proper	5	-	-	-	-	-
+-	Wallace	-	proper	8	-	-	-	-	-
 -	Wallenius	-	proper	39	-	-	-	-	-
 -	Wallin	-	proper	5	-	-	-	-	-
 -	Wallis	-	proper	39	-	-	-	-	-
 -	Wallström	-	proper	5	-	-	-	-	-
 -	Wallén	-	proper	5	-	-	-	-	-
+-	Walsh	-	proper	5	-	-	-	-	-
 -	Waltari	-	proper	6	-	-	-	-	-
 -	Walter	-	proper	6	-	-	-	-	-
 -	Wang	-	proper	5	-	-	-	-	-
@@ -4027,6 +4025,7 @@
 -	Weckström	-	proper	5	-	-	-	-	-
 -	Wegelius	-	proper	39	-	-	-	-	-
 -	Weinstein	-	proper	5	-	-	-	-	-
+-	Weir	-	proper	5	-	-	-	-	-
 -	Weiss	-	proper	5	-	-	-	-	-
 -	Wendt	-	proper	5	-	-	-	-	-
 -	Weng	-	proper	5	-	-	-	-	-
@@ -4056,6 +4055,7 @@
 -	Willems	-	proper	5	-	-	-	-	-
 -	Williams	-	proper	5	-	-	-	-	-
 -	Williamson	-	proper	?6	-	-	-	-	-
+-	Willow	-	proper	22|†5	-	-	u	-	-
 -	Wilska	-	proper	9	-	-	-	-	-
 -	Wilson	-	proper	6	-	-	-	-	-
 -	Windsor	-	proper	6	-	-	-	-	-
@@ -4236,6 +4236,7 @@
 -	Iso|saari	-	proper	26	-	-	-	-	-
 -	Iso|talo	-	proper	1	-	-	-	-	-
 -	Jaakon|saari	-	proper	26	-	-	-	-	-
+-	Jauho|järvi	-	proper	7	-	-	-	-	-
 -	Joen|suu	-	proper	18	-	-	-	-	-
 -	Joki|aho	-	proper	1	-	-	-	-	-
 -	Joki|niemi	-	proper	25	-	-	-	-	-
@@ -4319,12 +4320,14 @@
 -	Mäen|pää	-	proper	18	-	-	-	-	-
 -	Mäki|pää	-	proper	18	-	-	-	-	-
 -	Mäki|talo	-	proper	1	-	-	-	-	-
+-	Mänty|maa	-	proper	18	-	-	-	-	-
 -	Nevan|linna	-	proper	9	-	-	-	-	-
 -	Niini|koski	-	proper	7	-	-	-	-	-
 -	Niini|luoto	-	proper	1	t:d	-	-	-	-
 -	Niini|mäki	-	proper	7	k:	-	-	-	-
 -	Niitty|mäki	-	proper	7	k:	-	-	-	-
 -	Näkkälä|järvi	-	proper	7	-	-	-	-	-
+-	Ohi|salo	-	proper	1	-	-	-	-	-
 -	Ohta|maa	-	proper	18	-	-	-	-	-
 -	Ojan|perä	-	proper	10	-	-	-	-	-
 -	Ojan|sivu	-	proper	1	-	-	-	-	-
@@ -4346,6 +4349,8 @@
 -	Pikku|jämsä	-	proper	10	-	-	-	-	-
 -	Pitkä|mäki	-	proper	7	k:	-	-	-	-
 -	Pohjan|heimo	-	proper	1	-	-	-	-	-
+-	Pohjan|palo	-	proper	1	-	-	-	-	-
+-	Pulju|järvi	-	proper	7	-	-	-	-	-
 -	Päivä|rinta	-	proper	9	nt:nn	-	-	-	-
 -	Pärmä|koski	-	proper	7	-	-	-	-	-
 -	Raja|mäki	-	proper	7	k:	-	-	-	-
@@ -4397,6 +4402,7 @@
 -	Vainion|pää	-	proper	18	-	-	-	-	-
 -	Valkea|pää	-	proper	18	-	-	-	-	-
 -	Vanha|talo	-	proper	1	-	-	-	-	-
+-	Vapaa|vuori	-	proper	26	-	-	-	-	-
 -	Vetten|ranta	-	proper	9	nt:nn	-	-	-	-
 -	Viita|salo	-	proper	1	-	-	-	-	-
 -	Vilja|maa	-	proper	18	-	-	-	-	-
