@@ -30,6 +30,7 @@ MULTICHAR_SYMBOLS = {
 	"⁅BOUNDARY⁆",
 } | CLITICS
 
+LOWERCASE_REGEX = '[' + '|'.join(f'"{c}"' for c in ALPHA_LOWER_BASIC) + ']'
 UPPERCASE_REGEX = '[' + '|'.join(f'"{c}"' for c in ALPHA_UPPER_EXTENDED) + ']'
 PSEUDO_PREFIXES = sorted(set(read_list('fi-prefixes-guesser.txt', directory='lists')))
 PSEUDO_PREFIX_REGEX = '|'.join('{%s}' % pfx for pfx in PSEUDO_PREFIXES)
@@ -44,8 +45,11 @@ for POS in POS_TAGS:
 	if '+' in POS:
 		continue
 	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 ?+ ]> GUESSER_ANY_{POS.upper()} ;\n'
-	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 ?+ ["a"|"e"|"i"|"o"|"u"|"l"|"r"] ]> GUESSER_VA_{POS.upper()} ;\n'
-	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 ?+ ["ä"|"e"|"i"|"ö"|"y"|"l"|"r"] ]> GUESSER_VÄ_{POS.upper()} ;\n'
+	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 ?+ ["a"|"e"|"i"|"o"|"u"] ]> GUESSER_VA_{POS.upper()} ;\n'
+	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 ?+ ["ä"|"e"|"i"|"ö"|"y"] ]> GUESSER_VÄ_{POS.upper()} ;\n'
+	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 {LOWERCASE_REGEX} ?* ]> GUESSER_LOWER_{POS.upper()} ;\n'
+	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 {LOWERCASE_REGEX} ?* ["a"|"e"|"i"|"o"|"u"] ]> GUESSER_LOWER+VA_{POS.upper()} ;\n'
+	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 {LOWERCASE_REGEX} ?* ["ä"|"e"|"i"|"ö"|"y"] ]> GUESSER_LOWER+VÄ_{POS.upper()} ;\n'
 
 ROOT += f"""!!
 !! Compounding and prefixing

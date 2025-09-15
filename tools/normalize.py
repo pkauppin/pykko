@@ -6,7 +6,7 @@ from scripts.constants import SENT_BREAK, OPENING_TAGS
 
 inf = float('inf')
 indices = defaultdict(float)
-LEADING_PUNCTUATION = set('-–—"”„’([')
+LEADING_PUNCTUATION = set('-–—"”“‟„’([')
 
 
 def is_lowercase(w):
@@ -89,14 +89,21 @@ def main():
 	analyses = []
 	analysis = '', '', '', '', ''
 	sentence_initial = True
+	prev_wform = ''
 
 	for line in sys.stdin:
 
 		line = line.strip('\n\r')
 
 		if not line and analyses:
+
+			wform, _, _, _, _, _, _, _ = analysis
+			if prev_wform == ':' and wform in '"”„':
+				sentence_initial = True
+
 			process_analyses(analyses, sentence_initial)
-			prev_wform, _, _, _, _, _, _, _, _ = analysis
+
+			prev_wform = wform
 			sentence_initial = (
 				sentence_initial if prev_wform in LEADING_PUNCTUATION else
 				prev_wform in [SENT_BREAK] + OPENING_TAGS

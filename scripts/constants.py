@@ -20,15 +20,16 @@ ALPHA_UPPER_EXTENDED = \
 	'ȘŅĻŖȚĶ' \
 	'ØßÐĐÆŒŁĞŐŊÞ'
 
-ALPHA_UPPER = 'ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖÜŠŽČĆ'
+ALPHA_LOWER_BASIC = 'abcdefghijklmnopqrstuvwxyzåäö'
 ALPHA_LOWER = 'abcdefghijklmnopqrstuvwxyzåäöüšžčćı'
+ALPHA_UPPER = 'ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖÜŠŽČĆ'
 
 PARSER_FST_PATH = os.path.join(scripts_path, '..', 'fi-parser.hfst.ol')
 GENERATOR_FST_PATH = os.path.join(scripts_path, '..', 'fi-generator.hfst.ol')
 
 LINE_BREAK = '@_LINEBREAK_@'
 SENT_BREAK = '@_SENTBREAK_@'
-ZERO = '@_zero_@'
+ZERO = '@_ZERO_@'
 TAB = '^TAB'
 
 OPENING_TAGS = [f'<{tag}>' for tag in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p']]

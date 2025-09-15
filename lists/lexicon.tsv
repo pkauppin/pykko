@@ -714,6 +714,7 @@
 -	edellinen	-	adjective	38	-	front	-	-	-
 -	edeltävä	-	adjective	10	-	-	-	-	-
 -	edistyksellinen	-	adjective	38	-	front	-	-	-
+-	edistynyt	-	adjective	47	-	-	-	-	-
 -	edukas	-	adjective	41	kk:k	back	-	-	-
 -	edullinen	-	adjective	38	-	back	-	-	-
 -	edustava	-	adjective	10	-	back	-	-	-
@@ -908,6 +909,7 @@
 -	erheellinen	-	adjective	38	-	front	-	-	-
 -	eri	-	adjective	!	-	front	-	#	-
 -	erikoinen	-	adjective	38	-	back	-	-	-
+-	erikoistunut	-	adjective	47	-	-	-	-	-
 -	erillinen	-	adjective	38	-	front	-	-	-
 -	erinäinen	-	adjective	38	-	front	-	-	-
 -	eristeinen	-	adjective	38	-	front	-	-	-
@@ -2340,6 +2342,7 @@
 -	kappaleittainen	-	adjective	38	-	back	-	-	-
 -	kapsulaarinen	-	adjective	38	-	-	-	-	-
 -	kapverdeläinen	-	adjective	38	-	-	-	-	-
+-	karaistunut	-	adjective	47	-	-	-	-	-
 -	karakteristinen	-	adjective	38	-	back	-	-	-
 -	kardaaninen	-	adjective	38	-	back	-	-	-
 -	kardiaalinen	-	adjective	38	-	-	-	-	-
@@ -2550,6 +2553,7 @@
 -	keskinen	-	adjective	38	-	front	-	-	-
 -	keskinäinen	-	adjective	38	-	front	-	-	-
 -	keskitetty	-	adjective	1	tt:t	-	-	-	-
+-	keskittynyt	-	adjective	47	-	-	-	-	-
 -	keskustalainen	-	adjective	38	-	back	-	-	-
 -	keskusteleva	-	adjective	10	-	-	-	-	-
 -	kestiläläinen	-	adjective	38	-	-	-	-	-
@@ -2625,6 +2629,7 @@
 -	kiinteä	-	adjective	15	-	front	-	-	-
 -	kiintoisa	-	adjective	10	-	back	-	-	-
 -	kiintonainen	-	adjective	38	-	back	-	-	-
+-	kiintynyt	-	adjective	47	-	-	-	-	-
 -	kiire	-	adjective	48	-	front	-	-	-
 -	kiireellinen	-	adjective	38	-	front	-	-	-
 -	kiireetön	-	adjective	34	tt:t	front	-	-	-
@@ -2955,6 +2960,7 @@
 -	kouliintunut	-	adjective	47	-	-	-	-	-
 -	koulumainen	-	adjective	38	-	back	-	-	-
 -	kouluttamaton	-	adjective	34	tt:t	back	-	-	-
+-	kouluttautunut	-	adjective	47	-	-	-	-	-
 -	koulutuksellinen	-	adjective	38	-	back	-	-	-
 -	kouristeinen	-	adjective	38	-	back	-	-	-
 -	kouristuksellinen	-	adjective	38	-	back	-	-	-
@@ -3082,6 +3088,7 @@
 -	kuoppainen	-	adjective	38	-	back	-	-	-
 -	kuoreton	-	adjective	34	tt:t	-	-	-	-
 -	kuormitteinen	-	adjective	38	-	back	-	-	-
+-	kuormittunut	-	adjective	47	-	-	-	-	-
 -	kuortanelainen	-	adjective	38	-	-	-	-	-
 -	kuosikas	-	adjective	41	kk:k	back	-	-	-
 -	kuosillinen	-	adjective	38	-	back	-	-	-
@@ -3209,6 +3216,7 @@
 -	kärjekäs	-	adjective	41	kk:k	front	-	-	-
 -	kärjellinen	-	adjective	38	-	front	-	-	-
 -	kärjimmäinen	-	adjective	38	-	front	-	-	-
+-	kärjistynyt	-	adjective	47	-	-	-	-	-
 -	kärkevä	-	adjective	10	-	front	-	-	-
 -	kärkäs	-	adjective	41	kk:k	front	-	-	-
 -	kärköläinen	-	adjective	38	-	-	-	-	-
@@ -3859,6 +3867,7 @@
 -	menestyksellinen	-	adjective	38	-	front	-	-	-
 -	menestyksetön	-	adjective	34	tt:t	front	-	-	-
 -	menestymätön	-	adjective	34	tt:t	front	-	-	-
+-	menestynyt	-	adjective	47	-	-	-	-	-
 -	menestyvä	-	adjective	10	-	-	-	-	-
 -	menetelmällinen	-	adjective	38	-	front	-	-	-
 -	menettelyllinen	-	adjective	38	-	-	-	-	-
@@ -4535,6 +4544,7 @@
 -	ombrofiilinen	-	adjective	38	-	front|back	-	-	-
 -	ombrofobinen	-	adjective	38	-	-	-	-	-
 -	ominainen	-	adjective	38	-	back	-	-	-
+-	omistautunut	-	adjective	47	-	-	-	-	-
 -	omisteinen	-	adjective	38	-	-	-	-	-
 -	omistuksellinen	-	adjective	38	-	-	-	-	-
 -	omituinen	-	adjective	38	-	back	-	-	-
@@ -6133,6 +6143,7 @@
 -	sitkeä	-	adjective	15	-	front	-	-	-
 -	sitomaton	-	adjective	34	tt:t	back	-	-	-
 -	sitoutumaton	-	adjective	34	tt:t	back	-	-	-
+-	sitoutunut	-	adjective	47	-	-	-	-	-
 -	sitova	-	adjective	10	-	back	-	-	-
 -	siunaamaton	-	adjective	34	tt:t	back	-	-	-
 -	siunauksekas	-	adjective	41	kk:k	back	-	-	-
@@ -6291,6 +6302,7 @@
 -	stoalainen	-	adjective	38	-	back	-	-	-
 -	stokastinen	-	adjective	38	-	-	-	-	-
 -	strateginen	-	adjective	38	-	back	-	-	-
+-	stressaantunut	-	adjective	47	-	-	-	-	-
 -	stromaalinen	-	adjective	38	-	-	-	-	-
 -	strukturaali	-	adjective	5	-	-	-	-	-
 -	strukturaalinen	-	adjective	38	-	back	-	-	-
@@ -6970,6 +6982,7 @@
 -	tunturimainen	-	adjective	38	-	-	-	-	-
 -	tuntuva	-	adjective	10	-	back	-	-	-
 -	tuohinen	-	adjective	38	-	back	-	-	-
+-	tuohtunut	-	adjective	47	-	-	-	-	-
 -	tuoksuinen	-	adjective	38	-	back	-	+poss	-
 -	tuoksuton	-	adjective	34	tt:t	back	-	-	-
 -	tuollainen	-	adjective	38	-	back	-	-	-
@@ -6995,6 +7008,7 @@
 -	turha	-	adjective	10	-	back	-	-	-
 -	turhamainen	-	adjective	38	-	back	-	-	-
 -	turhauttava	-	adjective	10	-	-	-	-	-
+-	turhautunut	-	adjective	47	-	-	-	-	-
 -	turkkilainen	-	adjective	38	-	back	-	-	-
 -	turkmenialainen	-	adjective	38	-	-	-	-	-
 -	turkmenistanilainen	-	adjective	38	-	-	-	-	-
@@ -7047,6 +7061,7 @@
 -	typografinen	-	adjective	38	-	back	-	-	-
 -	typologinen	-	adjective	38	-	back	-	-	-
 -	tyrannimainen	-	adjective	38	-	back	-	-	-
+-	tyrmistynyt	-	adjective	47	-	-	-	-	-
 -	tyrnäväläinen	-	adjective	38	-	-	-	-	-
 -	tyrskyinen	-	adjective	38	-	front	-	-	-
 -	tyrväntöläinen	-	adjective	38	-	-	-	-	-
@@ -7260,6 +7275,7 @@
 -	vaihtelevainen	-	adjective	38	-	-	-	-	-
 -	vaikea	-	adjective	15	-	back	-	-	-
 -	vaikuttava	-	adjective	10	-	back	-	-	-
+-	vaikuttunut	-	adjective	47	-	-	-	-	-
 -	vaikutukseton	-	adjective	34	tt:t	-	-	-	-
 -	vaillinainen	-	adjective	38	-	back	-	-	-
 -	vaimea	-	adjective	15	-	back	-	-	-
@@ -7281,6 +7297,7 @@
 -	vakantti	-	adjective	5	tt:t	-	-	-	-
 -	vakaumuksellinen	-	adjective	38	-	back	-	-	-
 -	vakava	-	adjective	10	-	back	-	-	-
+-	vakiintunut	-	adjective	47	-	-	-	-	-
 -	vakinainen	-	adjective	38	-	back	-	-	-
 -	vakio	-	adjective	3	-	back	-	-	-
 -	vakioinen	-	adjective	38	-	back	-	-	-
@@ -7291,12 +7308,14 @@
 -	vakuutettu	-	adjective	1	tt:t	-	-	-	-
 -	vakuuttamaton	-	adjective	34	tt:t	back	-	-	-
 -	vakuuttava	-	adjective	10	-	back	-	-	-
+-	vakuuttunut	-	adjective	47	-	-	-	-	-
 -	valaiseva	-	adjective	10	-	-	-	-	-
 -	valallinen	-	adjective	38	-	back	-	-	-
 -	valheellinen	-	adjective	38	-	back	-	-	-
 -	validi	-	adjective	5	-	back	-	-	-
 -	valikoimaton	-	adjective	34	tt:t	back	-	-	-
 -	valinnainen	-	adjective	38	-	back	-	-	-
+-	valistunut	-	adjective	47	-	-	-	-	-
 -	valitettava	-	adjective	10	-	back	-	-	-
 -	valju	-	adjective	1	-	back	-	-	-
 -	valkaisematon	-	adjective	34	tt:t	back	-	-	-
@@ -7313,6 +7332,7 @@
 -	vallonilainen	-	adjective	38	-	back	-	-	-
 -	valmis	-	adjective	41	-	back	-	-	-
 -	valmistautumaton	-	adjective	34	tt:t	-	-	-	-
+-	valmistautunut	-	adjective	47	-	-	-	-	-
 -	valmistava	-	adjective	10	-	back	-	-	-
 -	valoisa	-	adjective	10	-	back	-	-	-
 -	valparaísolainen	-	adjective	38	-	-	-	-	-
@@ -7324,6 +7344,7 @@
 -	valtiollinen	-	adjective	38	-	back	-	-	-
 -	valtioton	-	adjective	34	tt:t	back	-	-	-
 -	valtoin	-	adjective	33	-	back	-	-	-
+-	valveutunut	-	adjective	47	-	-	-	-	-
 -	vammainen	-	adjective	38	-	back	-	-	-
 -	vammalainen	-	adjective	38	-	-	-	-	-
 -	vammalalainen	-	adjective	38	-	-	-	-	-
@@ -7357,6 +7378,7 @@
 -	varauksellinen	-	adjective	38	-	back	-	-	-
 -	varaukseton	-	adjective	34	tt:t	back	-	-	-
 -	varauksinen	-	adjective	38	-	back	-	-	-
+-	varautunut	-	adjective	47	-	-	-	-	-
 -	varhainen	-	adjective	38	-	back	-	-	-
 -	varhempi	-	adjective	16	mp:mm	-	-	non-comparable	-
 -	varhin	-	adjective	36	-	-	-	rare|non-comparable	-
@@ -7379,6 +7401,7 @@
 -	varteva	-	adjective	10	-	back	-	-	-
 -	vartioimaton	-	adjective	34	tt:t	back	-	-	-
 -	vartiolainen	-	adjective	38	-	-	-	-	-
+-	varttunut	-	adjective	47	-	-	-	-	-
 -	vasemmistolainen	-	adjective	38	-	back	-	-	-
 -	vasen	-	adjective	37	-	back	-	non-comparable	-
 -	vasikkamainen	-	adjective	38	-	back	-	-	-
@@ -7422,6 +7445,7 @@
 -	velaarinen	-	adjective	38	-	-	-	-	-
 -	velaton	-	adjective	34	tt:t	back	-	-	-
 -	veljellinen	-	adjective	38	-	front	-	-	-
+-	velkaantunut	-	adjective	47	-	-	-	-	-
 -	velkainen	-	adjective	38	-	back	-	-	-
 -	velkualainen	-	adjective	38	-	-	-	-	-
 -	velmu	-	adjective	1	-	back	-	-	-
@@ -7749,6 +7773,7 @@
 -	ylistaroinen	-	adjective	38	-	-	-	-	-
 -	ylistarolainen	-	adjective	38	-	-	-	-	-
 -	ylittämätön	-	adjective	34	tt:t	front	-	-	-
+-	yllättynyt	-	adjective	47	-	-	-	-	-
 -	yllättävä	-	adjective	10	-	front	-	-	-
 -	yllätyksekäs	-	adjective	41	kk:k	front	-	-	-
 -	yllätyksellinen	-	adjective	38	-	front	-	-	-
@@ -32018,7 +32043,7 @@
 -	klipsi	-	noun	5	-	front	-	coll	-
 -	klisee	-	noun	20	-	front	-	-	-
 -	klitoris	-	noun	39	-	back	-	-	-
--	klo	-	noun	!	-	-	-	-	-
+-	klo	-	noun	!	-	-	-	abbr	-
 -	kloaakki	-	noun	5	kk:k	back	-	-	-
 -	klodronaatti	-	noun	5	tt:t	-	-	-	-
 -	klofibraatti	-	noun	5	tt:t	-	-	-	-

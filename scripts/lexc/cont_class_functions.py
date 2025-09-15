@@ -186,7 +186,7 @@ def verb_cont_class(lemma, pairs, morphtag, harmony=None):
 		return [(pairs, f'CLIT_EI')]
 
 	if 'conneg' in tags:
-		rows += [(pairs, f'KAAN_%s' % harmony)]
+		return [(pairs, f'KAAN_%s' % harmony)]
 
 	elif morphtag in ['imper|2sg', 'imper|2pl']:
 		rows += [(pairs, f'PAS_%s' % harmony)]
