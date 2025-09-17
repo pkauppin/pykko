@@ -77,6 +77,7 @@
 -	Alho	-	proper	1	-	-	-	-	-
 -	Ali	-	proper	5	-	-	-	-	-
 -	Alighieri	-	proper	5	-	-	-	-	-
+-	Alinko	-	proper	1	-	-	-	-	-
 -	Alkio	-	proper	3	-	-	-	-	-
 -	Allen	-	proper	6	-	-	-	-	-
 -	Allende	-	proper	8	-	-	-	-	-
@@ -270,6 +271,7 @@
 -	Berenguer	-	proper	22|5	-	-	-	-	-
 -	Beresford	-	proper	5	-	-	-	-	-
 -	Berg	-	proper	5	-	-	-	-	-
+-	Bergbom	-	proper	5	-	-	-	-	-
 -	Bergenheim	-	proper	5	-	-	-	-	-
 -	Berger	-	proper	6	-	-	-	-	-
 -	Berget	-	proper	5	-	-	-	-	-
@@ -680,6 +682,7 @@
 -	Edwards	-	proper	5	-	-	-	-	-
 -	Eerikäinen	-	proper	38	-	-	-	-	-
 -	Eerola	-	proper	12	-	-	-	-	-
+-	Eestilä	-	proper	12	-	-	-	-	-
 -	Eggen	-	proper	6	-	-	-	-	-
 -	Eho	-	proper	1	-	-	-	-	-
 -	Ehrenstolpe	-	proper	8	-	-	-	-	-
@@ -1016,8 +1019,9 @@
 -	Guterres	-	proper	5	-	-	-	-	-
 -	Gutiérrez	-	proper	5	-	-	-	-	-
 -	Guttorm	-	proper	5	-	-	-	-	-
--	Guttormsen	-	proper	?6	-	-	-	-	-
+-	Guttormsen	-	proper	5	-	-	-	-	-
 -	Guyot	-	proper	22|†5	-	-	-	-	-
+-	Guzenina	-	proper	9	-	-	-	-	-
 -	Guzmán	-	proper	5	-	-	-	-	-
 -	Guðmundsson	-	proper	5	-	-	-	-	-
 -	Gyarmati	-	proper	5	-	-	-	-	-
@@ -1306,6 +1310,7 @@
 -	Horváth	-	proper	5	-	-	-	-	-
 -	Hoshino	-	proper	2	-	-	-	-	-
 -	Hosia	-	proper	12	-	-	-	-	-
+-	Hoskonen	-	proper	38	-	-	-	-	-
 -	Hosokawa	-	proper	9	-	-	-	-	-
 -	Hostikka	-	proper	14	kk:k	-	-	-	-
 -	Hotakainen	-	proper	38	-	-	-	-	-
@@ -1364,6 +1369,7 @@
 -	Hynynen	-	proper	38	-	-	-	-	-
 -	Hyppö	-	proper	1	pp:p	-	-	-	-
 -	Hyppönen	-	proper	38	-	-	-	-	-
+-	Hyrkkö	-	proper	1	kk:k	-	-	-	-
 -	Hyrkäs	-	proper	41	kk:k	-	-	-	-
 -	Hyry	-	proper	1	-	-	-	-	-
 -	Hysén	-	proper	5	-	-	-	-	-
@@ -1678,6 +1684,7 @@
 -	Kaufmann	-	proper	5	-	-	-	-	-
 -	Kauhanen	-	proper	38	-	-	-	-	-
 -	Kaukonen	-	proper	38	-	-	-	-	-
+-	Kauma	-	proper	9	-	-	-	-	-
 -	Kaunisto	-	proper	1	-	-	-	-	-
 -	Kauppi	-	proper	5	pp:p	-	-	-	-
 -	Kauppila	-	proper	12	-	-	-	-	-
@@ -2471,6 +2478,7 @@
 -	Moberg	-	proper	5	-	-	-	-	-
 -	Mochizuki	-	proper	5	-	-	-	-	-
 -	Modi	-	proper	5	-	-	-	-	-
+-	Modig	-	proper	5	-	-	-	-	-
 -	Moe	-	proper	8	-	-	-	-	-
 -	Moen	-	proper	5	-	-	-	-	-
 -	Mohamed	-	proper	5	-	-	-	-	-
@@ -2484,6 +2492,7 @@
 -	Mollar	-	proper	6	-	-	-	-	-
 -	Mollberg	-	proper	6	-	-	-	-	-
 -	Molnár	-	proper	5	-	-	-	-	-
+-	Monahan	-	proper	5	-	-	-	-	-
 -	Monnier	-	proper	22|†5	-	-	-	-	-
 -	Mononen	-	proper	38	-	-	-	-	-
 -	Monroe	-	proper	8	-	-	-	-	-
@@ -2528,6 +2537,7 @@
 -	Muinonen	-	proper	38	-	-	-	-	-
 -	Mulder	-	proper	6	-	-	-	-	-
 -	Muller	-	proper	6	-	-	-	-	-
+-	Multala	-	proper	12	-	-	-	-	-
 -	Munck	-	proper	5	-	-	-	-	-
 -	Munro	-	proper	1	-	-	-	-	-
 -	Munsterhjelm	-	proper	5	-	-	-	-	-
@@ -2547,6 +2557,7 @@
 -	Myers	-	proper	5	-	-	-	-	-
 -	Myhre	-	proper	8	-	-	-	-	-
 -	Mykkänen	-	proper	38	-	-	-	-	-
+-	Myller	-	proper	?6	-	-	-	-	-
 -	Myllylä	-	proper	12	-	-	-	-	-
 -	Myllynen	-	proper	38	-	-	-	-	-
 -	Mylläri	-	proper	?6	-	-	-	-	-
@@ -3351,6 +3362,7 @@
 -	Sasahara	-	proper	9	-	-	-	-	-
 -	Sasaki	-	proper	5	-	-	-	-	-
 -	Sasi	-	proper	5	-	-	-	-	-
+-	Satonen	-	proper	38	-	-	-	-	-
 -	Satō	-	proper	?21|1	-	-	-	-	-
 -	Saukko	-	proper	1	kk:k	-	-	-	-
 -	Saukkonen	-	proper	38	-	-	-	-	-
@@ -3655,6 +3667,7 @@
 -	Tabermann	-	proper	5	-	-	-	-	-
 -	Taguchi	-	proper	5	-	-	-	-	-
 -	Tahvanainen	-	proper	38	-	-	-	-	-
+-	Taimela	-	proper	12	-	-	-	-	-
 -	Taipale	-	proper	49	-	-	-	-	-
 -	Takagi	-	proper	5	-	-	-	-	-
 -	Takahashi	-	proper	5	-	-	-	-	-
@@ -3698,6 +3711,7 @@
 -	Tauriainen	-	proper	38	-	-	-	-	-
 -	Tavares	-	proper	39	-	-	-	-	-
 -	Tavernier	-	proper	22|5	-	-	-	-	-
+-	Tavio	-	proper	3	-	-	-	-	-
 -	Tawast	-	proper	5	-	-	-	-	-
 -	Taylor	-	proper	6	-	-	-	-	-
 -	Tegnér	-	proper	5	-	-	-	-	-
@@ -3758,6 +3772,7 @@
 -	Tolkien	-	proper	5	-	-	-	-	-
 -	Tollefsen	-	proper	?6	-	-	-	-	-
 -	Tolonen	-	proper	38	-	-	-	-	-
+-	Tolppanen	-	proper	38	-	-	-	-	-
 -	Tolstoi	-	proper	18	-	-	-	-	-
 -	Tolvanen	-	proper	38	-	-	-	-	-
 -	Tomašević	-	proper	5	-	-	-	-	-
@@ -3922,6 +3937,7 @@
 -	Veselý	-	proper	21|1	-	-	-	-	-
 -	Vesterbacka	-	proper	9	-	-	-	-	-
 -	Vesterinen	-	proper	38	-	-	-	-	-
+-	Vestman	-	proper	?6	-	-	-	-	-
 -	Vettel	-	proper	?6	-	-	-	-	-
 -	Vidal	-	proper	?6	-	-	-	-	-
 -	Vidmar	-	proper	?6	-	-	-	-	-
@@ -4085,6 +4101,7 @@
 -	Yamanaka	-	proper	9	-	-	-	-	-
 -	Yamashita	-	proper	9	-	-	-	-	-
 -	Yamazaki	-	proper	5	-	-	-	-	-
+-	Yanar	-	proper	6	-	-	-	-	-
 -	Yang	-	proper	5	-	-	-	-	-
 -	Ylander	-	proper	6	-	-	-	-	-
 -	Ylinen	-	proper	38	-	-	-	-	-
@@ -4209,6 +4226,7 @@
 -	Heikin|aho	-	proper	1	-	-	-	-	-
 -	Heikin|heimo	-	proper	1	-	-	-	-	-
 -	Heikki|niemi	-	proper	25	-	-	-	-	-
+-	Heinä|luoma	-	proper	10	-	-	-	-	-
 -	Helis|maa	-	proper	18	-	-	-	-	-
 -	Heliö|vaara	-	proper	9	-	-	-	-	-
 -	Hepo|rauta	-	proper	9	t:d	-	-	-	-
@@ -4220,6 +4238,7 @@
 -	Hirsi|mäki	-	proper	7	k:	-	-	-	-
 -	Hirs|järvi	-	proper	7	-	-	-	-	-
 -	Hirvi|kallio	-	proper	3	-	-	-	-	-
+-	Honka|salo	-	proper	1	-	-	-	-	-
 -	Honka|vaara	-	proper	9	-	-	-	-	-
 -	Huhta|mäki	-	proper	7	k:	-	-	-	-
 -	Huhta|saari	-	proper	26	-	-	-	-	-
@@ -4253,6 +4272,7 @@
 -	Kallio|niemi	-	proper	25	-	-	-	-	-
 -	Kangas|maa	-	proper	18	-	-	-	-	-
 -	Kangas|niemi	-	proper	25	-	-	-	-	-
+-	Kankaan|niemi	-	proper	25	-	-	-	-	-
 -	Kankaan|pää	-	proper	18	-	-	-	-	-
 -	Kankaan|ranta	-	proper	9	nt:nn	-	-	-	-
 -	Kanto|korpi	-	proper	7	p:v	-	-	-	-
@@ -4377,6 +4397,7 @@
 -	Santa|vuori	-	proper	26	-	-	-	-	-
 -	Saras|vuo	-	proper	19	-	-	-	-	-
 -	Sara|järvi	-	proper	7	-	-	-	-	-
+-	Sarko|maa	-	proper	18	-	-	-	-	-
 -	Sarpa|ranta	-	proper	9	nt:nn	-	-	-	-
 -	Sillan|pää	-	proper	18	-	-	-	-	-
 -	Simo|joki	-	proper	7	k:	-	-	-	-
@@ -4418,6 +4439,7 @@
 -	Wuoli|joki	-	proper	7	k:	-	-	-	-
 -	Yli|kangas	-	proper	41	nk:ng	-	-	-	-
 -	Yli|pulli	-	proper	5	-	-	-	-	-
+-	Yli|pää	-	proper	18	-	-	-	-	-
 -	Yli|talo	-	proper	1	-	-	-	-	-
 -	Aarnio-Iso|hanni	-	proper	5	-	-	-	-	-
 -	Alanko-Kahi|luoto	-	proper	1	t:d	-	-	-	-

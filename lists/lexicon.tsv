@@ -9531,6 +9531,7 @@
 -	keskus|lämmitteinen	-	adjective	38	-	-	-	-	-
 -	keskus|ohjauksinen	-	adjective	38	-	-	-	-	-
 -	kesto|päällysteinen	-	adjective	38	-	-	-	-	-
+-	kesto|päällystetty	-	adjective	1	tt:t	-	-	-	-
 -	kesä|asuttava	-	adjective	10	-	-	-	-	-
 -	kesä|kuinen	-	adjective	38	-	-	-	-	-
 -	kesä|kuiva	-	adjective	10	-	-	-	-	-
@@ -9694,6 +9695,7 @@
 -	koko|musta	-	adjective	10	-	-	-	-	-
 -	koko|pitkä	-	adjective	10	-	-	-	-	-
 -	koko|päiväinen	-	adjective	38	-	-	-	-	-
+-	koko|sivun	-	adjective	!	-	-	-	-	-
 -	koko|talvinen	-	adjective	38	-	-	-	-	-
 -	koko|valkoinen	-	adjective	38	-	-	-	-	-
 -	koko|vuotinen	-	adjective	38	-	-	-	-	-
@@ -16343,6 +16345,7 @@
 -	koommin	-	adverb	-	-	-	-	-	-
 -	koordinoidusti	-	adverb	-	-	-	-	-	-
 -	koossa	-	adverb	-	-	-	-	-	-
+-	kootusti	-	adverb	-	-	-	-	-	-
 -	kopeasti	-	adverb	-	-	-	-	-	-
 -	koppavasti	-	adverb	-	-	-	-	-	-
 -	koreasti	-	adverb	-	-	-	-	-	-
@@ -16995,6 +16998,7 @@
 -	mihinkin	-	adverb	-	-	-	-	#	-
 -	mihinkä	-	adverb	-	-	-	-	coll	-
 -	mihinkään	-	adverb	-	-	-	-	#	-
+-	mihinä	-	adverb	-	-	-	-	dial	-
 -	mihkään	-	adverb	-	-	-	-	dial	-
 -	miimisesti	-	adverb	-	-	-	-	-	-
 -	miinus	-	adverb	-	-	-	-	-	-
@@ -18299,6 +18303,7 @@
 -	sitkeästi	-	adverb	-	-	-	-	-	-
 -	sitoutuneesti	-	adverb	-	-	-	-	-	-
 -	sitovasti	-	adverb	-	-	-	-	-	-
+-	sitte	-	adverb	-	-	-	-	coll|dial	-
 -	sittemmin	-	adverb	-	-	-	-	-	-
 -	sitten	-	adverb	-	-	-	-	-	-
 -	sittenkin	-	adverb	-	-	-	-	#	-
@@ -18838,6 +18843,8 @@
 -	tonaalisesti	-	adverb	-	-	-	-	-	-
 -	tonne	-	adverb	-	-	-	-	coll	-
 -	tonneittain	-	adverb	-	-	-	-	-	-
+-	tonnemmaksi	-	adverb	-	-	-	-	coll|dial	-
+-	tonnempana	-	adverb	-	-	-	-	coll|dial	-
 -	topakasti	-	adverb	-	-	-	-	-	-
 -	topografisesti	-	adverb	-	-	-	-	-	-
 -	torjuvasti	-	adverb	-	-	-	-	-	-
@@ -20082,6 +20089,7 @@
 -	kylmä|päisesti	-	adverb	-	-	-	-	-	-
 -	kylmä|sydämisesti	-	adverb	-	-	-	-	-	-
 -	kylmä|verisesti	-	adverb	-	-	-	-	-	-
+-	kyynel|silmin	-	adverb	-	-	-	-	-	-
 -	känni|päissä	-	adverb	-	-	-	-	-	-
 -	känni|päissään	-	adverb	-	-	-	-	+poss	-
 -	käsi|kaulaa	-	adverb	-	-	-	-	-	-
@@ -20090,6 +20098,8 @@
 -	käsi|pohjaa	-	adverb	-	-	-	-	-	-
 -	käsi|teollisesti	-	adverb	-	-	-	-	-	-
 -	käsi|varaisesti	-	adverb	-	-	-	-	-	-
+-	käsi|varalla	-	adverb	-	-	-	-	-	-
+-	käsi|varalta	-	adverb	-	-	-	-	-	-
 -	käymä|jalkaa	-	adverb	-	-	-	-	-	-
 -	käytännön|läheisesti	-	adverb	-	-	-	-	-	-
 -	käänteen|tekevästi	-	adverb	-	-	-	-	-	-
@@ -20568,6 +20578,7 @@
 -	taka|peroisesti	-	adverb	-	-	-	-	-	-
 -	taka|puolitse	-	adverb	-	-	-	-	-	-
 -	taka|teitse	-	adverb	-	-	-	-	-	-
+-	taka|tietä	-	adverb	-	-	-	-	-	-
 -	taka|vasemmalla	-	adverb	-	-	-	-	-	-
 -	taka|vasemmalle	-	adverb	-	-	-	-	-	-
 -	taka|vasemmalta	-	adverb	-	-	-	-	-	-
@@ -20640,6 +20651,7 @@
 -	toisin|päin	-	adverb	-	-	-	-	-	-
 -	toissa|päivänä	-	adverb	-	-	-	-	nstd	1.000
 -	tois|sijaisesti	-	adverb	-	-	-	-	-	-
+-	tonne|päin	-	adverb	-	-	-	-	coll|dial	-
 -	tosi|asiallisesti	-	adverb	-	-	-	-	-	-
 -	tosi|mielessä	-	adverb	-	-	-	-	-	-
 -	totta|kai	-	adverb	-	-	-	-	nstd	-
@@ -20702,6 +20714,7 @@
 -	ulko|kohtaisesti	-	adverb	-	-	-	-	-	-
 -	ulko|kultaisesti	-	adverb	-	-	-	-	-	-
 -	ulko|poliittisesti	-	adverb	-	-	-	-	-	-
+-	ulko|tietä	-	adverb	-	-	-	-	-	-
 -	ulos|päin	-	adverb	-	-	-	-	-	-
 -	umpi|mielisesti	-	adverb	-	-	-	-	-	-
 -	umpi|mähkäisesti	-	adverb	-	-	-	-	-	-
@@ -23687,6 +23700,7 @@
 -	balkanilainen	-	noun	38	-	-	-	-	-
 -	balladi	-	noun	5	-	back	-	-	-
 -	ballerina	-	noun	9	-	back	-	-	-
+-	ballista	-	noun	9	-	-	-	-	-
 -	ballistiikka	-	noun	9	kk:k	back	-	-	-
 -	ballonki	-	noun	5	nk:ng	-	-	-	-
 -	balongi	-	noun	5	-	-	-	-	-
@@ -31316,6 +31330,7 @@
 -	kenraali	-	noun	6	-	back	-	-	-
 -	kenraalisto	-	noun	1	-	back	-	-	-
 -	kenraalitar	-	noun	32	tt:t	back	-	-	-
+-	kensori	-	noun	?6	-	-	-	rare	-
 -	kentauri	-	noun	6	-	back	-	-	-
 -	kenttä	-	noun	10	tt:t	front	-	-	-
 -	kentällinen	-	noun	38	-	front	-	-	-
@@ -41198,6 +41213,7 @@
 -	propagointi	-	noun	5	nt:nn	back	-	-	-
 -	propanoli	-	noun	5	-	back	-	-	-
 -	propelli	-	noun	5	-	back	-	-	-
+-	propolis	-	noun	39	-	-	-	-	-
 -	propositio	-	noun	3	-	back	-	-	-
 -	proppu	-	noun	1	pp:p	back	-	coll	-
 -	propranololi	-	noun	5	-	-	-	-	-
@@ -42979,6 +42995,7 @@
 -	rivitys	-	noun	39	-	front	-	-	-
 -	rivous	-	noun	40	-	back	-	-	-
 -	rkl	-	noun	0B	-	back	-	unit	-
+-	roadman	-	noun	5	-	-	-	foreign	-
 -	roaming	-	noun	5	-	-	-	-	-
 -	robo	-	noun	1	-	-	-	coll	-
 -	robotiikka	-	noun	9	kk:k	back	-	-	-
@@ -66395,6 +66412,7 @@
 -	kitka|työttömyys	-	noun	40	-	-	-	-	-
 -	kitkerä|lahokka	-	noun	14	kk:k	-	-	-	-
 -	kitti|juusto	-	noun	1	-	-	-	-	-
+-	kitti|vaha	-	noun	9	-	-	-	-	-
 -	kitti|veitsi	-	noun	30	-	-	-	-	-
 -	kitu|kasvuisuus	-	noun	40	-	-	-	-	-
 -	kitu|kuusi	-	noun	24	-	-	-	-	-
@@ -66886,7 +66904,7 @@
 -	koko|parta	-	noun	9	rt:rr	-	-	-	-
 -	koko|puku	-	noun	1	k:v	-	-	-	-
 -	koko|pullo	-	noun	1	-	-	-	-	-
--	koko|sivu	-	noun	1	-	-	-	-	-
+-	koko|sivu	-	noun	1	-	-	-	rare	-
 -	koko|sukeltaja	-	noun	10	-	-	-	-	-
 -	koko|tauko	-	noun	1	k:	-	-	-	-
 -	koko|veri	-	noun	26	-	variable	-	-	-
@@ -69616,7 +69634,7 @@
 -	kyynel|neste	-	noun	48	-	-	-	-	-
 -	kyynel|pisara	-	noun	12	-	-	-	-	-
 -	kyynel|rauhanen	-	noun	38	-	-	-	-	-
--	kyynel|silmä	-	noun	10	-	-	-	-	-
+-	kyynel|silmä	-	noun	10	-	-	-	rare	-
 -	kyynel|sumu	-	noun	1	-	-	-	-	-
 -	kyynel|tulva	-	noun	10	-	-	-	-	-
 -	kyynel|virta	-	noun	9	rt:rr	-	-	poet	-
@@ -69719,6 +69737,7 @@
 -	kärki|astuja	-	noun	10	-	-	-	-	-
 -	kärki|aura	-	noun	9	-	-	-	-	-
 -	kärki|etenijä	-	noun	12	-	-	-	-	-
+-	kärki|hanke	-	noun	48	kk:k	-	-	-	-
 -	kärki|joukko	-	noun	1	kk:k	-	-	-	-
 -	kärki|joukkue	-	noun	48	-	-	-	-	-
 -	kärki|juoksija	-	noun	12	-	-	-	-	-
@@ -69889,7 +69908,7 @@
 -	käsi|vaaka	-	noun	9	k:	-	-	-	-
 -	käsi|valaisin	-	noun	33	-	-	-	-	-
 -	käsi|vamma	-	noun	9	-	-	-	-	-
--	käsi|vara	-	noun	9	-	-	-	-	-
+-	käsi|vara	-	noun	9	-	-	-	rare	-
 -	käsi|varasto	-	noun	2	-	-	-	-	-
 -	käsi|varsi	-	noun	28	rt:rr	-	-	-	-
 -	käsi|vika	-	noun	9	k:	-	-	-	-
@@ -76224,6 +76243,7 @@
 -	miliaari|tuberkuloosi	-	noun	5	-	-	-	-	-
 -	miliisi|järjestelmä	-	noun	10	-	-	-	-	-
 -	miljardis|osa	-	noun	10	-	-	-	-	-
+-	miljardi|luokka	-	noun	10	kk:k	-	-	-	-
 -	miljoonas|osa	-	noun	10	-	-	-	-	-
 -	miljoona|kala	-	noun	9	-	-	-	-	-
 -	miljoona|kauppa	-	noun	9	pp:p	-	-	-	-
@@ -77707,6 +77727,7 @@
 -	naku|tyttö	-	noun	1	tt:t	-	-	coll	-
 -	nalidiksiini|happo	-	noun	1	pp:p	-	-	-	-
 -	nalle|karhu	-	noun	1	-	-	-	child	-
+-	nalle|karkki	-	noun	5	kk:k	-	-	-	-
 -	nalli|pyssy	-	noun	1	-	-	-	-	-
 -	namu|pala	-	noun	9	-	-	-	-	-
 -	namu|setä	-	noun	10	t:d	-	-	coll	-
@@ -79466,6 +79487,7 @@
 -	ongelma|iho	-	noun	1	-	-	-	-	-
 -	ongelma|jäte	-	noun	48	tt:t	-	-	-	-
 -	ongelma|kimppu	-	noun	1	pp:p	-	-	-	-
+-	ongelma|kohta	-	noun	10	t:d	-	-	-	-
 -	ongelma|käyttäjä	-	noun	10	-	-	-	-	-
 -	ongelma|käyttö	-	noun	1	tt:t	-	-	-	-
 -	ongelma|lapsi	-	noun	29	-	-	-	-	-
@@ -87917,6 +87939,7 @@
 -	ruuan|laitto	-	noun	1	tt:t	-	-	-	-
 -	ruuan|sulatus	-	noun	39	-	-	-	-	-
 -	ruuan|tuoksu	-	noun	1	-	-	-	-	-
+-	ruuan|tuotanto	-	noun	1	nt:nn	-	-	-	-
 -	ruuan|tähde	-	noun	48	t:d	-	-	-	-
 -	ruuan|valmistus	-	noun	39	-	-	-	-	-
 -	ruudin|haju	-	noun	1	-	-	-	-	-
@@ -96620,6 +96643,7 @@
 -	turvallisuus|vaje	-	noun	48	-	-	-	-	-
 -	turvallisuus|väli	-	noun	5	-	-	-	-	-
 -	turvallisuus|yksikkö	-	noun	4	kk:k	-	-	-	-
+-	turvallisuus|ympäristö	-	noun	1	-	-	-	-	-
 -	turva|hälytin	-	noun	33	tt:t	-	-	-	-
 -	turva|istuin	-	noun	33	-	-	-	-	-
 -	turva|joukko	-	noun	1	kk:k	-	-	-	-
@@ -105708,6 +105732,7 @@
 -	kilo|metri|tehtailija	-	noun	12	-	-	-	jocul	-
 -	kilo|pondi|metri	-	noun	5	-	-	-	dated	-
 -	kilo|watti|tunti	-	noun	5	nt:nn	-	-	-	-
+-	kilpailu|kyky|sopimus	-	noun	39	-	-	-	-	-
 -	kilpailu|yhteis|kunta	-	noun	10	nt:nn	-	-	-	-
 -	kilpa|urheilu|laji	-	noun	5	-	-	-	-	-
 -	kilpi|konnan|luu	-	noun	18	-	-	-	-	-
@@ -106604,6 +106629,7 @@
 -	maa|kunta|sarja	-	noun	9	-	-	-	-	-
 -	maa|kunta|suunnitelma	-	noun	10	-	-	-	-	-
 -	maa|kunta|suunnittelu	-	noun	2	-	-	-	-	-
+-	maa|kunta|uudistus	-	noun	39	-	-	-	-	-
 -	maa|kunta|vaakuna	-	noun	12	-	-	-	-	-
 -	maa|kunta|valtuusto	-	noun	2	-	-	-	-	-
 -	maa|kunta|viesti	-	noun	5	-	-	-	-	-
@@ -108838,6 +108864,7 @@
 -	tarra|nauha|kiinnitys	-	noun	39	-	-	-	-	-
 -	tartari|voi|leipä	-	noun	10	p:v	-	-	-	-
 -	tartar|voi|leipä	-	noun	10	p:v	-	-	-	-
+-	tartunta|tauti|laki	-	noun	5	k:	-	-	-	-
 -	tasa|erä|laina	-	noun	9	-	-	-	-	-
 -	tasa|jalka|hyppely	-	noun	2	-	-	-	-	-
 -	tasa|jalka|hyppy	-	noun	1	pp:p	-	-	-	-
@@ -110332,6 +110359,7 @@
 -	oikeuden|käynti|valta|kirja	-	noun	9	-	-	-	-	-
 -	oikeus|hammas|lääke|tiede	-	noun	48	t:d	-	-	-	-
 -	oikeus|turva|vakuutus|palvelu	-	noun	2	-	-	-	-	-
+-	oikeus|valtio|peri|aate	-	noun	48	tt:t	-	-	-	-
 -	oma|koti|talo|alue	-	noun	48	-	-	-	-	-
 -	opioidi|vieroitus|oire|yhtymä	-	noun	10	-	-	-	-	-
 -	osa|päivä|työn|tekijä	-	noun	12	-	-	-	-	-
@@ -112042,6 +112070,7 @@
 -	joll’|ei	-	conjunction+verb	EI	-	-	-	dated	-
 -	jott|ei	-	conjunction+verb	EI	-	-	-	-	-
 -	jott’|ei	-	conjunction+verb	EI	-	-	-	dated	-
+-	kosk|ei	-	conjunction+verb	EI	-	-	-	rare	-
 -	mutt|ei	-	conjunction+verb	EI	-	-	-	-	-
 -	mutt’|ei	-	conjunction+verb	EI	-	-	-	dated	-
 -	vaikk|ei	-	conjunction+verb	EI	-	-	-	-	-
@@ -122787,7 +122816,6 @@
 -	kone|pestä	-	verb	66	-	-	-	-	-
 -	korkea|kouluttaa	-	verb	53	tt:t	-	-	-	-
 -	korva|merkitä	-	verb	69	-	-	-	-	-
--	kosk|ei	-	verb	EI	-	-	-	rare	-
 -	koto|peräistää	-	verb	53	-	-	-	-	-
 -	kuiva|pestä	-	verb	66	-	-	-	-	-
 -	kuiva|suolata	-	verb	73	-	-	-	-	-

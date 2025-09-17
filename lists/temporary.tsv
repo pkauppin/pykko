@@ -9,12 +9,10 @@
 -	katabolinen	-	adjective	38	-	-	-	-	-
 -	kiharapää	-	adjective	18	-	-	-	-	-
 -	kusipää	-	adjective	18	-	-	-	-	-
--	mikrobistaattinen	-	adjective	38	-	-	-	-	-
 -	omainen	-	adjective	38	-	-	-	-	-
 -	perkutaaninen	-	adjective	38	-	-	-	-	-
 -	rehevähkö	-	adjective	1	-	-	-	-	-
 -	rikkaahko	-	adjective	1	-	-	-	-	-
--	rimppakinttu	-	adjective	1	tt:t	-	-	-	-
 -	rivohko	-	adjective	1	-	-	-	-	-
 -	rohkeahko	-	adjective	1	-	-	-	-	-
 -	rumahko	-	adjective	1	-	-	-	-	-
@@ -113,6 +111,8 @@
 -	etelä|savolainen	-	adjective	38	-	-	-	-	-
 -	huima|pää	-	adjective	18	-	-	-	-	-
 -	juutalais|kristitty	-	adjective	1	tt:t	-	-	-	-
+-	mikrobi|staattinen	-	adjective	38	-	-	-	-	-
+-	rimppa|kinttu	-	adjective	1	tt:t	-	-	-	-
 -	silmin|näkemätön	-	adjective	34	tt:t	-	-	-	-
 -	tuittu|pää	-	adjective	18	-	-	-	-	-
 -	abdominoplastia	-	noun	12	-	-	-	-	-
@@ -141,7 +141,6 @@
 -	akulalia	-	noun	12	-	-	-	-	-
 -	albumoosi	-	noun	5	-	-	-	-	-
 -	aldosteronismi	-	noun	5	-	-	-	-	-
--	aleksanteritekniikka	-	noun	9	kk:k	-	-	-	-
 -	aleksiini	-	noun	5	-	-	-	-	-
 -	algolagnia	-	noun	12	-	-	-	-	-
 -	algometria	-	noun	12	-	-	-	-	-
@@ -164,7 +163,6 @@
 -	ankyloosi	-	noun	5	-	-	-	-	-
 -	annulaatio	-	noun	3	-	-	-	-	-
 -	anonymisointi	-	noun	5	nt:nn	-	-	-	-
--	anonymisointitekniikka	-	noun	9	kk:k	-	-	-	-
 -	antiangiogeneesi	-	noun	5	-	front|back	-	-	-
 -	antiepilepti	-	noun	5	-	front	-	-	-
 -	antikonvulsantti	-	noun	5	tt:t	-	-	-	-
@@ -172,11 +170,9 @@
 -	antitussiivi	-	noun	5	-	-	-	-	-
 -	anuloplastia	-	noun	12	-	-	-	-	-
 -	anuria	-	noun	12	-	-	-	-	-
--	aorttadissekaatio	-	noun	3	-	-	-	-	-
 -	aponeuroosi	-	noun	5	-	-	-	-	-
 -	appendikektomia	-	noun	12	-	-	-	-	-
 -	appendisektomia	-	noun	12	-	-	-	-	-
--	arginiinivasotosiini	-	noun	5	-	-	-	-	-
 -	aritmologia	-	noun	12	-	-	-	-	-
 -	arpeutuminen	-	noun	38	-	-	-	-	-
 -	arteriografia	-	noun	12	-	-	-	-	-
@@ -345,9 +341,9 @@
 -	facialispareesi	-	noun	5	-	-	-	-	-
 -	fakoskleroosi	-	noun	5	-	-	-	-	-
 -	falsifikaatti	-	noun	5	tt:t	-	-	-	-
--	famakogenetiikka	-	noun	9	kk:k	-	-	-	-
 -	famiini	-	noun	5	-	-	-	-	-
 -	farmakoepidemiologia	-	noun	12	-	-	-	-	-
+-	farmakogenetiikka	-	noun	9	kk:k	-	-	-	-
 -	fataliteetti	-	noun	5	tt:t	-	-	-	-
 -	favoriitti	-	noun	5	tt:t	-	-	-	-
 -	fekoliitti	-	noun	5	tt:t	-	-	-	-
@@ -599,7 +595,6 @@
 -	kanylointi	-	noun	5	nt:nn	-	-	-	-
 -	kapillariteetti	-	noun	5	tt:t	-	-	-	-
 -	kapnofiili	-	noun	5	-	front|back	-	-	-
--	kaptopriilirenografia	-	noun	12	-	-	-	-	-
 -	karakterologia	-	noun	12	-	-	-	-	-
 -	kardiogrammi	-	noun	5	-	-	-	-	-
 -	kardiolipiini	-	noun	5	-	-	-	-	-
@@ -806,7 +801,6 @@
 -	mortifikaatio	-	noun	3	-	-	-	-	-
 -	multiplikaatio	-	noun	3	-	-	-	-	-
 -	multisensorisuus	-	noun	40	-	-	-	-	-
--	munapoikivuus	-	noun	40	-	-	-	-	-
 -	murtautuminen	-	noun	38	-	-	-	-	-
 -	musikologi	-	noun	5	-	-	-	-	-
 -	mutabiliteetti	-	noun	5	tt:t	-	-	-	-
@@ -893,7 +887,6 @@
 -	opportuniteetti	-	noun	5	tt:t	-	-	-	-
 -	opsoniini	-	noun	5	-	-	-	-	-
 -	oraatio	-	noun	3	-	-	-	-	-
--	orfenadriinisitraatti	-	noun	5	tt:t	-	-	-	-
 -	orkidektomia	-	noun	12	-	-	-	-	-
 -	ornitofobia	-	noun	12	-	-	-	-	-
 -	ortodoksismi	-	noun	5	-	-	-	-	-
@@ -1082,7 +1075,6 @@
 -	sensualiteetti	-	noun	5	tt:t	-	-	-	-
 -	septaaliablaatio	-	noun	3	-	-	-	-	-
 -	sesessionisti	-	noun	5	-	-	-	-	-
--	sidekudostuminen	-	noun	38	-	-	-	-	-
 -	siderodromofobia	-	noun	12	-	-	-	-	-
 -	siderologia	-	noun	12	-	-	-	-	-
 -	simultagnosia	-	noun	12	-	-	-	-	-
@@ -1124,7 +1116,6 @@
 -	suisidologia	-	noun	12	-	-	-	-	-
 -	summaatio	-	noun	3	-	-	-	-	-
 -	superstitio	-	noun	3	-	-	-	-	-
--	suunpieksijä	-	noun	12	-	-	-	-	-
 -	sveesi	-	noun	5	-	-	-	-	-
 -	syaniini	-	noun	5	-	-	-	-	-
 -	sydänkaterisaatio	-	noun	3	-	-	-	-	-
@@ -1235,19 +1226,26 @@
 -	-pitoisuus	-	noun	40	-	-	-	-	-
 -	-rikko	-	noun	1	kk:k	-	-	-	-
 -	-skopia	-	noun	12	-	-	-	-	-
+-	aleksanteri|tekniikka	-	noun	14	kk:k	-	-	-	-
+-	anonymisointi|tekniikka	-	noun	14	kk:k	-	-	-	-
+-	aortta|dissekaatio	-	noun	3	-	-	-	-	-
+-	arginiini|vasotosiini	-	noun	5	-	-	-	-	-
 -	dihydroergotamiini|mesilaatti	-	noun	5	tt:t	-	-	-	-
 -	ergotamiini|tartraatti	-	noun	5	tt:t	-	-	-	-
 -	glossofaryngeus|neuralgia	-	noun	12	-	-	-	-	-
 -	imeväisyys|kuolleisuus	-	noun	40	-	-	-	-	-
 -	kaiku|enkefalografia	-	noun	12	-	-	-	-	-
 -	kainalo|evakuaatio	-	noun	3	-	-	-	-	-
+-	kaptopriili|renografia	-	noun	12	-	-	-	-	-
 -	katetri|trombolyysi	-	noun	5	-	front|back	-	-	-
 -	kylmä|agglutiniini	-	noun	5	-	-	-	-	-
 -	luonne|vikaisuus	-	noun	40	-	-	-	-	-
 -	läppä|plastia	-	noun	12	-	-	-	-	-
 -	magneetti|enkefalografia	-	noun	12	-	-	-	-	-
 -	magneetti|pelvimetria	-	noun	12	-	-	-	-	-
+-	muna|poikivuus	-	noun	40	-	-	-	-	-
 -	okkipitaali|neuralgia	-	noun	12	-	-	-	-	-
+-	orfenadriini|sitraatti	-	noun	5	tt:t	-	-	-	-
 -	pan|romanttisuus	-	noun	40	-	-	-	-	-
 -	pilot|signaali	-	noun	6	-	-	-	-	-
 -	portlandin|sementti	-	noun	5	tt:t	-	-	-	-
@@ -1255,6 +1253,8 @@
 -	puerperaali|mastiitti	-	noun	5	tt:t	-	-	-	-
 -	puhelin|skatalogia	-	noun	12	-	-	-	-	-
 -	ritsatriptaani|bentsoaatti	-	noun	5	tt:t	-	-	-	-
+-	side|kudostuminen	-	noun	38	-	-	-	-	-
+-	suun|pieksijä	-	noun	12	-	-	-	-	-
 -	tevanake|teollisuus	-	noun	40	-	-	-	-	-
 -	varhais|aktivaatio	-	noun	3	-	-	-	-	-
 -	vermlannin|suomalainen	-	noun	38	-	-	-	-	-
