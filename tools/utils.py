@@ -92,7 +92,7 @@ def analyze(word, only_best=True, normalize_separators=True, ignore_derivatives=
 
 	analyses = []
 	taken = {}
-	for analysis_string, weight in PARSER_FST.lookup(word) or [(unk_result(word), inf)]:
+	for analysis_string, weight in PARSER_FST.lookup(word):
 
 		if normalize_separators:
 			analysis_string = analysis_string.replace('⁅BOUNDARY⁆', '|').replace('⁅HYPHEN⁆', '-')
@@ -120,6 +120,8 @@ def analyze(word, only_best=True, normalize_separators=True, ignore_derivatives=
 
 		filtered.append(analysis)
 		best = weight
+
+	filtered = filtered or [([word] + unk_result(word).split('\t') + [inf])]
 
 	return [tuple(a) for a in filtered]
 

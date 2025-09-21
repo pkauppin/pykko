@@ -34,6 +34,7 @@ LOWERCASE_REGEX = '[' + '|'.join(f'"{c}"' for c in ALPHA_LOWER_BASIC) + ']'
 UPPERCASE_REGEX = '[' + '|'.join(f'"{c}"' for c in ALPHA_UPPER_EXTENDED) + ']'
 PSEUDO_PREFIXES = sorted(set(read_list('fi-prefixes-guesser.txt', directory='lists')))
 PSEUDO_PREFIX_REGEX = '|'.join('{%s}' % pfx for pfx in PSEUDO_PREFIXES)
+C_REGEX = '[' + '|'.join(f'"{c}"' for c in C.strip('][')) + ']'
 
 ROOT = f"""
 !!
@@ -50,6 +51,8 @@ for POS in POS_TAGS:
 	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 {LOWERCASE_REGEX} ?* ]> GUESSER_LOWER_{POS.upper()} ;\n'
 	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 {LOWERCASE_REGEX} ?* ["a"|"e"|"i"|"o"|"u"] ]> GUESSER_LOWER+VA_{POS.upper()} ;\n'
 	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 {LOWERCASE_REGEX} ?* ["ä"|"e"|"i"|"ö"|"y"] ]> GUESSER_LOWER+VÄ_{POS.upper()} ;\n'
+	ROOT += f'<[ "Guesser|CVA":0 "{TAB}":0 {C_REGEX}+ ["a"|"e"|"i"|"o"|"u"] ]> GUESSER_CVA_{POS.upper()} ;\n'
+	ROOT += f'<[ "Guesser|CVA":0 "{TAB}":0 {C_REGEX}+ ["ä"|"e"|"i"|"ö"|"y"] ]> GUESSER_CVÄ_{POS.upper()} ;\n'
 
 ROOT += f"""!!
 !! Compounding and prefixing
@@ -268,7 +271,7 @@ def read_words():
 		'temporary.tsv', # FIXME!
 	]
 	filenames += glob(os.path.join(scripts_path, '..', 'lists', 'gaz-*.tsv'))
-	# filenames = ['_temp.tsv']
+	filenames = ['guesser.tsv']
 	rows = [row for filename in filenames for row in read_tsv(filename, directory='lists')]
 
 	for row in tqdm(rows):
@@ -283,7 +286,7 @@ def read_words():
 	add_auxiliary_lexica()
 
 	# Add irregular and defective words
-	add_irregular_and_defective_words()
+	# add_irregular_and_defective_words()
 
 	print('Done.')
 

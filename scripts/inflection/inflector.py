@@ -9,6 +9,7 @@ from scripts.inflection.utils import \
 from scripts.utils import ADVERB_INFLECTIONS, clean, determine_wordform_harmony, determine_lemma_vowel_harmony
 from scripts.inflection.verb_derivations import derive_agent_noun, derive_action_noun
 
+
 def get_comparison(adjective, inflections, kotus_class=''):
 
 	"""
@@ -590,6 +591,21 @@ def inflect_noun(word, kotus_class, gradtype, harmony, vowel=None):
 		all_forms['pl|ine'] = [f"{tau}iss{a}"]
 		all_forms['sg|ess'] = [f"{tau}n{a}"]
 		all_forms['pl|ess'] = [f"{tau}in{a}"]
+
+	# "Zeus"
+	elif kotus_class == "18S":
+		zeu = word[:-1]
+		hun = f'h{word[-1]}n'
+		#
+		all_forms['sg|gen'] = [f"{zeu}n"]
+		all_forms['sg|par'] = [f"{zeu}t{a}"]
+		all_forms['sg|ill'] = [f"{zeu}{hun}"]
+		all_forms['pl|gen'] = [f"{zeu}iden", f"{zeu}itten", f"{zeu}jen"]
+		all_forms['pl|par'] = [f"{zeu}it{a}", f"{zeu}j{a}"]
+		all_forms['pl|ill'] = [f"{zeu}ihin"]
+		all_forms['pl|ine'] = [f"{zeu}iss{a}"]
+		all_forms['sg|ess'] = [f"{zeu}n{a}"]
+		all_forms['pl|ess'] = [f"{zeu}in{a}"]
 
 	# "DNA"
 	elif kotus_class == "18B":

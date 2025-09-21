@@ -1,75 +1,86 @@
 {
-  "___attiin": [
-	["___att", "noun", "+sg+ill"],
-	["___ata", "verb", "+pass+past"],
-	["___atti", "noun", "+sg+ill"]
+  "xxxattiin": [
+	["xxxatt", "noun", "+sg+ill"],
+	["xxxatti", "noun", "+sg+ill"],
+	["xxxattii", "noun", "+sg+gen"]
   ],
-  "___llistää": [
-   	["___llistää", "verb", "+inf1"],
-	["___llistää", "verb", "+pres+3sg"]
+  "xxxllistää": [
+	["xxxllistä", "noun", "+sg+par"],
+	["xxxllistää", "verb", "+pres+3sg"],
+	["xxxllistää", "noun", "+sg+nom"],
+	["xxxllistää", "verb", "+inf1"]
   ],
-  "___logia": [
-    ["___logi", "noun", "+sg+par"],
-    ["___logia", "noun", "+sg+nom"]
+  "xxxellistä": [
+    ["xxxellistää", "verb", "+imper+2sg"],
+	["xxxellistää", "verb", "+pres+conneg"],
+    ["xxxellistää", "verb", "+imper+2sg+conneg"],
+	["xxxellinen", "adjective", "+sg+par"],
+	["xxxellinen", "noun", "+sg+par"],
+	["xxxelli", "noun", "+sg+ela"],
+	["xxxell", "noun", "+sg+ela"]
   ],
-  "___logiaa": [
-    ["___logia", "noun", "+sg+par"]
+  "xxxlogia": [
+    ["xxxlogi", "noun", "+sg+par"],
+	["xxxlogia", "noun", "+sg+nom"]
   ],
-  "___logiaan": [
-    ["___logi", "noun", "+sg+par+poss3"],
-    ["___logia", "noun", "+sg+ill"]
+  "xxxlogiaa": [
+	["xxxlogia", "noun", "+sg+par"]
   ],
-  "___logiin": [
-    ["___logi", "noun", "+sg+ill"]
+  "xxxlogiaan": [
+    ["xxxlogi", "noun", "+sg+par+poss3"],
+	["xxxlogia", "noun", "+sg+ill"]
   ],
-  "___oin": [
-    ["___oida", "verb", "+past+1sg"],
-    ["___oida", "verb", "+pres+1sg"]
+  "xxxlogiin": [
+    ["xxxlogi", "noun", "+sg+ill"]
   ],
-  "___oidaan": [
-    ["___oida", "verb", "+pass+pres"]
+  "xxxoin": [
+    ["xxxoida", "verb", "+past+1sg"],
+    ["xxxoida", "verb", "+pres+1sg"]
   ],
-  "___oitaisiin": [
-    ["___oida", "verb", "+pass+cond"]
+  "xxxoidaan": [
+    ["xxxoida", "verb", "+pass+pres"]
   ],
-  "___isuus": [
-    ["___isuus", "noun", "+sg+nom"]
+  "xxxoitaisiin": [
+    ["xxxoida", "verb", "+pass+cond"]
   ],
-  "___isuuden": [
-    ["___isuus", "noun", "+sg+gen"]
+  "xxxisuus": [
+    ["xxxisuus", "noun", "+sg+nom"]
   ],
-  "___isuutta": [
-    ["___isuus", "noun", "+sg+par"]
+  "xxxisuuden": [
+    ["xxxisuus", "noun", "+sg+gen"]
   ],
-  "___llisen": [
-    ["___llinen", "adjective", "+sg+gen"]
+  "xxxisuutta": [
+    ["xxxisuus", "noun", "+sg+par"]
   ],
-  "___isen": [
-    ["___inen", "adjective", "+sg+gen"]
+  "xxxllisen": [
+    ["xxxllinen", "adjective", "+sg+gen"]
   ],
-  "___npuoleinen": [
-    ["___n|puoleinen", "adjective", "+sg+nom"]
+  "xxxisen": [
+    ["xxxinen", "adjective", "+sg+gen"]
   ],
-  "___voittoinen": [
-    ["___|voittoinen", "adjective", "+sg+nom"]
+  "xxxnpuoleinen": [
+    ["xxxn|puoleinen", "adjective", "+sg+nom"]
   ],
-  "___ikattiin": [
-	["___ikata", "verb", "+pass+past"]
+  "xxxvoittoinen": [
+    ["xxx|voittoinen", "adjective", "+sg+nom"]
   ],
-  "___ikkasin": [
-	["___ikata", "verb", "+past+1sg"]
+  "xxxikattiin": [
+	["xxxikata", "verb", "+pass+past"]
   ],
-  "___aalisuuden": [
-    ["___aalisuus", "noun", "+sg+gen"]
+  "xxxikkasin": [
+	["xxxikata", "verb", "+past+1sg"]
   ],
-  "___aalisuutta": [
-    ["___aalisuus", "noun", "+sg+par"]
+  "xxxaalisuuden": [
+    ["xxxaalisuus", "noun", "+sg+gen"]
   ],
-  "___alinen": [
-    ["___alinen", "adjective", "+sg+nom"]
+  "xxxaalisuutta": [
+    ["xxxaalisuus", "noun", "+sg+par"]
   ],
-  "___alisen": [
-    ["___alinen", "adjective", "+sg+gen"]
+  "xxxalinen": [
+    ["xxxalinen", "adjective", "+sg+nom"]
+  ],
+  "xxxalisen": [
+    ["xxxalinen", "adjective", "+sg+gen"]
   ],
   "Xxxbergissä": [
     ["Xxxberg", "proper", "+sg+ine"]

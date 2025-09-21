@@ -67,6 +67,7 @@ def has_mutation(stem1, stem2):
 			return seg1, seg2, seg3, seg4
 		if stem1.startswith(seg4) and stem2.startswith(seg3):
 			return seg2, seg1, seg4, seg3
+	return False
 
 
 STYLE_TAGS = [

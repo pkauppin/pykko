@@ -93,6 +93,7 @@ def determine_separator(w1, w2, default='0', strip_zeros=True):
 def get_parts(lemma):
 	return re.findall(r'[^-|% ]+[-|% ]?', lemma) or [lemma]
 
+
 def get_base_lemma(lemma):
 	return get_parts(lemma)[-1]
 
