@@ -74,6 +74,7 @@ def text2tokens(text):
 		separated = head + tail[::-1]
 		return separated
 
+	text = re.sub('^( *[-–—])([A-ZÅÄÖ])', r'\1 \2', text)
 	text = f' {text} '
 	text = re.sub(rf'({REGEX_XML_ELEM})', r' \1 ', text)
 	text = text.replace('\n\n', f' {LINE_BREAK} ')

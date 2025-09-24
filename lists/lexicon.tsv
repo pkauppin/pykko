@@ -360,6 +360,7 @@
 -	astmaattinen	-	adjective	38	-	back	-	-	-
 -	astmainen	-	adjective	38	-	back	-	-	-
 -	astraalinen	-	adjective	38	-	back	-	-	-
+-	astrofyysinen	-	adjective	38	-	-	-	-	-
 -	astrologinen	-	adjective	38	-	back	-	-	-
 -	astronominen	-	adjective	38	-	back	-	-	-
 -	asumaton	-	adjective	34	tt:t	back	-	-	-
@@ -14837,6 +14838,8 @@
 -	välistä	-	adposition	-	-	-	-	-	-
 -	välitse	-	adposition	-	-	-	-	-	-
 -	välityksellä	-	adposition	-	-	-	-	-	-
+-	völjyssä	-	adposition	-	-	-	-	dial	-
+-	völjyyn	-	adposition	-	-	-	-	dial	-
 -	ylettyville	-	adposition	-	-	-	-	-	-
 -	ylettyvillä	-	adposition	-	-	-	-	-	-
 -	ylettyviltä	-	adposition	-	-	-	-	-	-
@@ -19517,6 +19520,8 @@
 -	väärälleen	-	adverb	-	-	-	-	+poss	-
 -	väärällään	-	adverb	-	-	-	-	+poss	-
 -	väärässä	-	adverb	-	-	-	-	-	-
+-	völjyssä	-	adverb	-	-	-	-	dial	-
+-	völjyyn	-	adverb	-	-	-	-	dial	-
 -	yhdessä	-	adverb	-	-	-	-	-	-
 -	yhdesti	-	adverb	-	-	-	-	-	-
 -	yhteen	-	adverb	-	-	-	-	-	-
@@ -41319,6 +41324,7 @@
 -	psykedeeli	-	noun	5	-	front	-	-	-
 -	psykiatri	-	noun	5	-	back	-	-	-
 -	psykiatria	-	noun	12	-	back	-	-	-
+-	psyko	-	noun	1	-	-	-	slang	-
 -	psykoanalyysi	-	noun	5	-	front|back	-	-	-
 -	psykoanalyytikko	-	noun	4	kk:k	-	-	-	-
 -	psykobiologia	-	noun	12	-	-	-	-	-
@@ -44511,6 +44517,7 @@
 -	sheriffi	-	noun	5	-	front	-	-	-
 -	sherpa	-	noun	9	-	-	-	-	-
 -	sherry	-	noun	1	-	front	-	-	-
+-	shettis	-	noun	39	-	-	-	slang	-
 -	shialainen	-	noun	38	-	-	-	nstd	1.000
 -	shiatsu	-	noun	2	-	-	-	-	-
 -	shiba	-	noun	9	-	-	-	-	-
@@ -51159,6 +51166,7 @@
 -	800-luku	-	noun	1	k:v	-	-	-	-
 -	90-luku	-	noun	1	k:v	-	-	-	-
 -	900-luku	-	noun	1	k:v	-	-	-	-
+-	A-olut	-	noun	43	-	-	-	-	-
 -	A-pylväs	-	noun	41	-	-	-	-	-
 -	A-vitamiini	-	noun	5	-	-	-	-	-
 -	AA-liike	-	noun	48	kk:k	-	-	-	-
@@ -51278,11 +51286,14 @@
 -	HSO-sihteeri	-	noun	6	-	-	-	-	-
 -	HTML-kieli	-	noun	26	-	-	-	-	-
 -	Holter-tutkimus	-	noun	39	-	-	-	-	-
+-	I-olut	-	noun	43	-	-	-	-	-
 -	I-palkki	-	noun	5	kk:k	-	-	-	-
 -	I-teräs	-	noun	39	-	-	-	-	-
 -	IC-piiri	-	noun	5	-	-	-	-	-
 -	ICT-johtaja	-	noun	10	-	-	-	-	-
 -	ICT-palvelu	-	noun	2	-	-	-	-	-
+-	II-olut	-	noun	43	-	-	-	-	-
+-	III-olut	-	noun	43	-	-	-	-	-
 -	INR-arvo	-	noun	1	-	-	-	-	-
 -	INR-tavoite	-	noun	48	tt:t	-	-	-	-
 -	IP-osoite	-	noun	48	tt:t	-	-	-	-
@@ -51293,6 +51304,7 @@
 -	IT-sihteeri	-	noun	6	-	-	-	-	-
 -	IT-teknikko	-	noun	4	kk:k	-	-	-	-
 -	ITE-taide	-	noun	48	t:d	-	-	-	-
+-	IV-olut	-	noun	43	-	-	-	-	-
 -	IV-suunnitelma	-	noun	10	-	-	-	-	-
 -	Internet-kahvila	-	noun	12	-	-	-	-	-
 -	Ishihara-testi	-	noun	5	-	-	-	-	-
@@ -52446,6 +52458,7 @@
 -	go-go-tyttö	-	noun	1	tt:t	-	-	-	-
 -	herne-maissi-paprika	-	noun	12	-	-	-	-	-
 -	herne-maissi-porkkana	-	noun	12	-	-	-	-	-
+-	hole-in-one	-	noun	8	-	-	-	foreign	-
 -	off-piste-laskettelu	-	noun	2	-	-	-	-	-
 -	on-demand-painatus	-	noun	39	-	-	-	-	-
 -	pin-up-tyttö	-	noun	1	tt:t	-	-	-	-

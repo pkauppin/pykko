@@ -60,8 +60,8 @@ def process_analyses(analyses, sentence_initial=None):
 		# if '+ins' in tags or '+com' in tags:
 		# 	weight += 0.5
 
-		# if not sentence_initial:
-		# 	lemma = fix_lettercase(wform, lemma)
+		if not sentence_initial and is_uppercase(wform) and is_lowercase(lemma) and pos.startswith('noun'):
+			lemma = fix_lettercase(wform, lemma)
 
 		index = indices[lemma, pos] or inf
 		pair = weight, index

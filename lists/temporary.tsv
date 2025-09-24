@@ -30,11 +30,14 @@
 -	vastattava	-	adjective	10	-	-	-	-	-
 -	vesikulaarinen	-	adjective	38	-	-	-	-	-
 -	väärennetty	-	adjective	1	tt:t	-	-	-	-
+-	-aiheinen	-	adjective	38	-	-	-	-	-
 -	-henkinen	-	adjective	38	-	-	-	-	-
 -	-ilmeinen	-	adjective	38	-	-	-	-	-
 -	-karvainen	-	adjective	38	-	-	-	-	-
+-	-kertainen	-	adjective	38	-	-	-	-	-
 -	-kielinen	-	adjective	38	-	-	-	-	-
 -	-kohtainen	-	adjective	38	-	-	-	-	-
+-	-luokkalainen	-	adjective	38	-	-	-	-	-
 -	-mainen	-	adjective	38	-	-	-	-	-
 -	-makuinen	-	adjective	38	-	-	-	-	-
 -	-miehinen	-	adjective	38	-	-	-	-	-
@@ -1222,6 +1225,7 @@
 -	zoosemiotiikka	-	noun	9	kk:k	-	-	-	-
 -	älyllistäminen	-	noun	38	-	-	-	-	-
 -	äänteistö	-	noun	2	-	-	-	-	-
+-	-luokkalainen	-	noun	38	-	-	-	-	-
 -	-niekka	-	noun	9	kk:k	-	-	-	-
 -	-pitoisuus	-	noun	40	-	-	-	-	-
 -	-rikko	-	noun	1	kk:k	-	-	-	-
