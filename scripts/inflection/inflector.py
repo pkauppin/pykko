@@ -6,7 +6,8 @@ from scripts.inflection.utils import \
 	grad_strong, grad_weak, \
 	HARMONY_MAPPING, determine_stem_vowel, \
 	plural2singular, merge_inflections
-from scripts.utils import ADVERB_INFLECTIONS, clean, determine_wordform_harmony, determine_lemma_vowel_harmony
+from scripts.utils import ADVERB_INFLECTIONS, clean, determine_wordform_harmony, determine_lemma_vowel_harmony, \
+	is_valid_pos
 from scripts.inflection.verb_derivations import derive_agent_noun, derive_action_noun
 
 
@@ -1298,7 +1299,7 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 	all_forms['inf1'] = [word]
 
 	# "olla"
-	if word == "olla":          # 'olla'
+	if word == "olla":
 		all_forms['pres|1sg'] = ["olen"]
 		all_forms['pres|3sg'] = ["on"]
 		all_forms['past|1sg'] = ["olin"]
@@ -1310,6 +1311,21 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 		all_forms['pass|past'] = ["oltiin"]
 		all_forms['part_ma'] = ["olema"]
 		all_forms['pass|pres'] = ["ollaan"]
+
+	# "lienee" (alternative analyses)
+	elif word == "lienee":
+		all_forms['pres|1sg'] = ["lienen"]
+		all_forms['pres|3sg'] = ["lienee"]
+		all_forms['past|1sg|nstd'] = ["lienin"]
+		all_forms['past|3sg|nstd'] = ["lieni"]
+		all_forms['cond|3sg|nstd'] = ["lienisi"]
+		all_forms['poten|3sg'] = []
+		all_forms['imper|3sg'] = []
+		all_forms['part_past'] = []
+		all_forms['pass|past'] = []
+		all_forms['part_ma'] = []
+		all_forms['pass|pres'] = []
+		all_forms['inf1'] = []
 
 	# "sanoa"
 	elif kotus_class == "52":
@@ -1783,7 +1799,6 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 		all_forms['cond|3sg'] = [f"{kaika}isi"]
 		all_forms['cond|3pl'] = [f"{kaika}isiv{a}t"]
 		all_forms['part_past|rare'] = [f"{kaika}n{u}t"]
-		all_forms['inf1'] = [word]
 
 	# "erkanee"
 	elif kotus_class == "ERKANEE":
@@ -1843,8 +1858,10 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 			all_forms[f'pres|2sg{style}'] += [f"{jaa}t"]
 			all_forms[f'pres|1pl{style}'] += [f"{jaa}mme"]
 			all_forms[f'pres|2pl{style}'] += [f"{jaa}tte"]
-			all_forms[f'imper|2sg{style}'] += [f"{jaa}"]
 			all_forms[f'pres|conneg{style}'] += [f"{jaa}"]
+			if word == 'lienee':
+				continue
+			all_forms[f'imper|2sg{style}'] += [f"{jaa}"]
 			all_forms[f'imper|2sg|conneg{style}'] += [f"{jaa}"]
 
 		for jaoi in [f[:-1] for f in all_forms[f'past|1sg{style}']]:
@@ -1929,7 +1946,6 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 		all_forms['poten|3sg|poet'] = ['lie']
 
 	# Verb type "erkanee" does not actually have this participle
-	# TODO: Dubious?
 	if kotus_class == 'ERKANEE':
 		all_forms['part_ma'] = []
 
@@ -2025,13 +2041,16 @@ def inflect(word, pos, kotus_class=None, gradation=None, harmony=None, vowel=Non
 	if not pos:
 		return {}
 
+	if pos != 'noun|adjective' and not is_valid_pos(pos):
+		return {}
+
 	kotus_class = kotus_class or ''
 	gradation = gradation or ''
 	harmony = harmony or determine_lemma_vowel_harmony(word)
 	info = info or ''
 
 	# TODO: Add patching function to adjust inflections of individual words
-	# TODO: More elegant handling of dialectal/rare/nonstandard inflections
+	# TODO: More elegant handling of dialectal/rare/nonstandard inflection types
 
 	if '|' in kotus_class:
 		class1, class2 = kotus_class.split('|')
@@ -2091,8 +2110,6 @@ def inflect(word, pos, kotus_class=None, gradation=None, harmony=None, vowel=Non
 		return inflect_noun(word, kotus_class, gradation, harmony, vowel)
 	elif pos == 'participle':
 		return inflect_noun(word, kotus_class, gradation, harmony, vowel)
-	else:
-		'???'
 
 	return {'': [word], '@base': [word]}
 

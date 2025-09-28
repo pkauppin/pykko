@@ -1,4 +1,4 @@
-data = [
+data_placenames = [
 	# "Akaa"
 	(('Akaa', 'proper', '', '+sg+gen'), ['Akaan']),
 	(('Akaa', 'proper', '', '+sg+ill'), ['Akaaseen']),

@@ -950,6 +950,7 @@
     ["suunnattu", "participle", "+sg+gen"]
   ],
   "taiteilijuuteen": [
+    ["taiteilijuus", "noun", "+sg+ill"]
   ],
   "taivutuksineen": [
     ["taivutus", "noun", "+pl+com+poss3"]

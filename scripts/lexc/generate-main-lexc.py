@@ -69,9 +69,9 @@ ROOT += f"""!!
 <[ "Lexicon|Hyp":0 "{TAB}":0 ?* "⁅HYPHEN⁆":"-" ]::2.0 > ADJECTIVE ;
 <[ "Lexicon|Hyp":0 "{TAB}":0 ?* "⁅HYPHEN⁆":"-" ]::2.0 > ADVERB ;
 <[ "Lexicon|Hyp+Pfx":0 "{TAB}":0 ?* "⁅HYPHEN⁆":"-" ]::3.0 > NOUN_PFX ;
-<[ "Lexicon|Gfx":0 "{TAB}":0 ?+ [{PSEUDO_PREFIX_REGEX}] "|":0 ]::4.0 > NOUN ;
-<[ "Lexicon|Gfx":0 "{TAB}":0 ?+ [{PSEUDO_PREFIX_REGEX}] "|":0 ]::4.0 > NOUN-PL ;
-<[ "Lexicon|Gfx+Pfx":0 "{TAB}":0 ?+ [{PSEUDO_PREFIX_REGEX}] "|":0 ]::4.0 > NOUN_PFX ;
+<[ "Lexicon|Gfx":0 "{TAB}":0 ?+ [{PSEUDO_PREFIX_REGEX}] "|":0 ]::11.0 > NOUN ;
+<[ "Lexicon|Gfx":0 "{TAB}":0 ?+ [{PSEUDO_PREFIX_REGEX}] "|":0 ]::11.0 > NOUN-PL ;
+<[ "Lexicon|Gfx+Pfx":0 "{TAB}":0 ?+ [{PSEUDO_PREFIX_REGEX}] "|":0 ]::11.0 > NOUN_PFX ;
 !!
 !! Generated numerals & ordinals
 <[ "Lexicon|Num":0 "{TAB}":0 ]> NUMERAL_AUX ;
@@ -271,7 +271,6 @@ def read_words():
 		'temporary.tsv', # FIXME!
 	]
 	filenames += glob(os.path.join(scripts_path, '..', 'lists', 'gaz-*.tsv'))
-	#filenames = ['guesser.tsv']
 	rows = [row for filename in filenames for row in read_tsv(filename, directory='lists')]
 
 	for row in tqdm(rows):

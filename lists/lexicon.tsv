@@ -5077,6 +5077,7 @@
 -	polttava	-	adjective	10	-	back	-	-	-
 -	polyamorinen	-	adjective	38	-	back	-	-	-
 -	polyandrinen	-	adjective	38	-	-	-	-	-
+-	polyfaginen	-	adjective	38	-	-	-	-	-
 -	polyfoninen	-	adjective	38	-	back	-	-	-
 -	polygaaminen	-	adjective	38	-	back	-	-	-
 -	polygeneettinen	-	adjective	38	-	front|back	-	-	-
@@ -10521,6 +10522,7 @@
 -	malvan|värinen	-	adjective	38	-	-	-	-	-
 -	mannerten|välinen	-	adjective	38	-	-	-	-	-
 -	manner|kiinalainen	-	adjective	38	-	-	-	-	-
+-	manner|maalainen	-	adjective	38	-	-	-	-	-
 -	manner|mainen	-	adjective	38	-	-	-	-	-
 -	mansikan|punainen	-	adjective	38	-	-	-	-	-
 -	manteli|silmäinen	-	adjective	38	-	-	-	-	-
@@ -11060,6 +11062,7 @@
 -	oikeuden|tuntoinen	-	adjective	38	-	-	-	-	-
 -	oikeuden|vastainen	-	adjective	38	-	-	-	-	-
 -	oikeus|kelpoinen	-	adjective	38	-	-	-	-	-
+-	oikeus|poliittinen	-	adjective	38	-	-	-	-	-
 -	oikeus|tieteellinen	-	adjective	38	-	-	-	-	-
 -	oikeus|voimainen	-	adjective	38	-	-	-	-	-
 -	oireen|mukainen	-	adjective	38	-	-	-	-	-
@@ -17532,6 +17535,7 @@
 -	perinteisesti	-	adverb	-	-	-	-	-	-
 -	periodeittain	-	adverb	-	-	-	-	-	-
 -	periodisesti	-	adverb	-	-	-	-	-	-
+-	perjaatteessa	-	adverb	-	-	-	-	nstd	-
 -	perjantaisin	-	adverb	-	-	-	-	-	-
 -	perkeleesti	-	adverb	-	-	-	-	coll	-
 -	persoonallisesti	-	adverb	-	-	-	-	-	-
@@ -25177,6 +25181,7 @@
 -	ehdottomuus	-	noun	40	-	back	-	-	-
 -	ehdotus	-	noun	39	-	back	-	-	-
 -	eheys	-	noun	40	-	front	-	-	-
+-	eheyttäminen	-	noun	38	-	-	-	-	-
 -	eheytys	-	noun	39	-	front	-	-	-
 -	ehiö	-	noun	3	-	front	-	-	-
 -	ehjyys	-	noun	40	-	front	-	-	-
@@ -30383,6 +30388,7 @@
 -	kallikka	-	noun	14	kk:k	-	-	-	-
 -	kallio	-	noun	3	-	back	-	-	-
 -	kallioinen	-	noun	38	-	back	-	-	-
+-	kallistaminen	-	noun	38	-	-	-	-	-
 -	kallistelu	-	noun	2	-	back	-	-	-
 -	kallistuma	-	noun	10	-	back	-	-	-
 -	kallistus	-	noun	39	-	back	-	-	-
@@ -36723,7 +36729,7 @@
 -	mikrohematuria	-	noun	12	-	-	-	-	-
 -	mikrokefalia	-	noun	12	-	-	-	-	-
 -	mikrokliini	-	noun	5	-	-	-	-	-
--	mikrometri	2	noun	5	-	front|back	-	-	-
+-	mikrometri	-	noun	5	-	front|back	-	-	-
 -	mikronesialainen	-	noun	38	-	-	-	-	-
 -	mikroni	-	noun	5	-	back	-	-	-
 -	mikroproteinuria	-	noun	12	-	-	-	-	-
@@ -38360,6 +38366,7 @@
 -	nuora	-	noun	10	-	back	-	-	-
 -	nuorekkuus	-	noun	40	-	back	-	-	-
 -	nuorennus	-	noun	39	-	back	-	-	-
+-	nuorentuminen	-	noun	38	-	-	-	-	-
 -	nuori	-	noun	26	-	back	-	-	-
 -	nuorikko	-	noun	4	kk:k	back	-	-	-
 -	nuorimmainen	-	noun	38	-	-	-	-	-
@@ -38446,6 +38453,7 @@
 -	nypylä	-	noun	12	-	front	-	-	-
 -	nyreys	-	noun	40	-	front	-	-	-
 -	nyrjähdys	-	noun	39	-	front	-	-	-
+-	nyrkillinen	-	noun	38	-	-	-	-	-
 -	nyrkkeilijä	-	noun	12	-	front	-	-	-
 -	nyrkkeily	-	noun	2	-	front	-	-	-
 -	nyrkki	-	noun	5	kk:k	front	-	-	-
@@ -38476,6 +38484,7 @@
 -	nähtävyys	-	noun	40	-	front	-	-	-
 -	nähtävä	-	noun	10	-	-	-	-	-
 -	näin	-	noun	33	k:	-	-	rare	-
+-	näivettyminen	-	noun	38	-	-	-	-	-
 -	näivetys	-	noun	39	-	front	-	-	-
 -	näkeminen	-	noun	38	-	-	-	-	-
 -	näkemys	-	noun	39	-	front	-	-	-
@@ -40035,6 +40044,7 @@
 -	peristaltiikka	-	noun	9	kk:k	back	-	-	-
 -	peritendiniitti	-	noun	5	tt:t	-	-	-	-
 -	peritoniitti	-	noun	5	tt:t	-	-	-	-
+-	perjaate	-	noun	48	tt:t	-	-	nstd	-
 -	perjantai	-	noun	18	-	back	-	-	-
 -	perkaaja	-	noun	10	-	back	-	-	-
 -	perkaus	-	noun	39	-	back	-	-	-
@@ -43862,6 +43872,7 @@
 -	sameus	-	noun	40	-	back	-	-	-
 -	samia	-	noun	12	-	-	-	-	-
 -	samizdat	-	noun	5	-	-	-	foreign	-
+-	sammahtaminen	-	noun	38	-	-	-	-	-
 -	sammakko	-	noun	4	kk:k	back	-	-	-
 -	sammal	-	noun	49	-	back	-	-	-
 -	sammale	-	noun	49b	-	-	-	rare	1.000
@@ -45163,6 +45174,7 @@
 -	soinnittomuus	-	noun	40	-	back	-	-	-
 -	soinnukkuus	-	noun	40	-	back	-	-	-
 -	soinnullisuus	-	noun	40	-	back	-	-	-
+-	soinnuttaminen	-	noun	38	-	-	-	-	-
 -	soinnutus	-	noun	39	-	back	-	-	-
 -	sointi	-	noun	5	nt:nn	back	-	-	-
 -	sointu	-	noun	1	nt:nn	back	-	-	-
@@ -46659,6 +46671,7 @@
 -	taiteellisuus	-	noun	40	-	back	-	-	-
 -	taiteilija	-	noun	12	-	back	-	-	-
 -	taiteilijatar	-	noun	32	tt:t	back	-	-	-
+-	taiteilijuus	-	noun	40	-	-	-	-	-
 -	taiteilu	-	noun	2	-	back	-	-	-
 -	taito	-	noun	1	t:d	back	-	-	-
 -	taitos	-	noun	39	-	back	-	-	-
@@ -48593,6 +48606,7 @@
 -	tyytyväisyys	-	noun	40	-	front	-	-	-
 -	työ	-	noun	19	-	front	-	-	-
 -	työkkäri	-	noun	6	-	front	-	coll	-
+-	työllinen	-	noun	38	-	-	-	-	-
 -	työllistettävyys	-	noun	40	-	-	-	-	-
 -	työllistys	-	noun	39	-	front	-	-	-
 -	työllistäjä	-	noun	10	-	-	-	-	-
@@ -58752,6 +58766,7 @@
 -	hokkuspokkus|temppu	-	noun	1	pp:p	-	-	-	-
 -	holding|yhtiö	-	noun	3	-	-	-	-	-
 -	holhooja|hallitus	-	noun	39	-	-	-	-	-
+-	holhouksen|alainen	-	noun	38	-	-	-	-	-
 -	holhous|laki	-	noun	5	k:	-	-	-	-
 -	holhous|valtio	-	noun	3	-	-	-	-	-
 -	holkki|hiha	-	noun	9	-	-	-	-	-
@@ -69228,6 +69243,7 @@
 -	kuusi|tahokas	-	noun	41	kk:k	-	-	-	-
 -	kuusi|tiainen	-	noun	38	-	-	-	-	-
 -	kuusi|tukki	-	noun	5	kk:k	-	-	-	-
+-	kuusi|tuumainen	-	noun	38	-	-	-	rare	-
 -	kuusi|vuotias	-	noun	39	-	-	-	-	-
 -	kuus|jokelainen	-	noun	38	-	-	-	-	-
 -	kuutamo|keikka	-	noun	9	kk:k	-	-	coll	-
@@ -73575,6 +73591,7 @@
 -	lyhyt|pinnaisuus	-	noun	40	-	-	-	-	-
 -	lyhyt|proosa	-	noun	10	-	-	-	-	-
 -	lyhyt|sanaisuus	-	noun	40	-	-	-	-	-
+-	lyhyt|siipinen	-	noun	38	-	-	-	usually-pl	-
 -	lyhyt|sulku	-	noun	1	k:	-	-	-	-
 -	lyhyt|tanssi	-	noun	5	-	-	-	-	-
 -	lyhyt|tavara	-	noun	12	-	-	-	dated	-
@@ -76235,7 +76252,7 @@
 -	mikro|lisäys	-	noun	39	-	-	-	-	-
 -	mikro|luokka	-	noun	10	kk:k	-	-	-	-
 -	mikro|luotto	-	noun	1	tt:t	-	-	-	-
--	mikro|metri	1	noun	5	-	-	-	-	-
+-	mikro|metri	-	noun	5	-	-	-	-	-
 -	mikro|muovi	-	noun	5	-	-	-	-	-
 -	mikro|piiri	-	noun	5	-	-	-	-	-
 -	mikro|popcorn	-	noun	5	-	-	-	-	-
@@ -79562,6 +79579,7 @@
 -	ontelo|laatta	-	noun	9	tt:t	-	-	-	-
 -	ontelo|syylä	-	noun	10	-	-	-	-	-
 -	ontto|laskimo	-	noun	2	-	-	-	-	-
+-	ontto|sarvinen	-	noun	38	-	-	-	usually-pl	-
 -	oopiumin|polttaja	-	noun	10	-	-	-	-	-
 -	oopiumi|alkaloidi	-	noun	5	-	-	-	-	-
 -	oopiumi|humala	-	noun	10|11	-	-	-	-	-
@@ -91975,6 +91993,7 @@
 -	suora|pankki	-	noun	5	kk:k	-	-	-	-
 -	suora|saanti	-	noun	5	nt:nn	-	-	-	-
 -	suora|selkäisyys	-	noun	40	-	-	-	-	-
+-	suora|siipinen	-	noun	38	-	-	-	usually-pl	-
 -	suora|suihkutus	-	noun	39	-	-	-	-	-
 -	suora|sukaisuus	-	noun	40	-	-	-	-	-
 -	suora|suu	-	noun	18	-	-	-	-	-
@@ -92193,6 +92212,7 @@
 -	suuri|sanaisuus	-	noun	40	-	-	-	-	-
 -	suuri|suisuus	-	noun	40	-	-	-	-	-
 -	suuri|suuntaisuus	-	noun	40	-	-	-	-	-
+-	suuri|tuloinen	-	noun	38	-	-	-	-	-
 -	suuri|töisyys	-	noun	40	-	-	-	-	-
 -	suuri|äänisyys	-	noun	40	-	-	-	-	-
 -	suuruuden|hulluus	-	noun	40	-	-	-	-	-
@@ -100317,6 +100337,7 @@
 -	verkko|ryhmä	-	noun	10	-	-	-	-	-
 -	verkko|selain	-	noun	33	-	-	-	-	-
 -	verkko|seminaari	-	noun	5	-	-	-	-	-
+-	verkko|siipinen	-	noun	38	-	-	-	usually-pl	-
 -	verkko|silmä	-	noun	10	-	-	-	-	-
 -	verkko|sisältö	-	noun	1	lt:ll	-	-	-	-
 -	verkko|sivu	-	noun	1	-	-	-	-	-
@@ -116117,6 +116138,7 @@
 -	liekittää	-	verb	53	tt:t	front	-	-	-
 -	liekutella	-	verb	67	tt:t	back	-	-	-
 -	liekuttaa	-	verb	53	tt:t	back	-	-	-
+-	lienee	-	verb	LIENEE	-	-	-	-	-
 -	liennyttää	-	verb	53	tt:t	front	-	-	-
 -	lientyä	-	verb	52	nt:nn	front	-	-	-
 -	lientää	-	verb	54	nt:nn	front	-	poet	-

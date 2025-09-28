@@ -32,8 +32,8 @@ def get_base(word):
 def read_lemmas():
 	lemmas = {}
 	for row in \
-		read_list_tsv('lexicon.tsv') + \
-		read_list_tsv('guesser.tsv'):
+		list(read_list_tsv('lexicon.tsv')) + \
+		list(read_list_tsv('guesser.tsv')):
 
 		if len(row) != 10:
 			continue

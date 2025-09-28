@@ -1,14 +1,13 @@
 {
   "xxxattiin": [
 	["xxxatt", "noun", "+sg+ill"],
-	["xxxatti", "noun", "+sg+ill"],
-	["xxxattii", "noun", "+sg+gen"]
+	["xxxatti", "noun", "+sg+ill"]
   ],
-  "xxxllistää": [
-	["xxxllistä", "noun", "+sg+par"],
-	["xxxllistää", "verb", "+pres+3sg"],
-	["xxxllistää", "noun", "+sg+nom"],
-	["xxxllistää", "verb", "+inf1"]
+  "xxxellistää": [
+	["xxxellistä", "noun", "+sg+par"],
+	["xxxellistää", "verb", "+pres+3sg"],
+	["xxxellistää", "noun", "+sg+nom"],
+	["xxxellistää", "verb", "+inf1"]
   ],
   "xxxellistä": [
     ["xxxellistää", "verb", "+imper+2sg"],
@@ -52,11 +51,20 @@
   "xxxisuutta": [
     ["xxxisuus", "noun", "+sg+par"]
   ],
-  "xxxllisen": [
-    ["xxxllinen", "adjective", "+sg+gen"]
+  "xxxellisen": [
+	["xxxellinen", "adjective", "+sg+gen"],
+	["xxxellise", "noun", "+sg+gen"],
+	["xxxellisen", "noun", "+sg+nom"]
+  ],
+  "xxxalisen": [
+	["xxxalinen", "noun", "+sg+gen"],
+	["xxxalise", "noun", "+sg+gen"],
+	["xxxalisen", "noun", "+sg+nom"]
   ],
   "xxxisen": [
-    ["xxxinen", "adjective", "+sg+gen"]
+	["xxxinen", "noun", "+sg+gen"],
+	["xxxise", "noun", "+sg+gen"],
+	["xxxisen", "noun", "+sg+nom"]
   ],
   "xxxnpuoleinen": [
     ["xxxn|puoleinen", "adjective", "+sg+nom"]
@@ -65,7 +73,9 @@
     ["xxx|voittoinen", "adjective", "+sg+nom"]
   ],
   "xxxikattiin": [
-	["xxxikata", "verb", "+pass+past"]
+	["xxxikata", "verb", "+pass+past"],
+	["xxxikatti", "noun", "+sg+ill"],
+	["xxxikatt", "noun", "+sg+ill"]
   ],
   "xxxikkasin": [
 	["xxxikata", "verb", "+past+1sg"]
@@ -114,5 +124,10 @@
   ],
   "Xxxegghin": [
     ["Xxxegghi", "proper", "+sg+gen"]
+  ],
+  "Xxxallinoja": [
+    ["Xxxallino", "noun", "+pl+par"],
+	["Xxxallina", "noun", "+pl+par"],
+	["Xxxallinoja", "noun", "+sg+nom"]
   ]
 }

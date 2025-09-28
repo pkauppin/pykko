@@ -1,6 +1,8 @@
 import pathlib
 import os
+import hfst
 from hfst import EPSILON
+
 scripts_path = pathlib.Path(__file__).parent.resolve()
 
 ALPHA_UPPER_EXTENDED = \
@@ -34,22 +36,6 @@ TAB = '^TAB'
 
 OPENING_TAGS = [f'<{tag}>' for tag in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p']]
 
-STYLE_TAGS = [
-	'+arch',
-	'+child',
-	'+coll',
-	'+dated',
-	'+dial',
-	'+foreign',
-	'+jocul',
-	'+nstd',
-	'+poet',
-	'+rare',
-	'+slang',
-	'+vulg',
-]
-STYLE_TAG_REGEX = '|'.join(tag[1:] for tag in STYLE_TAGS)
-
 POS_TAGS = [
 	'noun',
 	'noun-pl',
@@ -72,20 +58,36 @@ POS_TAGS = [
 ]
 
 CLITICS = {
-"+han",
-"+ka",
-"+kaan",
-"+kin",
-"+ko",
-"+pa",
-"+poss1pl",
-"+poss1sg",
-"+poss2pl",
-"+poss2sg",
-"+poss3",
-"+poss3",
-"+s",
+	"+han",
+	"+ka",
+	"+kaan",
+	"+kin",
+	"+ko",
+	"+pa",
+	"+poss1pl",
+	"+poss1sg",
+	"+poss2pl",
+	"+poss2sg",
+	"+poss3",
+	"+poss3",
+	"+s",
 }
+
+STYLE_TAGS = [
+	'+arch',
+	'+child',
+	'+coll',
+	'+dated',
+	'+dial',
+	'+foreign',
+	'+jocul',
+	'+nstd',
+	'+poet',
+	'+rare',
+	'+slang',
+	'+vulg',
+]
+STYLE_TAG_REGEX = '|'.join(tag[1:] for tag in STYLE_TAGS)
 
 FIELDS = [
 	'',    # 1. source

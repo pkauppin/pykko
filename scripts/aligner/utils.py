@@ -479,6 +479,7 @@ def get_auxiliary_stems_noun(inflections):
 	auxiliary_stems += [('@stem:possessives', form) for form in getf(inflections, 'sg|nom')]  # lupa|na  # altte|in, altteh|in
 	auxiliary_stems += [('@stem:possessives', form[:-1]) for form in getf(inflections, 'sg|gen')]  # luva|n
 	auxiliary_stems += [('+pl', form) for form in getf(inflections, 'pl|nom')]  # ne
+	auxiliary_stems += [('+pl', form[:-3]) for form in getf(inflections, 'pl|ins')]  # luv|in
 	return auxiliary_stems
 
 

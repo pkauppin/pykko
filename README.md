@@ -2,6 +2,8 @@
 
 Pykko is an experimental finite-state morphological parser for Finnish. Personal recreational project.
 
+Check out the nifty PyPykko Python library (with extra goodies) by @thfr.
+
 ## Requirements
 - Python3 (v. 3.7 to 3.12)
 - C++ compiler
@@ -14,6 +16,10 @@ Generate the LexC file and compile it into an FST:
 ```
 $ ./build-parser.sh
 ```
+
+## Examples
+
+
 
 ## Parsing
 
@@ -52,4 +58,4 @@ by the Institute for the Languages of Finland (CC BY 4.0).
 
 This project is licensed under the MIT License.
 
-Copyright © 2024 Pekka Kauppinen.
+Copyright © 2025 Pekka Kauppinen.

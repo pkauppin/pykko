@@ -29,7 +29,7 @@ INTERROGATIVES = [
 ]
 
 
-def validate_pos(pos):
+def is_valid_pos(pos):
 	if pos and pos not in POS_TAGS:
 		print(sys.stderr.write(f'Warning! Unknown POS tag "{pos}"\n'))
 		return False
@@ -206,6 +206,14 @@ def ddict(d: dict):
 	result = defaultdict(list)
 	result.update(d)
 	return result
+
+def is_uninflectable(lemma):
+
+	"""
+	Return True if string is or ends with punctuation.
+	"""
+
+	return not lemma or lemma[-1] in set('.:;-')
 
 
 """

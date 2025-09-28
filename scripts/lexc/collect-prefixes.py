@@ -174,7 +174,7 @@ def collect_noun_prefixes():
 				elif pos == 'adjective' and kotus_class == '38' and re.fullmatch('.+l[aä]inen', word):
 
 					# Adjective like "suomalainen" => add "suomalais-"
-					# NOTE: Not all words ending in -(i)nen yield a valid prefix, so limit to -lainen/-läinen for now
+					# NOTE: Not all adjectives ending in -(i)nen yield a valid prefix, so limit to -lainen/-läinen for now
 
 					pfx = prefix_form(word, kotus_class=kotus_class)
 					prefixes.add(pfx)
