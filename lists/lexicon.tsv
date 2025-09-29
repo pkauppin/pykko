@@ -42481,6 +42481,7 @@
 -	refraktio	-	noun	3	-	-	-	-	-
 -	refraktori	-	noun	6	-	-	-	-	-
 -	refrengi	-	noun	5	-	front	-	-	-
+-	regaali	-	noun	6	-	-	-	-	-
 -	regatta	-	noun	9	tt:t	back	-	-	-
 -	regeneraatio	-	noun	3	-	back	-	-	-
 -	regeneraattori	-	noun	6	-	back	-	-	-
@@ -43256,6 +43257,7 @@
 -	runous	-	noun	40	-	back	-	-	-
 -	runsaus	-	noun	40	-	back	-	-	-
 -	runtelu	-	noun	2	-	back	-	-	-
+-	runtu	-	noun	1	nt:nn	-	-	coll	-
 -	ruode	-	noun	48	t:d	back	-	-	-
 -	ruodinta	-	noun	9	nt:nn	back	-	-	-
 -	ruodis	-	noun	39	-	back	-	slang	-
@@ -70192,6 +70194,7 @@
 -	käärme|nainen	-	noun	38	-	-	-	-	-
 -	käärme|seerumi	-	noun	6	-	-	-	-	-
 -	käärme|tähti	-	noun	7	t:d	-	-	-	-
+-	käärme|öljy	-	noun	1	-	-	-	-	-
 -	käärö|kärsäkäs	-	noun	41	kk:k	-	-	-	-
 -	käärö|torttu	-	noun	1	tt:t	-	-	-	-
 -	köli|vene	-	noun	48	-	-	-	-	-
@@ -83157,6 +83160,7 @@
 -	poika|oksa	-	noun	10	-	-	-	-	-
 -	poika|oppilas	-	noun	41	-	-	-	-	-
 -	poika|parka	-	noun	9	k:	-	-	-	-
+-	poika|pillu	-	noun	1	-	-	-	coll	-
 -	poika|puoli	-	noun	26	-	-	-	-	-
 -	poika|rakkaus	-	noun	40	-	-	-	-	-
 -	poika|raukka	-	noun	9	kk:k	-	-	-	-
@@ -96593,6 +96597,7 @@
 -	turbiini|akseli	-	noun	6	-	-	-	-	-
 -	turbiini|alus	-	noun	39	-	-	-	-	-
 -	turbo|ahdin	-	noun	33	t:d	-	-	-	-
+-	turbo|amis	-	noun	39	-	-	-	slang	-
 -	turbo|kompressori	-	noun	6	-	-	-	-	-
 -	turbo|moottori	-	noun	6	-	-	-	-	-
 -	turhan|päiväisyys	-	noun	40	-	-	-	-	-
