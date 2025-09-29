@@ -5,7 +5,6 @@ from scripts.constants import GENERATOR_FST_PATH, TAB
 from scripts.utils import is_valid_pos, is_uninflectable
 from tools.utils import add_compound_separators, inf, pos_tag
 
-
 CURR = os.path.dirname(__file__)
 
 POS_FST_SOURCES = {
@@ -14,14 +13,14 @@ POS_FST_SOURCES = {
 	'proper-pl':        ['Lexicon', 'Lexicon|Pfx', 'Lexicon|Hyp'],
 	'proper':           ['Lexicon', 'Lexicon|Pfx', 'Lexicon|Hyp'],
 	'adjective':        ['Lexicon', 'Lexicon|Pfx', 'Lexicon|Hyp'],
-	'pronoun':          ['Lexicon'],
-	'pronoun-pl':       ['Lexicon'],
+	'pronoun':          ['Lexicon', 'Lexicon|Hyp'],
+	'pronoun-pl':       ['Lexicon', 'Lexicon|Hyp'],
 	'verb':             ['Lexicon', 'Lexicon|Pfx'],
-	'adverb':           ['Lexicon'],
-	'adposition':       ['Lexicon'],
-	'participle':       ['Lexicon'],
+	'participle':       ['Lexicon', 'Lexicon|Pfx'],
 	'numeral':          ['Lexicon|Num', 'Lexicon', 'Guesser|Any'],  # (!)
 	'ordinal':          ['Lexicon|Num', 'Lexicon', 'Guesser|Any'],  # (!)
+	'adverb':           ['Lexicon'],
+	'adposition':       ['Lexicon'],
 	'interjection':     ['Lexicon'],
 	'conjunction':      ['Lexicon'],
 	'conjunction+verb': ['Lexicon'],
@@ -162,38 +161,3 @@ def generate_wordform(word: str, pos: str, morphtags: str, homonym: str = '', so
 			forms.add(form.replace(hfst.EPSILON, ''))
 			best = weight
 	return forms
-
-
-if __name__ == '__main__':
-
-	print(generate_wordform('suuri', 'adjective', '+sg+gen'))
-	print(generate_wordform('kissakoira', 'noun', '+pl+par', source='Lexicon|Pfx'))
-	print(generate_wordform('-rakenteinen', 'adjective', '+sg+ine', source='Lexicon'))  # FIXME!
-	print(generate_wordform('-valkoinen', 'adjective', '+sg+ine', source='Lexicon|Hyp'))
-	print(generate_wordform('a-rakenteinen', 'adjective', '+sg+ine', source='Lexicon|Hyp'))
-	print(generate_wordform('a-valkoinen', 'adjective', '+sg+ine', source='Lexicon|Hyp'))
-	print(generate_wordform('16', 'numeral', '+sg+ine', source='Lexicon'))
-	print(generate_wordform('16:s', 'ordinal', '+sg+ine', source='Lexicon'))
-
-	print(generate_forms('koira')),
-
-	print(generate_forms('taata')),
-	print(generate_forms('taata', pos='verb'))
-	print(generate_forms('taata', pos='noun'))
-
-	print(generate_forms('tavata'))
-	print(generate_forms('tavata', homonym="1"))
-	print(generate_forms('tavata', homonym="2"))
-
-	print(generate_forms('ahtaus'))
-	print(generate_forms('ahtaus', homonym="1"))
-	print(generate_forms('ahtaus', homonym="2"))
-
-	print(generate_forms('ettei'))
-	print(generate_forms('possukala'))
-
-	print(generate_inflection_paradigm('jihuu', pos='interjection'))
-	print(generate_inflection_paradigm('kissa', pos='noun'))
-	print(generate_inflection_paradigm('possukala', pos='noun'))
-	print(generate_inflection_paradigm('yltiöharmoninen', pos='adjective'))
-	print(generate_inflection_paradigm('myötäsekoittaa', pos='verb'))

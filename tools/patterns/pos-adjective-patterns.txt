@@ -1,0 +1,7 @@
++sg+nom
++sg+gen
++sg+par
++pl+nom
++pl+gen
++pl+gen+rare
++pl+par

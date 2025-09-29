@@ -5,7 +5,7 @@ from scripts.inflection.utils import \
 	C, V, VV, \
 	grad_strong, grad_weak, \
 	HARMONY_MAPPING, determine_stem_vowel, \
-	plural2singular, merge_inflections
+	plural2singular, merge_inflections, unaccent
 from scripts.utils import ADVERB_INFLECTIONS, clean, determine_wordform_harmony, determine_lemma_vowel_harmony, \
 	is_valid_pos
 from scripts.inflection.verb_derivations import derive_agent_noun, derive_action_noun
@@ -160,7 +160,7 @@ def inflect_noun(word, kotus_class, gradtype, harmony, vowel=None):
 	# "valo"
 	elif kotus_class == "1":
 		katto = word
-		kattoo = katto + word[-1]
+		kattoo = katto + determine_stem_vowel(katto[-1], kotus_class="1")
 		kato = grad_weak(word, gradtype)
 		katoi = grad_weak(word, gradtype, vowel_follows=True) + 'i'
 		#

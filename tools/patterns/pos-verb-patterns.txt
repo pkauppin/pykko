@@ -1,0 +1,13 @@
++inf1
++pres+1sg
++pres+2sg
++pres+3sg
++pres+1pl
++pres+2pl
++pres+3pl
++past+1sg
++past+2sg
++past+3sg
++past+1pl
++past+2pl
++past+3pl

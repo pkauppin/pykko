@@ -1,0 +1,7 @@
++nom
++gen
++par
++nom
++gen
++gen+rare
++par
