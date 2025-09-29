@@ -154,8 +154,10 @@ def is_plural(word):
 			return lemma
 	return False
 
+
 def singularize(word):
 	return is_plural(word) or word
+
 
 def pos_tag(word, force_match=False, max_weight=inf):
 

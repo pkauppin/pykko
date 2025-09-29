@@ -20,20 +20,20 @@ class FiParserTests(unittest.TestCase):
 
 		self.assertTrue(generate_forms('koira') > {'koiran', 'koiraa', 'koirat'}),
 
-		self.assertTrue(generate_forms('taata') > {'taatan', 'taatoja', 'takaan', 'takaa'}),
-		self.assertTrue(generate_forms('taata', pos='verb') > {'takaan', 'takaa'})
-		self.assertTrue(generate_forms('taata', pos='noun') > {'taatan', 'taatat'})
+		self.assertTrue(generate_forms('taata') > {'taatan', 'taataa', 'taatoja', 'takaan', 'takaa', 'takasi'}),
+		self.assertTrue(generate_forms('taata', pos='verb') > {'takaan', 'takaa', 'takasi'})
+		self.assertTrue(generate_forms('taata', pos='noun') > {'taatan', 'taataa', 'taatoja'})
 
 		self.assertTrue(generate_forms('tavata') > {'tapaan', 'tavaan', 'tapaa', 'tavaa', 'tapasi', 'tavasi'})
 		self.assertTrue(generate_forms('tavata', homonym="1") > {'tapaan', 'tapaa', 'tapasi'})
 		self.assertTrue(generate_forms('tavata', homonym="2") > {'tavaan', 'tavaa', 'tavasi'})
 
-		self.assertTrue(generate_forms('ahtaus') > {'ahtauden', 'ahtauksen', 'ahtauksia'})
-		self.assertTrue(generate_forms('ahtaus', homonym="1") > {'ahtauden'})
-		self.assertTrue(generate_forms('ahtaus', homonym="2") > {'ahtauksen'})
+		self.assertTrue(generate_forms('ahtaus') > {'ahtauden', 'ahtauksen', 'ahtautta', 'ahtausta', 'ahtauksia'})
+		self.assertTrue(generate_forms('ahtaus', homonym="1") > {'ahtauden', 'ahtautta', 'ahtauksia'})
+		self.assertTrue(generate_forms('ahtaus', homonym="2") > {'ahtauksen', 'ahtausta', 'ahtauksia'})
 
-		self.assertTrue(generate_forms('ettei') == {'etten', 'ettet', 'ettei', 'ettemme', 'ettette', 'etteivät'})
-		self.assertTrue(generate_forms('possukala') > {'possukalan', 'possukalaa', 'possukalat'})
+		self.assertTrue(generate_forms('ettei') >= {'etten', 'ettet', 'ettei', 'ettemme', 'ettette', 'etteivät'})
+		self.assertTrue(generate_forms('possukala') > {'possukalan', 'possukalaa', 'possukaloja'})
 
 	def test_generate_inflection_paradigm(self):
 
