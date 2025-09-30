@@ -37,7 +37,7 @@ def lexc2fst(filename):
 	print('Normalizing...')
 	replace_special1 = hfst.regex(f' ,, '.join(f'"{TAB}" "^{pos}" "{TAB}" -> "\t{pos}\t"' for pos in POS_TAGS))
 	replace_special2 = hfst.regex(f'"{TAB}" -> "\t"')
-	normalize_apostrophes = hfst.regex('"\'" -> "’"')
+	normalize_apostrophes = hfst.regex('"\'" -> "’" ,, "ʼ" -> "’"')
 	fst = hfst.compose([normalize_apostrophes, fst, replace_special1, replace_special2])
 
 	print('Optimizing...')

@@ -1,4 +1,5 @@
 -	Ainola	-	proper	12	-	-	-	-	-
+-	Atrium	-	proper	5	-	-	-	-	-
 -	Azkaban	-	proper	5	-	-	-	-	-
 -	Botta	-	proper	10	tt:t	-	-	coll	-
 -	Cirrus	-	proper	39	-	-	-	-	-
@@ -10,7 +11,10 @@
 -	Kaaba	-	proper	9	-	-	-	-	-
 -	Kreml	-	proper	5	-	-	-	-	-
 -	Löyly	-	proper	1	-	-	-	-	-
--	Neuschwanstein	-	proper	5	-	-	-	-	-
+-	Nahkiainen	-	proper	38	-	-	-	-	-
+-	Neuschwanstein	-	proper	5	-	back	-	-	-
+-	Nokia Arena	-	proper	13	-	-	-	-	-
+-	Nynäs	-	proper	5	-	-	-	-	-
 -	Oodi	-	proper	5	-	-	-	-	-
 -	Ostrobotnia	-	proper	12	-	-	-	-	-
 -	Pantheon	-	proper	5	-	-	-	-	-
@@ -22,13 +26,14 @@
 -	Stadika	-	proper	9	-	-	-	coll	-
 -	Stadikka	-	proper	14	kk:k	-	-	coll	-
 -	Steissi	-	proper	5	-	-	-	coll	-
--	Stonehenge	-	proper	8	-	-	-	-	-
+-	Stonehenge	-	proper	8	-	front|back	-	-	-
 -	Sveaborg	-	proper	5	-	-	-	-	-
 -	Topelia	-	proper	12	-	-	-	-	-
 -	Tylypahka	-	proper	9	-	-	-	-	-
 -	Viapori	-	proper	6	-	-	-	-	-
 -	City-Center	-	proper	6	-	-	-	-	-
 -	Eiffel-torni	-	proper	5	-	-	-	-	-
+-	Helsinki-halli	-	proper	5	-	-	-	-	-
 -	Kaisa-talo	-	proper	1	-	-	-	-	-
 -	Notre-Dame	-	proper	8	-	-	-	-	-
 -	al-Aqsa	-	proper	9	-	-	-	-	-
@@ -36,8 +41,10 @@
 -	Asema|tunneli	-	proper	6	-	-	-	-	-
 -	Kaapeli|tehdas	-	proper	41	t:d	-	-	-	-
 -	Kesä|ranta	-	proper	9	nt:nn	-	-	-	-
+-	Kulta|ranta	-	proper	9	nt:nn	-	-	-	-
 -	Lasi|palatsi	-	proper	5	-	-	-	-	-
 -	Lasten|linna	-	proper	9	-	-	-	-	-
+-	Louhi|saari	-	proper	26	-	-	-	-	-
 -	Länsi|terminaali	-	proper	5	-	-	-	-	-
 -	Makkara|talo	-	proper	1	-	-	-	-	-
 -	Meri|torni	-	proper	5	-	-	-	-	-
@@ -50,10 +57,15 @@
 -	Paasi|torni	-	proper	5	-	-	-	-	-
 -	Pietarin|kirkko	-	proper	1	kk:k	-	-	-	-
 -	Ritari|huone	-	proper	48	-	-	-	-	-
+-	Rouvien|huone	-	proper	48	-	-	-	-	-
 -	Sikstiiniläis|kappeli	-	proper	6	-	-	-	-	-
 -	Suomen|linna	-	proper	9	-	-	-	-	-
 -	Suur|kirkko	-	proper	1	kk:k	-	-	-	-
+-	Sähkö|talo	-	proper	1	-	-	-	-	-
+-	Sääty|talo	-	proper	1	-	-	-	-	-
+-	Tammi|niemi	-	proper	25	-	-	-	-	-
 -	Tennis|palatsi	-	proper	5	-	-	-	-	-
+-	Tieteiden|talo	-	proper	1	-	-	-	-	-
 -	Veri|kirkko	-	proper	1	kk:k	-	-	-	-
 -	Ympyrä|talo	-	proper	1	-	-	-	-	-
 -	Edus|kunta|talo	-	proper	1	-	-	-	-	-

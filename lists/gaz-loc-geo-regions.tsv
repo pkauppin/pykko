@@ -16,11 +16,13 @@
 -	Balttia	-	proper	12	-	-	-	nstd	-
 -	Benelux	-	proper	5	-	-	-	-	-
 -	Bengal	-	proper	6	-	-	-	-	-
+-	Bengali	-	proper	6	-	-	-	-	-
 -	Bosnia	-	proper	12	-	-	-	-	-
 -	Bretagne	-	proper	8	-	-	-	-	-
--	Brie	-	proper	21|8	-	-	-	-	-
+-	Brie	-	proper	8|21	-	-	-	-	-
 -	Britannia	-	proper	12	-	-	-	-	-
 -	Böömi	-	proper	5	-	-	-	-	-
+-	Champagne	-	proper	8	-	-	-	-	-
 -	Columbia	-	proper	12	-	-	-	-	-
 -	Cévennes	-	proper	39	-	-	-	-	-
 -	Daakia	-	proper	12	-	-	-	-	-
@@ -44,8 +46,10 @@
 -	Golan	-	proper	6	-	-	-	-	-
 -	Golgata	-	proper	9	-	-	-	-	-
 -	Guangzhou	-	proper	21	-	-	-	-	-
+-	Hellas	-	proper	41	-	-	-	-	-
 -	Henan	-	proper	6	-	-	-	-	-
 -	Hertsegovina	-	proper	13	-	-	-	-	-
+-	Holstein	-	proper	5	-	-	-	-	-
 -	Horn	-	proper	5	-	-	-	-	-
 -	Hunan	-	proper	6	-	-	-	-	-
 -	Iberia	-	proper	12	-	-	-	-	-
@@ -73,6 +77,7 @@
 -	Kurdistan	-	proper	6	-	-	-	-	-
 -	Labrador	-	proper	5	-	-	-	-	-
 -	Lauraasia	-	proper	12	-	-	-	-	-
+-	Lazio	-	proper	3	-	-	-	-	-
 -	Makedonia	-	proper	12	-	-	-	-	-
 -	Mantšuria	-	proper	12	-	-	-	-	-
 -	Melanesia	-	proper	12	-	-	-	-	-
@@ -90,7 +95,7 @@
 -	Pangaia	-	proper	9	-	-	-	-	-
 -	Pangea	-	proper	9	-	-	-	-	-
 -	Patagonia	-	proper	12	-	-	-	-	-
--	Peloponnesos	-	proper	39	-	-	-	-	-
+-	Peloponnesos	-	proper	39|1S	-	-	-	-	-
 -	Planica	-	proper	9	-	-	-	-	-
 -	Pohjola	-	proper	12	-	-	-	-	-
 -	Polynesia	-	proper	12	-	-	-	-	-
@@ -99,7 +104,7 @@
 -	Rhodesia	-	proper	12	-	-	-	-	-
 -	Riviera	-	proper	9	-	-	-	-	-
 -	Ruija	-	proper	10	-	-	-	-	-
--	Sahara	-	proper	13	-	-	-	-	-
+-	Sahara	-	proper	12	-	-	-	-	-
 -	Sahel	-	proper	6	-	-	-	-	-
 -	Savoiji	-	proper	5	-	-	-	-	-
 -	Serengeti	-	proper	5	-	-	-	-	-
@@ -142,7 +147,7 @@
 -	Keski-Afrikka	-	proper	14	kk:k	-	-	-	-
 -	Keski-Amerikka	-	proper	14	kk:k	-	-	-	-
 -	Keski-Eurooppa	-	proper	10	pp:p	-	-	-	-
--	Keski-itä	-	proper	10	-	-	-	-	-
+-	Keski-itä	-	proper	10	t:d	-	-	-	-
 -	Lounais-Afrikka	-	proper	14	kk:k	-	-	-	-
 -	Lähi-itä	-	proper	10	t:d	-	-	-	-
 -	Länsi-Afrikka	-	proper	14	kk:k	-	-	-	-
@@ -165,10 +170,12 @@
 -	Väli-Amerikka	-	proper	14	kk:k	-	-	-	-
 -	Ylä-Saksa	-	proper	9	-	-	-	-	-
 -	Ylä-Savo	-	proper	1	-	-	-	-	-
+-	manner-Suomi	-	proper	7	-	-	-	-	-
 -	Dasht-e-Kavir	-	proper	5	-	-	-	-	-
 -	Arnheimin|maa	-	proper	18	-	-	-	-	-
 -	Aurinko|rannikko	-	proper	4	kk:k	-	-	-	-
 -	Coromandel|rannikko	-	proper	4	kk:k	-	-	-	-
+-	Etelä|manner	-	proper	49	nt:nn	-	-	-	-
 -	Gondwana|manner	-	proper	49	nt:nn	-	-	-	-
 -	Götan|maa	-	proper	18	-	-	-	-	-
 -	Hanko|niemi	-	proper	25	-	-	-	-	-
@@ -187,7 +194,10 @@
 -	Rova|järvi	-	proper	7	-	-	-	-	-
 -	Sudeetti|maa	-	proper	18	-	-	-	-	-
 -	Svean|maa	-	proper	18	-	-	-	-	-
+-	Tulli|niemi	-	proper	25	-	-	-	-	-
 -	Etelä-Kymen|laakso	-	proper	1	-	-	-	-	-
+-	Etelä|napa|manner	-	proper	49	nt:nn	-	-	-	-
 -	Kaksois|virran|maa	-	proper	18	-	-	-	-	-
+-	Vähä%-Aasia	-	proper	12	-	-	-	-	-
 -	Benelux-maat	-	proper-pl	18	-	-	-	-	-
 -	Pohjois|maat	-	proper-pl	18	-	-	-	-	-

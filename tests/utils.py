@@ -5,10 +5,10 @@ from tools.utils import analyze
 def show_test_failure(actual, expected):
 	print('· ANALYSES:')
 	for a in actual or ['']:
-		print('', json.dumps(list(a), ensure_ascii=False), sep='\t')
+		print('', json.dumps(list(a), ensure_ascii=False) + ',', sep='\t')
 	print('· SHOULD BE:')
 	for a in expected or ['']:
-		print('', json.dumps(list(a), ensure_ascii=False), sep='\t')
+		print('', json.dumps(list(a), ensure_ascii=False) + ',', sep='\t')
 
 
 def filtered_analyses(wordform, has_source=None, has_pos=None, casematch=False, only_best=True):

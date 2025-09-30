@@ -2,8 +2,8 @@ import re
 import hfst
 from scripts.constants import PARSER_FST_PATH, FIELD_STRING
 
-C = "[bcdfghijklmnpqrstvwxzšžč'’]"
-V = '[aeiouyäöüå]'
+C = "[bcdfghjklmnpqrstvwxzšžčśźćń'’]"
+V = '[aeiouyäöüåáéíóúâêîôûãø]'
 
 try:
 	input_stream = hfst.HfstInputStream(PARSER_FST_PATH)
@@ -80,6 +80,8 @@ def compare_with_others(a_source, analyses):
 			a_target[5] += f' ← {pos}:{lemma_source}:{participle_tag}'
 			return 'has-participle'
 
+	return
+
 
 def analyze(word, only_best=True, normalize_separators=True, ignore_derivatives=True):
 
@@ -90,7 +92,7 @@ def analyze(word, only_best=True, normalize_separators=True, ignore_derivatives=
 
 	analyses = []
 	taken = {}
-	for analysis_string, weight in PARSER_FST.lookup(word) or [(unk_result(word), inf)]:
+	for analysis_string, weight in PARSER_FST.lookup(word):
 
 		if normalize_separators:
 			analysis_string = analysis_string.replace('⁅BOUNDARY⁆', '|').replace('⁅HYPHEN⁆', '-')
@@ -119,6 +121,8 @@ def analyze(word, only_best=True, normalize_separators=True, ignore_derivatives=
 		filtered.append(analysis)
 		best = weight
 
+	filtered = filtered or [([word] + unk_result(word).split('\t') + [inf])]
+
 	return [tuple(a) for a in filtered]
 
 
@@ -143,18 +147,23 @@ def add_compound_separators(word, pos=None, normalize_separators=True, pick_firs
 
 
 def is_plural(word):
-
 	for _, _, lemma, pos, _, _, morphtags, weight in analyze(word, only_best=True):
 		if morphtags == '+pl+nom':
+			return lemma
+		if pos == 'noun-pl' and morphtags == '+nom':
 			return lemma
 	return False
 
 
-def pos_tag(word, force_match=False):
+def singularize(word):
+	return is_plural(word) or word
+
+
+def pos_tag(word, force_match=False, max_weight=inf):
 
 	if force_match:
 		tags = set()
-		best_weight = inf
+		best_weight = max_weight
 		for _, _, w, pos, _, _, _, weight in analyze(word, only_best=False):
 			if weight == inf or weight > best_weight:
 				break
@@ -164,7 +173,8 @@ def pos_tag(word, force_match=False):
 		return tags
 
 	return set(
-		pos for _, _, w, pos, _, _, _, _ in analyze(word, only_best=True) if remove_separators(w) == word and pos
+		pos for _, _, w, pos, _, _, _, weight in analyze(word, only_best=True) if remove_separators(w) == word and pos
+		if weight <= max_weight
 	)
 
 
@@ -178,21 +188,60 @@ def lemmatize(word, pos=None):
 	return valid
 
 
-def syllabify(word, pos=None, compound=True):
-	[word] = list(add_compound_separators(word, pos))[:1] if compound else [word]
+def syllabify(word, pos=None, compound=True, big_words=False):
+
+	word = add_compound_separators(word, pos, pick_first=True) if compound else word
+
+	# lito·grafia, mikro·skooppi (alternative syllabification)
+	if big_words:
+		word = re.sub(f'(?<=[a-zåäö])(sfääri|skooppi|skopia|skooppinen|struktio|stratus|steroli|globiini|glossa|glossia|grafia|grafinen|grafi|glasiaalinen|staattinen)$', r'·\1', word)
+		word = re.sub(f'^(ambi|amfi|andro|anti|antropo|arkeo|astro|ekstra|endo|ferro|geo|heksa|hepta|hetero|homo|hydro|hygro|hyper|hypo|iktyo|inter|intra|karbo|kata|kontra|kryo|krypto|kseno|labio|leuko|lito|magneto|makro|media|meta|mikro|okta|penta|pyro|sub|super|supra|tetra|ultra)(?=[a-zåäö])', r'\1·', word)
+	if big_words:
+		word = re.sub(f'(?<=[a-zåäöü])(stad|stadt|stetten|städte|bridge|brücken|spitz|spitze|spitzen|thorpe|shire|chester|grad|sted|stead|stedt)$', r'·\1', word)
+
+	# ma·ya
 	word = re.sub(f'(?<=[aeiou])(?=y[aeou])', '·', word)
+
+	# ikty·ologi, viipy·ä
 	word = re.sub(f'(?<=[a-zåäö]y)(?=[äo])', '·', word)
+
+	# make·a
 	word = re.sub(f'(?<=[eiouö])(?=[aä])', '·', word)
+
+	# selvi·ö
 	word = re.sub(f'(?<=[aeiouä])(?=ö)', '·', word)
+
+	# alki·o
 	word = re.sub(f'(?<=[aeiäö])(?=o)', '·', word)
+
+	# ko·e
 	word = re.sub(f'(?<=[aouäö])(?=e)', '·', word)
-	word = re.sub(f'(?<={V})({C}+)(?={C}{V})', '\g<1>·', word)
-	word = re.sub(f'(?<={V})({C}+)(?={C}{V})', '\g<1>·', word)
+
+	# kan·si, kant·ti, angs·ti, halst·rata
+	word = re.sub(f'(?<={V})({C}+)(?={C}{V})', r'\1·', word)
+	word = re.sub(f'(?<={V})({C}+)(?={C}{V})', r'\1·', word)
+
+	# ka·la
 	word = re.sub(f'(?<={V})(?={C}{V})', '·', word)
+
+	# kofe·iini, Mari·aanit
+	word = re.sub(f'(?<={V})(?=aa|ee|ii|oo|uu|yy|ää|öö)', '·', word)
+
+	# kau·an, liu·os
 	word = re.sub(f'(?<=[aeiou][iu])(?={V})', '·', word)
+
+	# nei·yt
 	word = re.sub(f'(?<=[äeiöy][iy])(?={V})', '·', word)
+
+	# ruo·an
 	word = re.sub(f'(?<=ie|uo|yö)(?={V})', '·', word)
+
+	# raa·istua
 	word = re.sub(f'(?<=aa|ee|ii|oo|uu|yy|ää|öö)(?={V})', '·', word)
+
+	# cesi·um
+	word = re.sub(f'(?<=[ei])(?=um)', '·', word)
+
 	return word
 
 
@@ -218,3 +267,16 @@ def add_compound_separators_to_proper_name(name):
 			return separated
 
 	return {name}
+
+
+def transfer_separators(source, target):
+	target0 = target
+	segments = []
+	for part in source.split('|')[:-1]:
+		if target.lower().startswith(part.lower()):
+			segments.append(target[:len(part)])
+			target = target[len(part):]
+		else:
+			return target0
+	segments.append(target)
+	return '|'.join(segments)

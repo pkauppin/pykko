@@ -40,6 +40,15 @@ keys = [
 	'pl|com',
 	'pl|ins',
 
+	'sg|gen|dated',
+	'sg|par|dated',
+	'sg|ine|dated',
+	'sg|ess|dated',
+	'pl|nom|dated',
+	'pl|gen|dated',
+	'pl|par|dated',
+	'pl|ine|dated',
+
 	'nom',
 	'gen',
 	'gen|rare',
@@ -302,6 +311,49 @@ class FiParserTests(unittest.TestCase):
 			('pl|gen', 'v:v a:a n:n h:h e:e m:m p:p i:0 +pl:i 0:e +gen:n'),
 			('pl|par', 'v:v a:a n:n h:h e:e m:m p:p i:0 +pl:i +par:a'),
 			('pl|ine', 'v:v a:a n:n h:h e:e m:m p:m i:0 +pl:i +ine:s 0:s 0:a'),
+		])
+
+	def test_noun_pegasos(self):
+		inflections = {
+			"@base":  ['pegasos'],
+			"sg|nom": ['pegasos'],
+			"sg|gen": ['pegasoksen'],
+			"sg|par": ['pegasosta'],
+			"sg|ine": ['pegasoksessa'],
+			"sg|ess": ['pegasoksena'],
+			"pl|nom": ['pegasokset'],
+			"pl|gen": ['pegasoksien'],
+			"pl|par": ['pegasoksia'],
+			"pl|ine": ['pegasoksissa'],
+			"sg|gen|dated": ['pegason'],
+			"sg|par|dated": ['pegasoja'],
+			"sg|ine|dated": ['pegasossa'],
+			"sg|ess|dated": ['pegasona'],
+			"pl|nom|dated": ['pegasot'],
+			"pl|gen|dated": ['pegasojen'],
+			"pl|par|dated": ['pegasoja'],
+			"pl|ine|dated": ['pegasoissa'],
+		}
+		aligned = align(inflections, pos='noun')
+		self.assertEqual(aligned, [
+			('@base',            'p:p e:e g:g a:a s:s o:o 0:0 s:s 0:0'),
+			('sg|nom',           'p:p e:e g:g a:a s:s o:o 0:0 s:s 0:0 +sg:0 +nom:0'),
+			('sg|gen',           'p:p e:e g:g a:a s:s o:o 0:k s:s 0:e +sg:0 +gen:n'),
+			('sg|par',           'p:p e:e g:g a:a s:s o:o 0:0 s:s 0:0 +sg:0 +par:t 0:a'),
+			('sg|ine',           'p:p e:e g:g a:a s:s o:o 0:k s:s 0:e +sg:0 +ine:s 0:s 0:a'),
+			('sg|ess',           'p:p e:e g:g a:a s:s o:o 0:k s:s 0:e +sg:0 +ess:n 0:a'),
+			('pl|nom',           'p:p e:e g:g a:a s:s o:o 0:k s:s 0:e +pl:t +nom:0'),
+			('pl|gen',           'p:p e:e g:g a:a s:s o:o 0:k s:s 0:0 +pl:i 0:e +gen:n'),
+			('pl|par',           'p:p e:e g:g a:a s:s o:o 0:k s:s 0:0 +pl:i +par:a'),
+			('pl|ine',           'p:p e:e g:g a:a s:s o:o 0:k s:s 0:0 +pl:i +ine:s 0:s 0:a'),
+			('sg|gen|dated',     'p:p e:e g:g a:a s:s o:o 0:0 s:0 0:0 +sg:0 +gen:n +dated:0'),
+			('sg|par|dated',     'p:p e:e g:g a:a s:s o:o 0:j s:0 0:0 +sg:0 +par:a +dated:0'),
+			('sg|ine|dated',     'p:p e:e g:g a:a s:s o:o 0:0 s:0 0:0 +sg:0 +ine:s 0:s 0:a +dated:0'),
+			('sg|ess|dated',     'p:p e:e g:g a:a s:s o:o 0:0 s:0 0:0 +sg:0 +ess:n 0:a +dated:0'),
+			('pl|nom|dated',     'p:p e:e g:g a:a s:s o:o 0:0 s:0 0:0 +pl:t +nom:0 +dated:0'),
+			('pl|gen|dated',     'p:p e:e g:g a:a s:s o:o 0:0 s:0 0:0 +pl:j 0:e +gen:n +dated:0'),
+			('pl|par|dated',     'p:p e:e g:g a:a s:s o:o 0:0 s:0 0:0 +pl:j +par:a +dated:0'),
+			('pl|ine|dated',     'p:p e:e g:g a:a s:s o:o 0:0 s:0 0:0 +pl:i +ine:s 0:s 0:a +dated:0'),
 		])
 
 	def test_noun_suo(self):

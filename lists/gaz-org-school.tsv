@@ -1,4 +1,6 @@
 -	Aalto	-	proper	1	lt:ll	-	-	-	-
+-	Arcada	-	proper	9	-	-	-	-	-
+-	Bauhaus	-	proper	39|40	-	-	-	-	-
 -	HAMK	-	proper	5	-	-	-	-	-
 -	Hanken	-	proper	6	-	-	-	-	-
 -	Harvard	-	proper	5	-	-	-	-	-
@@ -10,6 +12,7 @@
 -	Novia	-	proper	12	-	-	-	-	-
 -	Omnia	-	proper	12	-	-	-	-	-
 -	Oxford	-	proper	5	-	-	-	-	-
+-	Polamk	-	proper	5	-	-	-	-	-
 -	Princeton	-	proper	6	-	-	-	-	-
 -	Sorbonne	-	proper	8	-	-	-	-	-
 -	TAMK	-	proper	5	-	-	-	-	-
@@ -17,9 +20,12 @@
 -	XAMK	-	proper	5	-	-	-	-	-
 -	Yale	-	proper	8	-	-	-	-	-
 -	Haaga-Helia	-	proper	12	-	-	-	-	-
+-	Sibelius-Akatemia	-	proper	12	-	-	-	-	-
+-	Kadetti|koulu	-	proper	1	-	-	-	-	-
 -	Aalto-yli|opisto	-	proper	2	-	-	-	-	-
 -	Taide|yli|opisto	-	proper	2	-	-	-	-	-
 -	Teatteri|korkea|koulu	-	proper	1	-	-	-	-	-
+-	Maan|puolustus|korkea|koulu	-	proper	1	-	-	-	-	-
 Cap	akademin	-	proper	5	-	-	-	-	4.000
 Cap	skolan	-	proper	5	-	-	-	-	4.000
 Cap	universitet	-	proper	5	-	-	-	-	4.000

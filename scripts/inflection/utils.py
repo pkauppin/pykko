@@ -9,8 +9,7 @@ VV = '([aeiouyäö]|[aeiou][ui]|[äeiöy][yi]|ie|uo|yö|aa|ee|ii|oo|uu|yy|ää|�
 HARMONY_MAPPING = {
 	'back': ('a', 'o', 'u', 'aa', 'oo', 'uu'),
 	'front': ('ä', 'ö', 'y', 'ää', 'öö', 'yy'),
-	'BACK': ('a', 'o', 'u', 'aa', 'oo', 'uu'),
-	'FRONT': ('ä', 'ö', 'y', 'ää', 'öö', 'yy'),
+	'variable': ('ä', '', '', '', '', ''),
 }
 
 
@@ -35,7 +34,7 @@ def grad_strong(s, gradtype=None):
 	return s[1:]
 
 
-def grad_weak(s, gradtype=None):
+def grad_weak(s, gradtype=None, vowel_follows=False):
 
 	if not gradtype:
 		return s
@@ -48,45 +47,15 @@ def grad_weak(s, gradtype=None):
 		return s
 
 	# "vaa'an", "rei'issä", "ruo'ot", "nau'un"
-	if strong == 'k' and weak == '' and re.fullmatch(f'(.*{V})?(aka|äkä|iki|oko|ökö|eke|uku|yky)', s):
+	if strong == 'k' and weak == '' and re.fullmatch(f'.*{V}(aka|äkä|iki|oko|ökö|eke|uku|yky)', s):
+		weak = "’"
+	# "ko'oissa", "i’issä", "hi’issä"
+	elif strong == 'k' and weak == '' and re.fullmatch(f'.*(aka|äkä|iki|oko|ökö|eke|uku|yky)', s) and vowel_follows:
 		weak = "’"
 
 	s = 'a' + s
-	s = re.sub(f'(.+)?{strong}({V})', f'\g<1>{weak}\g<2>', s)
+	s = re.sub(f'(.+)?{strong}({V})', rf'\1{weak}\2', s)
 	return s[1:]
-
-
-def determine_harmony(s, kotus_class=None, allow_multiple=False):
-
-	s = s.split('-').pop()
-	s = s.split('|').pop()
-	s = s.split(' ').pop()
-
-	if s.endswith('ainen'):
-		return 'back'
-	if s.endswith('äinen'):
-		return 'front'
-
-	if kotus_class == '18B':
-		c = s[-1].lower()
-		if c in set('bcdefgjilmnprstvwxyzäöü'):
-			return 'front'
-		return 'back'
-
-	if re.fullmatch('.*yy[^aou2368]*', s):
-		return 'front'
-
-	if re.fullmatch('.*[aou].*y[^aou]*', s) and allow_multiple:
-		return 'front|back'
-
-	for c in reversed(s.lower()):
-		if c in set('aouáóúàòùâôû'):
-			return 'back'
-		if c in set('äöü'):
-			return 'front'
-		if c in set('2368'):
-			return 'back'
-	return 'front'
 
 
 def determine_stem_vowel(word, kotus_class=None):

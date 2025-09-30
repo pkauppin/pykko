@@ -29,8 +29,7 @@
 -	Maas	-	proper	5	-	-	-	-	-
 -	Main	-	proper	5	-	-	-	-	-
 -	Mekong	-	proper	5	-	-	-	-	-
--	Mississippi	-	proper	5	-	-	-	-	-
--	Mississippi	-	proper	5	pp:p	-	-	-	-
+-	Mississippi	-	proper	5	pp:p|=	-	-	-	-
 -	Missouri	-	proper	5	-	-	-	-	-
 -	Mosel	-	proper	6	-	-	-	-	-
 -	Neckar	-	proper	6	-	-	-	-	-
@@ -40,6 +39,7 @@
 -	Ob	-	proper	5	-	-	-	-	-
 -	Oder	-	proper	6	-	-	-	-	-
 -	Oka	-	proper	10	-	-	-	-	-
+-	Olhava	-	proper	10	-	-	-	-	-
 -	Oranje	-	proper	8	-	-	-	-	-
 -	Po	-	proper	21	-	-	-	-	-
 -	Rein	-	proper	5	-	-	-	-	-
@@ -48,13 +48,15 @@
 -	Saale	-	proper	8	-	-	-	-	-
 -	Sambesi	-	proper	5	-	-	-	-	-
 -	Sava	-	proper	9	-	-	-	-	-
--	Savannah	-	proper	5|22	-	-	-	-	-
+-	Savannah	-	proper	22|5	-	-	-	-	-
 -	Seine	-	proper	8	-	-	-	-	-
 -	Somme	-	proper	8	-	-	-	-	-
 -	Syväri	-	proper	6	-	-	-	-	-
+-	Teno	-	proper	1	-	-	-	-	-
 -	Thames	-	proper	5	-	-	-	-	-
 -	Tiber	-	proper	6	-	-	-	-	-
--	Tigris	-	proper	41|39	-	-	-	-	-
+-	Tigris	-	proper	5|†39	-	-	-	-	-
+-	Tigris	-	proper	5|†41	-	-	-	-	-
 -	Tisza	-	proper	9	-	-	-	-	-
 -	Tonava	-	proper	10	-	-	-	-	-
 -	Ural	-	proper	6	-	-	-	-	-
@@ -75,6 +77,7 @@
 -	Emä|joki	-	proper	7	k:	-	-	-	-
 -	Helmi|joki	-	proper	7	k:	-	-	-	-
 -	Huang|joki	-	proper	7	k:	-	-	rare	-
+-	Imatran|koski	-	proper	7	-	-	-	-	-
 -	Jordan|virta	-	proper	9	rt:rr	-	-	-	-
 -	Kemi|joki	-	proper	7	k:	-	-	-	-
 -	Kokemäen|joki	-	proper	7	k:	-	-	-	-

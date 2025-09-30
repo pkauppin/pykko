@@ -32,8 +32,8 @@ def get_base(word):
 def read_lemmas():
 	lemmas = {}
 	for row in \
-		read_list_tsv('lexicon.tsv') + \
-		read_list_tsv('guesser.tsv'):
+		list(read_list_tsv('lexicon.tsv')) + \
+		list(read_list_tsv('guesser.tsv')):
 
 		if len(row) != 10:
 			continue
@@ -233,9 +233,15 @@ def determine_adjective_class(word):
 	if re.fullmatch('.+(nn|ss|rr|ll|hn)(ut|yt)', word) or re.fullmatch('.+(htänyt|htanut)', word):
 		return [('47', '')]
 
-	# haluttu, suosittu, piesty
-	if re.fullmatch('.+(stu|sty|ttu|tty)', word):
+	# piesty
+	if re.fullmatch('.+(stu|sty)', word):
 		return [('1', '')]
+	# haluttu, suosittu
+	if re.fullmatch('.+(ttu|tty)', word):
+		return [('1', 'tt:t')]
+	# vakioitu
+	if re.fullmatch('.+(oitu|öity)', word):
+		return [('1', 't:d')]
 
 	# andorralainen
 	if re.fullmatch(f'.+inen', word):
@@ -291,10 +297,23 @@ def determine_noun_pl_class(word, pos='noun-pl'):
 	if re.fullmatch(f'.+{V}m[a]t', word):
 		return [('10', '??')]
 
-	# Pyreneet
+	# Pyreneet, bileet
+	if re.fullmatch(f'.+tteet', word):
+		return [('48', 'tt:t')]
+	if re.fullmatch(f'.+kkeet', word):
+		return [('48', 'kk:k')]
+	if re.fullmatch(f'.+ppeet', word):
+		return [('48', 'pp:p')]
+	if re.fullmatch(f'.+hteet', word):
+		return [('48', 't:d')]
+	if re.fullmatch(f'.+nteet', word):
+		return [('48', 'nt:nn')]
+	if re.fullmatch(f'.+rteet', word):
+		return [('48', 'rt:rr')]
+	if re.fullmatch(f'.+lteet', word):
+		return [('48', 'lt:ll')]
 	if re.fullmatch(f'.+eet', word) and pos == 'proper-pl':
 		return [('?20', '')]
-	# bileet
 	if re.fullmatch(f'.+eet', word):
 		return [('?48|20', '')]
 
@@ -397,14 +416,20 @@ def determine_noun_class_1(word, pos='noun'):
 	if re.fullmatch('.+(uma|ymä)', word):
 		return [('10', '')]
 
+	# ahde, aloite
+	if re.fullmatch('.+(hde)', word):
+		return [('48', 't:d')]
+	if re.fullmatch('.+(oite)', word):
+		return [('48', 'tt:t')]
+
 	return determine_noun_class_2(word, pos)
 
 
 def determine_noun_class_2(word, pos='noun'):
 
-	if re.fullmatch(f'.*[FLMNRSXZ7]\.?', word):
+	if re.fullmatch(rf'.*[FLMNRSXZ7]\.?', word):
 		return [('?10B', '')]
-	if re.fullmatch(f'.*[ABCDEGPTVWIJHKOÅQUYÜÄÖÉ]\.?', word):
+	if re.fullmatch(rf'.*[ABCDEGPTVWIJHKOÅQUYÜÄÖÉ]\.?', word):
 		return [('?18B', '')]
 
 	if re.fullmatch(f'.*[12]', word):
@@ -425,7 +450,7 @@ def determine_noun_class_2(word, pos='noun'):
 		return [('??', '')]
 
 	# file names and intenet domains – guesser should handle most of these
-	if re.fullmatch(f'.*\.[a-z][a-z][a-z]?', word):
+	if re.fullmatch(rf'.*\.[a-z][a-z][a-z]?', word):
 		return determine_noun_class_2(word.upper())
 	if re.fullmatch(f'.*[{SPECIAL}]', word):
 		return [('XX', '')]

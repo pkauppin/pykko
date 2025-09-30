@@ -12,7 +12,7 @@ DUBIOUS = {
 	'kik', 'käs', 'lei', 'leu', 'lev', 'lux', 'mis', 'mys', 'net', 'new', 'non', 'off', 'out', 'pan', 'par', 'pre',
 	'pro', 'rai', 'sen', 'tag', 'tec', 'tic', 'vip', 'yht', 'yin', 'zen', 'lais', 'vent', 'kalais', 'salais', 'jollais',
 	'kuplais', 'mahlais', 'millais', 'sellais', 'suklais', 'suolais', 'tällais', 'jumalais', 'kuoppais', 'tuollais',
-	'piikkis', 'karvais',
+	'piikkis', 'karvais', 'kat', 'pai', 'fen', 'luo', 'tiu'
 }
 
 RARE = {
@@ -41,7 +41,7 @@ def prefix_form_gen(genitive):
 	"""
 
 	pfx = genitive.lower()
-	pfx = re.sub('([aeiouyäö])-\1', '\g<1> | \g<1>', pfx)
+	pfx = re.sub(r'([aeiouyäö])-\1', r'\1 | \1', pfx)
 	pfx = pfx.replace('-', '|').replace(' | ', '-')
 	pfx = pfx.replace('0', '')
 
@@ -174,7 +174,7 @@ def collect_noun_prefixes():
 				elif pos == 'adjective' and kotus_class == '38' and re.fullmatch('.+l[aä]inen', word):
 
 					# Adjective like "suomalainen" => add "suomalais-"
-					# NOTE: Not all words ending in -(i)nen yield a valid prefix, so limit to -lainen/-läinen for now
+					# NOTE: Not all adjectives ending in -(i)nen yield a valid prefix, so limit to -lainen/-läinen for now
 
 					pfx = prefix_form(word, kotus_class=kotus_class)
 					prefixes.add(pfx)

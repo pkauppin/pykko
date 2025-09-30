@@ -3,22 +3,34 @@
 -	Alko	-	proper	1	-	-	-	-	-
 -	Anttila	-	proper	12	-	-	-	-	-
 -	Bauhaus	-	proper	5	-	-	-	-	-
--	Best Buy	-	proper	2	-	-	-	-	-
+-	Best Buy	-	proper	2	-	back	-	-	-
 -	Biltema	-	proper	13	-	-	-	-	-
+-	Body Shop	-	proper	5	-	-	-	-	-
+-	Budget Sport	-	proper	5	-	-	-	-	-
 -	Carrefour	-	proper	5	-	-	-	-	-
+-	Cittari	-	proper	?6	-	-	-	-	-
 -	Citymarket	-	proper	5	-	-	-	-	-
+-	Clas Ohlson	-	proper	?6	-	-	-	-	-
 -	Coop	-	proper	5	-	-	-	-	-
 -	Costco	-	proper	1	-	-	-	-	-
 -	Debenhams	-	proper	5	-	-	-	-	-
+-	Emotion	-	proper	5	-	-	-	-	-
 -	Euromarket	-	proper	5	-	-	-	-	-
+-	Expert	-	proper	5	-	-	-	-	-
+-	Finlayson	-	proper	?6	-	-	-	-	-
 -	Fnac	-	proper	5	-	-	-	-	-
 -	Gigantti	-	proper	5	tt:t	-	-	-	-
 -	H&M	-	proper	10B	-	-	-	-	-
 -	Harrods	-	proper	5	-	-	-	-	-
 -	Ikea	-	proper	12	-	-	-	-	-
+-	Intersport	-	proper	5	-	-	-	-	-
 -	Isku	-	proper	1	-	-	-	-	-
 -	JCPenney	-	proper	21	-	-	i|y	-	-
+-	JS Sports	-	proper	5	-	-	-	-	-
+-	Jysk	-	proper	5	-	-	-	-	-
+-	KICKS	-	proper	?10B	-	-	-	-	-
 -	KaDeWe	-	proper	8	-	-	-	-	-
+-	Kesport	-	proper	5	-	-	-	-	-
 -	Kodin1	-	proper	31B	-	-	-	-	-
 -	Lawson	-	proper	6	-	-	-	-	-
 -	Lidl	-	proper	5	-	-	-	-	-
@@ -26,23 +38,30 @@
 -	Marks & Spencer	-	proper	6	-	-	-	-	-
 -	Masku	-	proper	1	-	-	-	-	-
 -	Motonet	-	proper	5	-	-	-	-	-
+-	Muji	-	proper	5	-	-	-	-	-
+-	Normal	-	proper	?6	-	-	-	-	-
 -	Power	-	proper	6	-	-	-	-	-
 -	Prisma	-	proper	9	-	-	-	-	-
 -	Rusta	-	proper	10	-	-	-	-	-
 -	Sale	-	proper	8	-	-	-	-	-
 -	Sesto	-	proper	1	-	-	-	-	-
 -	Siwa	-	proper	9	-	-	-	-	-
+-	Sokkari	-	proper	?6	-	-	-	slang	-
 -	Sokos	-	proper	39	-	-	-	-	-
 -	Spar	-	proper	5	-	-	-	-	-
+-	Stadium	-	proper	5	-	-	-	-	-
 -	Stocka	-	proper	10	-	-	-	-	-
 -	Stockmann	-	proper	5	-	-	-	-	-
 -	Systembolaget	-	proper	5	-	-	-	-	-
+-	Taloon.com	-	proper	5B	-	-	-	-	-
 -	Target	-	proper	5	-	-	-	-	-
 -	Tesco	-	proper	1	-	-	-	-	-
+-	The Body Shop	-	proper	5	-	-	-	-	-
 -	Tokmanni	-	proper	5	-	-	-	-	-
 -	Vepsäläinen	-	proper	38	-	-	-	-	-
 -	Walmart	-	proper	5	-	-	-	-	-
 -	Whole Foods	-	proper	5	-	-	-	-	-
+-	XXL	-	proper	?10B	-	-	-	-	-
 -	Åhléns	-	proper	5	-	-	-	-	-
 -	7-Eleven	-	proper	6	-	-	-	-	-
 -	K-Citymarket	-	proper	5	-	-	-	-	-
@@ -50,7 +69,10 @@
 -	K-Rauta	-	proper	9	t:d	-	-	-	-
 -	K-Supermarket	-	proper	5	-	-	-	-	-
 -	R-Kioski	-	proper	6	-	-	-	-	-
+-	R-kioski	-	proper	5	-	-	-	-	-
 -	S-market	-	proper	5	-	-	-	-	-
--	Henkka|maukka	-	proper	9	kk:k	-	-	-	-
--	Puu|ilo	-	proper	2	-	-	-	-	-
+-	Henkka|maukka	-	proper	9	kk:k	-	-	slang	-
+-	Partio|aitta	-	proper	9	tt:t	-	-	-	-
+-	Puu|ilo	-	proper	1	-	-	-	-	-
+-	Ruohon|juuri	-	proper	26	-	-	-	-	-
 -	Valinta|talo	-	proper	1	-	-	-	-	-

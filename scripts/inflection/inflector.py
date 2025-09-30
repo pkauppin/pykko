@@ -4,9 +4,10 @@ from collections import defaultdict
 from scripts.inflection.utils import \
 	C, V, VV, \
 	grad_strong, grad_weak, \
-	HARMONY_MAPPING, determine_harmony, determine_stem_vowel, \
-	plural2singular, merge_inflections
-from scripts.utils import ADVERB_INFLECTIONS, clean
+	HARMONY_MAPPING, determine_stem_vowel, \
+	plural2singular, merge_inflections, unaccent
+from scripts.utils import ADVERB_INFLECTIONS, clean, determine_wordform_harmony, determine_lemma_vowel_harmony, \
+	is_valid_pos
 from scripts.inflection.verb_derivations import derive_agent_noun, derive_action_noun
 
 
@@ -104,14 +105,14 @@ def get_comparison(adjective, inflections, kotus_class=''):
 	return clean(all_forms)
 
 
-def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
+def inflect_noun(word, kotus_class, gradtype, harmony, vowel=None):
 
 	"""
 	Return all possible numbers and cases of given Finnish noun, adjective, ordinal number etc.
 	"""
 
 	vowel = vowel or determine_stem_vowel(word, kotus_class)
-	harmony = harmony or determine_harmony(word, kotus_class)
+	harmony = harmony or determine_lemma_vowel_harmony(word, kotus_class)
 	a, o, u, aa, oo, _ = HARMONY_MAPPING[harmony]
 
 	if not kotus_class:
@@ -148,11 +149,20 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['sg|ess'] = [f"{iso}veljenä"]
 		all_forms['pl|ess'] = [f"{iso}veljinä"]
 
+	elif kotus_class == "0B":
+		l = word
+		#
+		all_forms['sg|gen'] = [f"{l}:n"]
+		all_forms['sg|par'] = [f"{l}:{a}"]
+		all_forms['sg|ill'] = [f"{l}:{aa}n"]
+		all_forms['sg|ess'] = [f"{l}:n{a}"]
+
 	# "valo"
 	elif kotus_class == "1":
 		katto = word
-		kattoo = katto + vowel
+		kattoo = katto + determine_stem_vowel(katto[-1], kotus_class="1")
 		kato = grad_weak(word, gradtype)
+		katoi = grad_weak(word, gradtype, vowel_follows=True) + 'i'
 		#
 		all_forms['sg|gen'] = [f"{kato}n"]
 		all_forms['sg|par'] = [f"{katto}{a}"]
@@ -160,18 +170,20 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['pl|gen'] = [f"{katto}jen"]
 		all_forms['pl|par'] = [f"{katto}j{a}"]
 		all_forms['pl|ill'] = [f"{katto}ihin"]
-		all_forms['pl|ine'] = [f"{kato}iss{a}"]
+		all_forms['pl|ine'] = [f"{katoi}ss{a}"]
 		all_forms['sg|ess'] = [f"{katto}n{a}"]
 		all_forms['pl|ess'] = [f"{katto}in{a}"]
 
 	# "€"
 	elif kotus_class == "1B":
 		d = word
+		vvn = f"{vowel}{vowel}n"
+		vn = f"{vowel}n"
 		#
 		all_forms['sg|nom'] = [f"{d}"]
 		all_forms['sg|gen'] = [f"{d}:n"]
 		all_forms['sg|par'] = [f"{d}:{a}"]
-		all_forms['sg|ill'] = [f"{d}:{oo}n", f"{d}:{o}n"]
+		all_forms['sg|ill'] = [f"{d}:{vvn}", f"{d}:{vn}"]
 		all_forms['pl|gen'] = [f"{d}:jen"]
 		all_forms['pl|par'] = [f"{d}:j{a}"]
 		all_forms['pl|ill'] = [f"{d}:ihin"]
@@ -180,10 +192,25 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['pl|ess'] = [f"{d}:in{a}"]
 		all_forms['@stem:clitics'] = [f"{d}:"]
 
+	# "Zeus", "Kypros", "Pegasos" (archaic inflection)
+	elif kotus_class == "1S":
+		ouroboro = word[:-1]
+		all_forms['sg|nom'] = [f"{ouroboro}s"]
+		all_forms['sg|gen|dated'] = [f"{ouroboro}n"]
+		all_forms['sg|par|dated'] = [f"{ouroboro}{a}"]
+		all_forms['sg|ill|dated'] = [f"{ouroboro}{o}n"]
+		all_forms['pl|gen|dated'] = [f"{ouroboro}jen"]
+		all_forms['pl|par|dated'] = [f"{ouroboro}j{a}"]
+		all_forms['pl|ill|dated'] = [f"{ouroboro}ihin"]
+		all_forms['pl|ine|dated'] = [f"{ouroboro}iss{a}"]
+		all_forms['sg|ess|dated'] = [f"{ouroboro}n{a}"]
+		all_forms['pl|ess|dated'] = [f"{ouroboro}in{a}"]
+		all_forms['@stem:clitics'] = [f"{ouroboro}"]  # TODO: Fix missing style tag
+
 	# "palvelu"
 	elif kotus_class == "2":
 		palvelu = word
-		palveluu = palvelu + vowel
+		palveluu = palvelu + word[-1]
 		#
 		all_forms['sg|gen'] = [f"{palvelu}n"]
 		all_forms['sg|par'] = [f"{palvelu}{a}"]
@@ -198,7 +225,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	# "valtio"
 	elif kotus_class == "3":
 		valtio = word
-		valtioo = word + vowel
+		valtioo = word + word[-1]
 		#
 		all_forms['sg|gen'] = [f"{valtio}n"]
 		all_forms['sg|par'] = [f"{valtio}t{a}"]
@@ -310,7 +337,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	elif kotus_class == "7":
 		kaikki = word[:-1] + 'i'
 		kaikke = word[:-1] + 'e'
-		kaiki = grad_weak(kaikki, gradtype)
+		kaiki = grad_weak(kaikki, gradtype, vowel_follows=True)
 		kaike = grad_weak(kaikke, gradtype)
 		#
 		all_forms['sg|nom'] = [word]
@@ -363,7 +390,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		tukka = word
 		tukki = tukka[:-1] + 'i'
 		tuka = grad_weak(tukka, gradtype)
-		tuki = grad_weak(tukki, gradtype)
+		tuki = grad_weak(tukki, gradtype, vowel_follows=True)
 		#
 		all_forms['sg|gen'] = [f"{tuka}n"]
 		all_forms['sg|par'] = [f"{tukka}{a}"]
@@ -376,6 +403,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['pl|ess'] = [f"{tukki}n{a}"]
 		all_forms['pl|gen|rare'] = [f"{tukka}in"]
 
+		# TODO: Count syllables
 		# # "hunajata", "veräjätä", "petäjätä", "keittäjätä", but not: *"jäteläjätä"
 		# if re.fullmatch('.+[^a]aja', word) or re.fullmatch('.*(t|el|ver|en|ps|ks)äjä', word):
 		# 	hunaja = word
@@ -538,7 +566,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	elif kotus_class == "18":
 		maa = word
 		ma = word[:-1]
-		han = f"h{vowel}n"
+		han = f'h{word[-1]}n'
 		#
 		all_forms['sg|gen'] = [f"{maa}n"]
 		all_forms['sg|par'] = [f"{maa}t{a}"]
@@ -553,7 +581,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	# "leu"
 	elif kotus_class == "18U":
 		tau = word
-		hun = f'h{vowel}n'
+		hun = f'h{word[-1]}n'
 		#
 		all_forms['sg|gen'] = [f"{tau}n"]
 		all_forms['sg|par'] = [f"{tau}t{a}"]
@@ -564,6 +592,21 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['pl|ine'] = [f"{tau}iss{a}"]
 		all_forms['sg|ess'] = [f"{tau}n{a}"]
 		all_forms['pl|ess'] = [f"{tau}in{a}"]
+
+	# "Zeus"
+	elif kotus_class == "18S":
+		zeu = word[:-1]
+		hun = f'h{word[-1]}n'
+		#
+		all_forms['sg|gen'] = [f"{zeu}n"]
+		all_forms['sg|par'] = [f"{zeu}t{a}"]
+		all_forms['sg|ill'] = [f"{zeu}{hun}"]
+		all_forms['pl|gen'] = [f"{zeu}iden", f"{zeu}itten", f"{zeu}jen"]
+		all_forms['pl|par'] = [f"{zeu}it{a}", f"{zeu}j{a}"]
+		all_forms['pl|ill'] = [f"{zeu}ihin"]
+		all_forms['pl|ine'] = [f"{zeu}iss{a}"]
+		all_forms['sg|ess'] = [f"{zeu}n{a}"]
+		all_forms['pl|ess'] = [f"{zeu}in{a}"]
 
 	# "DNA"
 	elif kotus_class == "18B":
@@ -586,7 +629,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	elif kotus_class == "19":
 		suo = word
 		so = word[:-2] + word[-1]
-		hon = f"h{vowel}n"
+		hon = f"h{word[-1]}n"
 		#
 		all_forms['sg|gen'] = [f"{suo}n"]
 		all_forms['sg|par'] = [f"{suo}t{a}"]
@@ -602,7 +645,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	elif kotus_class == "20":
 		patee = word
 		pate = word[:-1]
-		hen = f"h{vowel}n"
+		hen = f"h{word[-1]}n"
 		#
 		all_forms['sg|gen'] = [f"{patee}n"]
 		all_forms['sg|par'] = [f"{patee}t{a}"]
@@ -631,21 +674,25 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 
 	# "parfait"
 	elif kotus_class == "22":
-		parfait = word
-		hen = f"h{vowel}n"
+		show = word
+		hun = f"h{vowel}n"
 		#
-		all_forms['sg|nom'] = [f"{parfait}"]
-		all_forms['sg|gen'] = [f"{parfait}’n"]
-		all_forms['sg|par'] = [f"{parfait}’t{a}"]
-		all_forms['sg|ill'] = [f"{parfait}’{hen}"]
-		all_forms['pl|gen'] = [f"{parfait}’iden", f"{parfait}’itten"]
-		all_forms['pl|par'] = [f"{parfait}’it{a}"]
-		all_forms['pl|ill'] = [f"{parfait}’ihin"]
-		all_forms['pl|ine'] = [f"{parfait}’iss{a}"]
-		all_forms['sg|ess'] = [f"{parfait}’n{a}"]
-		all_forms['pl|ess'] = [f"{parfait}’in{a}"]
+		all_forms['sg|nom'] = [f"{show}"]
+		all_forms['sg|gen'] = [f"{show}’n"]
+		all_forms['sg|par'] = [f"{show}’t{a}"]
+		all_forms['sg|ill'] = [f"{show}’{hun}"]
+		all_forms['pl|gen'] = [f"{show}’iden", f"{show}’itten"]
+		all_forms['pl|par'] = [f"{show}’it{a}"]
+		all_forms['pl|ill'] = [f"{show}’ihin"]
+		all_forms['pl|ine'] = [f"{show}’iss{a}"]
+		all_forms['sg|ess'] = [f"{show}’n{a}"]
+		all_forms['pl|ess'] = [f"{show}’in{a}"]
 
-		# TODO: Add nonstandard inflections *here*!
+		if word.endswith('w'):
+			all_forms['sg|gen|nstd'] = [f"{show}n"]
+			all_forms['sg|par|nstd'] = [f"{show}t{a}"]
+			all_forms['sg|ill|nstd'] = [f"{show}{hun}"]
+			all_forms['sg|ess|nstd'] = [f"{show}n{a}"]
 
 	# "tiili"
 	elif kotus_class == "23":
@@ -821,7 +868,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	# "kytkin"
 	elif kotus_class == "33":
 		eroti = word[:-1]
-		erotti = grad_strong(eroti, gradtype)
+		erotti = 'kertoi' if word.endswith('kerroin') else grad_strong(eroti, gradtype)
 		#
 		all_forms['sg|nom'] = [f"{eroti}n"]
 		all_forms['sg|gen'] = [f"{erotti}men"]
@@ -833,6 +880,11 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['pl|ine'] = [f"{erotti}miss{a}"]
 		all_forms['sg|ess'] = [f"{erotti}men{a}"]
 		all_forms['pl|ess'] = [f"{erotti}min{a}"]
+
+		if word.endswith('hapan'):
+			happa = erotti
+			all_forms['sg|gen'] += [f"{happa}man"]
+			all_forms['sg|ill'] += [f"{happa}maan"]
 
 	# "onneton", "alaston"
 	elif kotus_class == "34":
@@ -888,7 +940,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		rikas = word
 		rika = word[:-1]
 		rikka = grad_strong(rika, gradtype)
-		rikkaa = rikka + vowel
+		rikkaa = rikka + rikka[-1]
 		#
 		all_forms['sg|nom'] = [f"{rikas}"]
 		all_forms['sg|gen'] = [f"{rikkaa}n"]
@@ -985,11 +1037,11 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['sg|ess'] = [f"{kuolle}en{a}"]
 		all_forms['pl|ess'] = [f"{kuolle}in{a}"]
 
-	# "hame", "moite"
+	# "hame", "moite", "kiiru", "ori"
 	elif kotus_class == "48" or kotus_class == '49b':
 		moite = word
 		moitte = grad_strong(moite, gradtype)
-		moittee = moitte + vowel
+		moittee = moitte + word[-1]
 		#
 		all_forms['sg|nom'] = [f"{moite}"]
 		all_forms['sg|gen'] = [f"{moittee}n"]
@@ -1003,8 +1055,19 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['pl|ess'] = [f"{moitte}in{a}"]
 		all_forms['pl|par|nstd'] = [f"{moitte}hi{a}"]
 
+		if word == 'hepene':
+			hepen = word[:-1]
+			all_forms['sg|gen'] += [f"{hepen}en"]
+			all_forms['pl|gen'] += [f"{hepen}ien"]
+			all_forms['pl|par'] += [f"{hepen}iä"]
+			all_forms['pl|ill'] += [f"{hepen}iin"]
+			all_forms['pl|ine'] += [f"{hepen}issä"]
+			all_forms['pl|ess'] += [f"{hepen}inä"]
+
 	# "askel"
 	elif kotus_class == "49":
+
+		# TODO: "auer" and "askel" actually inflect differently!
 		auer = word
 		auter = grad_strong(word[:-1], gradtype) + word[-1]
 		#
@@ -1012,8 +1075,8 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['sg|gen'] = [f"{auter}en"]
 		all_forms['sg|par'] = [f"{auer}t{a}"]
 		all_forms['sg|ill'] = [f"{auter}eeseen"]
-		all_forms['pl|gen'] = [f"{auer}ten", f"{auter}ien"]
-		all_forms['pl|par'] = [f"{auter}i{a}"]
+		all_forms['pl|gen'] = [f"{auer}ten", f"{auter}ien", f"{auter}eiden", f"{auter}eitten"]
+		all_forms['pl|par'] = [f"{auter}i{a}", f"{auter}eit{a}"]
 		all_forms['pl|ill'] = [f"{auter}iin"]
 		all_forms['pl|ine'] = [f"{auter}iss{a}", f"{auter}eiss{a}"]
 		all_forms['sg|ess'] = [f"{auter}en{a}"]
@@ -1140,6 +1203,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	elif kotus_class == '8B':
 		x = word
 		een = f"{vowel}{vowel}n"
+		en = f"{vowel}n"
 		#
 		all_forms['sg|nom'] = [f"{x}"]
 		all_forms['sg|gen'] = [f"{x}:n"]
@@ -1151,6 +1215,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		all_forms['pl|ine'] = [f"{x}:iss{a}"]
 		all_forms['sg|ess'] = [f"{x}:n{a}"]
 		all_forms['pl|ess'] = [f"{x}:in{a}"]
+		all_forms['sg|ill|nstd'] = [f"{x}:{en}"]
 		all_forms['@stem:clitics'] = [f"{x}:"]
 
 	# "5", "6"
@@ -1190,31 +1255,33 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 		return {'@base': [word], '': [word]}
 
 	# Derive remaining cases from existing ones
+	for style in '', '|dated':
 
-	for kaupa in [f[:-1] for f in all_forms['sg|gen']]:
-		all_forms['sg|all'] += [f"{kaupa}lle"]
-		all_forms['sg|ade'] += [f"{kaupa}ll{a}"]
-		all_forms['sg|abl'] += [f"{kaupa}lt{a}"]
-		all_forms['sg|ine'] += [f"{kaupa}ss{a}"]
-		all_forms['sg|ela'] += [f"{kaupa}st{a}"]
-		all_forms['sg|tra'] += [f"{kaupa}ksi"]
-		all_forms['sg|abe'] += [f"{kaupa}tt{a}"]
-		all_forms['pl|nom'] += [f"{kaupa}t"]
+		for kaupa in [f[:-1] for f in all_forms[f'sg|gen{style}']]:
+			all_forms[f'sg|all{style}'] += [f"{kaupa}lle"]
+			all_forms[f'sg|ade{style}'] += [f"{kaupa}ll{a}"]
+			all_forms[f'sg|abl{style}'] += [f"{kaupa}lt{a}"]
+			all_forms[f'sg|ine{style}'] += [f"{kaupa}ss{a}"]
+			all_forms[f'sg|ela{style}'] += [f"{kaupa}st{a}"]
+			all_forms[f'sg|tra{style}'] += [f"{kaupa}ksi"]
+			all_forms[f'sg|abe{style}'] += [f"{kaupa}tt{a}"]
+			all_forms[f'pl|nom{style}'] += [f"{kaupa}t"]
 
-	for kaupoi in [f[:-3] for f in all_forms['pl|ine']]:
-		all_forms['pl|all'] += [f"{kaupoi}lle"]
-		all_forms['pl|ade'] += [f"{kaupoi}ll{a}"]
-		all_forms['pl|abl'] += [f"{kaupoi}lt{a}"]
-		all_forms['pl|ela'] += [f"{kaupoi}st{a}"]
-		all_forms['pl|tra'] += [f"{kaupoi}ksi"]
-		all_forms['pl|abe'] += [f"{kaupoi}tt{a}"]
-		all_forms['pl|ins'] += [f"{kaupoi}n"]
+		for kaupoi in [f[:-3] for f in all_forms[f'pl|ine{style}']]:
+			all_forms[f'pl|all{style}'] += [f"{kaupoi}lle"]
+			all_forms[f'pl|ade{style}'] += [f"{kaupoi}ll{a}"]
+			all_forms[f'pl|abl{style}'] += [f"{kaupoi}lt{a}"]
+			all_forms[f'pl|ela{style}'] += [f"{kaupoi}st{a}"]
+			all_forms[f'pl|tra{style}'] += [f"{kaupoi}ksi"]
+			all_forms[f'pl|abe{style}'] += [f"{kaupoi}tt{a}"]
+			all_forms[f'pl|ins{style}'] += [f"{kaupoi}n"]
 
-	for kauppoi in [f[:-2] for f in all_forms['pl|ess']]:
-		all_forms['pl|com'] += [f"{kauppoi}ne"]
+		for kauppoi in [f[:-2] for f in all_forms[f'pl|ess{style}']]:
+			all_forms[f'pl|com{style}'] += [f"{kauppoi}ne"]
 
 	# Auxiliary forms
-	poss_stem = all_forms['sg|ess'][0][:-2]
+	poss_stem = (all_forms['sg|ess'] or all_forms['sg|ess|dated'])[0][:-2]
+	# TODO: Fix missing style tag for inflection class 1S
 	all_forms['@stem:possessives'] = [poss_stem]
 	all_forms['@stem:clitics'] = all_forms.get('@stem:clitics') or all_forms['sg|nom']
 	all_forms['@base'] = [word]
@@ -1224,7 +1291,7 @@ def inflect_noun(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 
 def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 
-	harmony = harmony or determine_harmony(word)
+	harmony = harmony or determine_lemma_vowel_harmony(word)
 	a, o, u, aa, oo, _ = HARMONY_MAPPING[harmony]
 
 	all_forms = defaultdict(list)
@@ -1232,7 +1299,7 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 	all_forms['inf1'] = [word]
 
 	# "olla"
-	if word == "olla":          # 'olla'
+	if word == "olla":
 		all_forms['pres|1sg'] = ["olen"]
 		all_forms['pres|3sg'] = ["on"]
 		all_forms['past|1sg'] = ["olin"]
@@ -1244,6 +1311,21 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 		all_forms['pass|past'] = ["oltiin"]
 		all_forms['part_ma'] = ["olema"]
 		all_forms['pass|pres'] = ["ollaan"]
+
+	# "lienee" (alternative analyses)
+	elif word == "lienee":
+		all_forms['pres|1sg'] = ["lienen"]
+		all_forms['pres|3sg'] = ["lienee"]
+		all_forms['past|1sg|nstd'] = ["lienin"]
+		all_forms['past|3sg|nstd'] = ["lieni"]
+		all_forms['cond|3sg|nstd'] = ["lienisi"]
+		all_forms['poten|3sg'] = []
+		all_forms['imper|3sg'] = []
+		all_forms['part_past'] = []
+		all_forms['pass|past'] = []
+		all_forms['part_ma'] = []
+		all_forms['pass|pres'] = []
+		all_forms['inf1'] = []
 
 	# "sanoa"
 	elif kotus_class == "52":
@@ -1716,7 +1798,7 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 		all_forms['part_pres'] = [f"{kaika}v{a}"]
 		all_forms['cond|3sg'] = [f"{kaika}isi"]
 		all_forms['cond|3pl'] = [f"{kaika}isiv{a}t"]
-		all_forms['inf1'] = [word]
+		all_forms['part_past|rare'] = [f"{kaika}n{u}t"]
 
 	# "erkanee"
 	elif kotus_class == "ERKANEE":
@@ -1764,6 +1846,7 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 		[lukea] = all_forms['inf1']
 		luke = lukea[:-1]
 		luki = luke[:-1] + 'i' if luke.endswith('e') else luke
+		a, _, _, _, _, _ = HARMONY_MAPPING[determine_wordform_harmony(luki)]
 		all_forms['inf1|tra'] = [f'{lukea}kseen']
 		all_forms['inf2|ins'] = [f'{luki}en']
 		all_forms['inf2|ine'] = [f'{luki}ess{a}']
@@ -1775,8 +1858,10 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 			all_forms[f'pres|2sg{style}'] += [f"{jaa}t"]
 			all_forms[f'pres|1pl{style}'] += [f"{jaa}mme"]
 			all_forms[f'pres|2pl{style}'] += [f"{jaa}tte"]
-			all_forms[f'imper|2sg{style}'] += [f"{jaa}"]
 			all_forms[f'pres|conneg{style}'] += [f"{jaa}"]
+			if word == 'lienee':
+				continue
+			all_forms[f'imper|2sg{style}'] += [f"{jaa}"]
 			all_forms[f'imper|2sg|conneg{style}'] += [f"{jaa}"]
 
 		for jaoi in [f[:-1] for f in all_forms[f'past|1sg{style}']]:
@@ -1785,6 +1870,7 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 			all_forms[f'past|2pl{style}'] += [f"{jaoi}tte"]
 
 		for jakak in [f[:-3] for f in all_forms[f'imper|3sg{style}']]:
+			a, o, _, aa, oo, _ = HARMONY_MAPPING[determine_wordform_harmony(jakak)]
 			all_forms[f'imper|2pl{style}'] += [f"{jakak}{aa}"]
 			all_forms[f'imper|3pl{style}'] += [f"{jakak}{oo}t"]
 			all_forms[f'imper|1pl'] = [f"{jakak}{aa}mme"]
@@ -1795,11 +1881,12 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 			all_forms[f'imper|3sg|conneg'] = [f"{jakak}{o}"]
 
 		for jaeta in [f[:-2] for f in all_forms[f'pass|pres{style}']]:
+			a, _, _, _, _, _ = HARMONY_MAPPING[determine_wordform_harmony(jaeta)]
 			all_forms[f'pass|pres{style}'] += [f"{jaeta}{a}n"]
 			all_forms[f'pass|pres|conneg{style}'] += [f"{jaeta}"]
 
 		for jaett in [f[:-3] for f in all_forms[f'pass|past{style}']]:
-			a, o, u, _, _, _ = HARMONY_MAPPING[determine_harmony(jaett)]
+			a, o, u, _, _, _ = HARMONY_MAPPING[determine_wordform_harmony(jaett)]
 			all_forms[f'pass|past{style}'] += [f"{jaett}iin"]
 			all_forms[f'pass|cond{style}'] += [f"{jaett}{a}isiin"]
 			all_forms[f'pass|poten{style}'] += [f"{jaett}{a}neen"]
@@ -1815,7 +1902,7 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 			all_forms[f'pass|inf3|ins{style}'] += [f"{jaett}{a}m{a}n"]
 
 		for jaka in [f[:-2] for f in all_forms[f'part_ma{style}']]:
-			a, o, _, aa, _, _ = HARMONY_MAPPING[determine_harmony(jaka)]
+			a, o, _, aa, _, _ = HARMONY_MAPPING[determine_wordform_harmony(jaka)]
 			all_forms[f'part_pres{style}'] += [f"{jaka}v{a}"]
 			all_forms[f'part_maton{style}'] += [f"{jaka}m{a}t{o}n"]
 			all_forms[f'pres|3pl{style}'] += [f"{jaka}v{a}t"]
@@ -1829,11 +1916,11 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 			all_forms[f'inf5{style}'] = [f"{jaka}m{a}isill{aa}n"]
 
 		for jakoi in [f for f in all_forms[f'past|3sg{style}']]:
-			a, _, _, _, _, _ = HARMONY_MAPPING[determine_harmony(jakoi)]
+			a, _, _, _, _, _ = HARMONY_MAPPING[determine_wordform_harmony(jakoi)]
 			all_forms[f'past|3pl{style}'] += [f"{jakoi}v{a}t"]
 
 		for jakaisi in [f for f in all_forms[f'cond|3sg{style}']]:
-			a, _, _, _, _, _ = HARMONY_MAPPING[determine_harmony(jakaisi)]
+			a, _, _, _, _, _ = HARMONY_MAPPING[determine_wordform_harmony(jakaisi)]
 			all_forms[f'cond|1sg{style}'] += [f"{jakaisi}n"]
 			all_forms[f'cond|2sg{style}'] += [f"{jakaisi}t"]
 			all_forms[f'cond|3sg{style}'] += [f"{jakaisi}"]
@@ -1843,7 +1930,7 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 			all_forms[f'cond|conneg{style}'] += [f"{jakaisi}"]
 
 		for jakane in [f[:-1] for f in all_forms[f'poten|3sg{style}']]:
-			a, _, _, _, _, _ = HARMONY_MAPPING[determine_harmony(jakane)]
+			a, _, _, _, _, _ = HARMONY_MAPPING[determine_wordform_harmony(jakane)]
 			all_forms[f'poten|1sg{style}'] += [f"{jakane}n"]
 			all_forms[f'poten|2sg{style}'] += [f"{jakane}t"]
 			all_forms[f'poten|3sg{style}'] += [f"{jakane}e"]
@@ -1868,7 +1955,7 @@ def inflect_verb(word, kotus_class, gradtype=None, harmony=None):
 	return clean(all_forms)
 
 
-def inflect_noun_pl(word, kotus_class, gradtype=None, harmony=None, vowel=None):
+def inflect_noun_pl(word, kotus_class, gradtype, harmony, vowel=None):
 
 	if not kotus_class:
 		return {'': [word], '@base': [word]}
@@ -1883,7 +1970,7 @@ def inflect_noun_pl(word, kotus_class, gradtype=None, harmony=None, vowel=None):
 	return inflections
 
 
-def inflect_adjective(word, kotus_class, gradtype=None, harmony=None, vowel=None, info=''):
+def inflect_adjective(word, kotus_class, gradtype, harmony, vowel=None, info=''):
 	inflections = inflect_noun(word, kotus_class, gradtype, harmony, vowel)
 	if 'non-comparable' not in info:
 		inflections.update(get_comparison(word, inflections, kotus_class))
@@ -1918,7 +2005,7 @@ def inflect_adposition(word, info=''):
 	return {'@base': [word], '': [word],  '@stem:possessives': [word]}
 
 
-def inflect_adverb(word, info):
+def inflect_adverb(word, info=''):
 
 	info = info or ''
 
@@ -1954,28 +2041,41 @@ def inflect(word, pos, kotus_class=None, gradation=None, harmony=None, vowel=Non
 	if not pos:
 		return {}
 
+	if pos != 'noun|adjective' and not is_valid_pos(pos):
+		return {}
+
 	kotus_class = kotus_class or ''
 	gradation = gradation or ''
+	harmony = harmony or determine_lemma_vowel_harmony(word)
 	info = info or ''
 
 	# TODO: Add patching function to adjust inflections of individual words
+	# TODO: More elegant handling of dialectal/rare/nonstandard inflection types
 
 	if '|' in kotus_class:
 		class1, class2 = kotus_class.split('|')
-		style = 'dial' if '‡' in class2 else 'nstd' if '†' in class2 else ''
-		inflections1 = inflect(word, pos, class1, gradation)
-		inflections2 = inflect(word, pos, class2, gradation)
+		style = 'dial' if '‡' in class2 else 'nstd' if '†' in class2 else 'rare' if '(' in class2 else ''
+		inflections1 = inflect(word, pos, class1, gradation, harmony, vowel, info)
+		inflections2 = inflect(word, pos, class2, gradation, harmony, vowel, info)
 		return merge_inflections(inflections1, inflections2, secondary_tag=style)
 
 	if '|' in gradation:
 		grad1, grad2 = gradation.split('|')
-		style = 'dial' if '‡' in grad2 else 'nstd' if '†' in grad2 else ''
-		inflections1 = inflect(word, pos, kotus_class, grad1)
-		inflections2 = inflect(word, pos, kotus_class, grad2)
+		style = 'dial' if '‡' in grad2 else 'nstd' if '†' in grad2 else 'rare' if '(' in grad2 else ''
+		inflections1 = inflect(word, pos, kotus_class, grad1, harmony, vowel, info)
+		inflections2 = inflect(word, pos, kotus_class, grad2, harmony, vowel, info)
 		return merge_inflections(inflections1, inflections2, secondary_tag=style)
 
-	kotus_class = kotus_class.replace('†', '').replace('‡', '')
-	gradation = gradation.replace('†', '').replace('‡', '')
+	if '|' in harmony:
+		harm1, harm2 = harmony.split('|')
+		style = 'dial' if '‡' in harm2 else 'nstd' if '†' in harm2 else 'rare' if '(' in harm2 else ''
+		inflections1 = inflect(word, pos, kotus_class, gradation, harm1, vowel, info)
+		inflections2 = inflect(word, pos, kotus_class, gradation, harm2, vowel, info)
+		return merge_inflections(inflections1, inflections2, secondary_tag=style)
+
+	kotus_class = kotus_class.replace('†', '').replace('‡', '').replace(')', '').replace('(', '')
+	gradation = gradation.replace('†', '').replace('‡', '').replace(')', '').replace('(', '')
+	harmony = harmony.replace('†', '').replace('‡', '').replace(')', '').replace('(', '')
 
 	if info == '#':
 		return {'': [word], '@base': [word]}
@@ -1993,7 +2093,7 @@ def inflect(word, pos, kotus_class=None, gradation=None, harmony=None, vowel=Non
 	elif pos == 'verb':
 		return inflect_verb(word, kotus_class, gradation, harmony)
 	elif pos == 'adjective':
-		return inflect_adjective(word, kotus_class, gradation, harmony, vowel, info)
+		return inflect_adjective(word, kotus_class, gradation, harmony, vowel, info=info)
 	elif pos == 'adverb':
 		return inflect_adverb(word, info)
 	elif pos == 'adposition':
@@ -2010,7 +2110,15 @@ def inflect(word, pos, kotus_class=None, gradation=None, harmony=None, vowel=Non
 		return inflect_noun(word, kotus_class, gradation, harmony, vowel)
 	elif pos == 'participle':
 		return inflect_noun(word, kotus_class, gradation, harmony, vowel)
-	else:
-		'???'
 
 	return {'': [word], '@base': [word]}
+
+"""
+from pprint import pprint
+
+line = "-	olla	-	verb	67	-	variable	-	-	-"
+row = ['' if val == '-' else val for val in line.split('\t')]
+_, lemma, _, pos, inflclass, grad, harmony = row[:7]
+pprint(inflect(lemma, pos, inflclass, grad))
+print()
+"""

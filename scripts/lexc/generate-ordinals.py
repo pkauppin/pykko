@@ -12,15 +12,16 @@ for row in read_list_tsv('aux-numerals.tsv'):
 	_, lemma, _, pos, kotus_classes, gradations, harmonies, vowels, _, _ = row
 	for kotus_class, gradation, harmony, vowel in unpack(kotus_classes, gradations, harmonies, vowels):
 		inflections = inflect(lemma, pos, kotus_class, gradation)
+		inflections = {key: val for key, val in inflections.items() if val}
 		FORMS[lemma] = ddict(align_all_inflections(inflections, pos='numeral'))
 
 FORMS_EQUALIZED = {
 	lemma: ddict(equalize_inflections(inflections)) for lemma, inflections in FORMS.items()
 }
 
-TAGS = {
+TAGS = sorted({
 	tag for inflections in FORMS.values() for tag in inflections.keys() if not tag.startswith('@')
-} - {'pl|gen|nstd', 'pl|gen|rare'}
+} - {'pl|gen|nstd', 'pl|gen|rare'})
 
 NUM = [
 	'yhdes',
@@ -68,7 +69,7 @@ for tag in TAGS:
 
 	lexc += f'LEXICON ORDINAL_{tag}_base_final\n'
 	for ordinal in NUM:
-		H = determine_wordform_harmony(ordinal)
+		H = determine_wordform_harmony(ordinal).upper()
 		cutoff = get_lemma_length(FORMS[ordinal])
 		[pairs] = FORMS[ordinal][tag]
 		string1, string2 = get_input_and_output_strings(pairs)
@@ -82,7 +83,7 @@ for tag in TAGS:
 		lexc += f'{string1}:{string2} CLITIC_BACK ;\n'
 	""""""
 	for ordinal in ['ensimmäinen', 'toinen']:
-		H = determine_wordform_harmony(ordinal)
+		H = determine_wordform_harmony(ordinal).upper()
 		cutoff = get_lemma_length(FORMS[ordinal])
 		[pairs] = FORMS[ordinal][tag]
 		string1, string2 = get_input_and_output_strings(pairs)
@@ -93,7 +94,7 @@ for tag in TAGS:
 
 	lexc += f'LEXICON ORDINAL_{tag}_multiplier_final\n'
 	for ordinal in ['kymmenes', 'sadas', 'tuhannes']:
-		H = determine_wordform_harmony(ordinal)
+		H = determine_wordform_harmony(ordinal).upper()
 		cutoff = get_lemma_length(FORMS[ordinal])
 		[pairs] = FORMS[ordinal][tag]
 		string1, string2 = get_input_and_output_strings(pairs)

@@ -1,4 +1,4 @@
-data = [
+data_placenames = [
 	# "Akaa"
 	(('Akaa', 'proper', '', '+sg+gen'), ['Akaan']),
 	(('Akaa', 'proper', '', '+sg+ill'), ['Akaaseen']),
@@ -2211,10 +2211,10 @@ data = [
 	(('Kalvola', 'proper', '', '+sg+ela'), ['Kalvolasta']),
 
 	# "Kangaslampi"
-	(('Kangaslampi', 'proper', '', '+sg+gen'), ['Kangaslammin']),
-	(('Kangaslampi', 'proper', '', '+sg+all'), ['Kangaslammille']),
-	(('Kangaslampi', 'proper', '', '+sg+ade'), ['Kangaslammilla']),
-	(('Kangaslampi', 'proper', '', '+sg+abl'), ['Kangaslammilta']),
+	(('Kangaslampi', 'proper', '', '+sg+gen'), ['Kangaslammin', 'Kangaslammen']),
+	(('Kangaslampi', 'proper', '', '+sg+all'), ['Kangaslammille', 'Kangaslammelle']),
+	(('Kangaslampi', 'proper', '', '+sg+ade'), ['Kangaslammilla', 'Kangaslammella']),
+	(('Kangaslampi', 'proper', '', '+sg+abl'), ['Kangaslammilta', 'Kangaslammelta']),
 
 	# "Kanneljärvi"
 	(('Kanneljärvi', 'proper', '', '+sg+gen'), ['Kanneljärven']),
@@ -5738,10 +5738,10 @@ data = [
 	(('Nassau', 'proper', '', '+sg+ela'), ['Nassausta']),
 
 	# "Naypyidaw"
-	(('Naypyidaw', 'proper', '', '+sg+gen'), ['Naypyidawin']),
-	(('Naypyidaw', 'proper', '', '+sg+ill'), ['Naypyidawiin']),
-	(('Naypyidaw', 'proper', '', '+sg+ine'), ['Naypyidawissa']),
-	(('Naypyidaw', 'proper', '', '+sg+ela'), ['Naypyidawista']),
+	(('Naypyidaw', 'proper', '', '+sg+gen'), ['Naypyidaw’n']),
+	(('Naypyidaw', 'proper', '', '+sg+ill'), ['Naypyidaw’hon']),
+	(('Naypyidaw', 'proper', '', '+sg+ine'), ['Naypyidaw’ssa']),
+	(('Naypyidaw', 'proper', '', '+sg+ela'), ['Naypyidaw’sta']),
 
 	# "New Delhi"
 	(('New Delhi', 'proper', '', '+sg+gen'), ['New Delhin']),

@@ -63,7 +63,7 @@
 -	Oslon|vuono	-	proper	1	-	-	-	-	-
 -	Persian|lahti	-	proper	7	t:d	-	-	-	-
 -	Perä|meri	-	proper	24	-	-	-	-	-
--	Pohjan|lahti	-	proper	7	nt:nn	-	-	-	-
+-	Pohjan|lahti	-	proper	7	t:d	-	-	-	-
 -	Pohjan|meri	-	proper	24	-	-	-	-	-
 -	Riian|lahti	-	proper	7	t:d	-	-	-	-
 -	Ristin|selkä	-	proper	10	k:	-	-	-	-
@@ -82,13 +82,13 @@
 -	Tonkinin|lahti	-	proper	7	t:d	-	-	-	-
 -	Trondheimin|vuono	-	proper	1	-	-	-	-	-
 -	Tyrrhenan|meri	-	proper	24	-	-	-	-	-
--	Vanhankaupungin|selkä	-	proper	10	k:	-	-	-	-
 -	Varangin|vuono	-	proper	1	-	-	-	-	-
 -	Venezuelan|lahti	-	proper	7	t:d	-	-	-	-
 -	Vienan|lahti	-	proper	7	t:d	-	-	-	-
 -	Vienan|meri	-	proper	24	-	-	-	-	-
 -	Väli|meri	-	proper	24	-	-	-	-	-
 -	Weddellin|meri	-	proper	24	-	-	-	-	-
+-	Vanhan|kaupungin|selkä	-	proper	10	k:	-	-	-	-
 -	Keltainen%meri	-	proper	24	-	-	-	-	-
 -	Musta%meri	-	proper	24	-	-	-	-	-
 -	Punainen%meri	-	proper	24	-	-	-	-	-

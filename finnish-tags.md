@@ -20,6 +20,7 @@
 - `proper` proper noun (singular)
 - `proper-pl` proper noun (plural)
 - `conjunction` conjunction
+- `participle` verb participle
 
 Compound tags:
 - `conjunction+verb` e.g. _ettei_

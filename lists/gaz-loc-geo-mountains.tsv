@@ -10,6 +10,7 @@
 -	Holmenkollen	-	proper	6	-	-	-	-	-
 -	Jungfrau	-	proper	21	-	-	-	-	-
 -	Jura	-	proper	10	-	-	-	-	-
+-	K2	-	proper	31B	-	-	-	-	-
 -	Karakorum	-	proper	5	-	-	-	-	-
 -	Kaukasus	-	proper	39	-	-	-	-	-
 -	Kilimanjaro	-	proper	1	-	-	-	-	-
@@ -36,7 +37,7 @@
 -	Uluru	-	proper	1	-	-	-	-	-
 -	Vesuvius	-	proper	39	-	-	-	-	-
 -	Vuokatti	-	proper	5	tt:t	-	-	-	-
--	Iso-Syöte	-	proper	48	tt:t	-	-	-	-
+-	Ylläs	-	proper	39	-	-	-	-	-
 -	Aava|saksa	-	proper	9	-	-	-	-	-
 -	Ailakka|vaara	-	proper	9	-	-	-	-	-
 -	Haltia|tunturi	-	proper	6	-	-	-	-	-
@@ -60,6 +61,7 @@
 -	Suomu|tunturi	-	proper	6	-	-	-	-	-
 -	Taborin|vuori	-	proper	26	-	-	-	-	-
 -	Thüringenin|metsä	-	proper	10	-	-	-	-	-
+-	Iso%-Syöte	-	proper	48	tt:t	-	-	-	-
 -	Alpit	-	proper-pl	5	pp:p	-	-	-	-
 -	Andit	-	proper-pl	5	-	-	-	-	-
 -	Apenniinit	-	proper-pl	5	-	-	-	-	-
@@ -102,6 +104,7 @@
 -	Taurus|vuoret	-	proper-pl	26	-	-	-	-	-
 -	Teton|vuoret	-	proper-pl	26	-	-	-	-	-
 -	Ural|vuoret	-	proper-pl	26	-	-	-	-	-
+Cap	toppen	-	proper	6	-	-	-	-	4.000
 Cap	|vaara	-	proper	9	-	-	-	-	4.000
 Cap	|vuori	-	proper	26	-	-	-	-	4.000
 Cap	|vuoret	-	proper-pl	26	-	-	-	-	4.000

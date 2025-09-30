@@ -9,6 +9,7 @@
 -	Armenia	-	proper	12	-	-	-	-	-
 -	Artsakh	-	proper	5	-	-	-	-	-
 -	Aruba	-	proper	9	-	-	-	-	-
+-	Assyria	-	proper	12	-	-	-	-	-
 -	Australia	-	proper	12	-	-	-	-	-
 -	Azerbaidzan	-	proper	6	-	-	-	nstd	-
 -	Azerbaidzhan	-	proper	6	-	-	-	nstd	-
@@ -65,7 +66,7 @@
 -	Guadeloupe	-	proper	8	-	-	-	-	-
 -	Guam	-	proper	5	-	-	-	-	-
 -	Guatemala	-	proper	12	-	-	-	-	-
--	Guernsey	-	proper	21	-	-	i|y	-	-
+-	Guernsey	-	proper	21	-	front|back	i|y	-	-
 -	Guinea	-	proper	12	-	-	-	-	-
 -	Guyana	-	proper	12	-	-	-	-	-
 -	Haiti	-	proper	5	-	-	-	-	-
@@ -110,7 +111,7 @@
 -	Kreikka	-	proper	9	kk:k	-	-	-	-
 -	Kroatia	-	proper	12	-	-	-	-	-
 -	Kuwait	-	proper	5	-	-	-	-	-
--	Kypros	-	proper	39	-	-	-	-	-
+-	Kypros	-	proper	39|1S	-	-	-	-	-
 -	Laos	-	proper	5	-	-	-	-	-
 -	Latvia	-	proper	12	-	-	-	-	-
 -	Lesotho	-	proper	1	-	-	-	-	-
@@ -164,6 +165,7 @@
 -	Rooma	-	proper	10	-	-	-	-	-
 -	Ruanda	-	proper	9	-	-	-	-	-
 -	Ruotsi	-	proper	5	-	-	-	-	-
+-	Ruotti	-	proper	5	tt:t|=	-	-	coll|dial	-
 -	Rus	-	proper	5	-	-	-	-	-
 -	Rus’	-	proper	5	-	-	-	-	-
 -	Saint Helena	-	proper	12	-	-	-	-	-
@@ -214,6 +216,7 @@
 -	Ukraina	-	proper	13	-	-	-	-	-
 -	Unkari	-	proper	6	-	-	-	-	-
 -	Uruguay	-	proper	21	-	back	i|y	-	-
+-	Usa	-	proper	10	-	-	-	coll|dial	-
 -	Uzbekistan	-	proper	6	-	-	-	-	-
 -	Vanuatu	-	proper	1	-	-	-	-	-
 -	Vatikaani	-	proper	5	-	-	-	-	-
@@ -242,7 +245,7 @@
 -	Puola-Liettua	-	proper	12	-	-	-	-	-
 -	Saint-Martin	-	proper	5	-	-	-	-	-
 -	Saudi-Arabia	-	proper	12	-	-	-	-	-
--	Serbia-Montenegro	-	proper	2	-	-	-	-	-
+-	Serbia-Montenegro	-	proper	1	-	-	-	-	-
 -	Tynkä-Jugoslavia	-	proper	12	-	-	-	-	-
 -	Uusi-Kaledonia	-	proper	12	-	-	-	-	-
 -	Valko-Venäjä	-	proper	10	-	-	-	-	-
@@ -264,8 +267,13 @@
 -	Iso%-Britannia	-	proper	12	-	-	-	-	-
 -	Uusi%-Seelanti	-	proper	5	nt:nn	-	-	-	-
 -	Papua-Uusi%-Guinea	-	proper	12	-	-	-	-	-
+-	Aussit	-	proper-pl	5	-	-	-	slang	-
+-	Britit	-	proper-pl	5	tt:t	-	-	slang	-
+-	Enkut	-	proper-pl	1	kk:k	-	-	slang	-
 -	Filippiinit	-	proper-pl	5	-	-	-	-	-
 -	Grenadiinit	-	proper-pl	5	-	-	-	-	-
+-	Irkut	-	proper-pl	1	kk:k	-	-	slang	-
+-	Jenkit	-	proper-pl	5	kk:k	-	-	slang	-
 -	Komorit	-	proper-pl	6	-	-	-	-	-
 -	Malediivit	-	proper-pl	5	-	-	-	-	-
 -	Seychellit	-	proper-pl	5	-	-	-	-	-

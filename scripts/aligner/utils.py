@@ -3,7 +3,7 @@ from scripts.constants import ZERO
 
 VOWELS = set('aeiouyäö')
 NULL = '0'
-PL_PRONOUNS = {'me', 'te', 'he', 'nämä', 'nuo', 'ne'}
+PL_PRONOUNS = {'me', 'te', 'he', 'nämä', 'nuo', 'ne', 'myö', 'työ', 'hyö'}
 
 IRREGULAR = [
 	('hyv',  'par'),
@@ -50,6 +50,8 @@ MUTATIONS = [
 	('s',  '0'),
 	('m',  'n'),
 
+	('’',  ':'),
+
 	('|', '0'),
 ]
 
@@ -65,6 +67,7 @@ def has_mutation(stem1, stem2):
 			return seg1, seg2, seg3, seg4
 		if stem1.startswith(seg4) and stem2.startswith(seg3):
 			return seg2, seg1, seg4, seg3
+	return False
 
 
 STYLE_TAGS = [
@@ -72,6 +75,8 @@ STYLE_TAGS = [
 	('+dial', ''),
 	('+nstd', ''),
 	('+arch', ''),
+	('+poet', ''),
+	('+dated', ''),
 ]
 
 MORPH_ENDINGS = {
@@ -336,6 +341,8 @@ MORPH_ENDINGS = {
 		('+superlative', 'impää'),
 		('+superlative', 'immas'),
 		('+superlative', 'immäs'),
+		('+superlative', 'immaksi'),
+		('+superlative', 'immäksi'),
 		('+superlative', 'immin'),
 		('+superlative', 'iten'),
 
@@ -353,6 +360,8 @@ MORPH_ENDINGS = {
 		('+comparative', 'mpää'),
 		('+comparative', 'mmas'),
 		('+comparative', 'mmäs'),
+		('+comparative', 'mmaksi'),
+		('+comparative', 'mmäksi'),
 		('+comparative', 'mmin'),
 		('+comparative', 'mman'),
 		('+comparative', 'mmän'),
@@ -395,14 +404,20 @@ FOSSILIZED = {
 	('kulloinenkin', 'adjective'): ['kin'],
 	('joltinenkin', 'adjective'): ['kin'],
 	('jommoinenkin', 'adjective'): ['kin'],
-	('yksitoista', 'numeral'): ['toista'],
-	('kaksitoista', 'numeral'): ['toista'],
-	('kolmetoista', 'numeral'): ['toista'],
-	('neljätoista', 'numeral'): ['toista'],
-	('viisitoista', 'numeral'): ['toista'],
-	('kuusitoista', 'numeral'): ['toista'],
-	('seitsemäntoista', 'numeral'): ['toista'],
-	('kahdeksantoista', 'numeral'): ['toista'],
+	('yksi|toista', 'numeral'): ['toista'],
+	('kaksi|toista', 'numeral'): ['toista'],
+	('kolme|toista', 'numeral'): ['toista'],
+	('neljä|toista', 'numeral'): ['toista'],
+	('viisi|toista', 'numeral'): ['toista'],
+	('kuusi|toista', 'numeral'): ['toista'],
+	('seitsemän|toista', 'numeral'): ['toista'],
+	('kahdeksan|toista', 'numeral'): ['toista'],
+	('minun|laiseni', 'adjective'): ['ni'],
+	('sinun|laisesi', 'adjective'): ['si'],
+	('hänen|laisensa', 'adjective'): ['nsa', 'an', 'en'],
+	('meidän|laisemme', 'adjective'): ['mme'],
+	('teidän|laisenne', 'adjective'): ['nne'],
+	('heidän|laisensa', 'adjective'): ['nsa', 'an', 'en'],
 }
 
 
@@ -464,6 +479,7 @@ def get_auxiliary_stems_noun(inflections):
 	auxiliary_stems += [('@stem:possessives', form) for form in getf(inflections, 'sg|nom')]  # lupa|na  # altte|in, altteh|in
 	auxiliary_stems += [('@stem:possessives', form[:-1]) for form in getf(inflections, 'sg|gen')]  # luva|n
 	auxiliary_stems += [('+pl', form) for form in getf(inflections, 'pl|nom')]  # ne
+	auxiliary_stems += [('+pl', form[:-3]) for form in getf(inflections, 'pl|ins')]  # luv|in
 	return auxiliary_stems
 
 
@@ -582,7 +598,7 @@ def get_pivot_stem(inflections, pos):
 
 def getf(inflections, tag):
 	forms = []
-	for style in '', '|rare', '|nstd', '|poet', '|arch', '|dial':
+	for style in '', '|rare', '|nstd', '|poet', '|arch', '|dial', '|dated':
 		for form in inflections.get(f'{tag}{style}', []):
 			forms.append(form)
 	return sorted(forms, key=lambda f: -len(f))

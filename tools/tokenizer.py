@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 """
-Tokenize text.
+Text tokenization.
 For testing/debugging purposes only.
 """
 
@@ -18,37 +18,38 @@ ABBREV = ABBREV | {a.capitalize() for a in ABBREV}
 REGEX_ABBREV = '|'.join(ABBREV)
 REGEX_EMOTICON = '|'.join(EMOTICONS)
 REGEX_UNITS = '|'.join(UNITS)
-REGEX_INITIAL = '(?:[A-ZÅÄÖ][.])+'
-REGEX_ORDINAL = '[1-9][0-9]?[.]'
-REGEX_DATE = '(?:[1-9]|[12][0-9]|30|31).(?:[1-9]|10|11|12).(?:[0-9][0-9][0-9][0-9])?'
-REGEX_CLOCK = '(?:[0-9]?[0-9][:.][0-9][0-9])'
-REGEX_HASHTAG = '#[A-Za-z0-9_]+'
-REGEX_HANDLE = '@[A-Za-z0-9_]+'
-REGEX_REDDIT = 'r/[A-Za-z0-9_]+|u/[A-Za-z0-9_]+'
-REGEX_THOUSANDS = '[1-9][0-9]?[0-9]?(?: [0-9][0-9][0-9])+(?:-[a-zåäö-]+)?'
-REGEX_THOUSANDS_RANGE = '[1-9][0-9]?[0-9]?(?: [0-9][0-9][0-9])+[-–][1-9][0-9]?[0-9]?(?: [0-9][0-9][0-9])+'
-REGEX_XML_ELEM = '<[^<>]+>'
-REGEX_HTML_ENTITY = '&[^;\s]+;'
-# REGEX_URL = '(?:https?://|file:///)[a-z0-9](?:[.][a-z0-9][a-z0-9]+)+'
-# REGEX_EMAIL = '(?:https?://|file:///)[a-z0-9](?:[.][a-z0-9][a-z0-9]+)+'
-# REGEX_CHORD = 'xxx'
-# REGEX_IUPAC_NAME = 'xxx'
+REGEX_INITIAL = r'(?:[A-ZÅÄÖ][.])+'
+REGEX_ORDINAL = r'[1-9][0-9]?[.]'
+REGEX_DATE = r'(?:[1-9]|[12][0-9]|30|31).(?:[1-9]|10|11|12).(?:[0-9][0-9][0-9][0-9])?'
+REGEX_CLOCK = r'(?:[0-9]?[0-9][:.][0-9][0-9])'
+REGEX_HASHTAG = r'#[A-Za-z0-9_]+'
+REGEX_HANDLE = r'@[A-Za-z0-9_]+'
+REGEX_REDDIT = r'r/[A-Za-z0-9_]+|u/[A-Za-z0-9_]+'
+REGEX_THOUSANDS = r'[1-9][0-9]?[0-9]?(?:[  ][0-9][0-9][0-9])+(?:-[a-zåäö-]+)?'
+REGEX_THOUSANDS_RANGE = r'[1-9][0-9]?[0-9]?(?:[  ][0-9][0-9][0-9])+[-–][1-9][0-9]?[0-9]?(?:[  ][0-9][0-9][0-9])+'
+REGEX_XML_ELEM = r'<[^<>]+>'
+REGEX_HTML_ENTITY = r'&[^;\s]+;'
+REGEX_URL = r'(?:https?://|file:///|www\.)(?:[a-z0-9]+\.)+\S+[^ \t\n)(:;,.]'
+# REGEX_IUPAC_NAME = r'...'
 
-REGEX_ALL = f'{LINE_BREAK}' \
-			f'{REGEX_UNITS}|' \
-			f'{REGEX_EMOTICON}|' \
-			f'{REGEX_ABBREV}|' \
-			f'{REGEX_INITIAL}|' \
-			f'{REGEX_ORDINAL}|' \
-			f'{REGEX_DATE}|' \
-			f'{REGEX_CLOCK}|' \
-			f'{REGEX_HASHTAG}|' \
-			f'{REGEX_HANDLE}|' \
-			f'{REGEX_REDDIT}|' \
-			f'{REGEX_THOUSANDS}|' \
-			f'{REGEX_THOUSANDS_RANGE}|' \
-			f'{REGEX_XML_ELEM}|' \
-			f'{REGEX_HTML_ENTITY}'
+REGEX_ALL = '|'.join((
+	LINE_BREAK,
+	REGEX_UNITS,
+	REGEX_EMOTICON,
+	REGEX_ABBREV,
+	REGEX_INITIAL,
+	REGEX_ORDINAL,
+	REGEX_DATE,
+	REGEX_CLOCK,
+	REGEX_HASHTAG,
+	REGEX_HANDLE,
+	REGEX_REDDIT,
+	REGEX_THOUSANDS,
+	REGEX_THOUSANDS_RANGE,
+	REGEX_XML_ELEM,
+	REGEX_HTML_ENTITY,
+	REGEX_URL,
+))
 
 PUNCT_HEAD = '\t\n (/"“”„¿¡‹«»{[\'’'
 PUNCT_TAIL = '\t\n .…,;?!)/"“”„›»}\\]\'’'
@@ -74,19 +75,20 @@ def text2tokens(text):
 		separated = head + tail[::-1]
 		return separated
 
+	text = re.sub('^( *[-–—])([A-ZÅÄÖ])', r'\1 \2', text)
 	text = f' {text} '
-	text = re.sub(f'({REGEX_XML_ELEM})', ' \g<1> ', text)
+	text = re.sub(rf'({REGEX_XML_ELEM})', r' \1 ', text)
 	text = text.replace('\n\n', f' {LINE_BREAK} ')
-	text = re.sub('(--+|==+|\.\.\.+)', ' \g<1> ', text)
-	text = re.sub('\s+', ' ', text)
-	segments = re.split(f'(?<=[{PUNCT_HEAD}])({REGEX_ALL})(?=[{PUNCT_TAIL}]|:[^a-zåäö])', text)
+	text = re.sub(r'(--+|==+|\.\.\.+)', r' \1 ', text)
+	text = re.sub(r'\s+', ' ', text)
+	segments = re.split(rf'(?<=[{PUNCT_HEAD}])({REGEX_ALL})(?=[{PUNCT_TAIL}]|:[^a-zåäö])', text)
 
 	tokens = []
 	for i, seg in enumerate(segments):
 		if i % 2:
 			tokens += [seg]
 			continue
-		for w in re.split('(\s+|/)', seg):
+		for w in re.split(r'(\s+|/)', seg):
 			tokens += separate_punct(w)
 
 	return tokens
@@ -112,7 +114,7 @@ def text2sentences(text):
 			sentences.append([])
 			continue
 
-		if curr_token in ['–', '-'] and re.fullmatch('.+\s', prev_context) and re.fullmatch('\s[A-ZÅÄÖ].+', next_context):
+		if curr_token in ['–', '-'] and re.fullmatch(r'.+\s', prev_context) and re.fullmatch(r'\s[A-ZÅÄÖ].+', next_context):
 			add_sentbreak()
 
 		sentences[-1].append(curr_token)
@@ -145,10 +147,5 @@ def tokenize(text):
 
 if __name__ == '__main__':
 	for line in sys.stdin:
-		line = line.replace('&amp; ', '&').replace('&lt; ', '<').replace('&gt; ', '>')
+		# line = line.replace('&amp; ', '&').replace('&lt; ', '<').replace('&gt; ', '>')
 		print(tokenize(line), end="")
-
-
-
-
-

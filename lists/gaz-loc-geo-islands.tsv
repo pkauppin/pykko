@@ -19,6 +19,7 @@
 -	Gotlanti	-	proper	5	nt:nn	-	-	-	-
 -	Grönlanti	-	proper	5	nt:nn	-	-	-	-
 -	Hainan	-	proper	6	-	-	-	-	-
+-	Havaiji	-	proper	5	-	-	-	-	-
 -	Hawaiji	-	proper	5	-	-	-	nstd	-
 -	Helgoland	-	proper	5	-	-	-	-	-
 -	Hispaniola	-	proper	10	-	-	-	-	-
@@ -36,7 +37,7 @@
 -	Kos	-	proper	5	-	-	-	-	-
 -	Kreeta	-	proper	9	-	-	-	-	-
 -	Kuuba	-	proper	10	-	-	-	-	-
--	Kypros	-	proper	39	-	-	-	-	-
+-	Kypros	-	proper	39|1S	-	-	-	-	-
 -	Kyushu	-	proper	1	-	-	-	-	-
 -	Kyūshū	-	proper	21|1	-	-	-	-	-
 -	Lampedusa	-	proper	10	-	-	-	-	-
@@ -57,7 +58,9 @@
 -	Okinawa	-	proper	9	-	-	-	-	-
 -	Príncipe	-	proper	8	-	-	-	-	-
 -	Riddarholmen	-	proper	6	-	-	-	-	-
+-	Rodos	-	proper	39|1S	-	-	-	-	-
 -	Russarö	-	proper	2	-	-	-	-	-
+-	Ródos	-	proper	39	-	-	-	-	-
 -	Rönnskär	-	proper	5	-	-	-	-	-
 -	Rügen	-	proper	6	-	-	-	-	-
 -	Sahalin	-	proper	5	-	-	-	-	-
@@ -93,6 +96,7 @@
 -	Länsi-Intia	-	proper	12	-	-	-	-	-
 -	Ahvenan|maa	-	proper	18	-	-	-	-	-
 -	Baffinin|saari	-	proper	26	-	-	-	-	-
+-	Banda|saaret	-	proper	26	-	-	-	-	-
 -	Banksin|saari	-	proper	26	-	-	-	-	-
 -	Bouvet’n|saari	-	proper	26	-	-	-	-	-
 -	Clippertonin|saari	-	proper	26	-	-	-	-	-
@@ -108,6 +112,7 @@
 -	Korkea|saari	-	proper	26	-	-	-	-	-
 -	Kustaan|miekka	-	proper	9	kk:k	-	-	-	-
 -	Kuuskajas|kari	-	proper	5	-	-	-	-	-
+-	Maa|kalla	-	proper	9	-	-	-	-	-
 -	Man|saari	-	proper	26	-	-	-	-	-
 -	Mustikka|maa	-	proper	18	-	-	-	-	-
 -	Nais|saari	-	proper	26	-	-	-	-	-
@@ -117,8 +122,11 @@
 -	Saaren|maa	-	proper	18	-	-	-	-	-
 -	Seura|saari	-	proper	26	-	-	-	-	-
 -	Soi|salo	-	proper	1	-	-	-	-	-
+-	Sompa|saari	-	proper	26	-	-	-	-	-
 -	Tuli|maa	-	proper	18	-	-	-	-	-
+-	Ulko|kalla	-	proper	9	-	-	-	-	-
 -	Vancouverin|saari	-	proper	26	-	-	-	-	-
+-	Iso%saari	-	proper	26	-	-	-	-	-
 -	Aleutit	-	proper-pl	5	tt:t	-	-	-	-
 -	Amirantit	-	proper-pl	5	tt:t	-	-	-	-
 -	Andamaanit	-	proper-pl	5	-	-	-	-	-
@@ -158,6 +166,7 @@
 -	Havaiji|saaret	-	proper-pl	26	-	-	-	-	-
 -	Huippu|vuoret	-	proper-pl	26	-	-	-	-	-
 -	Joonian|saaret	-	proper-pl	26	-	-	-	-	-
+-	Kallan|karit	-	proper-pl	5	-	-	-	-	-
 -	Kanaali|saaret	-	proper-pl	26	-	-	-	-	-
 -	Kanarian|saaret	-	proper-pl	26	-	-	-	-	-
 -	Kerguélen|saaret	-	proper-pl	26	-	-	-	-	-

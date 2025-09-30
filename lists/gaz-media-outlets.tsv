@@ -1,12 +1,17 @@
 -	Aftonbladet	-	proper	5	-	-	-	-	-
+-	ArsTechnica	-	proper	9	-	-	-	-	-
 -	Bloomberg	-	proper	5	-	-	-	-	-
 -	Buzzfeed	-	proper	5	-	-	-	-	-
+-	CNET	-	proper	5B	-	-	-	-	-
 -	DN	-	proper	10B	-	-	-	-	-
 -	Empire	-	proper	8	-	-	-	-	-
+-	Engadget	-	proper	5	-	-	-	-	-
 -	Euronews	-	proper	5	-	-	-	-	-
 -	Expressen	-	proper	6	-	-	-	-	-
 -	Guardian	-	proper	5	-	-	-	-	-
+-	HS	-	proper	?10B	-	-	-	-	-
 -	HS.fi	-	proper	18B	-	-	-	web	-
+-	Julkku	-	proper	1	kk:k	-	-	-	-
 -	Meduza	-	proper	10|12	-	-	-	-	-
 -	Monocle	-	proper	8	-	-	-	-	-
 -	NYT	-	proper	18B	-	-	-	-	-
@@ -14,11 +19,16 @@
 -	Politico	-	proper	2	-	-	-	-	-
 -	SvD	-	proper	18B	-	-	-	-	-
 -	TMZ	-	proper	10B	-	-	-	-	-
+-	TechCruch	-	proper	5	-	-	-	-	-
+-	TechWorld	-	proper	5	-	-	-	-	-
 -	Telegraph	-	proper	5	-	-	-	-	-
 -	Time	-	proper	8	-	-	-	-	-
--	Variety	-	proper	1	-	-	-	-	-
+-	Variety	-	proper	1	-	front|back	-	-	-
 -	Vice	-	proper	8	-	-	-	-	-
+-	Virittäjä	-	proper	10	-	-	-	-	-
+-	Vogue	-	proper	8|21	-	-	-	-	-
 -	WSJ	-	proper	18B	-	-	-	-	-
+-	Äpy	-	proper	1	-	-	-	-	-
 -	Aamu|lehti	-	proper	7	t:d	-	-	-	-
 -	Ilta|lehti	-	proper	7	t:d	-	-	-	-
 -	MTV Uutiset	-	proper-pl	5	-	-	-	-	-

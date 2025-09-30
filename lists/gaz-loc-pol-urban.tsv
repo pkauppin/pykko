@@ -1,3 +1,5 @@
+-	Sparta	-	noun	9	-	-	-	-	-
+-	Troija	-	noun	10	-	-	-	-	-
 -	Aarhus	-	proper	5	-	-	-	-	-
 -	Abidjan	-	proper	5	-	-	-	-	-
 -	Abu Dhabi	-	proper	5	-	-	-	-	-
@@ -21,12 +23,12 @@
 -	Almaty	-	proper	1	-	-	-	-	-
 -	Alta	-	proper	9	-	-	-	-	-
 -	Amherst	-	proper	5	-	-	-	-	-
+-	Amiens	-	proper	5	-	-	-	-	-
 -	Amman	-	proper	6	-	-	-	-	-
 -	Amsterdam	-	proper	5	-	-	-	-	-
 -	Anaheim	-	proper	5	-	-	-	-	-
 -	Andorra la Vella	-	proper	9	-	-	-	-	-
 -	Angkor	-	proper	6	-	-	-	-	-
--	Anianpelto	-	proper	1	-	-	-	-	-
 -	Anjala	-	proper	12	-	-	-	-	-
 -	Ankara	-	proper	10|12	-	-	-	-	-
 -	Antakya	-	proper	12	-	-	-	-	-
@@ -70,7 +72,8 @@
 -	Baoding	-	proper	5	-	-	-	-	-
 -	Barcelona	-	proper	10	-	-	-	-	-
 -	Bari	-	proper	5	-	-	-	-	-
--	Barrow	-	proper	22	-	-	-	-	-
+-	Baringdorf	-	proper	5	-	-	-	-	-
+-	Barrow	-	proper	22|†5	-	-	u	-	-
 -	Basel	-	proper	6	-	-	-	-	-
 -	Basra	-	proper	9	-	-	-	-	-
 -	Basseterre	-	proper	8	-	front|back	-	-	-
@@ -101,11 +104,12 @@
 -	Boden	-	proper	6	-	-	-	-	-
 -	Bogota	-	proper	10|12	-	-	-	-	-
 -	Bogotá	-	proper	1	-	-	-	-	-
--	Bollnäs	-	proper	39	-	-	-	-	-
+-	Boliden	-	proper	?6	-	-	-	-	-
+-	Bollnäs	-	proper	5	-	-	-	-	-
 -	Bologna	-	proper	10	-	-	-	-	-
--	Bombay	-	proper	21	-	-	i|y	-	-
+-	Bombay	-	proper	21	-	front|back	i|y	-	-
 -	Bonn	-	proper	5	-	-	-	-	-
--	Bordeaux	-	proper	22	-	-	-	-	-
+-	Bordeaux	-	proper	22|†5	-	-	o	-	-
 -	Borlänge	-	proper	8	-	-	-	-	-
 -	Borås	-	proper	5	-	-	-	-	-
 -	Boston	-	proper	6	-	-	-	-	-
@@ -132,8 +136,10 @@
 -	Buenos Aires	-	proper	5	-	-	-	-	-
 -	Buffalo	-	proper	2	-	-	-	-	-
 -	Bukarest	-	proper	5	-	-	-	-	-
+-	Burnley	-	proper	21	-	front|back	-	-	-
 -	Bydgoszcz	-	proper	5	-	-	-	-	-
--	Calais	-	proper	22	-	-	-	-	-
+-	Caen	-	proper	5	-	-	-	-	-
+-	Calais	-	proper	22|†5	-	-	e	-	-
 -	Calgary	-	proper	1	-	-	-	-	-
 -	Cali	-	proper	5	-	-	-	-	-
 -	Cambridge	-	proper	8	-	-	-	-	-
@@ -157,6 +163,7 @@
 -	Chinatown	-	proper	5	-	-	-	-	-
 -	Chișinău	-	proper	21	-	-	-	-	-
 -	Chongqing	-	proper	5	-	-	-	-	-
+-	Christchurch	-	proper	5	-	-	-	-	-
 -	Città del Vaticano	-	proper	1	-	-	-	-	-
 -	Clarendon	-	proper	5	-	-	-	-	-
 -	Clayton	-	proper	6	-	-	-	-	-
@@ -166,11 +173,10 @@
 -	Columbus	-	proper	39|5	-	-	-	-	-
 -	Conakry	-	proper	1	-	-	-	-	-
 -	Constanţa	-	proper	10	-	-	-	-	-
--	Conventry	-	proper	1	-	-	-	-	-
 -	Cordoba	-	proper	10	-	-	-	-	-
 -	Corinto	-	proper	1	-	-	-	-	-
 -	Cotonou	-	proper	21	-	-	-	-	-
--	Coventry	-	proper	1	-	-	-	-	-
+-	Coventry	-	proper	1	-	front|back	-	-	-
 -	Craiova	-	proper	10	-	-	-	-	-
 -	Curitiba	-	proper	9	-	-	-	-	-
 -	Cusco	-	proper	1	-	-	-	-	-
@@ -223,6 +229,7 @@
 -	Eger	-	proper	6	-	-	-	-	-
 -	Eilat	-	proper	5	-	-	-	-	-
 -	Eisenach	-	proper	5	-	-	-	-	-
+-	El Ejido	-	proper	1	-	-	-	-	-
 -	El Paso	-	proper	1	-	-	-	-	-
 -	Enköping	-	proper	5	-	-	-	-	-
 -	Eno	-	proper	1	-	-	-	-	-
@@ -257,14 +264,15 @@
 -	Gent	-	proper	5	-	-	-	-	-
 -	Georgetown	-	proper	5	-	-	-	-	-
 -	Geta	-	proper	9	-	-	-	-	-
+-	Getafe	-	proper	8	-	-	-	-	-
 -	Gitega	-	proper	9	-	-	-	-	-
 -	Giza	-	proper	9	-	-	-	-	-
--	Glasgow	-	proper	5	-	-	-	-	-
+-	Glasgow	-	proper	22|†5	-	-	u	-	-
 -	Godthåb	-	proper	5	-	-	-	-	-
 -	Golan	-	proper	6	-	-	-	-	-
 -	Gorki	-	proper	5	-	-	-	-	-
 -	Gotham	-	proper	5	-	-	-	-	-
--	Gotham City	-	proper	1	-	-	-	-	-
+-	Gotham City	-	proper	1	-	front	-	-	-
 -	Gouda	-	proper	10	-	-	-	-	-
 -	Granada	-	proper	9	-	-	-	-	-
 -	Graz	-	proper	5	-	-	-	-	-
@@ -272,8 +280,9 @@
 -	Groningen	-	proper	6	-	-	-	-	-
 -	Guadalajara	-	proper	13	-	-	-	-	-
 -	Guangzhou	-	proper	21	-	-	-	-	-
--	Guatemala City	-	proper	1	-	-	-	-	-
+-	Guatemala City	-	proper	1	-	front	-	-	-
 -	Guayaquil	-	proper	5	-	-	-	-	-
+-	Guingamp	-	proper	5	-	-	-	-	-
 -	Györ	-	proper	5	-	-	-	-	-
 -	Gävle	-	proper	8	-	-	-	-	-
 -	Göteborg	-	proper	5	-	-	-	-	-
@@ -315,11 +324,12 @@
 -	Helsingør	-	proper	5	-	-	-	-	-
 -	Helsinki	-	proper	5	nk:ng	-	-	-	-
 -	Herson	-	proper	6	-	-	-	-	-
+-	Hesa	-	proper	9	-	-	-	slang	-
 -	Hetta	-	proper	9	tt:t	-	-	-	-
 -	Hiitola	-	proper	10	-	-	-	-	-
 -	Hiittinen	-	proper	38-pl	-	-	-	-	-
 -	Hikiä	-	proper	12	-	-	-	-	-
--	Himanka	-	proper	9	-	-	-	-	-
+-	Himanka	-	proper	9	nk:ng	-	-	-	-
 -	Hiroshima	-	proper	9	-	-	-	-	-
 -	Hki	-	proper	5	k:g	-	-	abbr	-
 -	Ho Chi Minh	-	proper	5	-	-	-	-	-
@@ -332,6 +342,7 @@
 -	Hopsu	-	proper	1	-	-	-	-	-
 -	Houston	-	proper	6	-	-	-	-	-
 -	Houtskari	-	proper	5	-	-	-	-	-
+-	Huesca	-	proper	9	-	-	-	-	-
 -	Huittinen	-	proper	38-pl	-	-	-	-	-
 -	Hull	-	proper	5	-	-	-	-	-
 -	Humppila	-	proper	12	-	-	-	-	-
@@ -349,7 +360,7 @@
 -	Ilomantsi	-	proper	5	-	-	-	-	-
 -	Imatra	-	proper	9	-	-	-	-	-
 -	Inari	-	proper	6	-	-	-	-	-
--	Indianapolis	-	proper	39	-	-	-	-	-
+-	Indianapolis	-	proper	39|5	-	-	-	-	-
 -	Iniö	-	proper	3	-	-	-	-	-
 -	Inkoo	-	proper	17	-	-	-	-	-
 -	Innsbruck	-	proper	5	-	-	-	-	-
@@ -391,7 +402,6 @@
 -	Jääski	-	proper	7	-	-	-	-	-
 -	Jönkoping	-	proper	5	-	-	-	-	-
 -	Kaamanen	-	proper	38	-	-	-	-	-
--	Kaaresuvanto	-	proper	1	-	-	-	-	-
 -	Kaarina	-	proper	13	-	-	-	-	-
 -	Kaarlela	-	proper	13	-	-	-	-	-
 -	Kaavi	-	proper	5	-	-	-	-	-
@@ -460,9 +470,9 @@
 -	Keuruu	-	proper	17	-	-	-	-	-
 -	Kevo	-	proper	1	-	-	-	-	-
 -	Khartum	-	proper	6	-	-	-	-	-
--	Kianta	-	proper	9	-	-	-	-	-
+-	Kianta	-	proper	9	nt:nn	-	-	-	-
 -	Kiel	-	proper	5	-	-	-	-	-
--	Kiestinki	-	proper	5	-	-	-	-	-
+-	Kiestinki	-	proper	5	nk:ng	-	-	-	-
 -	Kigali	-	proper	5	-	-	-	-	-
 -	Kihniö	-	proper	3	-	-	-	-	-
 -	Kiikala	-	proper	12	-	-	-	-	-
@@ -539,7 +549,7 @@
 -	Kuttanen	-	proper	38	-	-	-	-	-
 -	Kuusaa	-	proper	18	-	-	-	-	-
 -	Kuusamo	-	proper	2	-	-	-	-	-
--	Kuusas	-	proper	39	-	-	-	-	-
+-	Kuusas	-	proper	41	-	-	-	-	-
 -	Kymi	-	proper	5	-	-	-	-	-
 -	Kyrö	-	proper	1	-	-	-	-	-
 -	Kälviä	-	proper	12	-	-	-	-	-
@@ -548,6 +558,7 @@
 -	Köln	-	proper	5	-	-	-	-	-
 -	Königsberg	-	proper	5	-	-	-	-	-
 -	Köping	-	proper	5	-	-	-	-	-
+-	Köpis	-	proper	39	-	-	-	slang	-
 -	Köyliö	-	proper	3	-	-	-	-	-
 -	Kööpenhamina	-	proper	13	-	-	-	-	-
 -	Kōbe	-	proper	8	-	-	-	-	-
@@ -586,7 +597,7 @@
 -	Leverkusen	-	proper	5	-	-	-	-	-
 -	Leyden	-	proper	6	-	front|back	-	-	-
 -	León	-	proper	5	-	back	-	-	-
--	Liberty City	-	proper	1	-	-	-	-	-
+-	Liberty City	-	proper	1	-	front	-	-	-
 -	Libreville	-	proper	8	-	-	-	-	-
 -	Lidköping	-	proper	5	-	-	-	-	-
 -	Lieksa	-	proper	9	-	-	-	-	-
@@ -687,16 +698,18 @@
 -	Mietoinen	-	proper	38-pl	-	-	-	-	-
 -	Mikkeli	-	proper	6	-	-	-	-	-
 -	Milano	-	proper	2	-	-	-	-	-
+-	Milwaukee	-	proper	21	-	-	-	-	-
 -	Minneapolis	-	proper	5|39	-	-	-	-	-
 -	Minsk	-	proper	5	-	-	-	-	-
 -	Mogadishu	-	proper	1	-	-	-	-	-
 -	Mombasa	-	proper	9	-	-	-	-	-
 -	Monrovia	-	proper	12	-	-	-	-	-
 -	Mons	-	proper	5	-	-	-	-	-
--	Monterrey	-	proper	21	-	-	i|y	-	-
+-	Monterrey	-	proper	21	-	front|back	i|y	-	-
 -	Montevideo	-	proper	3	-	-	-	-	-
+-	Montpellier	-	proper	22|†5	-	-	-	-	-
 -	Montreal	-	proper	5	-	-	-	-	-
--	Montreux	-	proper	22	-	-	-	-	-
+-	Montreux	-	proper	22|†5	-	-	ö	-	-
 -	Moroni	-	proper	5	-	-	-	-	-
 -	Moskova	-	proper	10	-	-	-	-	-
 -	Motala	-	proper	12	-	-	-	-	-
@@ -708,9 +721,11 @@
 -	Muonio	-	proper	3	-	-	-	-	-
 -	Murcia	-	proper	12	-	-	-	-	-
 -	Murmansk	-	proper	5	-	-	-	-	-
+-	Murole	-	proper	48	-	-	-	-	-
 -	Mustiala	-	proper	9	-	-	-	-	-
 -	Muurame	-	proper	8	-	-	-	-	-
 -	Muurla	-	proper	10	-	-	-	-	-
+-	Muurue	-	proper	48	-	-	-	-	-
 -	Mykene	-	proper	8	-	-	-	-	-
 -	Mykolaiv	-	proper	5	-	-	-	-	-
 -	Mykolajiv	-	proper	5	-	-	-	-	-
@@ -718,7 +733,7 @@
 -	Mäntsälä	-	proper	12	-	-	-	-	-
 -	Mänttä	-	proper	10	tt:t	-	-	-	-
 -	México	-	proper	2	-	-	-	-	-
--	México City	-	proper	1	-	-	-	-	-
+-	México City	-	proper	1	-	front	-	-	-
 -	München	-	proper	6	-	-	-	-	-
 -	Münster	-	proper	6	-	-	-	-	-
 -	Naantali	-	proper	6	-	-	-	-	-
@@ -737,7 +752,7 @@
 -	Nassau	-	proper	21	-	-	-	-	-
 -	Nastola	-	proper	12	-	-	-	-	-
 -	Nauvo	-	proper	1	-	-	-	-	-
--	Naypyidaw	-	proper	5	-	-	-	-	-
+-	Naypyidaw	-	proper	22|†5	-	-	o	-	-
 -	Nellim	-	proper	5	-	-	-	-	-
 -	Nettaa	-	proper	18	-	-	-	-	-
 -	Neuchâtel	-	proper	5	-	-	-	-	-
@@ -747,11 +762,12 @@
 -	New York	-	proper	5	-	-	-	-	-
 -	Newcastle	-	proper	8	-	-	-	-	-
 -	Ngerulmud	-	proper	5	-	-	-	-	-
--	Niamey	-	proper	21	-	-	i|y	-	-
+-	Niamey	-	proper	21	-	front|back	i|y	-	-
 -	Nietoo	-	proper	17	-	-	-	-	-
 -	Nikea	-	proper	12	-	-	-	-	-
 -	Nikosia	-	proper	12	-	-	-	-	-
 -	Nilsiä	-	proper	12	-	-	-	-	-
+-	Nimes	-	proper	5	-	-	-	-	-
 -	Ninive	-	proper	8	-	-	-	-	-
 -	Nivala	-	proper	12	-	-	-	-	-
 -	Nizza	-	proper	9	-	-	-	-	-
@@ -765,7 +781,7 @@
 -	Nouakchott	-	proper	5	-	-	-	-	-
 -	Nousiainen	-	proper	38-pl	-	-	-	-	-
 -	Novgorod	-	proper	5	-	-	-	-	-
--	Novosibirsk	-	proper	5	-	-	-	-	-
+-	Novosibirsk	-	proper	5	-	front|back	-	-	-
 -	Nukuʻalofa	-	proper	10	-	-	-	-	-
 -	Nummi	-	proper	7	-	-	-	-	-
 -	Nunnanen	-	proper	38	-	-	-	-	-
@@ -773,11 +789,13 @@
 -	Nurmes	-	proper	39	-	-	-	-	-
 -	Nurmo	-	proper	1	-	-	-	-	-
 -	Nuuk	-	proper	5	-	-	-	-	-
+-	Nyki	-	proper	5	-	-	-	slang	-
+-	Nykki	-	proper	5	kk:k	-	-	slang	-
 -	Nyköping	-	proper	5	-	-	-	-	-
 -	Nynäshamn	-	proper	5	-	-	-	-	-
 -	Närpiö	-	proper	3	-	-	-	-	-
 -	Nässjö	-	proper	21|†1	-	-	-	-	-
--	Nîmes	-	proper	39	-	-	-	-	-
+-	Nîmes	-	proper	5	-	-	-	-	-
 -	Nürnberg	-	proper	5	-	-	-	-	-
 -	N’Djamena	-	proper	9	-	-	-	-	-
 -	Oakland	-	proper	5	-	-	-	-	-
@@ -789,7 +807,7 @@
 -	Ohrid	-	proper	5	-	-	-	-	-
 -	Oitti	-	proper	5	tt:t	-	-	-	-
 -	Ojamo	-	proper	2	-	-	-	-	-
--	Oklahoma City	-	proper	1	-	-	-	-	-
+-	Oklahoma City	-	proper	1	-	front	-	-	-
 -	Omaha	-	proper	9	-	-	-	-	-
 -	Omsk	-	proper	5	-	-	-	-	-
 -	Oostende	-	proper	8	-	-	-	-	-
@@ -873,11 +891,11 @@
 -	Pori	-	proper	5	-	-	-	-	-
 -	Pornainen	-	proper	38-pl	-	-	-	-	-
 -	Port Louis	-	proper	22|†5	-	-	-	-	-
--	Port Moresby	-	proper	1	-	-	-	-	-
+-	Port Moresby	-	proper	1	-	front|back	-	-	-
 -	Port Vila	-	proper	9	-	-	-	-	-
 -	Port of Spain	-	proper	5	-	-	-	-	-
 -	Portland	-	proper	5	-	-	-	-	-
--	Porto	-	proper	1	rt:rr	-	-	-	-
+-	Porto	-	proper	1	-	-	-	-	-
 -	Portsmouth	-	proper	5	-	-	-	-	-
 -	Porvoo	-	proper	17	-	-	-	-	-
 -	Posio	-	proper	3	-	-	-	-	-
@@ -899,6 +917,7 @@
 -	Putrajaya	-	proper	9	-	-	-	-	-
 -	Puukkoinen	-	proper	38-pl	-	-	-	-	-
 -	Puumala	-	proper	12	-	-	-	-	-
+-	Pyeongchang	-	proper	5	-	-	-	-	-
 -	Pyhtää	-	proper	17	-	-	-	-	-
 -	Pyhäntä	-	proper	10	nt:nn	-	-	-	-
 -	Pälkäne	-	proper	48	-	-	-	-	-
@@ -906,11 +925,11 @@
 -	Pärnu	-	proper	1	-	-	-	-	-
 -	Pécs	-	proper	5	-	-	-	-	-
 -	Pöytyä	-	proper	12	-	-	-	-	-
--	Quezon City	-	proper	1	-	-	-	-	-
+-	Quezon City	-	proper	1	-	front	-	-	-
 -	Quito	-	proper	1	-	-	-	-	-
 -	Raahe	-	proper	8	-	-	-	-	-
 -	Raasepori	-	proper	6	-	-	-	-	-
--	Raate	-	proper	8	-	-	-	-	-
+-	Raate	-	proper	48	tt:t	-	-	-	-
 -	Raati	-	proper	5	-	-	-	-	-
 -	Raattama	-	proper	10	-	-	-	-	-
 -	Rabat	-	proper	5	-	-	-	-	-
@@ -953,7 +972,8 @@
 -	Rivoli	-	proper	5	-	-	-	-	-
 -	Rochefort	-	proper	5	-	-	-	-	-
 -	Rochester	-	proper	5	-	-	-	-	-
--	Ronneby	-	proper	21|†1	-	-	-	-	-
+-	Ronneby	-	proper	21|†1	-	front|back	-	-	-
+-	Rontu	-	proper	1	nt:nn	-	-	-	-
 -	Rooma	-	proper	10	-	-	-	-	-
 -	Roseau	-	proper	21	-	-	-	-	-
 -	Rosenheim	-	proper	5	-	-	-	-	-
@@ -962,7 +982,7 @@
 -	Rostov	-	proper	5	-	-	-	-	-
 -	Rotterdam	-	proper	5	-	-	-	-	-
 -	Ruhr	-	proper	5	-	-	-	-	-
--	Ruoke	-	proper	8	-	-	-	-	-
+-	Ruoke	-	proper	48	kk:k	-	-	-	-
 -	Ruotsinpyhtää	-	proper	18	-	-	-	-	-
 -	Ruskeala	-	proper	9	-	-	-	-	-
 -	Rusko	-	proper	1	-	-	-	-	-
@@ -1008,7 +1028,8 @@
 -	Saratov	-	proper	5	-	-	-	-	-
 -	Sastamala	-	proper	12	-	-	-	-	-
 -	Sauvo	-	proper	1	-	-	-	-	-
--	Savannah	-	proper	5|22	-	-	-	-	-
+-	Savannah	-	proper	22|5	-	-	-	-	-
+-	Schengen	-	proper	6	-	-	-	-	-
 -	Seattle	-	proper	8	-	-	-	-	-
 -	Seefeld	-	proper	5	-	-	-	-	-
 -	Seiskari	-	proper	6	-	-	-	-	-
@@ -1045,6 +1066,7 @@
 -	Somero	-	proper	2	-	-	-	-	-
 -	Sortavala	-	proper	12	-	-	-	-	-
 -	Sotkamo	-	proper	2	-	-	-	-	-
+-	Sotshi	-	proper	5	-	-	-	nstd	-
 -	Sottunga	-	proper	10|12	-	-	-	-	-
 -	Sotši	-	proper	5	-	-	-	-	-
 -	Soul	-	proper	5	-	-	-	-	-
@@ -1052,6 +1074,7 @@
 -	Southampton	-	proper	?6	-	-	-	-	-
 -	Split	-	proper	5	-	-	-	-	-
 -	Springfield	-	proper	5	-	-	-	-	-
+-	Stadi	-	proper	5	-	-	-	slang	-
 -	Stalingrad	-	proper	5	-	-	-	-	-
 -	Stanford	-	proper	5	-	-	-	-	-
 -	Stavanger	-	proper	5	-	-	-	-	-
@@ -1183,6 +1206,7 @@
 -	Vainikkala	-	proper	12	-	-	-	-	-
 -	Valencia	-	proper	12	-	-	-	-	-
 -	Valkeala	-	proper	9	-	-	-	-	-
+-	Valladolid	-	proper	5	-	-	-	-	-
 -	Valletta	-	proper	9	-	-	-	-	-
 -	Valparaíso	-	proper	1	-	-	-	-	-
 -	Valtimo	-	proper	2	-	-	-	-	-
@@ -1203,18 +1227,21 @@
 -	Versailles	-	proper	22|5	-	-	-	-	-
 -	Vesanto	-	proper	1	nt:nn	-	-	-	-
 -	Veteli	-	proper	6	-	-	-	-	-
--	Vice City	-	proper	1	-	-	-	-	-
+-	Vice City	-	proper	1	-	front	-	-	-
 -	Vichy	-	proper	1	-	-	-	-	-
 -	Victoria	-	proper	12	-	-	-	-	-
 -	Vientiane	-	proper	8	-	-	-	-	-
 -	Vieremä	-	proper	10	-	-	-	-	-
+-	Vigo	-	proper	1	-	-	-	-	-
 -	Vihanti	-	proper	5	nt:nn	-	-	-	-
 -	Vihti	-	proper	5	t:d	-	-	-	-
 -	Viiala	-	proper	9	-	-	-	-	-
 -	Viipuri	-	proper	6	-	-	-	-	-
 -	Viljakkala	-	proper	12	-	-	-	-	-
 -	Viljandi	-	proper	5	-	-	-	-	-
--	Villähde	-	proper	8	-	-	-	-	-
+-	Vilkkilä	-	proper	12	-	-	-	-	-
+-	Villareal	-	proper	5	-	-	-	-	-
+-	Villarreal	-	proper	5	-	-	-	-	-
 -	Vilna	-	proper	9	-	-	-	-	-
 -	Vilppula	-	proper	12	-	-	-	-	-
 -	Vimpeli	-	proper	6	-	-	-	-	-
@@ -1232,6 +1259,7 @@
 -	Wakefield	-	proper	5	-	-	-	-	-
 -	Washington	-	proper	6	-	-	-	-	-
 -	Washington DC	-	proper	18B	-	-	-	-	-
+-	Watford	-	proper	5	-	-	-	-	-
 -	Weimar	-	proper	6	-	-	-	-	-
 -	Wellington	-	proper	5	-	-	-	-	-
 -	Westminster	-	proper	6	-	-	-	-	-
@@ -1241,10 +1269,11 @@
 -	Wilhelmshaven	-	proper	6	-	-	-	-	-
 -	Winchester	-	proper	6	-	-	-	-	-
 -	Windhoek	-	proper	5	-	-	-	-	-
+-	Windsor	-	proper	6	-	-	-	-	-
 -	Winnipeg	-	proper	5	-	-	-	-	-
 -	Wittemberg	-	proper	5	-	-	-	-	-
 -	Wolverhampton	-	proper	6	-	-	-	-	-
--	Wroclaw	-	proper	5	-	-	-	-	-
+-	Wroclaw	-	proper	5	-	-	-	nstd	-
 -	Wrocław	-	proper	5	-	-	-	-	-
 -	Wuhan	-	proper	6	-	-	-	-	-
 -	Wuppertal	-	proper	6	-	-	-	-	-
@@ -1268,7 +1297,7 @@
 -	Zakopane	-	proper	8	-	-	-	-	-
 -	Zakynthos	-	proper	39	-	-	-	-	-
 -	Zaragoza	-	proper	10|12	-	-	-	-	-
--	Zemun	-	proper	5	-	-	-s	-	-
+-	Zemun	-	proper	5	-	-	-	-	-
 -	Zákinthos	-	proper	39	-	-	-	-	-
 -	Zákynthos	-	proper	39	-	-	-	-	-
 -	Zürich	-	proper	5	-	-	-	-	-
@@ -1303,6 +1332,7 @@
 -	Ala|veteli	-	proper	5	-	-	-	-	-
 -	Ala|vieska	-	proper	9	-	-	-	-	-
 -	Angel|niemi	-	proper	25	-	-	-	-	-
+-	Anian|pelto	-	proper	1	lt:ll	-	-	-	-
 -	Anjalan|koski	-	proper	7	-	-	-	-	-
 -	Ankka|linna	-	proper	9	-	-	-	-	-
 -	Art|järvi	-	proper	7	-	-	-	-	-
@@ -1347,6 +1377,7 @@
 -	Jämi|järvi	-	proper	7	-	-	-	-	-
 -	Jämsän|koski	-	proper	7	-	-	-	-	-
 -	Järven|pää	-	proper	18	-	-	-	-	-
+-	Kaare|suvanto	-	proper	1	nt:nn	-	-	-	-
 -	Kaks|kerta	-	proper	9	rt:rr	-	-	-	-
 -	Kala|joki	-	proper	7	k:	-	-	-	-
 -	Kangas|lampi	-	proper	5	mp:mm	-	-	-	-
@@ -1366,6 +1397,7 @@
 -	Keri|mäki	-	proper	7	k:	-	-	-	-
 -	Kesä|lahti	-	proper	7	t:d	-	-	-	-
 -	Kiihtelys|vaara	-	proper	9	-	-	-	-	-
+-	Kirkko|niemi	-	proper	25	-	-	-	-	-
 -	Kirkko|nummi	-	proper	7	-	-	-	-	-
 -	Kirk|niemi	-	proper	25	-	-	-	-	-
 -	Kiuru|vesi	-	proper	27	-	-	-	-	-
@@ -1500,7 +1532,7 @@
 -	Ruo|vesi	-	proper	27	-	-	-	-	-
 -	Saari|järvi	-	proper	7	-	-	-	-	-
 -	Saha|lahti	-	proper	7	t:d	-	-	-	-
--	Savi|taipale	-	proper	49	-	-	-	-	-
+-	Savi|taipale	-	proper	49b	-	-	-	-	-
 -	Savon|linna	-	proper	9	-	-	-	-	-
 -	Savon|ranta	-	proper	9	nt:nn	-	-	-	-
 -	Savu|koski	-	proper	7	-	-	-	-	-
@@ -1546,6 +1578,7 @@
 -	Uuku|niemi	-	proper	25	-	-	-	-	-
 -	Uusi|kirkko	-	proper	1	kk:k	-	-	-	-
 -	Vaaja|koski	-	proper	7	-	-	-	-	-
+-	Vaali|maa	-	proper	18	-	-	-	-	-
 -	Valkea|koski	-	proper	7	-	-	-	-	-
 -	Valk|järvi	-	proper	7	-	-	-	-	-
 -	Varpais|järvi	-	proper	7	-	-	-	-	-
@@ -1556,6 +1589,7 @@
 -	Vieru|mäki	-	proper	7	k:	-	-	-	-
 -	Vihta|vuori	-	proper	26	-	-	-	-	-
 -	Viita|saari	-	proper	26	-	-	-	-	-
+-	Vil|lähde	-	proper	48	t:d	-	-	-	-
 -	Viro|lahti	-	proper	7	t:d	-	-	-	-
 -	Virta|salmi	-	proper	7	-	-	-	-	-
 -	Vuoksen|ranta	-	proper	9	nt:nn	-	-	-	-
@@ -1573,6 +1607,8 @@
 -	Perä|seinä|joki	-	proper	7	k:	-	-	-	-
 -	Iso%joki	-	proper	7	k:	-	-	-	-
 -	Iso%kyrö	-	proper	1	-	-	-	-	-
+-	Iso%saari	-	proper	26	-	-	-	-	-
+-	Pitkä%ranta	-	proper	9	nt:nn	-	-	-	-
 -	Pyhä%ranta	-	proper	9	nt:nn	-	-	-	-
 -	Uusi%kaarlepyy	-	proper	18	-	front	-	-	-
 -	Uusi%kaupunki	-	proper	5	nk:ng	-	-	-	-
@@ -1599,7 +1635,7 @@ Cap	chester	-	proper	6	-	front|back	-	-	4.000
 Cap	combe	-	proper	8	-	-	-	-	4.000
 Cap	dale	-	proper	8	-	-	-	-	4.000
 Cap	dorf	-	proper	5	-	-	-	-	4.000
-Cap	eaux	-	proper	22|†5	-	-	-	-	4.000
+Cap	eaux	-	proper	22|†5	-	-	o	-	4.000
 Cap	eia	-	proper	13	-	-	-	-	4.000
 Cap	enau	-	proper	1	-	-	-	-	4.000
 Cap	enham	-	proper	5	-	-	-	-	4.000
@@ -1618,6 +1654,7 @@ Cap	hafen	-	proper	6	-	-	-	-	4.000
 Cap	hamn	-	proper	5	-	-	-	-	4.000
 Cap	hampton	-	proper	6	-	-	-	-	4.000
 Cap	hausen	-	proper	6	-	-	-	-	4.000
+Cap	haven	-	proper	?6	-	-	-	-	-
 Cap	heim	-	proper	5	-	front|back	-	-	4.000
 Cap	hofen	-	proper	6	-	-	-	-	4.000
 Cap	hora	-	proper	10	-	-	-	-	4.000

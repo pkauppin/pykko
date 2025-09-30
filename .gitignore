@@ -8,3 +8,5 @@
 
 .idea/
 __pycache__/
+wip/
+.DS_Store

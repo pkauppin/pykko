@@ -15,8 +15,6 @@ INFLECTION_SUBLEXICA = {}
 COUNTERS = defaultdict(int)
 POS_SUBLEXICA = defaultdict(str)
 
-CUTOFFS = set()
-
 MULTICHAR_SYMBOLS = {
 	TAB,
 	"Lexicon",
@@ -30,11 +28,13 @@ MULTICHAR_SYMBOLS = {
 	"Guesser|Cap",
 	"⁅HYPHEN⁆",
 	"⁅BOUNDARY⁆",
-}
+} | CLITICS
 
+LOWERCASE_REGEX = '("⁅HYPHEN⁆":"-") [' + '|'.join(f'"{c}"' for c in ALPHA_LOWER_BASIC) + ']'
 UPPERCASE_REGEX = '[' + '|'.join(f'"{c}"' for c in ALPHA_UPPER_EXTENDED) + ']'
 PSEUDO_PREFIXES = sorted(set(read_list('fi-prefixes-guesser.txt', directory='lists')))
 PSEUDO_PREFIX_REGEX = '|'.join('{%s}' % pfx for pfx in PSEUDO_PREFIXES)
+CONS_REGEX = '[' + '|'.join(f'"{c}"' for c in C.strip('][')) + ']'
 
 ROOT = f"""
 !!
@@ -46,8 +46,13 @@ for POS in POS_TAGS:
 	if '+' in POS:
 		continue
 	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 ?+ ]> GUESSER_ANY_{POS.upper()} ;\n'
-	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 ?+ ["a"|"e"|"i"|"o"|"u"|"l"|"r"] ]> GUESSER_VA_{POS.upper()} ;\n'
-	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 ?+ ["ä"|"e"|"i"|"ö"|"y"|"l"|"r"] ]> GUESSER_VÄ_{POS.upper()} ;\n'
+	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 ?+ ["a"|"e"|"i"|"o"|"u"] ]> GUESSER_VA_{POS.upper()} ;\n'
+	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 ?+ ["ä"|"e"|"i"|"ö"|"y"] ]> GUESSER_VÄ_{POS.upper()} ;\n'
+	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 {LOWERCASE_REGEX} ?* ]> GUESSER_LOWER_{POS.upper()} ;\n'
+	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 {LOWERCASE_REGEX} ?* ["a"|"e"|"i"|"o"|"u"] ]> GUESSER_LOWER+VA_{POS.upper()} ;\n'
+	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 {LOWERCASE_REGEX} ?* ["ä"|"e"|"i"|"ö"|"y"] ]> GUESSER_LOWER+VÄ_{POS.upper()} ;\n'
+	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 {CONS_REGEX}+ ["a"|"e"|"i"|"o"|"u"] ]> GUESSER_CVA_{POS.upper()} ;\n'
+	ROOT += f'<[ "Guesser|Any":0 "{TAB}":0 {CONS_REGEX}+ ["ä"|"e"|"i"|"ö"|"y"] ]> GUESSER_CVÄ_{POS.upper()} ;\n'
 
 ROOT += f"""!!
 !! Compounding and prefixing
@@ -64,9 +69,9 @@ ROOT += f"""!!
 <[ "Lexicon|Hyp":0 "{TAB}":0 ?* "⁅HYPHEN⁆":"-" ]::2.0 > ADJECTIVE ;
 <[ "Lexicon|Hyp":0 "{TAB}":0 ?* "⁅HYPHEN⁆":"-" ]::2.0 > ADVERB ;
 <[ "Lexicon|Hyp+Pfx":0 "{TAB}":0 ?* "⁅HYPHEN⁆":"-" ]::3.0 > NOUN_PFX ;
-<[ "Lexicon|Gfx":0 "{TAB}":0 ?+ [{PSEUDO_PREFIX_REGEX}] "|":0 ]::5.0 > NOUN ;
-<[ "Lexicon|Gfx":0 "{TAB}":0 ?+ [{PSEUDO_PREFIX_REGEX}] "|":0 ]::5.0 > NOUN-PL ;
-<[ "Lexicon|Gfx+Pfx":0 "{TAB}":0 ?+ [{PSEUDO_PREFIX_REGEX}] "|":0 ]::5.0 > NOUN_PFX ;
+<[ "Lexicon|Gfx":0 "{TAB}":0 ?+ [{PSEUDO_PREFIX_REGEX}] "|":0 ]::11.0 > NOUN ;
+<[ "Lexicon|Gfx":0 "{TAB}":0 ?+ [{PSEUDO_PREFIX_REGEX}] "|":0 ]::11.0 > NOUN-PL ;
+<[ "Lexicon|Gfx+Pfx":0 "{TAB}":0 ?+ [{PSEUDO_PREFIX_REGEX}] "|":0 ]::11.0 > NOUN_PFX ;
 !!
 !! Generated numerals & ordinals
 <[ "Lexicon|Num":0 "{TAB}":0 ]> NUMERAL_AUX ;
@@ -151,7 +156,6 @@ def inflections2lexicon(inflections: dict, pos: str, harmony=None, separator=Non
 	function = get_cont_class_function(pos, info)
 	head, cutoff = get_wordform_head(inflections_aligned)
 	inverse_cutoff = (cutoff - len(lemma.replace(ZERO, '0')))
-	CUTOFFS.add(inverse_cutoff)
 
 	lexicon_rows = []
 	for tag, forms in inflections_aligned.items():
@@ -192,8 +196,7 @@ def add_word(lemma, pos, homonym=None, infl=None, style=None, inflections=None, 
 	compound_parts, lemma = get_compound_parts(lemma, irregular=bool(inflections))
 	agreement = has_agreement(lemma)
 
-	fharm = determine_wordform_harmony(lemma)
-	pattern_key = lemma[-6:], homonym, pos, fharm, style, str(infl)  # Is style redundant?
+	pattern_key = lemma[-6:], homonym, pos, style, str(infl)  # Is style redundant?
 
 	if PATTERNS.get(pattern_key) and not (inflections or auxname or agreement):
 		head, inverse_cutoff, lexicon_name = PATTERNS[pattern_key]
@@ -242,7 +245,7 @@ def add_auxiliary_lexica():
 		add_word(ending, pos, infl=infl, auxtags=tag, auxname=auxname)
 
 
-def add_irregular_forms():
+def add_irregular_and_defective_words():
 
 	"""
 	Individual irregular word forms w/ their analyses.
@@ -265,12 +268,14 @@ def read_words():
 		'guesser.tsv',
 		'compound-only.tsv',
 		'participles.tsv',
+		'temporary.tsv', # FIXME!
 	]
 	filenames += glob(os.path.join(scripts_path, '..', 'lists', 'gaz-*.tsv'))
 	rows = [row for filename in filenames for row in read_tsv(filename, directory='lists')]
 
 	for row in tqdm(rows):
 		regex_pfx, lemma, homonym, pos, infl_classes, gradations, harmonies, chronemes, info, weight = row
+		harmonies = harmonies or determine_lemma_vowel_harmony(lemma)
 		for infl_class, gradation, harmony, chroneme in unpack(infl_classes, gradations, harmonies, chronemes):
 			infl = InflectionProperties(infl_class, gradation, harmony, chroneme, info)
 			style = '|'.join(sorted(re.findall(f'{STYLE_TAG_REGEX}', info)))
@@ -279,8 +284,8 @@ def read_words():
 	# Add auxuliary lexica
 	add_auxiliary_lexica()
 
-	# Add irregular wordforms
-	add_irregular_forms()
+	# Add irregular and defective words
+	add_irregular_and_defective_words()
 
 	print('Done.')
 
@@ -349,8 +354,6 @@ def main():
 	read_words()
 	lexc = generate_lexc()
 	save_txt(filename='fi.lexc', directory='.', text=lexc)
-
-	# print(CUTOFFS)
 
 
 main()

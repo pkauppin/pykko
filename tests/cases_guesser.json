@@ -1,75 +1,96 @@
 {
-  "___attiin": [
-	["___att", "noun", "+sg+ill"],
-	["___ata", "verb", "+pass+past"],
-	["___atti", "noun", "+sg+ill"]
+  "xxxattiin": [
+	["xxxatt", "noun", "+sg+ill"],
+	["xxxatti", "noun", "+sg+ill"]
   ],
-  "___llistää": [
-   	["___llistää", "verb", "+inf1"],
-	["___llistää", "verb", "+pres+3sg"]
+  "xxxellistää": [
+	["xxxellistä", "noun", "+sg+par"],
+	["xxxellistää", "verb", "+pres+3sg"],
+	["xxxellistää", "noun", "+sg+nom"],
+	["xxxellistää", "verb", "+inf1"]
   ],
-  "___logia": [
-    ["___logi", "noun", "+sg+par"],
-    ["___logia", "noun", "+sg+nom"]
+  "xxxellistä": [
+    ["xxxellistää", "verb", "+imper+2sg"],
+	["xxxellistää", "verb", "+pres+conneg"],
+    ["xxxellistää", "verb", "+imper+2sg+conneg"],
+	["xxxellinen", "adjective", "+sg+par"],
+	["xxxellinen", "noun", "+sg+par"],
+	["xxxelli", "noun", "+sg+ela"],
+	["xxxell", "noun", "+sg+ela"]
   ],
-  "___logiaa": [
-    ["___logia", "noun", "+sg+par"]
+  "xxxlogia": [
+    ["xxxlogi", "noun", "+sg+par"],
+	["xxxlogia", "noun", "+sg+nom"]
   ],
-  "___logiaan": [
-    ["___logi", "noun", "+sg+par+poss3"],
-    ["___logia", "noun", "+sg+ill"]
+  "xxxlogiaa": [
+	["xxxlogia", "noun", "+sg+par"]
   ],
-  "___logiin": [
-    ["___logi", "noun", "+sg+ill"]
+  "xxxlogiaan": [
+    ["xxxlogi", "noun", "+sg+par+poss3"],
+	["xxxlogia", "noun", "+sg+ill"]
   ],
-  "___oin": [
-    ["___oida", "verb", "+past+1sg"],
-    ["___oida", "verb", "+pres+1sg"]
+  "xxxlogiin": [
+    ["xxxlogi", "noun", "+sg+ill"]
   ],
-  "___oidaan": [
-    ["___oida", "verb", "+pass+pres"]
+  "xxxoin": [
+    ["xxxoida", "verb", "+past+1sg"],
+    ["xxxoida", "verb", "+pres+1sg"]
   ],
-  "___oitaisiin": [
-    ["___oida", "verb", "+pass+cond"]
+  "xxxoidaan": [
+    ["xxxoida", "verb", "+pass+pres"]
   ],
-  "___isuus": [
-    ["___isuus", "noun", "+sg+nom"]
+  "xxxoitaisiin": [
+    ["xxxoida", "verb", "+pass+cond"]
   ],
-  "___isuuden": [
-    ["___isuus", "noun", "+sg+gen"]
+  "xxxisuus": [
+    ["xxxisuus", "noun", "+sg+nom"]
   ],
-  "___isuutta": [
-    ["___isuus", "noun", "+sg+par"]
+  "xxxisuuden": [
+    ["xxxisuus", "noun", "+sg+gen"]
   ],
-  "___llisen": [
-    ["___llinen", "adjective", "+sg+gen"]
+  "xxxisuutta": [
+    ["xxxisuus", "noun", "+sg+par"]
   ],
-  "___isen": [
-    ["___inen", "adjective", "+sg+gen"]
+  "xxxellisen": [
+	["xxxellinen", "adjective", "+sg+gen"],
+	["xxxellise", "noun", "+sg+gen"],
+	["xxxellisen", "noun", "+sg+nom"]
   ],
-  "___npuoleinen": [
-    ["___n|puoleinen", "adjective", "+sg+nom"]
+  "xxxalisen": [
+	["xxxalinen", "noun", "+sg+gen"],
+	["xxxalise", "noun", "+sg+gen"],
+	["xxxalisen", "noun", "+sg+nom"]
   ],
-  "___voittoinen": [
-    ["___|voittoinen", "adjective", "+sg+nom"]
+  "xxxisen": [
+	["xxxinen", "noun", "+sg+gen"],
+	["xxxise", "noun", "+sg+gen"],
+	["xxxisen", "noun", "+sg+nom"]
   ],
-  "___ikattiin": [
-	["___ikata", "verb", "+pass+past"]
+  "xxxnpuoleinen": [
+    ["xxxn|puoleinen", "adjective", "+sg+nom"]
   ],
-  "___ikkasin": [
-	["___ikata", "verb", "+past+1sg"]
+  "xxxvoittoinen": [
+    ["xxx|voittoinen", "adjective", "+sg+nom"]
   ],
-  "___aalisuuden": [
-    ["___aalisuus", "noun", "+sg+gen"]
+  "xxxikattiin": [
+	["xxxikata", "verb", "+pass+past"],
+	["xxxikatti", "noun", "+sg+ill"],
+	["xxxikatt", "noun", "+sg+ill"]
   ],
-  "___aalisuutta": [
-    ["___aalisuus", "noun", "+sg+par"]
+  "xxxikkasin": [
+	["xxxikata", "verb", "+past+1sg"]
   ],
-  "___alinen": [
-    ["___alinen", "adjective", "+sg+nom"]
+  "xxxaalisuuden": [
+    ["xxxaalisuus", "noun", "+sg+gen"]
   ],
-  "___alisen": [
-    ["___alinen", "adjective", "+sg+gen"]
+  "xxxaalisuutta": [
+    ["xxxaalisuus", "noun", "+sg+par"]
+  ],
+  "xxxalinen": [
+    ["xxxalinen", "adjective", "+sg+nom"]
+  ],
+  "xxxalisen": [
+    ["xxxalinen", "adjective", "+sg+gen"]
   ],
   "Xxxbergissä": [
     ["Xxxberg", "proper", "+sg+ine"]
@@ -103,5 +124,10 @@
   ],
   "Xxxegghin": [
     ["Xxxegghi", "proper", "+sg+gen"]
+  ],
+  "Xxxallinoja": [
+    ["Xxxallino", "noun", "+pl+par"],
+	["Xxxallina", "noun", "+pl+par"],
+	["Xxxallinoja", "noun", "+sg+nom"]
   ]
 }

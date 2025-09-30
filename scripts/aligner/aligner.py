@@ -37,7 +37,7 @@ def separate_stem_by_auxiliary_stems(form: str, morphtags: str, auxiliary_stems:
 			ending = form[len(stem):]
 			return stem, ending, ''
 	print('???', [form, morphtags])
-	input()
+	# input()
 	return form, '', ''
 
 

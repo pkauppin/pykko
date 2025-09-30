@@ -12,17 +12,19 @@ for row in read_list_tsv('aux-numerals.tsv'):
 	_, lemma, _, pos, kotus_classes, gradations, harmonies, vowels, _, _ = row
 	for kotus_class, gradation, harmony, vowel in unpack(kotus_classes, gradations, harmonies, vowels):
 		inflections = inflect(lemma, pos, kotus_class, gradation)
+		inflections = {key: val for key, val in inflections.items() if val}
 		FORMS[lemma] = ddict(align_all_inflections(inflections, pos='numeral'))
 
 FORMS_EQUALIZED = {
 	lemma: ddict(equalize_inflections(inflections)) for lemma, inflections in FORMS.items()
 }
 
-TAGS = {
+TAGS = sorted({
 	tag for inflections in FORMS.values() for tag in inflections.keys() if not tag.startswith('@')
-} - {'pl|gen|nstd'}
+} - {'pl|gen|nstd'})
 
 MULTIPLIER_PARTITIVE = {
+	'kymppi': FORMS_EQUALIZED['kymppi']['sg|par'][0],
 	'kymmenen': FORMS_EQUALIZED['kymmenen']['sg|par'][0],
 	'sata': FORMS_EQUALIZED['sata']['sg|par'][0],
 	'tuhat': FORMS_EQUALIZED['tuhat']['sg|par'][0],
@@ -133,25 +135,25 @@ for tag in TAGS:
 
 	""""""
 
-	numeral = 'kymmenen'
-	if FORMS[numeral][tag]:
+	if FORMS['kymmenen'][tag]:
 		lexc += f'LEXICON NUMERAL_{tag}_x10f\n'
-		harmony = determine_wordform_harmony(numeral)
-		cutoff = get_lemma_length(FORMS[numeral])
-		for pairs in FORMS[numeral][tag]:
-			string1 = get_output_string(MULTIPLIER_PARTITIVE[numeral])
-			string2 = string1 if tag == 'sg|nom' else get_output_string(pairs[:cutoff])
-			string2 += '0' * (len(string1) - len(string2))
-			tags, ending = get_input_and_output_strings(pairs[cutoff:])
-			string1 = string1 + POS_IN + tags
-			string2 = string2 + POS_OUT + ending
-			lexc += f'{string1}:{string2} CLITIC_{harmony} ;\n'
+		for numeral in 'kymmenen', 'kymppi':
+			harmony = determine_wordform_harmony(numeral).upper()
+			cutoff = get_lemma_length(FORMS[numeral])
+			for pairs in FORMS[numeral].get(tag) or []:
+				string1 = get_output_string(MULTIPLIER_PARTITIVE[numeral])
+				string2 = string1 if tag == 'sg|nom' else get_output_string(pairs[:cutoff])
+				string2 += '0' * (len(string1) - len(string2))
+				tags, ending = get_input_and_output_strings(pairs[cutoff:])
+				string1 = string1 + POS_IN + tags
+				string2 = string2 + POS_OUT + ending
+				lexc += f'{string1}:{string2} CLITIC_{harmony} ;\n'
 		lexc += '\n'
 
 	numeral = 'sata'
 	if FORMS[numeral][tag]:
 		lexc += f'LEXICON NUMERAL_{tag}_x100f\n'
-		harmony = determine_wordform_harmony(numeral)
+		harmony = determine_wordform_harmony(numeral).upper()
 		cutoff = get_lemma_length(FORMS[numeral])
 		for pairs in FORMS[numeral][tag]:
 			string1 = get_output_string(MULTIPLIER_PARTITIVE[numeral])
@@ -166,7 +168,7 @@ for tag in TAGS:
 	numeral = 'tuhat'
 	if FORMS[numeral][tag]:
 		lexc += f'LEXICON NUMERAL_{tag}_x1000f\n'
-		harmony = determine_wordform_harmony(numeral)
+		harmony = determine_wordform_harmony(numeral).upper()
 		cutoff = get_lemma_length(FORMS[numeral])
 		for pairs in FORMS[numeral][tag]:
 			string1 = get_output_string(MULTIPLIER_PARTITIVE[numeral])
@@ -182,7 +184,7 @@ for tag in TAGS:
 
 	lexc += f'LEXICON NUMERAL_{tag}_+2f\n'
 	for numeral in NUM + ['kymmenen', 'sata']:
-		harmony = determine_wordform_harmony(numeral)
+		harmony = determine_wordform_harmony(numeral).upper()
 		cutoff = get_lemma_length(FORMS[numeral])
 		for pairs in FORMS[numeral][tag]:
 			string1, string2 = get_input_and_output_strings(pairs[:cutoff])
@@ -191,7 +193,7 @@ for tag in TAGS:
 			string2 = string2 + POS_OUT + ending
 			lexc += f'{string1}:{string2} CLITIC_{harmony} ;\n'
 	for numeral in NUM + ['puoli']:
-		harmony = determine_wordform_harmony(numeral)
+		harmony = determine_wordform_harmony(numeral).upper()
 		cutoff = get_lemma_length(FORMS[numeral])
 		for pairs in FORMS[numeral][tag]:
 			string1, string2 = get_input_and_output_strings(pairs[:cutoff])
@@ -204,7 +206,7 @@ for tag in TAGS:
 	numeral = 'tuhat'
 	if FORMS[numeral][tag]:
 		lexc += f'LEXICON NUMERAL_{tag}_+1000f\n'
-		harmony = determine_wordform_harmony(numeral)
+		harmony = determine_wordform_harmony(numeral).upper()
 		cutoff = get_lemma_length(FORMS[numeral])
 		for pairs in FORMS[numeral][tag]:
 			string1, string2 = get_input_and_output_strings(pairs[:cutoff])

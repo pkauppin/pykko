@@ -3,7 +3,6 @@ from scripts.utils import has_agreement, ADVERB_INFLECTIONS
 from scripts.constants import TAB, EPSILON
 from scripts.file_tools import read_tsv
 
-
 class InflectionProperties:
 	def __init__(self, infl_class=None, gradation=None, harmony=None, chroneme=None, info=None):
 		self.infl_class = infl_class
@@ -13,8 +12,7 @@ class InflectionProperties:
 		self.info = info
 
 	def __str__(self):
-		return str((self.infl_class, self.gradation, self.harmony, self.chroneme))
-
+		return str((self.infl_class, self.gradation, self.harmony, self.chroneme, self.info))
 
 NoneInfl = InflectionProperties()
 
@@ -41,11 +39,7 @@ def get_pos_sublexicon_name(pos: str, regex_name: str=None, lemma=None, info=Non
 	info = info or ''
 
 	if regex_name:
-		regex_name = \
-			'Cap' if regex_name == 'Cap' else \
-			'Vä' if regex_name == 'Vä' else \
-			'Va' if regex_name == 'Va' else \
-			'Any'
+		regex_name = 'Any' if regex_name in {'.+', '.*', 'Any', 'Num'} else regex_name
 		return f'GUESSER_{regex_name}_{pos}'.upper()
 
 	if info == 'compound-only':

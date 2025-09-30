@@ -13,6 +13,7 @@
 -	Galilea	-	proper	12	-	-	-	-	-
 -	Galitsia	-	proper	12	-	-	-	-	-
 -	Gallia	-	proper	12	-	-	-	-	-
+-	Hebei	-	proper	18	-	-	-	-	-
 -	Heilongjiang	-	proper	5	-	-	-	-	-
 -	Häme	-	proper	48	-	-	-	-	-
 -	Järvamaa	-	proper	18	-	-	-	-	-
@@ -34,11 +35,13 @@
 -	Pommeri	-	proper	6	-	-	-	-	-
 -	Provence	-	proper	8	-	-	-	-	-
 -	Quebec	-	proper	5	-	-	-	-	-
+-	Québec	-	proper	5	-	-	-	-	-
 -	Sabah	-	proper	5	-	-	-	-	-
 -	Saskatchewan	-	proper	5	-	-	-	-	-
 -	Skoone	-	proper	8	-	-	-	-	-
 -	Småland	-	proper	5	-	-	-	-	-
 -	Södermanland	-	proper	5	-	-	-	-	-
+-	Tigray	-	proper	21	-	front|back	i|y	-	-
 -	Toscana	-	proper	12	-	-	-	-	-
 -	Traakia	-	proper	12	-	-	-	-	-
 -	Uplanti	-	proper	5	nt:nn	-	-	-	-
@@ -64,7 +67,8 @@
 -	Pohjois-Norja	-	proper	10	-	-	-	-	-
 -	Pohjois-Savo	-	proper	1	-	-	-	-	-
 -	Pohjois-Suomi	-	proper	7	-	-	-	-	-
--	Päijät-Häme	-	proper	8	-	-	-	-	-
+-	Päijät-Häme	-	proper	48	-	-	-	-	-
+-	Sisä-Mongolia	-	proper	12	-	-	-	-	-
 -	Varsinais-Suomi	-	proper	7	-	-	-	-	-
 -	Ahvenan|maa	-	proper	18	-	-	-	-	-
 -	Baski|maa	-	proper	18	-	-	-	-	-

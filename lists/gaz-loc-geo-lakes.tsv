@@ -4,6 +4,7 @@
 -	Balaton	-	proper	5	-	-	-	-	-
 -	Bodensee	-	proper	18	-	-	-	-	-
 -	Bolmen	-	proper	6	-	-	-	-	-
+-	Huron	-	proper	?6	-	-	-	-	-
 -	Keitele	-	proper	48	-	-	-	-	-
 -	Koitere	-	proper	49	-	-	-	-	-
 -	Kolima	-	proper	9	-	-	-	-	-
@@ -16,7 +17,8 @@
 -	Päijänne	-	proper	48	nt:nn	-	-	-	-
 -	Roine	-	proper	8	-	-	-	-	-
 -	Ruotsalainen	-	proper	38	-	-	-	-	-
--	Saimaa	-	proper	18	-	-	-	-	-
+-	Saimaa	-	proper	17|†18	-	-	-	-	-
+-	Suontee	-	proper	18	-	-	-	-	-
 -	Tarjanne	-	proper	48	nt:nn	-	-	-	-
 -	Titicaca	-	proper	9	-	-	-	-	-
 -	Vänern	-	proper	5	-	-	-	-	-
@@ -39,6 +41,7 @@
 -	Hauki|vesi	-	proper	27	-	-	-	-	-
 -	Hirvenpään|järvi	-	proper	7	-	-	-	-	-
 -	Huron|järvi	-	proper	7	-	-	-	-	-
+-	Inarin|järvi	-	proper	7	-	-	-	-	-
 -	Inari|järvi	-	proper	7	-	-	-	-	-
 -	Jyväs|järvi	-	proper	7	-	-	-	-	-
 -	Kalla|vesi	-	proper	27	-	-	-	-	-
@@ -52,13 +55,14 @@
 -	Näsi|järvi	-	proper	7	-	-	-	-	-
 -	Ohrid|järvi	-	proper	7	-	-	-	-	-
 -	Onki|vesi	-	proper	27	-	-	-	-	-
+-	Ontario|järvi	-	proper	7	-	-	-	-	-
 -	Ori|vesi	-	proper	27	-	-	-	-	-
 -	Oulu|järvi	-	proper	7	-	-	-	-	-
 -	Ounas|järvi	-	proper	7	-	-	-	-	-
 -	Peipsi|järvi	-	proper	7	-	-	-	-	-
 -	Pihlaja|vesi	-	proper	27	-	-	-	-	-
 -	Poro|vesi	-	proper	27	-	-	-	-	-
--	Portti|pahta	-	proper	9	-	-	-	-	-
+-	Portti|pahta	-	proper	9	t:d	-	-	-	-
 -	Puru|vesi	-	proper	27	-	-	-	-	-
 -	Puula|järvi	-	proper	7	-	-	-	-	-
 -	Pää|järvi	-	proper	7	-	-	-	-	-
@@ -80,4 +84,6 @@
 -	Katkera|järvet	-	proper-pl	7	-	-	-	-	-
 -	Isot%järvet	-	proper-pl	7	-	-	-	-	-
 Cap	n|järvi	-	proper	7	-	-	-	-	4.000
+Cap	|lommol	-	proper	5	-	-	-	-	4.000
+Cap	|lompolo	-	proper	2	-	-	-	-	4.000
 Cap	|järvet	-	proper-pl	7	-	-	-	-	4.000
