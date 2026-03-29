@@ -4,11 +4,13 @@ binääri
 ei-
 ennätys
 epä
+esi
 huippu
 hyper
 iki
 ilmi
 julki
+jälki
 keski
 läpi
 mega

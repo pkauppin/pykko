@@ -3,28 +3,41 @@
 -	Audi	-	proper	5	-	-	-	-	-
 -	BAE	-	proper	18B	-	-	-	-	-
 -	BMW	-	proper	18B	-	-	-	-	-
+-	Bentley	-	proper	21	-	-	i|y	-	-
 -	Boeing	-	proper	5	-	-	-	-	-
 -	Bugatti	-	proper	5	-	-	-	-	-
+-	Cadillac	-	proper	5	-	-	-	-	-
+-	Chevrolet	-	proper	22|5	-	-	-	-	-
+-	Chevy	-	proper	1	-	-	-	-	-
 -	Chrysler	-	proper	6	-	front|back	-	-	-
 -	Citroen	-	proper	5	-	front|back	-	-	-
 -	Citroën	-	proper	5	-	front|back	-	-	-
 -	Concorde	-	proper	8	-	-	-	-	-
+-	Corolla	-	proper	10	-	-	-	-	-
+-	Corvette	-	proper	8	-	-	-	-	-
 -	Dacia	-	proper	12	-	-	-	-	-
 -	Daihatsu	-	proper	1	-	-	-	-	-
+-	Datsun	-	proper	5	-	-	-	-	-
 -	Dongfeng	-	proper	5	-	-	-	-	-
+-	Ducati	-	proper	5	-	-	-	-	-
+-	Embraer	-	proper	5	-	-	-	-	-
 -	Fiat	-	proper	5	-	-	-	-	-
 -	Ficantieri	-	proper	5	-	-	-	-	-
+-	Fokker	-	proper	6	-	-	-	-	-
 -	Ford	-	proper	5	-	-	-	-	-
 -	Hornet	-	proper	5	-	-	-	-	-
 -	Hyundai	-	proper	18	-	-	-	-	-
 -	Iveco	-	proper	1	-	-	-	-	-
 -	Jaguar	-	proper	5	-	-	-	-	-
 -	Jeep	-	proper	5	-	-	-	-	-
+-	Kia	-	proper	9	-	-	-	-	-
 -	Lada	-	proper	9	-	-	-	-	-
 -	Land Rover	-	proper	6	-	-	-	-	-
 -	Lockheed Martin	-	proper	5	-	-	-	-	-
 -	Maserati	-	proper	5	-	-	-	-	-
+-	Mazda	-	proper	9	-	-	-	-	-
 -	Mercedes Benz	-	proper	5	-	-	-	-	-
+-	Messerschmitt	-	proper	5	-	-	-	-	-
 -	Mitsubishi	-	proper	5	-	-	-	-	-
 -	Nissan	-	proper	6	-	-	-	-	-
 -	Opel	-	proper	6	-	-	-	-	-
@@ -32,8 +45,10 @@
 -	Peugeot	-	proper	5|22	-	-	-	-	-
 -	Porsche	-	proper	8	-	-	-	-	-
 -	Renault	-	proper	5|22	-	-	o	-	-
+-	Riley	-	proper	21	-	front|back	i|y	-	-
 -	SEAT	-	proper	5B|†5	-	-	-	-	-
 -	Saab	-	proper	5	-	-	-	-	-
+-	Subaru	-	proper	2	-	-	-	-	-
 -	Suhoi	-	proper	18	-	-	-	-	-
 -	Tesla	-	proper	9	-	-	-	-	-
 -	Toyota	-	proper	13	-	-	-	-	-

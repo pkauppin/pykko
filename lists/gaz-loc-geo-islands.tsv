@@ -10,8 +10,9 @@
 -	Bornholm	-	proper	5	-	-	-	-	-
 -	Capri	-	proper	5	-	-	-	-	-
 -	Ceylon	-	proper	6	-	-	-	-	-
--	Chios	-	proper	39	-	-	-	-	-
--	Chíos	-	proper	39	-	-	-	-	-
+-	Chios	-	proper	39|†5	-	-	-	-	-
+-	Chíos	-	proper	39|†5	-	-	-	-	-
+-	Djurgården	-	proper	6	-	-	-	-	-
 -	Dodekanesia	-	proper	12	-	-	-	-	-
 -	Formosa	-	proper	10|12	-	-	-	-	-
 -	Funafuti	-	proper	5	-	-	-	-	-
@@ -20,7 +21,7 @@
 -	Grönlanti	-	proper	5	nt:nn	-	-	-	-
 -	Hainan	-	proper	6	-	-	-	-	-
 -	Havaiji	-	proper	5	-	-	-	-	-
--	Hawaiji	-	proper	5	-	-	-	nstd	-
+-	Hawaiji	-	proper	5	-	-	-	nstd	1.000
 -	Helgoland	-	proper	5	-	-	-	-	-
 -	Hispaniola	-	proper	10	-	-	-	-	-
 -	Hokkaido	-	proper	1	-	-	-	-	-
@@ -53,9 +54,11 @@
 -	Mikronesia	-	proper	12	-	-	-	-	-
 -	Mindanao	-	proper	1	-	-	-	-	-
 -	Mururoa	-	proper	10	-	-	-	-	-
+-	Naxos	-	proper	39	-	-	-	-	-
 -	Nevis	-	proper	39|5	-	-	-	-	-
 -	Newfoundland	-	proper	5	-	-	-	-	-
 -	Okinawa	-	proper	9	-	-	-	-	-
+-	Phuket	-	proper	5	-	-	-	-	-
 -	Príncipe	-	proper	8	-	-	-	-	-
 -	Riddarholmen	-	proper	6	-	-	-	-	-
 -	Rodos	-	proper	39|1S	-	-	-	-	-

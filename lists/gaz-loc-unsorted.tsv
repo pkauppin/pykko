@@ -1,4 +1,5 @@
 -	Aatsinki	-	proper	5	nk:ng	-	-	-	-
+-	Abu Dhabi	-	proper	5	-	-	-	-	-
 -	Ahjo	-	proper	1	-	-	-	-	-
 -	Ahjola	-	proper	12	-	-	-	-	-
 -	Ahmas	-	proper	39	-	-	-	-	-
@@ -8,6 +9,7 @@
 -	Ainali	-	proper	6	-	-	-	-	-
 -	Ajos	-	proper	39	-	-	-	-	-
 -	Alavi	-	proper	5	-	-	-	-	-
+-	Albany	-	proper	1	-	-	-	-	-
 -	Allinen	-	proper	38	-	-	-	-	-
 -	Alppila	-	proper	13	-	-	-	-	-
 -	Alpua	-	proper	12	-	-	-	-	-
@@ -33,8 +35,13 @@
 -	Auttoinen	-	proper	38	-	-	-	-	-
 -	Baikonur	-	proper	?5	-	-	-	-	-
 -	Björnträsk	-	proper	5	-	-	-	-	-
+-	Blackmore	-	proper	8	-	-	-	-	-
 -	Bogskär	-	proper	5	-	-	-	-	-
+-	Boone	-	proper	8	-	-	-	-	-
 -	Bospori	-	proper	6	-	-	-	-	-
+-	Capitol	-	proper	?6	-	-	-	-	-
+-	DC	-	proper	18B	-	-	-	-	-
+-	Delos	-	proper	39	-	-	-	-	-
 -	Džungaria	-	proper	12	-	-	-	-	-
 -	Emola	-	proper	12	-	-	-	-	-
 -	Empo	-	proper	1	-	-	-	-	-
@@ -58,6 +65,7 @@
 -	Haimoo	-	proper	17	-	-	-	-	-
 -	Hakkila	-	proper	13	-	-	-	-	-
 -	Hakoinen	-	proper	38	-	-	-	-	-
+-	Halifax	-	proper	5	-	-	-	-	-
 -	Hallila	-	proper	13	-	-	-	-	-
 -	Hallu	-	proper	1	-	-	-	-	-
 -	Haloila	-	proper	10	-	-	-	-	-
@@ -290,6 +298,7 @@
 -	Kinahmi	-	proper	5	-	-	-	-	-
 -	Kinahmo	-	proper	1	-	-	-	-	-
 -	Kirjakkala	-	proper	12	-	-	-	-	-
+-	Kirov	-	proper	5	-	-	-	-	-
 -	Kitinen	-	proper	38	-	-	-	-	-
 -	Kitka	-	proper	9	-	-	-	-	-
 -	Kitsi	-	proper	5	-	-	-	-	-
@@ -774,6 +783,7 @@
 -	Rehakka	-	proper	14	kk:k	-	-	-	-
 -	Reimarla	-	proper	9	-	-	-	-	-
 -	Reinikkala	-	proper	12	-	-	-	-	-
+-	Richmond	-	proper	5	-	-	-	-	-
 -	Riesto	-	proper	1	-	-	-	-	-
 -	Rihu	-	proper	1	-	-	-	-	-
 -	Riihelä	-	proper	12	-	-	-	-	-
@@ -824,6 +834,7 @@
 -	Sairiala	-	proper	9	-	-	-	-	-
 -	Saivikkala	-	proper	12	-	-	-	-	-
 -	Saksala	-	proper	12	-	-	-	-	-
+-	Salem	-	proper	5	-	-	-	-	-
 -	Sampola	-	proper	12	-	-	-	-	-
 -	Sankila	-	proper	13	-	-	-	-	-
 -	Sannainen	-	proper	38	-	-	-	-	-
@@ -868,6 +879,7 @@
 -	Skanssi	-	proper	5	-	-	-	-	-
 -	Skinnarila	-	proper	12	-	-	-	-	-
 -	Slesvig	-	proper	5	-	-	-	-	-
+-	Soite	-	proper	48	tt:t	-	-	-	-
 -	Sokli	-	proper	5	-	-	-	-	-
 -	Sokosti	-	proper	5	-	-	-	-	-
 -	Sola	-	proper	10	-	-	-	-	-
@@ -943,7 +955,6 @@
 -	Taurila	-	proper	13	-	-	-	-	-
 -	Tauvo	-	proper	1	-	-	-	-	-
 -	Tavastila	-	proper	12	-	-	-	-	-
--	Teksas	-	proper	39	-	-	-	-	-
 -	Telkkälä	-	proper	12	-	-	-	-	-
 -	Tengeliö	-	proper	3	-	-	-	-	-
 -	Tenhiälä	-	proper	10	-	-	-	-	-
@@ -1113,6 +1124,7 @@
 -	Xinjiang	-	proper	5	-	-	-	-	-
 -	Yellowstone	-	proper	8	-	-	-	-	-
 -	Ylästö	-	proper	1	-	-	-	-	-
+-	Yorkshire	-	proper	8	-	front|back	-	-	-
 -	Yppäri	-	proper	6	-	-	-	-	-
 -	Ypyä	-	proper	12	-	-	-	-	-
 -	Yrjäälä	-	proper	10	-	-	-	-	-

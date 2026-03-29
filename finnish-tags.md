@@ -53,7 +53,11 @@ Compound tags:
 - `+inf4` 4th infinitive (_meneminen_)
 - `+inf5` 5th infinitive (_menemäisillään_)
 - `part_ma` agent participle (_menemä_)
-- `part_maton` negative participle (_menemätätön_)
+- `part_maton` negative participle (_menemätön_)
+
+**DERIVATION**
+- `+deriv_agent` agent noun (_menijä_)
+- `+deriv_action` action noun (_meno_)
 
 **NUMBER**
 - `+sg` singular
@@ -93,8 +97,12 @@ Compound tags:
 - `rare` rare
 - `dial` dialectal
 - `poet` poetic/literary
-- `nstd` nonstandard
+- `nstd` nonstandard/proscribed
 - `slang` slang
-- `foreign` foreign word
+- `deprecated` deprecated/obsolete or dubious term no longer in use
+- `unadapted` unadapted borrowing
+- `foreign` foreign word not used in Finnish
+
+---
 
 > **NB!** The parser uses the character `’` <small>(U+2019 RIGHT SINGLE QUOTATION MARK)</small> as its default apostrophe. All apostrophes in the input are converted into this character in the lemma forms.

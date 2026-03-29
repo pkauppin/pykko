@@ -24,6 +24,30 @@ CVa	stata	-	verb	73	tt:t	-	-	-	10.000
 CVa	skata	-	verb	73	tt:t	-	-	-	10.000
 CVa	spata	-	verb	73	tt:t	-	-	-	10.000
 CVa	ssata	-	verb	73	tt:t	-	-	-	10.000
+Vä	kätä	-	verb	73	kk:k	-	-	-	10.000
+CVä	pätä	-	verb	73	pp:p	-	-	-	10.000
+CVä	tätä	-	verb	73	tt:t	-	-	-	10.000
+CVä	bätä	-	verb	73	bb:b	-	-	-	10.000
+CVä	gätä	-	verb	73	gg:g	-	-	-	10.000
+CVä	dätä	-	verb	73	-	-	-	-	10.000
+CVä	nätä	-	verb	73	-	-	-	-	10.000
+CVä	mätä	-	verb	73	-	-	-	-	10.000
+CVä	ikätä	-	verb	73	kk:k	-	-	-	10.000
+CVä	ipätä	-	verb	73	pp:p	-	-	-	10.000
+CVä	itätä	-	verb	73	tt:t	-	-	-	10.000
+CVä	rkätä	-	verb	73	kk:k	-	-	-	10.000
+CVä	rpätä	-	verb	73	pp:p	-	-	-	10.000
+CVä	rtätä	-	verb	73	tt:t	-	-	-	10.000
+CVä	lkätä	-	verb	73	kk:k	-	-	-	10.000
+CVä	lpätä	-	verb	73	pp:p	-	-	-	10.000
+CVä	ltätä	-	verb	73	tt:t	-	-	-	10.000
+CVä	nkätä	-	verb	73	kk:k	-	-	-	10.000
+CVä	mpätä	-	verb	73	pp:p	-	-	-	10.000
+CVä	ntätä	-	verb	73	tt:t	-	-	-	10.000
+CVä	stätä	-	verb	73	tt:t	-	-	-	10.000
+CVä	skätä	-	verb	73	tt:t	-	-	-	10.000
+CVä	spätä	-	verb	73	tt:t	-	-	-	10.000
+CVä	ssätä	-	verb	73	tt:t	-	-	-	10.000
 Lower	eerata	-	verb	73	-	-	-	-	10.000
 Lower+Va	llistaa	-	verb	53	-	-	-	-	10.000
 Lower+Vä	llistää	-	verb	53	-	-	-	-	10.000
@@ -68,6 +92,10 @@ Lower	yillä	-	verb	67	-	-	-	-	10.000
 Lower	uilla	-	verb	67	-	-	-	-	10.000
 Lower	äillä	-	verb	67	-	-	-	-	10.000
 Lower	ailla	-	verb	67	-	-	-	-	10.000
+Lower	ettaa	-	verb	53	tt:t	-	-	-	10.000
+Lower	ättää	-	verb	53	tt:t	-	-	-	10.000
+Lower	attaa	-	verb	53	tt:t	-	-	-	10.000
+Lower	ettää	-	verb	53	tt:t	-	-	-	10.000
 Num	-kertaistaa	-	verb	53	-	-	-	-	5.000
 Num	-kertaistua	-	verb	52	-	-	-	-	5.000
 
@@ -377,8 +405,8 @@ Lower+Va	kk	-	noun	5	-	back	-	foreign	10.000
 Lower+Vä	kk	-	noun	5	-	front	-	foreign	10.000
 Lower+Va	ki	-	noun	5	-	back	-	-	10.000
 Lower+Vä	ki	-	noun	5	-	front	-	-	10.000
-Lower+Va	k	-	noun	5	-	back	-	foreign	10.000
-Lower+Vä	k	-	noun	5	-	front	-	foreign	10.000
+Lower+Va	k	-	noun	5	-	back	-	foreign	12.000
+Lower+Vä	k	-	noun	5	-	front	-	foreign	12.000
 Lower+Va	mppi	-	noun	5	pp:p	back	-	-	10.000
 Lower+Vä	mppi	-	noun	5	pp:p	front	-	-	10.000
 Lower+Va	mpi	-	noun	5	-	back	-	-	10.000
@@ -403,8 +431,8 @@ Lower+Va	pp	-	noun	5	-	back	-	foreign	10.000
 Lower+Vä	pp	-	noun	5	-	front	-	foreign	10.000
 Lower+Va	pi	-	noun	5	-	back	-	-	10.000
 Lower+Vä	pi	-	noun	5	-	front	-	-	10.000
-Lower+Va	p	-	noun	5	-	back	-	foreign	10.000
-Lower+Vä	p	-	noun	5	-	front	-	foreign	10.000
+Lower+Va	p	-	noun	5	-	back	-	foreign	12.000
+Lower+Vä	p	-	noun	5	-	front	-	foreign	122.000
 Lower+Va	ntti	-	noun	5	tt:t	back	-	-	10.000
 Lower+Vä	ntti	-	noun	5	tt:t	front	-	-	10.000
 Lower+Va	nti	-	noun	5	-	back	-	-	10.000
@@ -429,8 +457,8 @@ Lower+Va	tt	-	noun	5	-	back	-	foreign	10.000
 Lower+Vä	tt	-	noun	5	-	front	-	foreign	10.000
 Lower+Va	ti	-	noun	5	-	back	-	-	10.000
 Lower+Vä	ti	-	noun	5	-	front	-	-	10.000
-Lower+Va	t	-	noun	5	-	back	-	foreign	10.000
-Lower+Vä	t	-	noun	5	-	front	-	foreign	10.000
+Lower+Va	t	-	noun	5	-	back	-	foreign	12.000
+Lower+Vä	t	-	noun	5	-	front	-	foreign	12.000
 
 Lower	atta	-	noun	9	tt:t	back	-	-	10.000
 Lower	etta	-	noun	9	tt:t	back	-	-	10.000
@@ -974,7 +1002,8 @@ Lower	isti	-	noun	5	-	front|back	-	-	10.000
 Lower	nomia	-	noun	12	-	-	-	-	10.000
 Lower	nomi	-	noun	5	-	-	-	-	10.000
 Lower	ikko	-	noun	4	kk:k	-	-	-	10.000
-Lower	glyfi	-	noun	5	-	-	-	-	9.000
+Lower+Va	glyfi	-	noun	5	-	front|back	-	-	9.000
+Lower+Vä	glyfi	-	noun	5	-	front	-	-	9.000
 Lower	logia	-	noun	12	-	-	-	-	9.000
 Lower	grafia	-	noun	12	-	-	-	-	9.000
 Lower	logi	-	noun	5	-	-	-	-	9.000
@@ -983,7 +1012,10 @@ Lower	oksidi	-	noun	6	-	-	-	-	9.000
 Lower	geeni	-	noun	5	-	front|back	-	-	9.000
 Lower	genia	-	noun	12	-	-	-	-	9.000
 Lower	gamia	-	noun	12	-	-	-	-	9.000
-Lower	nyymi	-	noun	5	-	-	-	-	9.000
+Lower+Va	nyymi	-	noun	5	-	front|back	-	-	9.000
+Lower+Vä	nyymi	-	noun	5	-	front	-	-	9.000
+Lower+Va	lyysi	-	noun	5	-	front|back	-	-	9.000
+Lower+Vä	lyysi	-	noun	5	-	front	-	-	9.000
 Lower	nymia	-	noun	12	-	-	-	-	9.000
 Lower	topia	-	noun	12	-	-	-	-	9.000
 Lower	tooppi	-	noun	5	-	-	-	-	9.000
@@ -1135,6 +1167,9 @@ Lower+Va	pper	-	noun	6	-	back	-	foreign	10.000
 Any	ing	-	noun	5	-	front|back	-	-	10.000
 Any	ng	-	noun	5	-	front|back	-	-	10.000
 Any	que	-	noun	8	-	front|back	-	-	10.000
+Any	aux	-	noun	22|5	-	front|back	-	-	10.000
+Any	eux	-	noun	22|5	-	front|back	-	-	10.000
+Any	oux	-	noun	22|5	-	front|back	-	-	10.000
 Cap	ugh	-	proper	22|5	-	back	u	foreign	10.000
 Cap	igh	-	proper	22|5	-	front|back	i	foreign	10.000
 Cap	ghes	-	proper	5	-	front|back	-	foreign	10.000
@@ -1280,8 +1315,12 @@ Cap	ow	-	noun	22	-	back	u	-	11.000
 
 # FALLBACK
 
+Lower+Vä	nen	-	noun	38	-	front	-	-	999.000
 Lower+Va	nen	-	noun	38	-	back	-	-	999.000
 Lower+Vä	nen	-	noun	38	-	front	-	-	999.000
+Lower	inen	-	adjective	38	-	back	-	-	999.000
+Lower	inen	-	adjective	38	-	front	-	-	999.000
+Lower	sti	-	adverb	-	-	-	-	-	999.000
 
 .*	a	-	noun	9|10	-	-	-	-	999.000
 .*	ä	-	noun	9|10	-	-	-	-	999.000
@@ -1302,6 +1341,24 @@ Lower+Vä	nen	-	noun	38	-	front	-	-	999.000
 .*	ü	-	noun	4	-	-	-	-	999.000
 .*	ů	-	noun	4	-	back	-	-	999.000
 .*	ė	-	noun	4	-	front|back	-	-	999.000
+
+.*	as	-	noun	39	-	-	-	-	999.000
+.*	es	-	noun	39	-	front|back	-	-	999.000
+.*	is	-	noun	39	-	front|back	-	-	999.000
+.*	us	-	noun	39	-	-	-	-	999.000
+.*	os	-	noun	39	-	-	-	-	999.000
+.*	ys	-	noun	39	-	-	-	-	999.000
+.*	ös	-	noun	39	-	-	-	-	999.000
+.*	äs	-	noun	39	-	-	-	-	999.000
+
+.*	s	-	noun	22	-	front|back	-	-	999.000
+.*	z	-	noun	22	-	front|back	-	-	999.000
+.*	x	-	noun	22	-	front|back	-	-	999.000
+.*	t	-	noun	22	-	front|back	-	-	999.000
+.*	d	-	noun	22	-	front|back	-	-	999.000
+.*	h	-	noun	22	-	front|back	-	-	999.000
+.*	r	-	noun	22	-	front|back	-	-	999.000
+.*	j	-	noun	22	-	front|back	-	-	999.000
 
 .*	b	-	noun	5	-	front|back	-	-	999.000
 .*	c	-	noun	5	-	front|back	-	-	999.000
@@ -1351,3 +1408,4 @@ Lower+Vä	nen	-	noun	38	-	front	-	-	999.000
 .*	ğ	-	noun	5	-	front|back	-	-	999.000
 .*	ŋ	-	noun	5	-	front|back	-	-	999.000
 .*	þ	-	noun	5	-	front|back	-	-	999.000
+#.+		-	noun	10B|	-	front|back	-	-	9999.000

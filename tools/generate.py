@@ -28,6 +28,7 @@ POS_FST_SOURCES = {
 	'none':             ['Lexicon'],
 }
 
+# TODO: Make into a dict for faster lookup
 HOMONYMOUS = {
 	("ahtaus", "noun"),
 	("ale", "noun"),
@@ -99,8 +100,8 @@ def generate_inflection_paradigm(word: str, pos: str, homonym: str = ''):
 		return set()
 
 	inflections = {}
-	for source in POS_FST_SOURCES.get(pos):
-		for morphtags in POS_MORPHTAG_PATTERNS.get(pos):
+	for source in POS_FST_SOURCES[pos]:
+		for morphtags in POS_MORPHTAG_PATTERNS[pos]:
 			forms = generate_wordform(word, pos, morphtags, homonym, source)
 			if forms:
 				inflections[morphtags] = list(forms)
@@ -124,9 +125,15 @@ def generate_forms(word: str, pos: str = None, homonym: str = ''):
 	if not pos:
 		return {form for pos in pos_tag(word) for form in generate_forms(word, pos, homonym)}
 
-	for source in POS_FST_SOURCES.get(pos):
+	# Return all valid interpretations if homonym has not been specified
+	if not homonym and (word, pos) in HOMONYMOUS:
+		forms1 = generate_forms(word, pos, '1')
+		forms2 = generate_forms(word, pos, '2')
+		return forms1 | forms2
+
+	for source in POS_FST_SOURCES[pos]:
 		forms = set()
-		for morphtags in POS_MORPHTAG_PATTERNS.get(pos):
+		for morphtags in POS_MORPHTAG_PATTERNS[pos]:
 			forms.update(generate_wordform(word, pos, morphtags, homonym, source))
 		if forms:
 			return forms
@@ -145,6 +152,7 @@ def generate_wordform(word: str, pos: str, morphtags: str, homonym: str = '', so
 		return set()
 
 	# TODO: Make this work for other sources as well?
+	# Return both valid interpretations if homonym has not been specified
 	if not homonym and (word, pos) in HOMONYMOUS and source == 'Lexicon':
 		forms1 = generate_wordform(word, pos, morphtags, '1', source)
 		forms2 = generate_wordform(word, pos, morphtags, '2', source)

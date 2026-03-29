@@ -8,11 +8,11 @@ For testing/debugging purposes only.
 import re
 import sys
 from scripts.constants import SENT_BREAK, LINE_BREAK
-from scripts.file_tools import read_list_tsv
+from scripts.file_tools import read_list_tsv, read_list
 
 UNITS = {re.escape(row[1]) for row in read_list_tsv('aux-units.tsv')}
 EMOTICONS = {re.escape(row[1]) for row in read_list_tsv('aux-emoticons.tsv')}
-ABBREV = {re.escape(row[1]) for row in read_list_tsv('aux-abbreviations.tsv')}
+ABBREV = {re.escape(abbr) for abbr in read_list('aux-abbreviations.txt', directory='lists')}
 ABBREV = ABBREV | {a.capitalize() for a in ABBREV}
 
 REGEX_ABBREV = '|'.join(ABBREV)
@@ -29,7 +29,7 @@ REGEX_THOUSANDS = r'[1-9][0-9]?[0-9]?(?:[  ][0-9][0-9][0-9])+(?:-[a-zåäö-]+)
 REGEX_THOUSANDS_RANGE = r'[1-9][0-9]?[0-9]?(?:[  ][0-9][0-9][0-9])+[-–][1-9][0-9]?[0-9]?(?:[  ][0-9][0-9][0-9])+'
 REGEX_XML_ELEM = r'<[^<>]+>'
 REGEX_HTML_ENTITY = r'&[^;\s]+;'
-REGEX_URL = r'(?:https?://|file:///|www\.)(?:[a-z0-9]+\.)+\S+[^ \t\n)(:;,.]'
+REGEX_URL = r'(?:https?://|file:///|www\.)(?:[a-z0-9-]+[.:])+\S+[^ \t\n)(:;,.]'
 # REGEX_IUPAC_NAME = r'...'
 
 REGEX_ALL = '|'.join((

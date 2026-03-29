@@ -5,18 +5,19 @@ from scripts.inflection.utils import plural2singular
 from scripts.utils import unpack
 from scripts.file_tools import read_list_tsv, save_txt, read_list
 
-DUBIOUS = {
+# These are not allowed at all as modifiers
+BLACKLISTED = {
 	'aa', 'as', 'bi', 'di', 'do', 'ee', 'es', 'fa', 'fu', 'id', 'ii', 'in', 'la', 'mi', 'on', 'oo', 're', 'so', 'ti',
 	'to', 'up', 'uu', 'vu', 'yy', 'ää', 'öö', 'air', 'ais', 'boy', 'cee', 'ces', 'cha', 'chi', 'cow', 'cup', 'des',
-	'dis', 'dur', 'eis', 'fan', 'fes', 'fis', 'fär', 'ges', 'gis', 'hip', 'hiv', 'hop', 'how', 'ian', 'jet', 'jin',
-	'kik', 'käs', 'lei', 'leu', 'lev', 'lux', 'mis', 'mys', 'net', 'new', 'non', 'off', 'out', 'pan', 'par', 'pre',
-	'pro', 'rai', 'sen', 'tag', 'tec', 'tic', 'vip', 'yht', 'yin', 'zen', 'lais', 'vent', 'kalais', 'salais', 'jollais',
-	'kuplais', 'mahlais', 'millais', 'sellais', 'suklais', 'suolais', 'tällais', 'jumalais', 'kuoppais', 'tuollais',
-	'piikkis', 'karvais', 'kat', 'pai', 'fen', 'luo', 'tiu'
+	'dis', 'dur', 'eis', 'fan', 'fen', 'fes', 'fis', 'fär', 'ges', 'gis', 'hip', 'hiv', 'hop', 'how', 'ian', 'jet',
+	'jin', 'kat', 'kik', 'käs', 'lei', 'leu', 'lev', 'luo', 'lux', 'mis', 'mys', 'net', 'new', 'non', 'off', 'out',
+	'pai', 'pan', 'par', 'pre', 'pro', 'rai', 'sen', 'tag', 'tec', 'tic', 'tiu', 'vip', 'yht', 'yin', 'zen', 'lais',
+	'vent', 'ennen', 'kalais', 'salais', 'jollais', 'karvais', 'kuplais', 'mahlais', 'millais', 'piikkis', 'sellais',
+	'suklais', 'suolais', 'tällais', 'jumalais', 'kuoppais', 'tuollais',
 }
 
-RARE = {
-	# TODO: compile complete list of these cases
+# These are allowed as modifiers, but with penalty
+PENALIZED = {
 	'pappi', 'syksy', 'suuri', 'pieni', 'anti',
 }
 
@@ -27,11 +28,10 @@ def get_weight(pfx):
 	Assign higher weights to words that have specific prefix forms, e.g.
 	- *pappi vs. pappis-
 	- *syksy vs. syys-
+	This ensures that cases like "pappis|oikeus" take precdence over cases like "pappi|soikeus"
 	"""
 
-	if pfx in RARE:
-		return 2.0
-	return 1.0
+	return 2.0 if pfx in PENALIZED else 1.0
 
 
 def prefix_form_gen(genitive):
@@ -97,6 +97,7 @@ def collect_noun_prefixes():
 		if len(word) <= 2 and word != 'yö':
 			continue
 
+		# TODO: Fix usage of "foreign" – some words in this cateogry are valid modifiers
 		if re.findall('foreign|abbr|unit|symbol|non-compounding', info):
 			continue
 
@@ -181,7 +182,7 @@ def collect_noun_prefixes():
 
 				# TODO: Add non-compounded adjectives?
 
-	return sorted(prefixes - DUBIOUS)
+	return sorted(prefixes - BLACKLISTED)
 
 
 def main():
@@ -203,7 +204,7 @@ def main():
 	for POS, KEY in [
 		('ADJECTIVE', 'A'),
 		('ADVERB', 'A'),
-		('VERB', 'V'),
+		('VERB', 'V'), # TODO: Also allow prefixing adpositions and adverbs?
 	]:
 		lexc += f'LEXICON {POS}_PFX\n'
 		for pfx in read_list(f'fi-prefixes_{KEY}.txt', directory='lists'):

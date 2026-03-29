@@ -2,7 +2,7 @@
 -	Abhasia	-	proper	12	-	-	-	-	-
 -	Afrikka	-	proper	14	kk:k	-	-	-	-
 -	Amazonia	-	proper	12	-	-	-	-	-
--	Ameriikka	-	proper	14	kk:k	-	-	nstd	-
+-	Ameriikka	-	proper	14	kk:k	-	-	nstd	1.000
 -	Amerikka	-	proper	14	kk:k	-	-	-	-
 -	Anatolia	-	proper	12	-	-	-	-	-
 -	Andalusia	-	proper	12	-	-	-	-	-
@@ -13,7 +13,7 @@
 -	Australasia	-	proper	12	-	-	-	-	-
 -	Balkan	-	proper	6	-	-	-	-	-
 -	Baltia	-	proper	12	-	-	-	-	-
--	Balttia	-	proper	12	-	-	-	nstd	-
+-	Balttia	-	proper	12	-	-	-	nstd	1.000
 -	Benelux	-	proper	5	-	-	-	-	-
 -	Bengal	-	proper	6	-	-	-	-	-
 -	Bengali	-	proper	6	-	-	-	-	-
@@ -34,6 +34,7 @@
 -	Eurooppa	-	proper	10	pp:p	-	-	-	-
 -	Everglades	-	proper	5	-	-	-	-	-
 -	Fennoskandia	-	proper	12	-	-	-	-	-
+-	Fiemme	-	proper	8	-	-	-	-	-
 -	Flanderi	-	proper	6	-	-	-	-	-
 -	Fujian	-	proper	5	-	-	-	-	-
 -	Galilea	-	proper	10|12	-	-	-	-	-
@@ -58,6 +59,7 @@
 -	Jilin	-	proper	5	-	-	-	-	-
 -	Jukatan	-	proper	5	-	-	-	-	-
 -	Junggar	-	proper	6	-	-	-	-	-
+-	Juudea	-	proper	12	-	-	-	-	-
 -	Jyllanti	-	proper	5	nt:nn	-	-	-	-
 -	Kalahari	-	proper	6	-	-	-	-	-
 -	Kamtšatka	-	proper	9	-	-	-	-	-
@@ -113,7 +115,7 @@
 -	Siinai	-	proper	18	-	-	-	-	-
 -	Siion	-	proper	5	-	-	-	-	-
 -	Siperia	-	proper	12	-	-	-	-	-
--	Skandinaavia	-	proper	12	-	-	-	nstd	-
+-	Skandinaavia	-	proper	12	-	-	-	nstd	1.000
 -	Skandinavia	-	proper	12	-	-	-	-	-
 -	Sleesia	-	proper	12	-	-	-	-	-
 -	Thar	-	proper	5	-	-	-	-	-
@@ -149,6 +151,7 @@
 -	Keski-Eurooppa	-	proper	10	pp:p	-	-	-	-
 -	Keski-itä	-	proper	10	t:d	-	-	-	-
 -	Lounais-Afrikka	-	proper	14	kk:k	-	-	-	-
+-	Lähi-Itä	-	proper	10	t:d	-	-	nstd	1.000
 -	Lähi-itä	-	proper	10	t:d	-	-	-	-
 -	Länsi-Afrikka	-	proper	14	kk:k	-	-	-	-
 -	Länsi-Balkan	-	proper	6	-	-	-	-	-
@@ -199,5 +202,6 @@
 -	Etelä|napa|manner	-	proper	49	nt:nn	-	-	-	-
 -	Kaksois|virran|maa	-	proper	18	-	-	-	-	-
 -	Vähä%-Aasia	-	proper	12	-	-	-	-	-
+-	Yosemite	-	proper-pl	8	-	-	-	-	-
 -	Benelux-maat	-	proper-pl	18	-	-	-	-	-
 -	Pohjois|maat	-	proper-pl	18	-	-	-	-	-

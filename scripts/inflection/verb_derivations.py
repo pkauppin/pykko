@@ -48,6 +48,7 @@ IRREGULAR_ACTIONS = {
 	'lähteä': ['lähtö'],
 	'lääkitä': ['lääkintä'],
 	'mainita': ['maininta'],
+	'mennä': ['meno'],
 	'merkitä': ['merkintä'],
 	'muodota': ['muodonta'],
 	'niellä': ['nielentä'],
@@ -56,6 +57,7 @@ IRREGULAR_ACTIONS = {
 	'nylkeä': ['nylky', 'nyljentä'],
 	'nähdä': ['näkö'],
 	'olla': ['olo'],
+	'panna': ['pano'],
 	'parkita': ['parkinta'],
 	'pitää': ['pito'],
 	'polkea': ['poljenta'],
@@ -85,6 +87,17 @@ IRREGULAR_ACTIONS = {
 	'vuolla': ['vuolu', 'vuolenta'],
 	'vuotaa': ['vuoto'],
 }
+
+
+def get_action_noun_infl_class(word):
+
+	if re.fullmatch('nta', word):
+
+
+	if re.fullmatch('sto', word):
+
+	if re.fullmatch('nt')
+
 
 
 def derive_action_noun(inflections):

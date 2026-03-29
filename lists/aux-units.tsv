@@ -8,13 +8,13 @@
 -	kg	0	noun	XX	-	back	-	unit	-
 -	km	0	noun	5B	-	front	-	unit	-
 -	km/h	0	noun	5B	-	front	-	unit	-
--	km2	0	noun	1B	-	front	-	unit|nstd	-
+-	km2	0	noun	1B	-	front	-	unit|nstd	1.000
 -	km²	0	noun	5B	-	front	-	unit	-
 -	kr	0	noun	XX	-	back	-	abbr	-
 -	l	0	noun	XX	-	back	-	unit	-
 -	m	0	noun	5B	-	front	-	unit	-
 -	m/s	0	noun	5B	-	front	-	unit	-
--	m2	0	noun	1B	-	front	-	unit|nstd	-
+-	m2	0	noun	1B	-	front	-	unit|nstd	1.000
 -	mg	0	noun	XX	-	back	-	unit	-
 -	mk	0	noun	XX	-	back	-	abbr	-
 -	ml	0	noun	XX	-	back	-	unit	-

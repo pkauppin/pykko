@@ -98,6 +98,15 @@ def get_base_lemma(lemma):
 	return get_parts(lemma)[-1]
 
 
+def get_base_lemmas(lemma):
+	parts = get_parts(lemma)
+	base_lemmas = []
+	while parts:
+		base_lemmas.append(''.join(parts))
+		parts.pop(0)
+	return base_lemmas
+
+
 def count_syllables(lemma):
 	syllabified = syllabify(lemma, compound=False)
 	return len(syllabified.split('·'))
@@ -121,7 +130,7 @@ def determine_lemma_vowel_harmony(lemma, kotus_class=None):
 	if re.fullmatch('.*(aldehydi|analyysi|analyyttinen|analyyttisesti|molekyyli|molekyylinen)', lemma):
 		return 'front|back'
 
-	# "porfyyri", polyyppi", "dialyysi", "porfyriini", "molybdeeni"
+	# "porfyyri", polyyppi", "dialyysi", "porfyriini", "molybdeeni", "hieroglyfi"
 	if re.fullmatch(f'.*[aou].*(y{C}{C}?i|y{C}{C}?inen|y{C}{C}?isesti|y{C}{C}?ismi|y{C}{C}?isti|y{C}{C}?ii{C}{C}?i|y{C}{C}?ee{C}{C}?i)', lemma):
 		return 'front|back'
 

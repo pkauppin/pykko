@@ -31,58 +31,6 @@ def lookup(wordform):
 	return PARSER_FST.lookup(wordform)
 
 
-def is_derived_from(analysis_a, analysis_b):
-
-	_, _, _, _, _, _, morphtags_a, _ = analysis_a
-	_, _, _, _, _, _, morphtags_b, _ = analysis_b
-
-	if not morphtags_a and morphtags_b:
-		return False
-
-	return morphtags_b.startswith('+deriv_') and morphtags_b.endswith(morphtags_a)
-
-
-def is_participle_of(analysis_a, analysis_b):
-
-	_, _, _, pos_a, _, _, morphtags_a, _ = analysis_a
-	_, _, _, pos_b, _, _, morphtags_b, _ = analysis_b
-
-	if not morphtags_a and morphtags_b:
-		return False
-
-	return pos_a == 'participle' and morphtags_b.startswith('+part_') and morphtags_b.endswith(morphtags_a)
-
-
-def compare_with_others(a_source, analyses):
-
-	_, _, lemma_source, pos, _, _, morphtags_source, _ = a_source
-
-	if pos != 'verb':
-		return
-
-	for a_target in analyses:
-
-		if a_target == a_source:
-			continue
-
-		_, _, lemma_target, _, _, info, morphtags_target, _ = a_target
-
-		if ' ← ' in info:
-			return
-
-		if is_derived_from(a_target, a_source):
-			deriv_tag = morphtags_source.replace(morphtags_target, '')
-			a_target[5] += f' ← {pos}:{lemma_source}:{deriv_tag}'
-			return 'has-derivative'
-
-		if is_participle_of(a_target, a_source):
-			participle_tag = morphtags_source.replace(morphtags_target, '')
-			a_target[5] += f' ← {pos}:{lemma_source}:{participle_tag}'
-			return 'has-participle'
-
-	return
-
-
 def analyze(word, only_best=True, normalize_separators=True, ignore_derivatives=True):
 
 	"""
@@ -92,6 +40,7 @@ def analyze(word, only_best=True, normalize_separators=True, ignore_derivatives=
 
 	analyses = []
 	taken = {}
+	best_weight = inf
 	for analysis_string, weight in PARSER_FST.lookup(word):
 
 		if normalize_separators:
@@ -100,27 +49,15 @@ def analyze(word, only_best=True, normalize_separators=True, ignore_derivatives=
 		if taken.get(analysis_string):
 			continue
 
+		if only_best and weight >= best_weight:
+			break
+
 		taken[analysis_string] = True
 		analysis = [word] + analysis_string.split('\t') + [weight]
 		analyses.append(analysis)
+		best_weight = weight
 
-	best = inf
-	filtered = []
-	for analysis in analyses:
-
-		_, _, _, _, _, _, _, weight = analysis
-
-		if only_best and weight > best:
-			break
-
-		response = compare_with_others(analysis, analyses)
-
-		if response == 'has-derivative' and ignore_derivatives:
-			continue
-
-		filtered.append(analysis)
-		best = weight
-
+	filtered = analyses
 	filtered = filtered or [([word] + unk_result(word).split('\t') + [inf])]
 
 	return [tuple(a) for a in filtered]
@@ -254,13 +191,12 @@ def add_compound_separators_to_proper_name(name):
 			segments.append(segment)
 		return '|'.join(segments)
 
-	for pos in ['proper-pl', 'proper']:
+	for pos in 'proper-pl', 'proper':
 		separated = add_compound_separators(name, pos)
 		if separated != {name}:
 			return separated
-
 	word = name.lower()
-	for pos in ['noun-pl', 'noun']:
+	for pos in 'noun-pl', 'noun':
 		separated = add_compound_separators(word, pos)
 		if separated != {word}:
 			separated = {restore_letter_case(s, name) for s in separated}
@@ -270,6 +206,11 @@ def add_compound_separators_to_proper_name(name):
 
 
 def transfer_separators(source, target):
+
+	"""
+	Copy compound separators from source string to target string (which may be different inflected form and/or use different lettercase).
+	"""
+
 	target0 = target
 	segments = []
 	for part in source.split('|')[:-1]:

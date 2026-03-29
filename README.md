@@ -65,7 +65,7 @@ $ echo "Tämä on esimerkki." | ./parse-text.sh
 'xxxisaatioista', 'Guesser|Any', 'xxxisaatio', 'noun', '', '', '+pl+ela', 10.0)
 ```
 
-### Generating indivudal wordforms
+### Generating individual wordforms
 
 ```py
 >>> from pykko.tools.generate import generate_wordform

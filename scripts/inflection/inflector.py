@@ -1143,12 +1143,12 @@ def inflect_noun(word, kotus_class, gradtype, harmony, vowel=None):
 		all_forms['sg|par'] = [f"{nai}st{a}"]
 		all_forms['sg|ill'] = [f"{nai}seen"]
 		all_forms['pl|gen'] = [f"{nai}sten"]
-		all_forms['pl|gen|rare'] = [f"{nai}sien"]
 		all_forms['pl|par'] = [f"{nai}si{a}"]
 		all_forms['pl|ill'] = [f"{nai}siin"]
 		all_forms['pl|ine'] = [f"{nai}siss{a}"]
 		all_forms['sg|ess'] = [f"{nai}sen{a}"]
 		all_forms['pl|ess'] = [f"{nai}sin{a}"]
+		all_forms['pl|gen|rare'] = [f"{nai}sien"]
 
 	# Kauniainen
 	elif kotus_class == '38-pl':

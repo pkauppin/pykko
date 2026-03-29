@@ -1,3 +1,4 @@
+-	Budva	-	noun	10	-	-	-	-	-
 -	Sparta	-	noun	9	-	-	-	-	-
 -	Troija	-	noun	10	-	-	-	-	-
 -	Aarhus	-	proper	5	-	-	-	-	-
@@ -7,12 +8,14 @@
 -	Accra	-	proper	9	-	-	-	-	-
 -	Addis Abeba	-	proper	10|12	-	-	-	-	-
 -	Addison	-	proper	6	-	-	-	-	-
+-	Agadir	-	proper	5	-	-	-	-	-
 -	Ahlainen	-	proper	38-pl	-	-	-	-	-
 -	Aitoo	-	proper	17	-	-	-	-	-
 -	Akaa	-	proper	17	-	-	-	-	-
 -	Akaba	-	proper	9	-	-	-	-	-
 -	Akmola	-	proper	12|10	-	-	-	-	-
 -	Al Riyad	-	proper	5	-	-	-	-	-
+-	Alanya	-	proper	12	-	-	-	-	-
 -	Alastaro	-	proper	2	-	-	-	-	-
 -	Alattio	-	proper	3	-	-	-	-	-
 -	Alavus	-	proper	40	-	-	-	-	-
@@ -32,6 +35,7 @@
 -	Anjala	-	proper	12	-	-	-	-	-
 -	Ankara	-	proper	10|12	-	-	-	-	-
 -	Antakya	-	proper	12	-	-	-	-	-
+-	Antalya	-	proper	12	-	-	-	-	-
 -	Antananarivo	-	proper	2	-	-	-	-	-
 -	Antiokia	-	proper	12	-	-	-	-	-
 -	Antrea	-	proper	12	-	-	-	-	-
@@ -82,9 +86,11 @@
 -	Beirut	-	proper	5	-	-	-	-	-
 -	Belfast	-	proper	5	-	-	-	-	-
 -	Belgrad	-	proper	5	-	-	-	-	-
+-	Bello	-	proper	1	-	-	-	-	-
 -	Belmopan	-	proper	5	-	-	-	-	-
 -	Belo Horizonte	-	proper	8	-	-	-	-	-
 -	Benares	-	proper	39	-	-	-	-	-
+-	Bergamo	-	proper	2	-	-	-	-	-
 -	Bergen	-	proper	6	-	-	-	-	-
 -	Bergö	-	proper	21|†1	-	-	-	-	-
 -	Berkeley	-	proper	21	-	-	i|y	-	-
@@ -99,6 +105,7 @@
 -	Bissau	-	proper	21	-	-	-	-	-
 -	Biškek	-	proper	5	-	-	-	-	-
 -	Björköby	-	proper	21|†1	-	-	-	-	-
+-	Blackburn	-	proper	5	-	-	-	-	-
 -	Blackpool	-	proper	5	-	-	-	-	-
 -	Bloemfontein	-	proper	5	-	-	-	-	-
 -	Boden	-	proper	6	-	-	-	-	-
@@ -130,13 +137,13 @@
 -	Bruges	-	proper	39	-	-	-	-	-
 -	Brugge	-	proper	8	-	-	-	-	-
 -	Bryssel	-	proper	6	-	-	-	-	-
--	Brysseli	-	proper	5	-	-	-	nstd	-
+-	Brysseli	-	proper	5	-	-	-	nstd	1.000
 -	Brändö	-	proper	21|†1	-	-	-	-	-
 -	Budapest	-	proper	5	-	front|back	-	-	-
 -	Buenos Aires	-	proper	5	-	-	-	-	-
 -	Buffalo	-	proper	2	-	-	-	-	-
 -	Bukarest	-	proper	5	-	-	-	-	-
--	Burnley	-	proper	21	-	front|back	-	-	-
+-	Burnley	-	proper	21	-	front|back	i|y	-	-
 -	Bydgoszcz	-	proper	5	-	-	-	-	-
 -	Caen	-	proper	5	-	-	-	-	-
 -	Calais	-	proper	22|†5	-	-	e	-	-
@@ -145,7 +152,9 @@
 -	Cambridge	-	proper	8	-	-	-	-	-
 -	Campinas	-	proper	5	-	-	-	-	-
 -	Canberra	-	proper	9	-	-	-	-	-
+-	Cancun	-	proper	5	-	-	-	-	-
 -	Cannes	-	proper	5	-	-	-	-	-
+-	Canterbury	-	proper	1	-	-	-	-	-
 -	Caracas	-	proper	5	-	-	-	-	-
 -	Cardiff	-	proper	5	-	-	-	-	-
 -	Casablanca	-	proper	9	-	-	-	-	-
@@ -164,9 +173,11 @@
 -	Chișinău	-	proper	21	-	-	-	-	-
 -	Chongqing	-	proper	5	-	-	-	-	-
 -	Christchurch	-	proper	5	-	-	-	-	-
+-	Cincinnati	-	proper	5	-	-	-	-	-
 -	Città del Vaticano	-	proper	1	-	-	-	-	-
 -	Clarendon	-	proper	5	-	-	-	-	-
 -	Clayton	-	proper	6	-	-	-	-	-
+-	Cleveland	-	proper	5	-	-	-	-	-
 -	Cluj	-	proper	5	-	-	-	-	-
 -	Cognac	-	proper	5	-	-	-	-	-
 -	Colombo	-	proper	1	-	-	-	-	-
@@ -184,6 +195,7 @@
 -	Cuzco	-	proper	1	-	-	-	-	-
 -	Córdoba	-	proper	10	-	-	-	-	-
 -	Dacca	-	proper	9	-	-	-	-	-
+-	Daegu	-	proper	1	-	-	-	-	-
 -	Daejeon	-	proper	5	-	-	-	-	-
 -	Dakar	-	proper	6	-	-	-	-	-
 -	Dalian	-	proper	5	-	-	-	-	-
@@ -228,6 +240,7 @@
 -	Edo	-	proper	1	-	-	-	-	-
 -	Eger	-	proper	6	-	-	-	-	-
 -	Eilat	-	proper	5	-	-	-	-	-
+-	Eindhoven	-	proper	?6	-	-	-	-	-
 -	Eisenach	-	proper	5	-	-	-	-	-
 -	El Ejido	-	proper	1	-	-	-	-	-
 -	El Paso	-	proper	1	-	-	-	-	-
@@ -250,11 +263,13 @@
 -	Freetown	-	proper	5	-	-	-	-	-
 -	Freiberg	-	proper	5	-	-	-	-	-
 -	Freiburg	-	proper	5	-	-	-	-	-
+-	Fuengirola	-	proper	10	-	-	-	-	-
 -	Fulton	-	proper	6	-	-	-	-	-
 -	Funafuti	-	proper	5	-	-	-	-	-
 -	Föglö	-	proper	21|†1	-	-	-	-	-
 -	Gaborone	-	proper	8	-	-	-	-	-
 -	Galilea	-	proper	13	-	-	-	-	-
+-	Garda	-	proper	9	-	-	-	-	-
 -	Gary	-	proper	1	-	-	-	-	-
 -	Gdansk	-	proper	5	-	-	-	-	-
 -	Gdańsk	-	proper	5	-	-	-	-	-
@@ -270,6 +285,7 @@
 -	Glasgow	-	proper	22|†5	-	-	u	-	-
 -	Godthåb	-	proper	5	-	-	-	-	-
 -	Golan	-	proper	6	-	-	-	-	-
+-	Gomorra	-	proper	10	-	-	-	-	-
 -	Gorki	-	proper	5	-	-	-	-	-
 -	Gotham	-	proper	5	-	-	-	-	-
 -	Gotham City	-	proper	1	-	front	-	-	-
@@ -312,6 +328,7 @@
 -	Harkova	-	proper	10	-	-	-	-	-
 -	Harlu	-	proper	1	-	-	-	-	-
 -	Harmoinen	-	proper	38-pl	-	-	-	-	-
+-	Hartford	-	proper	5	-	-	-	-	-
 -	Hartola	-	proper	12	-	-	-	-	-
 -	Hastings	-	proper	5	-	-	-	-	-
 -	Hattula	-	proper	12	-	-	-	-	-
@@ -346,6 +363,7 @@
 -	Huittinen	-	proper	38-pl	-	-	-	-	-
 -	Hull	-	proper	5	-	-	-	-	-
 -	Humppila	-	proper	12	-	-	-	-	-
+-	Hurghada	-	proper	9	-	-	-	-	-
 -	Hyderabad	-	proper	5	-	-	-	-	-
 -	Hyrylä	-	proper	12	-	-	-	-	-
 -	Hyvinkää	-	proper	18	-	-	-	-	-
@@ -487,7 +505,7 @@
 -	Kinhiö	-	proper	3	-	-	-	-	-
 -	Kinnula	-	proper	12	-	-	-	-	-
 -	Kinshasa	-	proper	9	-	-	-	-	-
--	Kintaus	-	proper	39|40	-	-	-	-	-
+-	Kintaus	-	proper	40|†39	-	-	-	-	-
 -	Kioto	-	proper	1	-	-	-	-	-
 -	Kiova	-	proper	10	-	-	-	-	-
 -	Kirvu	-	proper	1	-	-	-	-	-
@@ -524,6 +542,7 @@
 -	Kovero	-	proper	2	-	-	-	-	-
 -	Krakova	-	proper	10	-	-	-	-	-
 -	Krasnodar	-	proper	6	-	-	-	-	-
+-	Krasnojarsk	-	proper	5	-	-	-	-	-
 -	Kristianstad	-	proper	5	-	-	-	-	-
 -	Kristiansund	-	proper	5	-	-	-	-	-
 -	Kristiina	-	proper	9	-	-	-	-	-
@@ -543,6 +562,7 @@
 -	Kuortane	-	proper	48	-	-	-	-	-
 -	Kuortti	-	proper	5	tt:t	-	-	-	-
 -	Kurikka	-	proper	14	kk:k	-	-	-	-
+-	Kursk	-	proper	5	-	-	-	-	-
 -	Kuru	-	proper	1	-	-	-	-	-
 -	Kustavi	-	proper	5	-	-	-	-	-
 -	Kutaisi	-	proper	5	-	-	-	-	-
@@ -589,6 +609,7 @@
 -	Leipzig	-	proper	5	-	front|back	-	-	-
 -	Lemi	-	proper	5	-	-	-	-	-
 -	Lemland	-	proper	5	-	-	-	-	-
+-	Lempaala	-	proper	10	-	-	-	-	-
 -	Lempää	-	proper	18	-	-	-	-	-
 -	Lempäälä	-	proper	11	-	-	-	-	-
 -	Lemu	-	proper	1	-	-	-	-	-
@@ -597,6 +618,7 @@
 -	Leverkusen	-	proper	5	-	-	-	-	-
 -	Leyden	-	proper	6	-	front|back	-	-	-
 -	León	-	proper	5	-	back	-	-	-
+-	Liberec	-	proper	5	-	-	-	-	-
 -	Liberty City	-	proper	1	-	front	-	-	-
 -	Libreville	-	proper	8	-	-	-	-	-
 -	Lidköping	-	proper	5	-	-	-	-	-
@@ -647,6 +669,7 @@
 -	Luzern	-	proper	5	-	-	-	-	-
 -	Lviv	-	proper	5	-	-	-	-	-
 -	Lyon	-	proper	6	-	-	-	-	-
+-	Lyypekki	-	proper	5	kk:k	-	-	-	-
 -	Läyliäinen	-	proper	38-pl	-	-	-	-	-
 -	Maaninka	-	proper	9	nk:ng	-	-	-	-
 -	Maaria	-	proper	12	-	-	-	-	-
@@ -673,8 +696,9 @@
 -	Marburg	-	proper	5	-	-	-	-	-
 -	Mariestad	-	proper	5	-	-	-	-	-
 -	Mariupol	-	proper	6	-	-	-	-	-
+-	Marmaris	-	proper	39	-	-	-	-	-
 -	Marrakech	-	proper	5	-	-	-	-	-
--	Marrakesh	-	proper	5	-	-	-	nstd	-
+-	Marrakesh	-	proper	5	-	-	-	nstd	1.000
 -	Marseille	-	proper	8	-	-	-	-	-
 -	Marttila	-	proper	12	-	-	-	-	-
 -	Maseru	-	proper	1	-	-	-	-	-
@@ -687,10 +711,9 @@
 -	Mekka	-	proper	9	kk:k	-	-	-	-
 -	Melbourne	-	proper	8	-	-	-	-	-
 -	Mellilä	-	proper	12	-	-	-	-	-
--	Memfis	-	proper	39	-	-	-	-	-
+-	Memfis	-	proper	41|†39	-	-	-	-	-
 -	Memfis	-	proper	41|†5	-	-	-	-	-
 -	Memphis	-	proper	5|†39	-	-	-	-	-
--	Merimasku	-	proper	1	-	-	-	-	-
 -	Messina	-	proper	13	-	-	-	-	-
 -	Miami	-	proper	5	-	-	-	-	-
 -	Middlesbrough	-	proper	5	-	-	-	-	-
@@ -699,6 +722,7 @@
 -	Mikkeli	-	proper	6	-	-	-	-	-
 -	Milano	-	proper	2	-	-	-	-	-
 -	Milwaukee	-	proper	21	-	-	-	-	-
+-	Minas	-	proper	39	-	-	-	-	-
 -	Minneapolis	-	proper	5|39	-	-	-	-	-
 -	Minsk	-	proper	5	-	-	-	-	-
 -	Mogadishu	-	proper	1	-	-	-	-	-
@@ -710,6 +734,9 @@
 -	Montpellier	-	proper	22|†5	-	-	-	-	-
 -	Montreal	-	proper	5	-	-	-	-	-
 -	Montreux	-	proper	22|†5	-	-	ö	-	-
+-	Montréal	-	proper	5	-	-	-	-	-
+-	Monza	-	proper	10	-	-	-	-	-
+-	Mora	-	proper	10	-	-	-	-	-
 -	Moroni	-	proper	5	-	-	-	-	-
 -	Moskova	-	proper	10	-	-	-	-	-
 -	Motala	-	proper	12	-	-	-	-	-
@@ -751,7 +778,9 @@
 -	Nashville	-	proper	8	-	-	-	-	-
 -	Nassau	-	proper	21	-	-	-	-	-
 -	Nastola	-	proper	12	-	-	-	-	-
+-	Nate	-	proper	8	-	-	-	-	-
 -	Nauvo	-	proper	1	-	-	-	-	-
+-	Naxos	-	proper	39	-	-	-	-	-
 -	Naypyidaw	-	proper	22|†5	-	-	o	-	-
 -	Nellim	-	proper	5	-	-	-	-	-
 -	Nettaa	-	proper	18	-	-	-	-	-
@@ -761,6 +790,7 @@
 -	New Delhi	-	proper	5	-	-	-	-	-
 -	New York	-	proper	5	-	-	-	-	-
 -	Newcastle	-	proper	8	-	-	-	-	-
+-	Newport	-	proper	5	-	-	-	-	-
 -	Ngerulmud	-	proper	5	-	-	-	-	-
 -	Niamey	-	proper	21	-	front|back	i|y	-	-
 -	Nietoo	-	proper	17	-	-	-	-	-
@@ -851,6 +881,7 @@
 -	Parkano	-	proper	2	-	-	-	-	-
 -	Parma	-	proper	9	-	-	-	-	-
 -	Parola	-	proper	12	-	-	-	-	-
+-	Pattaya	-	proper	12	-	-	-	-	-
 -	Pau	-	proper	21	-	-	-	-	-
 -	Pedersöre	-	proper	8	-	-	-	-	-
 -	Peking	-	proper	5	-	-	-	-	-
@@ -883,6 +914,7 @@
 -	Pjongjang	-	proper	5	-	-	-	-	-
 -	Pjonjang	-	proper	5	-	-	-	-	-
 -	Plovdiv	-	proper	5	-	-	-	-	-
+-	Plymouth	-	proper	5	-	-	-	-	-
 -	Podgorica	-	proper	9	-	-	-	-	-
 -	Pohja	-	proper	10	-	-	-	-	-
 -	Poitiers	-	proper	5	-	-	-	-	-
@@ -903,8 +935,10 @@
 -	Poznań	-	proper	5	-	-	-	-	-
 -	Praha	-	proper	9	-	-	-	-	-
 -	Praia	-	proper	9	-	-	-	-	-
+-	Preston	-	proper	?6	-	-	-	-	-
 -	Pretoria	-	proper	12	-	-	-	-	-
 -	Pristina	-	proper	13	-	-	-	-	-
+-	Providence	-	proper	8	-	-	-	-	-
 -	Puebla	-	proper	9	-	-	-	-	-
 -	Puhos	-	proper	39	-	-	-	-	-
 -	Pukkila	-	proper	12	-	-	-	-	-
@@ -1006,6 +1040,7 @@
 -	Saloinen	-	proper	38-pl	-	-	-	-	-
 -	Saltvik	-	proper	5	-	front|back	-	-	-
 -	Salvador	-	proper	6	-	-	-	-	-
+-	Salzburg	-	proper	5	-	-	-	-	-
 -	Samara	-	proper	13	-	-	-	-	-
 -	Samarkand	-	proper	5	-	-	-	-	-
 -	Sammatti	-	proper	5	tt:t	-	-	-	-
@@ -1057,8 +1092,10 @@
 -	Sjevjerodonetsk	-	proper	5	-	-	-	-	-
 -	Skellefteå	-	proper	21	-	-	-	-	-
 -	Skopje	-	proper	8	-	-	-	-	-
+-	Smolensk	-	proper	5	-	-	-	-	-
 -	Smyrna	-	proper	10	-	-	-	-	-
 -	Snappertuna	-	proper	10	-	-	-	-	-
+-	Sodoma	-	proper	10	-	-	-	-	-
 -	Sofia	-	proper	12	-	-	-	-	-
 -	Soini	-	proper	5	-	-	-	-	-
 -	Sollentuna	-	proper	10	-	-	-	-	-
@@ -1066,14 +1103,15 @@
 -	Somero	-	proper	2	-	-	-	-	-
 -	Sortavala	-	proper	12	-	-	-	-	-
 -	Sotkamo	-	proper	2	-	-	-	-	-
--	Sotshi	-	proper	5	-	-	-	nstd	-
+-	Sotshi	-	proper	5	-	-	-	nstd	1.000
 -	Sottunga	-	proper	10|12	-	-	-	-	-
 -	Sotši	-	proper	5	-	-	-	-	-
 -	Soul	-	proper	5	-	-	-	-	-
 -	South Tarawa	-	proper	9	-	-	-	-	-
--	Southampton	-	proper	?6	-	-	-	-	-
+-	Southampton	-	proper	5	-	-	-	-	-
 -	Split	-	proper	5	-	-	-	-	-
 -	Springfield	-	proper	5	-	-	-	-	-
+-	Stade	-	proper	8	-	-	-	-	-
 -	Stadi	-	proper	5	-	-	-	slang	-
 -	Stalingrad	-	proper	5	-	-	-	-	-
 -	Stanford	-	proper	5	-	-	-	-	-
@@ -1103,6 +1141,7 @@
 -	Säyneinen	-	proper	38-pl	-	-	-	-	-
 -	Säynätsalo	-	proper	2	-	-	-	-	-
 -	Sääminki	-	proper	5	nk:ng	-	-	-	-
+-	Södertälje	-	proper	8	-	-	-	-	-
 -	Söul	-	proper	5	-	-	-	-	-
 -	Taalintehdas	-	proper	39	-	-	-	-	-
 -	Taavetti	-	proper	5	tt:t	-	-	-	-
@@ -1121,7 +1160,7 @@
 -	Tegucigalpa	-	proper	9	-	-	-	-	-
 -	Teheran	-	proper	6	-	-	-	-	-
 -	Tehi	-	proper	5	-	-	-	-	-
--	Tehran	-	proper	6	-	-	-	nstd	-
+-	Tehran	-	proper	6	-	-	-	nstd	1.000
 -	Teisko	-	proper	1	-	-	-	-	-
 -	Tel Aviv	-	proper	5	-	-	-	-	-
 -	Temmes	-	proper	39	-	-	-	-	-
@@ -1147,12 +1186,15 @@
 -	Toijala	-	proper	12	-	-	-	-	-
 -	Toivakka	-	proper	14	kk:k	-	-	-	-
 -	Tokio	-	proper	3	-	-	-	-	-
+-	Toledo	-	proper	1	-	-	-	-	-
 -	Tolkkinen	-	proper	38-pl	-	-	-	-	-
 -	Torino	-	proper	2	-	-	-	-	-
 -	Tornio	-	proper	3	-	-	-	-	-
 -	Toronto	-	proper	1	-	-	-	-	-
 -	Torremolinos	-	proper	39	-	-	-	-	-
+-	Torrevieja	-	proper	9	-	-	-	-	-
 -	Tottenham	-	proper	5	-	-	-	-	-
+-	Toulon	-	proper	?6	-	-	-	-	-
 -	Toulouse	-	proper	8	-	-	-	-	-
 -	Tour	-	proper	5	-	-	-	-	-
 -	Tournai	-	proper	18	-	-	-	-	-
@@ -1170,6 +1212,7 @@
 -	Turku	-	proper	1	k:	-	-	-	-
 -	Tuulos	-	proper	39	-	-	-	-	-
 -	Tuusula	-	proper	12	-	-	-	-	-
+-	Tver	-	proper	5	-	-	-	-	-
 -	Tyneside	-	proper	8	-	-	-	-	-
 -	Tyrnävä	-	proper	10	-	-	-	-	-
 -	Tyros	-	proper	39	-	-	-	-	-
@@ -1248,11 +1291,13 @@
 -	Visby	-	proper	21|†1	-	-	-	-	-
 -	Vladivostok	-	proper	5	-	-	-	-	-
 -	Volgograd	-	proper	5	-	-	-	-	-
+-	Vologda	-	proper	10	-	-	-	-	-
 -	Voronež	-	proper	5	-	-	-	-	-
 -	Vuoksela	-	proper	13	-	-	-	-	-
 -	Värnamo	-	proper	2	-	-	-	-	-
 -	Värtsilä	-	proper	12	-	-	-	-	-
 -	Västanfjärd	-	proper	5	-	-	-	-	-
+-	Västerås	-	proper	5	-	-	-	-	-
 -	Vääksy	-	proper	1	-	-	-	-	-
 -	Vårdö	-	proper	21|†1	-	-	-	-	-
 -	Vöyri	-	proper	5	-	-	-	-	-
@@ -1273,7 +1318,7 @@
 -	Winnipeg	-	proper	5	-	-	-	-	-
 -	Wittemberg	-	proper	5	-	-	-	-	-
 -	Wolverhampton	-	proper	6	-	-	-	-	-
--	Wroclaw	-	proper	5	-	-	-	nstd	-
+-	Wroclaw	-	proper	5	-	-	-	nstd	1.000
 -	Wrocław	-	proper	5	-	-	-	-	-
 -	Wuhan	-	proper	6	-	-	-	-	-
 -	Wuppertal	-	proper	6	-	-	-	-	-
@@ -1288,7 +1333,7 @@
 -	Yaren	-	proper	6	-	-	-	-	-
 -	Ylistaro	-	proper	2	-	-	-	-	-
 -	Yläne	-	proper	48	-	-	-	-	-
--	Yokohama	-	proper	9	-	-	-	nstd	-
+-	Yokohama	-	proper	9	-	-	-	nstd	1.000
 -	York	-	proper	5	-	-	-	-	-
 -	Ypäjä	-	proper	10	-	-	-	-	-
 -	Ystad	-	proper	5	-	-	-	-	-
@@ -1296,7 +1341,7 @@
 -	Zakinthos	-	proper	39	-	-	-	-	-
 -	Zakopane	-	proper	8	-	-	-	-	-
 -	Zakynthos	-	proper	39	-	-	-	-	-
--	Zaragoza	-	proper	10|12	-	-	-	-	-
+-	Zaragoza	-	proper	10	-	-	-	-	-
 -	Zemun	-	proper	5	-	-	-	-	-
 -	Zákinthos	-	proper	39	-	-	-	-	-
 -	Zákynthos	-	proper	39	-	-	-	-	-
@@ -1314,7 +1359,8 @@
 -	Łódź	-	proper	5	-	-	-	-	-
 -	Alma-Ata	-	proper	9	-	-	-	-	-
 -	Baden-Baden	-	proper	6	-	-	-	-	-
--	Cluj-Napoca	-	proper	10|12	-	-	-	-	-
+-	Cluj-Napoca	-	proper	11	-	-	-	-	-
+-	Garmisch-Partenkirchen	-	proper	?6	-	-	-	-	-
 -	Iso-Äiniö	-	proper	3	-	-	-	-	-
 -	Joškar-Ola	-	proper	10	-	-	-	-	-
 -	Mohenjo-Daro	-	proper	1	-	-	-	-	-
@@ -1459,6 +1505,7 @@
 -	Maksa|maa	-	proper	18	-	-	-	-	-
 -	Meri|järvi	-	proper	7	-	-	-	-	-
 -	Meri|karvia	-	proper	12	-	-	-	-	-
+-	Meri|masku	-	proper	1	-	-	-	-	-
 -	Messu|kylä	-	proper	10	-	-	-	-	-
 -	Metsä|maa	-	proper	18	-	-	-	-	-
 -	Metsä|pirtti	-	proper	5	tt:t	-	-	-	-
@@ -1692,6 +1739,7 @@ Cap	mpton	-	proper	6	-	-	-	-	4.000
 Cap	nagar	-	proper	5	-	-	-	-	4.000
 Cap	nitsa	-	proper	9	-	-	-	-	4.000
 Cap	nitz	-	proper	5	-	front|back	-	-	4.000
+Cap	nsk	-	proper	5	-	-	-	-	4.000
 Cap	ovci	-	proper	5	-	-	-	-	4.000
 Cap	ovice	-	proper	8	-	-	-	-	4.000
 Cap	ovka	-	proper	10	-	-	-	-	4.000

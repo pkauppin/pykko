@@ -40,7 +40,7 @@ auxiliary_forms = [
     ('na', 'noun', '2', '', 'back', '+deriv_action', 'DERIV_ACTION_NA_BACK'),
     ('nä', 'noun', '2', '', 'front', '+deriv_action', 'DERIV_ACTION_NÄ_FRONT'),
 
-    # No way I am handling gradation with these
+    # No way I am handling gradation (e.g. haku : haun) with these
     ('u', 'noun', '2', '', 'back', '+deriv_action+sg+nom', 'DERIV_ACTION_U_BACK'),
     ('y', 'noun', '2', '', 'front', '+deriv_action+sg+nom', 'DERIV_ACTION_Y_FRONT'),
     ('o', 'noun', '1', '', 'back', '+deriv_action+sg+nom', 'DERIV_ACTION_O_BACK'),
