@@ -31,7 +31,7 @@ def lookup(wordform):
 	return PARSER_FST.lookup(wordform)
 
 
-def analyze(word, only_best=True, normalize_separators=True, ignore_derivatives=True):
+def analyze(word, only_best=True, normalize_separators=True, ignore_derivation=True):
 
 	"""
 	Return list of tuples (morphological analyses) with duplicates removed.
@@ -54,6 +54,11 @@ def analyze(word, only_best=True, normalize_separators=True, ignore_derivatives=
 
 		taken[analysis_string] = True
 		analysis = [word] + analysis_string.split('\t') + [weight]
+
+		_, _, _, _, _, _, morph, _ = analysis
+		if '+deriv' in morph and ignore_derivation:
+			continue
+
 		analyses.append(analysis)
 		best_weight = weight
 

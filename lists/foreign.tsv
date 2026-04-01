@@ -222,6 +222,7 @@
 -	Baptist	-	noun	5	-	-	-	foreign	-
 -	Bar	-	noun	5	-	-	-	foreign	-
 -	Basket	-	noun	5	-	-	-	foreign	-
+-	Basketball	-	noun	5	-	-	-	foreign	-
 -	Battle	-	noun	8	-	-	-	foreign	-
 -	Bay	-	noun	21	-	front|back	i|y	foreign	-
 -	Be	-	noun	21	-	-	-	foreign	-
@@ -386,6 +387,7 @@
 -	Cone	-	noun	8	-	-	-	foreign	-
 -	Conference	-	noun	8	-	-	-	foreign	-
 -	Confidential	-	noun	5	-	-	-	foreign	-
+-	Congestion	-	noun	5	-	-	-	foreign	-
 -	Congress	-	noun	5	-	-	-	foreign	-
 -	Continental	-	noun	6	-	-	-	foreign	-
 -	Control	-	noun	5	-	-	-	foreign	-
@@ -886,6 +888,7 @@
 -	Main	-	noun	5	-	-	-	foreign	-
 -	Major	-	noun	6	-	-	-	foreign	-
 -	Make	-	noun	8	-	-	-	foreign	-
+-	Mall	-	noun	5	-	-	-	foreign	-
 -	Man	-	noun	5	-	-	-	foreign	-
 -	Mana	-	noun	9	-	-	-	foreign	-
 -	Management	-	noun	5	-	-	-	foreign	-
@@ -915,6 +918,7 @@
 -	Men	-	noun	5	-	-	-	foreign	-
 -	Metal	-	noun	6	-	-	-	foreign	-
 -	Metaphysics	-	noun	5	-	-	-	foreign	-
+-	Metropolitan	-	noun	5	-	-	-	foreign	-
 -	Mexico	-	noun	1	-	-	-	foreign	-
 -	Microsystems	-	noun	5	-	-	-	foreign	-
 -	Middle	-	noun	8	-	-	-	foreign	-
@@ -1208,6 +1212,7 @@
 -	Royal	-	noun	6	-	-	-	foreign	-
 -	Royals	-	noun	5	-	-	-	foreign	-
 -	Ruby	-	noun	1	-	-	-	foreign	-
+-	Rugby	-	noun	1	-	front|back	-	foreign	-
 -	Run	-	noun	5	-	-	-	foreign	-
 -	Rural	-	noun	6	-	-	-	foreign	-
 -	Rush	-	noun	5	-	-	-	foreign	-
@@ -1385,6 +1390,7 @@
 -	Teenage	-	noun	8	-	-	-	foreign	-
 -	Temple	-	noun	8	-	-	-	foreign	-
 -	Ten	-	noun	5	-	-	-	foreign	-
+-	Tennis	-	noun	5	-	-	-	foreign	-
 -	Terra	-	noun	9	-	-	-	foreign	-
 -	Text	-	noun	5	-	-	-	foreign	-
 -	That	-	noun	5	-	-	-	foreign	-

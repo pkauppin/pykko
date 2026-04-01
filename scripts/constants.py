@@ -51,6 +51,7 @@ POS_TAGS = [
 	'interjection',
 	'adverb+verb',
 	'conjunction+verb',
+	'adverb+conjunction',
 	'proper',
 	'proper-pl',
 	'participle',
