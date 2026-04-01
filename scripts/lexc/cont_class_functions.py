@@ -490,6 +490,8 @@ def get_cont_class_function(pos, info=None):
 		return noun_cont_class
 	if pos == 'participle':
 		return adjective_cont_class
+	if pos == 'adverb+conjunction':
+		return noclit_cont_class
 
 	input('!!! <= ' + pos)
 

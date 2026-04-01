@@ -384,6 +384,7 @@ MORPH_ENDINGS['conjunction'] = MORPH_ENDINGS['none']
 MORPH_ENDINGS['conjunction+verb'] = MORPH_ENDINGS['verb']
 MORPH_ENDINGS['adverb+verb'] = MORPH_ENDINGS['verb']
 MORPH_ENDINGS['participle'] = MORPH_ENDINGS['noun']
+MORPH_ENDINGS['adverb+conjunction'] = MORPH_ENDINGS['none']
 
 FOSSILIZED = {
 	('mikä', 'pronoun'): ['kä'],

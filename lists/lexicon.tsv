@@ -19826,7 +19826,6 @@
 -	ennalta|ehkäisevästi	-	adverb	-	-	-	-	-	-
 -	ennen|aikaisesti	-	adverb	-	-	-	-	-	-
 -	ennen|kaikkea	-	adverb	-	-	-	-	nstd	1.000
--	ennen|kuin	-	adverb	-	-	-	-	nstd	1.000
 -	ennen|kuulumattomasti	-	adverb	-	-	-	-	-	-
 -	ennen|näkemättömästi	-	adverb	-	-	-	-	-	-
 -	ennen|vanhaan	-	adverb	-	-	-	-	nstd	1.000
@@ -21051,7 +21050,7 @@
 -	uus|rahvaan|omaisesti	-	adverb	-	-	-	-	-	-
 -	varain|hoito|vuonna	-	adverb	-	-	-	-	-	-
 -	ympäri|vuoro|kautisesti	-	adverb	-	-	-	-	-	-
--	ennen|kuin	-	adverb+conjunction	-	-	-	-	nstd	-
+-	ennen|kuin	-	adverb+conjunction	-	-	-	-	nstd	1.000
 -	alias	-	conjunction	-	-	-	-	-	-
 -	eli	-	conjunction	-	-	-	-	-	-
 -	elikkä	-	conjunction	-	-	-	-	coll	-

@@ -88,16 +88,11 @@ IRREGULAR_ACTIONS = {
 	'vuotaa': ['vuoto'],
 }
 
-
+"""
 def get_action_noun_infl_class(word):
-
-	if re.fullmatch('nta', word):
-
-
-	if re.fullmatch('sto', word):
-
-	if re.fullmatch('nt')
-
+	# TODO
+	# E.g. "sanonta" => 9+nt:nn
+"""
 
 
 def derive_action_noun(inflections):
@@ -219,7 +214,6 @@ for row in read_list_tsv('lexicon.tsv'):
 		continue
 
 	inflections = inflect(lemma, pos, kotus_class, grad, harmony)
-
 	derive_agent(inflections)
 	derive_action(inflections)
 """
