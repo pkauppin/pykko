@@ -1209,6 +1209,9 @@ Cap	oy	-	noun	21	-	back	i|y	-	11.000
 Cap	aw	-	noun	22	-	back	o|u	-	11.000
 Cap	ew	-	noun	22	-	front|back	u	-	11.000
 Cap	ow	-	noun	22	-	back	u	-	11.000
+Cap	p	-	noun	5	-	front|back	-	-	10.000
+Cap	t	-	noun	5	-	front|back	-	-	10.000
+Cap	k	-	noun	5	-	front|back	-	-	10.000
 
 # Ordinal numbers
 .*	0:s	-	ordinal	45	-	back	-	-	8.000
