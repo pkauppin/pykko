@@ -3968,7 +3968,7 @@
 -	militaristinen	-	adjective	38	-	back	-	-	-
 -	militäärinen	-	adjective	38	-	front	-	-	-
 -	miljoonainen	-	adjective	38	-	back	-	-	-
--	millainen	-	adjective	38	-	back	-	-	-
+-	millainen	-	adjective	38	-	back	-	non-comparable	-
 -	millanen	-	adjective	38	-	-	-	coll|dial	-
 -	millinen	-	adjective	38	-	front	-	coll	-
 -	mimmoinen	-	adjective	38	-	back	-	coll	-
@@ -4364,6 +4364,7 @@
 -	nonverbaalinen	-	adjective	38	-	-	-	-	-
 -	noormarkkulainen	-	adjective	38	-	-	-	-	-
 -	nopea	-	adjective	15	-	back	-	-	-
+-	nopee	-	adjective	20	-	-	-	coll|dial	-
 -	nopsa	-	adjective	10	-	back	-	-	-
 -	norja	-	adjective	10	-	back	-	-	-
 -	norjalainen	-	adjective	38	-	back	-	-	-
@@ -5794,6 +5795,7 @@
 -	ruusumainen	-	adjective	38	-	back	-	-	-
 -	ruutuinen	-	adjective	38	-	back	-	-	-
 -	ruuvimainen	-	adjective	38	-	back	-	-	-
+-	ruåttalainen	-	adjective	38	-	-	-	slang|nstd	-
 -	ryhdikäs	-	adjective	41	kk:k	front	-	-	-
 -	ryhditön	-	adjective	34	tt:t	front	-	-	-
 -	ryhmittäinen	-	adjective	38	-	front	-	-	-
@@ -8729,6 +8731,7 @@
 -	hermo|heikko	-	adjective	1	kk:k	-	-	-	-
 -	hermo|herkkä	-	adjective	10	kk:k	-	-	-	-
 -	hermo|tautinen	-	adjective	38	-	-	-	-	-
+-	heteron|oloinen	-	adjective	38	-	-	-	-	-
 -	hetero|normatiivinen	-	adjective	38	-	-	-	-	-
 -	hetero|seksuaalinen	-	adjective	38	-	-	-	-	-
 -	hetero|tsygoottinen	-	adjective	38	-	-	-	-	-
@@ -16484,6 +16487,7 @@
 -	kuinka	-	adverb	-	-	-	-	-	-
 -	kuinkaan	-	adverb	-	-	-	-	#	-
 -	kuis	-	adverb	-	-	-	-	dial	-
+-	kuiten	-	adverb	-	-	-	-	rare	-
 -	kuitenkaan	-	adverb	-	-	-	-	#	-
 -	kuitenkin	-	adverb	-	-	-	-	#	-
 -	kuivasti	-	adverb	-	-	-	-	-	-
@@ -17279,6 +17283,7 @@
 -	noloissaan	-	adverb	-	-	-	-	+poss	-
 -	nolosti	-	adverb	-	-	-	-	-	-
 -	nopeasti	-	adverb	-	-	-	-	-	-
+-	nopee	-	adverb	-	-	-	-	coll|dial	-
 -	nopeiten	-	adverb	-	-	-	-	-	-
 -	nopsaan	-	adverb	-	-	-	-	-	-
 -	nopsasti	-	adverb	-	-	-	-	-	-
@@ -21022,6 +21027,7 @@
 -	yö|kylään	-	adverb	-	-	-	-	-	-
 -	yö|pukusillaan	-	adverb	-	-	-	-	+poss	-
 -	yö|pukusilleen	-	adverb	-	-	-	-	+poss	-
+-	yö|selkään	-	adverb	-	-	-	-	nstd	-
 -	äkki|arvaamatta	-	adverb	-	-	-	-	-	-
 -	äkki|jyrkästi	-	adverb	-	-	-	-	-	-
 -	äkki|pikaisesti	-	adverb	-	-	-	-	-	-
@@ -21240,6 +21246,7 @@
 -	höpön	-	interjection	-	-	-	-	coll	-
 -	ihaa	-	interjection	-	-	-	-	-	-
 -	ihahaa	-	interjection	-	-	-	-	-	-
+-	ihqdaa	-	interjection	-	-	-	-	slang	-
 -	iih	-	interjection	-	-	-	-	-	-
 -	iik	-	interjection	-	-	-	-	coll	-
 -	iiks	-	interjection	-	-	-	-	-	-
@@ -21468,6 +21475,7 @@
 -	sori	-	interjection	-	-	-	-	coll	-
 -	soromnoo	-	interjection	-	-	-	-	-	-
 -	sorry	-	interjection	-	-	-	-	coll	-
+-	splät	-	interjection	-	-	-	-	-	-
 -	ssh	-	interjection	-	-	-	-	-	-
 -	stop	-	interjection	-	-	-	-	coll	-
 -	sus	-	interjection	-	-	-	-	dial	-
@@ -21512,10 +21520,15 @@
 -	uuh	-	interjection	-	-	-	-	-	-
 -	uujea	-	interjection	-	-	-	-	-	-
 -	uujee	-	interjection	-	-	-	-	-	-
+-	vali	-	interjection	-	-	-	-	-	-
+-	vali vali	-	interjection	-	-	-	-	-	-
 -	vau	-	interjection	-	-	-	-	coll	-
 -	vaude	-	interjection	-	-	-	-	-	-
 -	vautsi	-	interjection	-	-	-	-	coll	-
 -	vii	-	interjection	-	-	-	-	-	-
+-	vink	-	interjection	-	-	-	-	-	-
+-	vink vink	-	interjection	-	-	-	-	-	-
+-	vinks	-	interjection	-	-	-	-	-	-
 -	vittu	-	interjection	-	-	-	-	-	-
 -	viuh	-	interjection	-	-	-	-	child|coll	-
 -	voi	-	interjection	-	-	-	-	-	-
@@ -21696,6 +21709,7 @@
 -	Dr.	-	none	-	-	-	-	abbr	-
 -	Ds	-	none	-	-	-	-	symbol	-
 -	Dy	-	none	-	-	-	-	symbol	-
+-	EOS	-	none	-	-	-	-	abbr	-
 -	Er	-	none	-	-	-	-	symbol	-
 -	Es	-	none	-	-	-	-	symbol	-
 -	Eu	-	none	-	-	-	-	symbol	-
@@ -22059,6 +22073,7 @@
 -	business-to-business	-	none	-	-	-	-	foreign	-
 -	end-to-end	-	none	-	-	-	-	foreign	-
 -	face-to-face	-	none	-	-	-	-	foreign	-
+-	peer-to-peer	-	none	-	-	-	-	foreign	-
 -	%	-	none	-	-	-	-	-	-
 -	$	-	noun	6B	-	back	-	unit	-
 -	3G	-	noun	18B	-	-	-	abbr	-
@@ -22076,6 +22091,7 @@
 -	A8	-	noun	10B	-	-	-	abbr	-
 -	AD	-	noun	18B	-	front	-	abbr	-
 -	ADHD	-	noun	18B	-	front|back	e	abbr	-
+-	AI	-	noun	18B	-	-	-	foreign|abbr	-
 -	AIDS	-	noun	5B	-	-	-	-	-
 -	ALV	-	noun	18B|5B	-	front	-	abbr	-
 -	AMK	-	noun	18B	-	-	-	-	-
@@ -22223,6 +22239,7 @@
 -	Z	-	noun	10B	-	back	-	symbol	-
 -	ZIP	-	noun	18B	-	-	-	abbr	-
 -	a	-	noun	18B	-	back	a	symbol	-
+-	a capella	-	noun	9	-	-	-	-	-
 -	a cappella	-	noun	9	-	-	-	-	-
 -	a1	-	noun	31B	-	-	-	foreign	-
 -	a2	-	noun	31B	-	-	-	foreign	-
@@ -23490,7 +23507,7 @@
 -	aspartaami	-	noun	5	-	back	-	-	-
 -	aspartaatti	-	noun	5	tt:t	-	-	-	-
 -	aspekti	-	noun	5	-	back	-	-	-
--	asperger	-	noun	?6	-	-	-	-	-
+-	asperger	-	noun	5	-	-	-	-	-
 -	aspergillooma	-	noun	10	-	-	-	-	-
 -	aspergilloosi	-	noun	5	-	-	-	-	-
 -	aspermia	-	noun	12	-	-	-	-	-
@@ -24531,6 +24548,7 @@
 -	city	-	noun	1	-	-	-	slang	-
 -	civis	-	noun	39	-	front	-	-	-
 -	clafoutis	-	noun	22|†5	-	-	-	-	-
+-	clean tech	-	noun	5	-	-	-	foreign	-
 -	clearing	-	noun	5	-	front|back	-	-	-
 -	clou	-	noun	21	-	back	u	-	-
 -	cm	-	noun	5B	-	front	-	unit	-
@@ -25407,6 +25425,7 @@
 -	eksorsismi	-	noun	5	-	-	-	nstd	1.000
 -	eksosemiosis	-	noun	39	-	-	-	foreign	-
 -	eksosfääri	-	noun	5	-	front	-	-	-
+-	eksoskeleton	-	noun	5	-	-	-	-	-
 -	eksostoosi	-	noun	5	-	-	-	-	-
 -	eksotiikka	-	noun	9	kk:k	back	-	-	-
 -	eksotismi	-	noun	5	-	-	-	-	-
@@ -26321,6 +26340,7 @@
 -	finalisti	-	noun	5	-	back	-	-	-
 -	finansiointi	-	noun	5	nt:nn	back	-	-	-
 -	finasteridi	-	noun	5	-	-	-	-	-
+-	fine dining	-	noun	5	-	-	-	foreign	-
 -	finessi	-	noun	5	-	front	-	-	-
 -	fingelska	-	noun	13	-	back	-	jocul	-
 -	fingerpori	-	noun	5	-	back	-	coll	-
@@ -26330,6 +26350,7 @@
 -	finlandismi	-	noun	5	-	-	-	-	-
 -	finni	-	noun	5	-	front	-	-	-
 -	finströmiläinen	-	noun	38	-	-	-	-	-
+-	fintech	-	noun	5	-	-	-	-	-
 -	firaabeli	-	noun	6	-	back	-	-	-
 -	firenzeläinen	-	noun	38	-	-	-	-	-
 -	firewire	-	noun	8	-	-	-	foreign	-
@@ -26345,8 +26366,9 @@
 -	fitness	-	noun	5	-	front	-	-	-
 -	flaami	-	noun	5	-	back	-	-	-
 -	flada	-	noun	9	-	-	-	-	-
+-	flaidis	-	noun	39	-	-	-	slang	-
 -	flaijeri	-	noun	6	-	back	-	slang	-
--	flaikku	-	noun	1	kk:k	-	-	-	-
+-	flaikku	-	noun	1	kk:k	-	-	slang	-
 -	flaksi	-	noun	5	-	back	-	coll	-
 -	flambeeraus	-	noun	39	-	back	-	-	-
 -	flamenco	-	noun	1	-	back	-	-	-
@@ -26566,6 +26588,7 @@
 -	frontti	-	noun	5	tt:t	-	-	slang	-
 -	frotee	-	noun	20	-	back	-	-	-
 -	fruitie	-	noun	8|21	-	back	e	-	-
+-	fruittari	-	noun	6	-	-	-	-	-
 -	fruktoosi	-	noun	5	-	back	-	-	-
 -	frustraatio	-	noun	3	-	back	-	-	-
 -	ftalaatti	-	noun	5	tt:t	back	-	-	-
@@ -26652,6 +26675,7 @@
 -	fyyma	-	noun	10	-	-	-	-	-
 -	fyysikko	-	noun	4	kk:k	back	-	-	-
 -	fyysisyys	-	noun	40	-	front	-	-	-
+-	fäskynä	-	noun	10	-	-	-	-	-
 -	fääri	-	noun	5	-	front	-	-	-
 -	föglöläinen	-	noun	38	-	-	-	-	-
 -	föhn	-	noun	5	-	front	-	-	-
@@ -26850,6 +26874,7 @@
 -	ghanalainen	-	noun	38	-	-	-	-	-
 -	ghetto	-	noun	1	tt:t	back	-	-	-
 -	ghomala	-	noun	12	-	-	-	-	-
+-	ghostata	-	noun	9	-	-	-	-	-
 -	giardiaasi	-	noun	5	-	back	-	-	-
 -	gibboni	-	noun	6	-	back	-	-	-
 -	gif	-	noun	5B	-	-	-	abbr	-
@@ -27033,6 +27058,7 @@
 -	grebo	-	noun	1	-	-	-	-	-
 -	gredliini	-	noun	6	-	-	-	-	-
 -	green	-	noun	5	-	-	-	foreign	-
+-	green tech	-	noun	5	-	-	-	foreign	-
 -	gregoriaani	-	noun	5	-	-	-	-	-
 -	greippi	-	noun	5	pp:p	front	-	-	-
 -	greliini	-	noun	6	-	-	-	-	-
@@ -28544,6 +28570,7 @@
 -	huume	-	noun	48	-	back	-	-	-
 -	huumeilu	-	noun	2	-	back	-	coll	-
 -	huumori	-	noun	6	-	back	-	-	-
+-	huuppa	-	noun	10	pp:p	-	-	-	-
 -	huuri	-	noun	5	-	back	-	-	-
 -	huurre	-	noun	48	rt:rr	back	-	-	-
 -	huurteinen	-	noun	38	-	-	-	-	-
@@ -29884,6 +29911,7 @@
 -	jouhikko	-	noun	4	kk:k	back	-	-	-
 -	joukkio	-	noun	3	-	back	-	-	-
 -	joukko	-	noun	1	kk:k	back	-	-	-
+-	joukkoistaminen	-	noun	38	-	-	-	-	-
 -	joukkue	-	noun	48	-	back	-	-	-
 -	joule	-	noun	8	-	back	-	-	-
 -	joulu	-	noun	1	-	back	-	-	-
@@ -29927,6 +29955,7 @@
 -	juippi	-	noun	5	pp:p	back	-	-	-
 -	juitsu	-	noun	1	-	-	-	coll|dial	-
 -	juju	-	noun	1	-	back	-	coll	-
+-	jujube	-	noun	8	-	-	-	-	-
 -	jujutsu	-	noun	1	-	back	-	-	-
 -	jukebox	-	noun	5	-	-	-	-	-
 -	jukka	-	noun	10	kk:k	back	-	-	-
@@ -30079,6 +30108,7 @@
 -	jymy	-	noun	1	-	front	-	-	-
 -	jymähdys	-	noun	39	-	front	-	-	-
 -	jymäys	-	noun	39	-	front	-	-	-
+-	jynkky	-	noun	1	kk:k	-	-	-	-
 -	jynssäys	-	noun	39	-	front	-	-	-
 -	jyrinä	-	noun	12	-	front	-	-	-
 -	jyrkkyys	-	noun	40	-	front	-	-	-
@@ -30564,6 +30594,7 @@
 -	kalteri	-	noun	6	-	-	-	-	-
 -	kaltevointi	-	noun	5	nt:nn	back	-	-	-
 -	kaltevuus	-	noun	40	-	back	-	-	-
+-	kaltiainen	-	noun	38	-	-	-	-	-
 -	kaltio	-	noun	3	-	back	-	-	-
 -	kalttaus	-	noun	39	-	back	-	-	-
 -	kalu	-	noun	1	-	back	-	-	-
@@ -31485,7 +31516,7 @@
 -	kenraali	-	noun	6	-	back	-	-	-
 -	kenraalisto	-	noun	1	-	back	-	-	-
 -	kenraalitar	-	noun	32	tt:t	back	-	-	-
--	kensori	-	noun	?6	-	-	-	rare	-
+-	kensori	-	noun	6	-	-	-	rare	-
 -	kentauri	-	noun	6	-	back	-	-	-
 -	kenttä	-	noun	10	tt:t	front	-	-	-
 -	kentällinen	-	noun	38	-	front	-	-	-
@@ -33276,7 +33307,7 @@
 -	krysomania	-	noun	12	-	-	-	-	-
 -	krysotiili	-	noun	5	-	front|back	-	-	-
 -	kryssi	-	noun	5	-	front	-	coll	-
--	kräkkeri	-	noun	?6	-	-	-	-	-
+-	kräkkeri	-	noun	6	-	-	-	-	-
 -	kräkki	-	noun	5	kk:k	front	-	-	-
 -	kränä	-	noun	10	-	front	-	coll	-
 -	kräämi	-	noun	5	-	-	-	-	-
@@ -34618,7 +34649,7 @@
 -	latsuriitti	-	noun	5	tt:t	-	-	-	-
 -	latta	-	noun	9	tt:t	back	-	-	-
 -	lattari	-	noun	6	-	back	-	slang	-
--	latte	-	noun	8	-	back	-	-	-
+-	latte	-	noun	8	=|†tt:t	back	-	-	-
 -	latteus	-	noun	40	-	back	-	-	-
 -	lattia	-	noun	12	-	back	-	-	-
 -	latu	-	noun	1	t:d	back	-	-	-
@@ -37570,6 +37601,7 @@
 -	muuttumattomuus	-	noun	40	-	back	-	-	-
 -	muuttuvaisuus	-	noun	40	-	back	-	dated	-
 -	muuttuvuus	-	noun	40	-	back	-	-	-
+-	muuvi	-	noun	5	-	-	-	-	-
 -	muzak	-	noun	5	-	-	-	foreign	-
 -	myalgia	-	noun	12	-	back	-	-	-
 -	myanmarilainen	-	noun	38	-	-	-	-	-
@@ -40053,6 +40085,7 @@
 -	peleriini	-	noun	5	-	front	-	-	-
 -	peli	-	noun	5	-	front	-	-	-
 -	pelikaani	-	noun	5	-	back	-	-	-
+-	pelillistäminen	-	noun	38	-	-	-	-	-
 -	pelimanni	-	noun	5	-	back	-	-	-
 -	pelkiste	-	noun	48	-	front	-	-	-
 -	pelkistin	-	noun	33	-	front	-	-	-
@@ -43548,6 +43581,7 @@
 -	ruuvari	-	noun	6	-	-	-	coll|slang	-
 -	ruuvi	-	noun	5	-	back	-	-	-
 -	ruvettuma	-	noun	10	-	back	-	-	-
+-	ruåttalainen	-	noun	38	-	-	-	slang|nstd	-
 -	rva	-	noun	!	-	-	-	abbr	-
 -	rwa	-	noun	21	-	-	-	-	-
 -	ry	-	noun	18B	-	-	y	abbr	-
@@ -44306,6 +44340,7 @@
 -	sedimentaatio	-	noun	3	-	-	-	-	-
 -	sedimentologia	-	noun	12	-	-	-	-	-
 -	sedimentti	-	noun	5	tt:t	front	-	-	-
+-	sedula	-	noun	12	-	-	-	-	-
 -	see	-	noun	18	-	-	-	coll|non-compounding	-
 -	seebu	-	noun	1	-	-	-	-	-
 -	seelanti	-	noun	5	nt:nn	-	-	-	-
@@ -45475,7 +45510,7 @@
 -	sopivaisuus	-	noun	40	-	back	-	-	-
 -	sopivuus	-	noun	40	-	back	-	-	-
 -	soppa	-	noun	10	pp:p	back	-	coll	-
--	soppari	-	noun	?6	-	-	-	coll	-
+-	soppari	-	noun	6	-	-	-	coll	-
 -	soppi	1	noun	7	pp:p	back	-	-	-
 -	soppi	2	noun	5	pp:p	back	-	-	-
 -	sopraano	-	noun	2	-	back	-	-	-
@@ -54651,6 +54686,7 @@
 -	autismi|kirjo	-	noun	1	-	-	-	-	-
 -	autoimmuuni|sairaus	-	noun	40	-	-	-	-	-
 -	automaatio|jäsenyys	-	noun	40	-	-	-	-	-
+-	automaatio|teknologia	-	noun	12	-	-	-	-	-
 -	automaatti|ase	-	noun	48	-	-	-	-	-
 -	automaatti|kamera	-	noun	12	-	-	-	-	-
 -	automaatti|kirjoitus	-	noun	39	-	-	-	-	-
@@ -55411,8 +55447,10 @@
 -	digi|kuva	-	noun	10	-	-	-	-	-
 -	digi|lehti	-	noun	7	t:d	-	-	-	-
 -	digi|loikka	-	noun	10	kk:k	-	-	-	-
+-	digi|murros	-	noun	39	-	-	-	-	-
 -	digi|natiivi	-	noun	5	-	-	-	-	-
 -	digi|nauhuri	-	noun	6	-	-	-	-	-
+-	digi|nomadi	-	noun	5	-	-	-	-	-
 -	digi|sovitin	-	noun	33	tt:t	-	-	-	-
 -	digi|taito	-	noun	1	t:d	-	-	-	-
 -	digi|televisio	-	noun	3	-	-	-	-	-
@@ -56757,6 +56795,7 @@
 -	etä|tunnistus	-	noun	39	-	-	-	-	-
 -	etä|työ	-	noun	19	-	-	-	-	-
 -	etä|työläinen	-	noun	38	-	-	-	-	-
+-	etä|työskentely	-	noun	2	-	-	-	-	-
 -	etä|vanhempi	-	noun	16	mp:mm	-	-	-	-
 -	etä|yhteys	-	noun	40	-	-	-	-	-
 -	etääntymis|nopeus	-	noun	40	-	-	-	-	-
@@ -58208,6 +58247,7 @@
 -	henkilöstö|yritys	-	noun	39	-	-	-	-	-
 -	henkilö|auto	-	noun	1	-	-	-	-	-
 -	henkilö|brändi	-	noun	5	-	-	-	-	-
+-	henkilö|brändäys	-	noun	39	-	-	-	-	-
 -	henkilö|galleria	-	noun	12	-	-	-	-	-
 -	henkilö|hahmo	-	noun	1	-	-	-	-	-
 -	henkilö|hakemisto	-	noun	1	-	-	-	-	-
@@ -59004,6 +59044,7 @@
 -	home|talo	-	noun	1	-	-	-	-	-
 -	home|vaurio	-	noun	3	-	-	-	-	-
 -	homma|mies	-	noun	42	-	-	-	coll	-
+-	homo|agenda	-	noun	9	-	-	-	-	-
 -	homo|baari	-	noun	5	-	-	-	-	-
 -	homo|fobia	-	noun	12	-	-	-	-	-
 -	homo|klubi	-	noun	5	-	-	-	-	-
@@ -64881,6 +64922,7 @@
 -	keino|todellisuus	-	noun	40	-	-	-	-	-
 -	keino|valaistus	-	noun	39	-	-	-	-	-
 -	keino|valo	-	noun	1	-	-	-	-	-
+-	keino|äly	-	noun	1	-	-	-	-	-
 -	keinu|hevonen	-	noun	38	-	-	-	-	-
 -	keinu|kytkin	-	noun	33	-	-	-	-	-
 -	keinu|lauta	-	noun	9	t:d	-	-	-	-
@@ -65206,6 +65248,7 @@
 -	kerma|likööri	-	noun	6	-	-	-	-	-
 -	kerma|maito	-	noun	1	t:d	-	-	-	-
 -	kerma|nekka	-	noun	9	kk:k	-	-	-	-
+-	kerma|perse	-	noun	48	-	-	-	-	-
 -	kerma|peruna	-	noun	12	-	-	-	-	-
 -	kerma|vaahto	-	noun	1	t:d	-	-	-	-
 -	kerma|vanukas	-	noun	41	kk:k	-	-	-	-
@@ -65751,6 +65794,7 @@
 -	kielen|kääntäjä	-	noun	10	-	-	-	-	-
 -	kielen|opas	-	noun	41	pp:p	-	-	-	-
 -	kielen|opetus	-	noun	39	-	-	-	-	-
+-	kielen|oppiminen	-	noun	38	-	-	-	-	-
 -	kielen|parsi	-	noun	28	rt:rr	-	-	-	-
 -	kielen|tarkastaja	-	noun	10	-	-	-	-	-
 -	kielen|tarkastus	-	noun	39	-	-	-	-	-
@@ -67982,6 +68026,7 @@
 -	koti|tie	-	noun	19	-	-	-	-	-
 -	koti|tienoo	-	noun	17	-	-	-	-	-
 -	koti|tila	-	noun	9	-	-	-	-	-
+-	koti|toimisto	-	noun	2	-	-	-	-	-
 -	koti|tonttu	-	noun	1	tt:t	-	-	-	-
 -	koti|tyranni	-	noun	5	-	-	-	-	-
 -	koti|työ	-	noun	19	-	-	-	-	-
@@ -68702,6 +68747,7 @@
 -	kuluttaja|barometri	-	noun	5	-	front|back	-	-	-
 -	kuluttaja|hinta	-	noun	9	nt:nn	-	-	-	-
 -	kuluttaja|kunta	-	noun	10	nt:nn	-	-	-	-
+-	kuluttaja|käyttäytyminen	-	noun	38	-	-	-	-	-
 -	kuluttaja|luotto	-	noun	1	tt:t	-	-	-	-
 -	kuluttaja|neuvoja	-	noun	10	-	-	-	-	-
 -	kuluttaja|neuvonta	-	noun	9	nt:nn	-	-	-	-
@@ -69480,6 +69526,7 @@
 -	kuusi|tuumainen	-	noun	38	-	-	-	rare	-
 -	kuusi|vuotias	-	noun	39	-	-	-	-	-
 -	kuus|jokelainen	-	noun	38	-	-	-	-	-
+-	kuus|ysi	-	noun	5	-	-	-	-	-
 -	kuutamo|keikka	-	noun	9	kk:k	-	-	coll	-
 -	kuutamo|kuva	-	noun	10	-	-	-	-	-
 -	kuutamo|kävely	-	noun	2	-	-	-	-	-
@@ -70259,6 +70306,7 @@
 -	käyrä|viivain	-	noun	33	-	-	-	-	-
 -	käyte|aine	-	noun	48	-	-	-	-	-
 -	käyttely|tili	-	noun	5	-	-	-	-	-
+-	käyttäjä|kokemus	-	noun	39	-	-	-	-	-
 -	käyttäjä|kunta	-	noun	10	nt:nn	-	-	-	-
 -	käyttäjä|piiri	-	noun	5	-	-	-	-	-
 -	käyttäjä|profiili	-	noun	5	-	back	-	-	-
@@ -74808,6 +74856,8 @@
 -	maha|neste	-	noun	48	-	-	-	-	-
 -	maha|palkka	-	noun	9	kk:k	-	-	jocul	-
 -	maha|piironki	-	noun	5	nk:ng	-	-	-	-
+-	maha|pläts	-	noun	5	-	-	-	-	-
+-	maha|plätsi	-	noun	5	-	-	-	-	-
 -	maha|puoli	-	noun	26	-	-	-	-	-
 -	maha|rauhanen	-	noun	38	-	-	-	-	-
 -	maha|syöpä	-	noun	10	p:v	-	-	-	-
@@ -79345,6 +79395,7 @@
 -	ohjelma|toimisto	-	noun	2	-	-	-	-	-
 -	ohjelma|tuotanto	-	noun	1	nt:nn	-	-	-	-
 -	ohjelma|vihkonen	-	noun	38	-	-	-	-	-
+-	ohjelmisto|päivitys	-	noun	39	-	-	-	-	-
 -	ohjelmointi|kieli	-	noun	26	-	-	-	-	-
 -	ohje|arvo	-	noun	1	-	-	-	-	-
 -	ohje|hinta	-	noun	9	nt:nn	-	-	-	-
@@ -80516,6 +80567,7 @@
 -	paine|valu	-	noun	1	-	-	-	-	-
 -	paine|vesi	-	noun	27	-	-	-	-	-
 -	painin|jalka	-	noun	9	k:	-	-	-	-
+-	paini|asu	-	noun	1	-	-	-	-	-
 -	paini|joukkue	-	noun	48	-	-	-	-	-
 -	paini|kilpailu	-	noun	2	-	-	-	-	-
 -	paini|matto	-	noun	1	tt:t	-	-	-	-
@@ -82988,6 +83040,7 @@
 -	pilven|reuna	-	noun	9	-	-	-	-	-
 -	pilvi|katto	-	noun	1	tt:t	-	-	-	-
 -	pilvi|kerros	-	noun	39	-	-	-	-	-
+-	pilvi|laskenta	-	noun	9	nt:nn	-	-	-	-
 -	pilvi|lautta	-	noun	9	tt:t	-	-	-	-
 -	pilvi|linna	-	noun	9	-	-	-	-	-
 -	pilvi|palvelu	-	noun	2	-	-	-	-	-
@@ -84033,6 +84086,7 @@
 -	propaganda|lehtinen	-	noun	38	-	-	-	-	-
 -	propaganda|puhe	-	noun	48	-	-	-	-	-
 -	propaganda|sota	-	noun	10	t:d	-	-	-	-
+-	propelli|hattu	-	noun	1	tt:t	-	-	-	-
 -	propelli|pää	-	noun	18	-	-	-	jocul	-
 -	propsi|pino	-	noun	1	-	-	-	-	-
 -	propsi|puu	-	noun	18	-	-	-	-	-
@@ -86640,6 +86694,7 @@
 -	rata|pyöräily	-	noun	2	-	-	-	-	-
 -	rata|pölkky	-	noun	1	kk:k	-	-	-	-
 -	rata|rikko	-	noun	1	kk:k	-	-	-	-
+-	rata|silta	-	noun	9	lt:ll	-	-	-	-
 -	rata|tuomari	-	noun	6	-	-	-	-	-
 -	rata|työ	-	noun	19	-	-	-	-	-
 -	rata|veneily	-	noun	2	-	-	-	-	-
@@ -95584,6 +95639,7 @@
 -	tilaus|lista	-	noun	9	-	-	-	-	-
 -	tilaus|lomake	-	noun	48	kk:k	-	-	-	-
 -	tilaus|maksu	-	noun	1	-	-	-	-	-
+-	tilaus|malli	-	noun	5	-	-	-	-	-
 -	tilaus|myyjä	-	noun	10	-	-	-	-	-
 -	tilaus|myynti	-	noun	5	nt:nn	-	-	-	-
 -	tilaus|numero	-	noun	2	-	-	-	-	-
@@ -98912,6 +98968,7 @@
 -	vaikea|vammainen	-	noun	38	-	-	-	-	-
 -	vaikea|ymmärteisyys	-	noun	40	-	-	-	-	-
 -	vaikeus|aste	-	noun	48	-	-	-	-	-
+-	vaikuttaja|markkinointi	-	noun	5	nt:nn	-	-	-	-
 -	vaikuttaja|yksilö	-	noun	2	-	-	-	-	-
 -	vaikuttavuus|ketju	-	noun	1	-	-	-	-	-
 -	vaikutusten|arviointi	-	noun	5	nt:nn	-	-	-	-
@@ -100595,6 +100652,7 @@
 -	verkko|kiusaaja	-	noun	10	-	-	-	-	-
 -	verkko|kiusaaminen	-	noun	38	-	-	-	-	-
 -	verkko|kokous	-	noun	39	-	-	-	-	-
+-	verkko|koulutus	-	noun	39	-	-	-	-	-
 -	verkko|kudos	-	noun	39	-	-	-	-	-
 -	verkko|kurssi	-	noun	5	-	-	-	-	-
 -	verkko|laite	-	noun	48	tt:t	-	-	-	-
@@ -101812,6 +101870,7 @@
 -	vipu|nosto	-	noun	1	-	-	-	-	-
 -	vipu|rahasto	-	noun	2	-	-	-	-	-
 -	vipu|varsi	-	noun	28	rt:rr	-	-	-	-
+-	viraali|markkinointi	-	noun	5	nt:nn	-	-	-	-
 -	viraapeli|työ	-	noun	19	-	-	-	coll	-
 -	viralta|pano	-	noun	1	-	-	-	-	-
 -	viran|hakija	-	noun	12	-	-	-	-	-
@@ -103567,6 +103626,7 @@
 -	ylä|osa	-	noun	10	-	-	-	-	-
 -	ylä|paarre	-	noun	48	rt:rr	-	-	-	-
 -	ylä|peti	-	noun	5	t:d|=	-	-	coll	-
+-	ylä|peukku	-	noun	1	kk:k	-	-	-	-
 -	ylä|pilvi	-	noun	7	-	-	-	-	-
 -	ylä|pinta	-	noun	9	nt:nn	-	-	-	-
 -	ylä|pohja	-	noun	10	-	-	-	-	-
@@ -103897,8 +103957,10 @@
 -	älyn|lahja	-	noun	9	-	-	-	-	-
 -	älyn|välähdys	-	noun	39	-	-	-	-	-
 -	älyn|väläys	-	noun	39	-	-	-	-	-
+-	äly|kaupunki	-	noun	5	nk:ng	-	-	-	-
 -	äly|kello	-	noun	1	-	-	-	-	-
 -	äly|kortti	-	noun	5	tt:t	-	-	-	-
+-	äly|koti	-	noun	5	t:d	-	-	-	-
 -	äly|kääpiö	-	noun	3	-	-	-	coll	-
 -	äly|laite	-	noun	48	tt:t	-	-	-	-
 -	äly|luuri	-	noun	5	-	-	-	-	-
@@ -103911,6 +103973,7 @@
 -	äly|talo	-	noun	1	-	-	-	-	-
 -	äly|tarra	-	noun	9	-	-	-	-	-
 -	äly|taulu	-	noun	1	-	-	-	-	-
+-	äly|televisio	-	noun	3	-	-	-	-	-
 -	ämmän|solmu	-	noun	1	-	-	-	-	-
 -	änkyrä|känni	-	noun	5	-	-	-	coll	-
 -	ärjy|luomi	-	noun	25	-	-	-	-	-
@@ -108841,6 +108904,7 @@
 -	sopimus|osa|puoli	-	noun	26	-	-	-	-	-
 -	sopimus|palo|kunta	-	noun	10	nt:nn	-	-	-	-
 -	sopimus|valtuus|kunta	-	noun	10	nt:nn	-	-	-	-
+-	soran|otto|kuoppa	-	noun	10	pp:p	-	-	-	-
 -	soran|otto|paikka	-	noun	9	kk:k	-	-	-	-
 -	sormen|jälki|kuvio	-	noun	3	-	-	-	-	-
 -	sormen|jälki|tutkimus	-	noun	39	-	-	-	-	-
@@ -109372,6 +109436,7 @@
 -	tieto|palvelu|keskus	-	noun	39	-	-	-	-	-
 -	tieto|palvelu|yksikkö	-	noun	4	kk:k	-	-	-	-
 -	tieto|sana|kirja	-	noun	9	-	-	-	-	-
+-	tieto|suoja|käytäntö	-	noun	1	nt:nn	-	-	-	-
 -	tieto|suoja|rikos	-	noun	39	-	-	-	-	-
 -	tieto|suoja|valtuutettu	-	noun	1	tt:t	-	-	-	-
 -	tieto|tekniikka|rikos	-	noun	39	-	-	-	-	-
@@ -111002,6 +111067,7 @@
 -	illatsut	-	noun-pl	2	-	back	-	jocul	-
 -	istujaiset	-	noun-pl	38	-	back	-	-	-
 -	jamit	-	noun-pl	5	-	back	-	coll	-
+-	jocksit	-	noun-pl	5	-	-	-	-	-
 -	jortsut	-	noun-pl	1	-	back	-	coll	-
 -	juhlat	-	noun-pl	10	-	-	-	-	0.500
 -	julkistajaiset	-	noun-pl	38	-	back	-	-	-
@@ -111222,6 +111288,7 @@
 -	tuttavukset	-	noun-pl	39	-	back	-	-	-
 -	tähteet	-	noun-pl	48	t:d	-	-	-	-
 -	tärät	-	noun-pl	10	-	-	-	-	-
+-	tötsyt	-	noun-pl	1	-	-	-	-	-
 -	uikkarit	-	noun-pl	6	-	back	-	coll	-
 -	universiadit	-	noun-pl	5	-	back	-	-	-
 -	urut	-	noun-pl	1	k:	back	-	-	-
@@ -111236,7 +111303,7 @@
 -	varat	-	noun-pl	9	-	-	-	-	0.500
 -	varpaiset	-	noun-pl	38	-	back	-	-	-
 -	varpajaiset	-	noun-pl	38	-	back	-	-	-
--	vastattavat	-	noun-pl	?10|9	-	-	-	-	-
+-	vastattavat	-	noun-pl	10	-	-	-	-	-
 -	veljekset	-	noun-pl	39	-	front	-	-	0.500
 -	venetsialaiset	-	noun-pl	38	-	back	-	-	-
 -	verkkarit	-	noun-pl	6	-	-	-	coll	-
@@ -111653,6 +111720,7 @@
 -	naapuri|suhteet	-	noun-pl	48	t:d	-	-	-	-
 -	nahka|housut	-	noun-pl	1	-	-	-	-	-
 -	naisten|tanssit	-	noun-pl	5	-	-	-	-	-
+-	nakki|bileet	-	noun-pl	48	-	-	-	-	-
 -	nappula|kisat	-	noun-pl	9	-	-	-	-	-
 -	nenä|tipat	-	noun-pl	9	pp:p	-	-	-	-
 -	netti|treffit	-	noun-pl	5	-	-	-	coll	-
@@ -111689,6 +111757,7 @@
 -	optio|markkinat	-	noun-pl	12	-	-	-	-	-
 -	osake|markkinat	-	noun-pl	12	-	-	-	-	-
 -	paikallis|joukot	-	noun-pl	1	kk:k	-	-	-	-
+-	paini|trikoot	-	noun-pl	17	-	-	-	-	-
 -	pakkaus|kulut	-	noun-pl	1	-	-	-	-	-
 -	pakkaus|kustannukset	-	noun-pl	39	-	-	-	-	-
 -	pakko|kuolaimet	-	noun-pl	33	-	-	-	-	-
@@ -112884,6 +112953,7 @@
 -	ehtyä	-	verb	52	t:d	front	-	-	-
 -	ehättää	-	verb	53	tt:t	front	-	-	-
 -	ei	-	verb	EI	-	-	-	-	-
+-	einehtiä	-	verb	61	t:d	-	-	rare	-
 -	eittää	-	verb	53	tt:t	-	-	rare	0.500
 -	ejakuloida	-	verb	62	-	back	-	-	-
 -	eksaltoitua	-	verb	52	t:d	-	-	-	-
@@ -113062,6 +113132,7 @@
 -	filtrata	-	verb	73	-	back	-	coll	-
 -	finansioida	-	verb	62	-	back	-	-	-
 -	finlandisoitua	-	verb	52	t:d	-	-	-	-
+-	flaidata	-	verb	73	-	-	-	slang	-
 -	flambeerata	-	verb	73	-	back	-	-	-
 -	flaneerata	-	verb	73	-	back	-	-	-
 -	fleksata	-	verb	73	-	-	-	-	-
@@ -113124,6 +113195,7 @@
 -	gettoistua	-	verb	52	-	back	-	-	-
 -	gettoutua	-	verb	52	t:d	back	-	-	-
 -	ghettoutua	-	verb	52	t:d	back	-	-	-
+-	ghostata	-	verb	73	-	-	-	-	-
 -	glaseerata	-	verb	73	-	back	-	-	-
 -	glitchata	-	verb	73	-	-	-	slang	-
 -	globaalistaa	-	verb	53	-	back	-	-	-
@@ -114328,6 +114400,7 @@
 -	janottaa	-	verb	53	tt:t	back	-	-	-
 -	jaotella	-	verb	67	tt:t	back	-	-	-
 -	jaottaa	-	verb	53	tt:t	back	-	-	-
+-	jarrutella	-	verb	67	tt:t	-	-	-	-
 -	jarruttaa	-	verb	53	tt:t	back	-	-	-
 -	jarruuntua	-	verb	52	nt:nn	back	-	-	-
 -	jatkaa	-	verb	56	-	back	-	-	-
@@ -119187,6 +119260,7 @@
 -	pöyhöttää	-	verb	53	tt:t	front	-	-	-
 -	pöyristyttää	-	verb	53	tt:t	front	-	-	-
 -	pöyristyä	-	verb	52	-	front	-	-	-
+-	pööpöillä	-	verb	67	-	-	-	-	-
 -	raadella	-	verb	67	t:d	back	-	-	-
 -	raaentaa	-	verb	54	nt:nn	back	-	-	-
 -	raaentua	-	verb	52	nt:nn	back	-	-	-
@@ -123299,6 +123373,7 @@
 -	pinta|puolistua	-	verb	52	-	-	-	-	-
 -	pohja|maalata	-	verb	73	-	-	-	-	-
 -	pois|sulkea	-	verb	58	k:j	-	-	-	-
+-	polku|pyöräillä	-	verb	67	-	-	-	-	-
 -	poltto|haudata	-	verb	73	t:d	-	-	-	-
 -	poltto|lakata	-	verb	73	kk:k	-	-	-	-
 -	poltto|leikata	-	verb	73	kk:k	-	-	-	-

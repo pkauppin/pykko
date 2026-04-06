@@ -25,6 +25,7 @@
 Compound tags:
 - `conjunction+verb` e.g. _ettei_
 - `adverb+verb` e.g. _miksei_
+- `adverb+conjunction` e.g. _ennenkuin_ (nonstandard)
 
 **PERSON & VOICE**
 - `+1sg` active first person singular (_menen_)
@@ -92,12 +93,12 @@ Compound tags:
 - `+poss3` third person singular and plural (_talonsa_)
 
 **STYLE TAGS**
-- `coll` colloquial
-- `arch` dated/archaic
+- `colloquial` colloquial
+- `dated` dated
 - `rare` rare
-- `dial` dialectal
-- `poet` poetic/literary
-- `nstd` nonstandard/proscribed
+- `dialectal` dialectal
+- `poetic` poetic/literary
+- `nonstandard` nonstandard/proscribed
 - `slang` slang
 - `deprecated` deprecated/obsolete or dubious term no longer in use
 - `unadapted` unadapted borrowing
