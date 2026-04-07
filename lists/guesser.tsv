@@ -168,6 +168,9 @@ Lower	n|korkuinen	-	adjective	38	-	-	-	-	5.000
 Lower	n|kuinen	-	adjective	38	-	-	-	-	5.000
 Lower	n|lainen	-	adjective	38	-	-	-	-	5.000
 Lower	n|moinen	-	adjective	38	-	-	-	-	5.000
+Lower	n|nälkäinen	-	adjective	38	-	-	-	-	5.000
+Lower	n|janoinen	-	adjective	38	-	-	-	-	5.000
+Lower	n|himoinen	-	adjective	38	-	-	-	-	5.000
 Lower	n|mukainen	-	adjective	38	-	-	-	-	5.000
 Lower	n|musta	-	adjective	10	-	-	-	-	5.000
 Lower	n|omainen	-	adjective	38	-	-	-	-	5.000
@@ -888,6 +891,8 @@ Lower	ttaja	-	noun	10	-	-	-	-	10.000
 Lower	ttäjä	-	noun	10	-	-	-	-	10.000
 Lower	staja	-	noun	10	-	-	-	-	10.000
 Lower	stäjä	-	noun	10	-	-	-	-	10.000
+Lower	ltaja	-	noun	10	-	-	-	-	10.000
+Lower	ltäjä	-	noun	10	-	-	-	-	10.000
 Lower	oija	-	noun	10	-	-	-	-	10.000
 Lower	öijä	-	noun	10	-	-	-	-	10.000
 Lower	itelija	-	noun	12	-	-	-	-	10.000
@@ -972,6 +977,8 @@ Lower	isto	-	noun	1	-	-	-	-	10.000
 Lower	istö	-	noun	1	-	-	-	-	10.000
 Lower+Va	llinen	-	noun	38	-	back	-	-	10.000
 Lower+Vä	llinen	-	noun	38	-	front	-	-	10.000
+Lower	aabeli	-	adjective	6	-	front	-	-	10.000
+Lower	iibeli	-	adjective	6	-	front|back	-	-	10.000
 
 Lower	|pitoisuus	-	noun	40	-	-	-	-	5.000
 Lower	|kuormallinen	-	noun	38	-	-	-	-	5.000
@@ -1165,6 +1172,20 @@ Lower+Vä	cker	-	noun	6	-	front	-	foreign	10.000
 Lower+Va	cker	-	noun	6	-	back	-	foreign	10.000
 Lower+Vä	pper	-	noun	6	-	front	-	foreign	10.000
 Lower+Va	pper	-	noun	6	-	back	-	foreign	10.000
+
+Lower+Vä	pperi	-	noun	6	-	front	-	-	10.000
+Lower+Va	pperi	-	noun	6	-	back	-	-	10.000
+Lower+Vä	skeri	-	noun	6	-	front	-	-	10.000
+Lower+Va	skeri	-	noun	6	-	back	-	-	10.000
+Lower+Vä	steri	-	noun	6	-	front	-	-	10.000
+Lower+Va	steri	-	noun	6	-	back	-	-	10.000
+Lower+Vä	speri	-	noun	6	-	front	-	-	10.000
+Lower+Va	speri	-	noun	6	-	back	-	-	10.000
+Lower+Vä	kteri	-	noun	6	-	front	-	-	10.000
+Lower+Va	kteri	-	noun	6	-	back	-	-	10.000
+Lower+Vä	pteri	-	noun	6	-	front	-	-	10.000
+Lower+Va	pteri	-	noun	6	-	back	-	-	10.000
+
 Any	ing	-	noun	5	-	front|back	-	-	10.000
 Any	ng	-	noun	5	-	front|back	-	-	10.000
 Any	que	-	noun	8	-	front|back	-	-	10.000
