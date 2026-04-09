@@ -7,20 +7,21 @@ from scripts.constants import GENERATOR_FST_PATH, STYLE_TAGS
 
 
 def collect_style_tags(filename):
-	style_tags = set()
+
+	"""
+	Collect all style tags (enclosed in chevrons) from given LexC file.
+	"""
+
 	with open(filename, 'r') as file:
 		for line in file:
 			line = line.strip()
 			if line.startswith('LEXICON Root'):
 				break
 			if line.startswith('⟨'):
-				style_tags.add(line)
-	return style_tags
+				yield line
 
 
 def lexc2fst(filename):
-
-	style_tags = collect_style_tags(filename)
 
 	time1 = datetime.now()
 
@@ -32,7 +33,7 @@ def lexc2fst(filename):
 	fst.minimize()
 
 	# Remove word style tags
-	for tag in style_tags:
+	for tag in collect_style_tags(filename):
 		fst.substitute(tag, hfst.EPSILON, input=True, output=True)
 
 	fst.minimize()

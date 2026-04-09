@@ -9,4 +9,5 @@
 .idea/
 __pycache__/
 wip/
+sourcing/
 .DS_Store

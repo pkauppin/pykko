@@ -49,7 +49,7 @@ def analyze(word, only_best=True, normalize_separators=True, ignore_derivation=T
 		if taken.get(analysis_string):
 			continue
 
-		if only_best and weight >= best_weight:
+		if only_best and weight > best_weight:
 			break
 
 		taken[analysis_string] = True

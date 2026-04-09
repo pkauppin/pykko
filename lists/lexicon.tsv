@@ -34654,7 +34654,7 @@
 -	latsuriitti	-	noun	5	tt:t	-	-	-	-
 -	latta	-	noun	9	tt:t	back	-	-	-
 -	lattari	-	noun	6	-	back	-	slang	-
--	latte	-	noun	8	=|†tt:t	back	-	-	-
+-	latte	-	noun	8	tt:tt|†tt:t	back	-	-	-
 -	latteus	-	noun	40	-	back	-	-	-
 -	lattia	-	noun	12	-	back	-	-	-
 -	latu	-	noun	1	t:d	back	-	-	-
@@ -36897,6 +36897,7 @@
 -	mietoistelainen	-	noun	38	-	-	-	-	-
 -	mietous	-	noun	40	-	back	-	-	-
 -	mietteliäisyys	-	noun	40	-	front	-	-	-
+-	mifu	-	noun	1	-	-	-	-	-
 -	migmatiitti	-	noun	5	tt:t	back	-	-	-
 -	migraatio	-	noun	3	-	back	-	-	-
 -	migreeni	-	noun	5	-	front	-	-	-
@@ -38504,6 +38505,7 @@
 -	nuer	-	noun	6	-	-	-	-	-
 -	nugaa	-	noun	20	-	back	-	-	-
 -	nugetti	-	noun	5	tt:t	back	-	-	-
+-	nuggetti	-	noun	5	tt:t	-	-	nstd	-
 -	nuha	-	noun	10	-	back	-	-	-
 -	nuhde	-	noun	48	t:d	back	-	-	-
 -	nuhraantuneisuus	-	noun	40	-	back	-	-	-
@@ -39699,6 +39701,7 @@
 -	panttaus	-	noun	39	-	back	-	-	-
 -	pantteri	-	noun	6	-	back	-	-	-
 -	pantti	-	noun	5	tt:t	back	-	-	-
+-	papadum	-	noun	5	-	-	-	-	-
 -	papaija	-	noun	13	-	back	-	-	-
 -	papana	-	noun	11	-	back	-	-	-
 -	paparazzi	-	noun	5	-	back	-	-	-
@@ -46230,7 +46233,7 @@
 -	surkeilu	-	noun	2	-	back	-	-	-
 -	surkeus	-	noun	40	-	back	-	-	-
 -	surkimus	-	noun	39	-	back	-	-	-
--	surku	-	noun	1	!	-	-	-	-
+-	surku	-	noun	!	-	-	-	-	-
 -	surkuttelu	-	noun	2	-	back	-	-	-
 -	surma	-	noun	10	-	back	-	-	-
 -	surmaaja	-	noun	10	-	back	-	-	-
@@ -55005,6 +55008,7 @@
 -	bambu|vapa	-	noun	9	p:v	-	-	-	-
 -	banaani|kakku	-	noun	1	kk:k	-	-	-	-
 -	banaani|kärpänen	-	noun	38	-	-	-	-	-
+-	banaani|lastu	-	noun	1	-	-	-	-	-
 -	banaani|pistoke	-	noun	48	kk:k	-	-	-	-
 -	banaani|potku	-	noun	1	-	-	-	-	-
 -	banaani|valtio	-	noun	3	-	-	-	-	-
@@ -57174,6 +57178,7 @@
 -	grilli|ritilä	-	noun	12	-	-	-	-	-
 -	grilli|ruoka	-	noun	10	uok:uu|k:	-	-	-	-
 -	grilli|uuni	-	noun	5	-	-	-	-	-
+-	grilli|varras	-	noun	41	rt:rr	-	-	-	-
 -	grogi|katkero	-	noun	2	-	-	-	-	-
 -	grogi|lasi	-	noun	5	-	-	-	-	-
 -	gruyèren|juusto	-	noun	1	-	-	-	-	-
@@ -57980,6 +57985,7 @@
 -	hedelmä|salaatti	-	noun	5	tt:t	-	-	-	-
 -	hedelmä|sato	-	noun	1	t:d	-	-	-	-
 -	hedelmä|sokeri	-	noun	6	-	-	-	-	-
+-	hedelmä|sose	-	noun	48	-	-	-	-	-
 -	hedelmä|suola	-	noun	9	-	-	-	-	-
 -	hedelmä|säilyke	-	noun	48	kk:k	-	-	-	-
 -	hedelmä|tarha	-	noun	9	-	-	-	-	-
@@ -58339,6 +58345,7 @@
 -	hepo|katti	-	noun	5	tt:t	-	-	-	-
 -	heprealais|kirje	-	noun	48	-	-	-	-	-
 -	heras|tuomari	-	noun	6	-	-	-	-	-
+-	hera|jauhe	-	noun	48	-	-	-	-	-
 -	hera|juusto	-	noun	1	-	-	-	-	-
 -	hera|kalvo	-	noun	1	-	-	-	-	-
 -	hera|proteiini	-	noun	5	-	-	-	-	-
@@ -59723,6 +59730,7 @@
 -	häpy|luu	-	noun	18	-	-	-	-	-
 -	härkis|kastike	-	noun	48	kk:k	-	-	-	-
 -	härkis|lasagne	-	noun	2	-	-	-	-	-
+-	härkis|pihvi	-	noun	5	-	-	-	-	-
 -	härkä|lintu	-	noun	1	nt:nn	-	-	-	-
 -	härkä|mulli	-	noun	5	-	-	-	-	-
 -	härkä|mullikka	-	noun	14	kk:k	-	-	-	-
@@ -64153,6 +64161,7 @@
 -	kasvis|kuskus	-	noun	5|39	-	-	-	-	-
 -	kasvis|lasagne	-	noun	2	-	-	-	-	-
 -	kasvis|lautanen	-	noun	38	-	-	-	-	-
+-	kasvis|levite	-	noun	48	tt:t	-	-	-	-
 -	kasvis|liemi	-	noun	25	-	-	-	-	-
 -	kasvis|margariini	-	noun	5	-	-	-	-	-
 -	kasvis|muhennos	-	noun	39	-	-	-	-	-
@@ -64167,6 +64176,7 @@
 -	kasvis|ravintola	-	noun	12	-	-	-	-	-
 -	kasvis|risotto	-	noun	1	tt:t	-	-	-	-
 -	kasvis|ruoka	-	noun	10	uok:uu|k:	-	-	-	-
+-	kasvis|sose	-	noun	48	-	-	-	-	-
 -	kasvis|syöjä	-	noun	10	-	-	-	-	-
 -	kasvis|syönti	-	noun	5	nt:nn	-	-	-	-
 -	kasvis|täyte	-	noun	48	tt:t	-	-	-	-
@@ -64737,6 +64747,7 @@
 -	kaura|juoma	-	noun	10	-	-	-	-	-
 -	kaura|jäätelö	-	noun	2	-	-	-	-	-
 -	kaura|kiisseli	-	noun	6	-	-	-	-	-
+-	kaura|kuitunen	-	noun	38	-	-	-	-	-
 -	kaura|leipä	-	noun	10	p:v	-	-	-	-
 -	kaura|lese	-	noun	48	-	-	-	-	-
 -	kaura|liemi	-	noun	25	-	-	-	-	-
@@ -65118,6 +65129,7 @@
 -	kelta|väri	-	noun	5	-	-	-	-	-
 -	kelta|västäräkki	-	noun	5	kk:k	-	-	-	-
 -	kelta|ängelmä	-	noun	10	-	-	-	-	-
+-	keltuais|jauhe	-	noun	48	-	-	-	-	-
 -	kemian|palkinto	-	noun	1	nt:nn	-	-	-	-
 -	kemian|tehdas	-	noun	41	t:d	-	-	-	-
 -	kemian|teollisuus	-	noun	40	-	-	-	-	-
@@ -69151,6 +69163,7 @@
 -	kuoro|sävellys	-	noun	39	-	-	-	-	-
 -	kuoro|säveltäjä	-	noun	10	-	-	-	-	-
 -	kuoro|teos	-	noun	39	-	-	-	-	-
+-	kuorrutus|kastike	-	noun	48	kk:k	-	-	-	-
 -	kuovi|sirri	-	noun	5	-	-	-	-	-
 -	kupari|hohde	-	noun	48	t:d	-	-	-	-
 -	kupari|home	-	noun	48	-	-	-	-	-
@@ -80681,6 +80694,7 @@
 -	paisto|pinta	-	noun	9	nt:nn	-	-	-	-
 -	paisto|pussi	-	noun	5	-	-	-	-	-
 -	paisto|rasva	-	noun	9	-	-	-	-	-
+-	paisto|öljy	-	noun	1	-	-	-	-	-
 -	paisunta|säiliö	-	noun	3	-	-	-	-	-
 -	paisunta|venttiili	-	noun	6	-	-	-	-	-
 -	paisuvais|kudos	-	noun	39	-	-	-	-	-
@@ -86668,6 +86682,7 @@
 -	rasva|evä	-	noun	10	-	-	-	-	-
 -	rasva|happo	-	noun	1	pp:p	-	-	-	-
 -	rasva|imu	-	noun	1	-	-	-	-	-
+-	rasva|jauhe	-	noun	48	-	-	-	-	-
 -	rasva|juoste	-	noun	48	-	-	-	-	-
 -	rasva|kala	-	noun	9	-	-	-	-	-
 -	rasva|kattila	-	noun	12	-	-	-	-	-
@@ -87317,6 +87332,7 @@
 -	riisi|posliini	-	noun	6	-	-	-	-	-
 -	riisi|pussi	-	noun	5	-	-	-	jocul	-
 -	riisi|puuro	-	noun	1	-	-	-	-	-
+-	riisi|pyörönen	-	noun	38	-	-	-	-	-
 -	riisi|ryyni	-	noun	5	-	-	-	-	-
 -	riisi|sato	-	noun	1	t:d	-	-	-	-
 -	riisi|suklaa	-	noun	17	-	-	-	-	-
@@ -87324,6 +87340,7 @@
 -	riisi|tauti	-	noun	5	t:d	-	-	-	-
 -	riisi|tärkkelys	-	noun	39	-	-	-	-	-
 -	riisi|täyte	-	noun	48	tt:t	-	-	-	-
+-	riisi|valmiste	-	noun	48	-	-	-	-	-
 -	riisi|vanukas	-	noun	41	kk:k	-	-	-	-
 -	riisi|velli	-	noun	5	-	-	-	-	-
 -	riisi|viina	-	noun	9	-	-	-	-	-
@@ -89558,6 +89575,7 @@
 -	seerumi|tauti	-	noun	5	t:d	-	-	-	-
 -	seesamin|siemen	-	noun	32	-	-	-	-	-
 -	seesami|jauho	-	noun	1	-	-	-	-	-
+-	seesami|nuggetti	-	noun	5	tt:t	-	-	-	-
 -	seesami|öljy	-	noun	1	-	-	-	-	-
 -	sefardi|juutalainen	-	noun	38	-	-	-	-	-
 -	seikkailun|halu	-	noun	1	-	-	-	-	-
@@ -89652,6 +89670,7 @@
 -	seiväs|hyppääjä	-	noun	10	-	-	-	-	-
 -	sekavuus|tila	-	noun	9	-	-	-	-	-
 -	seka|haku	-	noun	1	k:	-	-	-	-
+-	seka|hedelmä	-	noun	10	-	-	-	-	-
 -	seka|iho	-	noun	1	-	-	-	-	-
 -	seka|infektio	-	noun	3	-	-	-	-	-
 -	seka|joukkue	-	noun	48	-	-	-	-	-
@@ -91103,6 +91122,7 @@
 -	soija|papu	-	noun	1	p:v	-	-	-	-
 -	soija|pihvi	-	noun	5	-	-	-	-	-
 -	soija|rouhe	-	noun	48	-	-	-	-	-
+-	soija|valmiste	-	noun	48	-	-	-	-	-
 -	soija|vanukas	-	noun	41	kk:k	-	-	-	-
 -	soija|öljy	-	noun	1	-	-	-	-	-
 -	soikko|kaksikko	-	noun	4	kk:k	-	-	-	-
@@ -95838,6 +95858,7 @@
 -	todistus|valinta	-	noun	9	nt:nn	-	-	-	-
 -	todistus|velvollisuus	-	noun	40	-	-	-	-	-
 -	todistus|voima	-	noun	10	-	-	-	-	-
+-	tofu|pihvi	-	noun	5	-	-	-	-	-
 -	tohma|järveläinen	-	noun	38	-	-	-	-	-
 -	toho|lampilainen	-	noun	38	-	-	-	-	-
 -	tohtorin|arvo	-	noun	1	-	-	-	-	-
@@ -99288,6 +99309,7 @@
 -	valko|vuokko	-	noun	1	kk:k	-	-	-	-
 -	valko|vuoto	-	noun	1	t:d	-	-	-	-
 -	valkuais|aine	-	noun	48	-	-	-	-	-
+-	valkuais|jauhe	-	noun	48	-	-	-	-	-
 -	valkuais|pitoisuus	-	noun	40	-	-	-	-	-
 -	valkuais|rehu	-	noun	1	-	-	-	-	-
 -	valkuais|tarve	-	noun	48	p:v	-	-	-	-
@@ -102137,6 +102159,7 @@
 -	vitamiini|pilleri	-	noun	6	-	-	-	-	-
 -	vitamiini|tabletti	-	noun	5	tt:t	-	-	-	-
 -	vitamiini|valmiste	-	noun	48	-	-	-	-	-
+-	vitamiini|vesi	-	noun	27	-	-	-	-	-
 -	vita|kasvi	-	noun	5	-	-	-	-	-
 -	viti|lumi	-	noun	25	-	-	-	-	-
 -	vitka|laite	-	noun	48	tt:t	-	-	-	-
@@ -104888,6 +104911,7 @@
 -	arkisto|työn|tekijä	-	noun	12	-	-	-	-	-
 -	arkisto|valo|kuvaus	-	noun	39	-	-	-	-	-
 -	arkki|hiippa|kunta	-	noun	10	nt:nn	-	-	-	-
+-	aromi|ruis|mallas	-	noun	41	lt:ll	-	-	-	-
 -	arrow|juuri|jauho	-	noun	1	-	-	-	-	-
 -	arvio|määrä|raha	-	noun	9	-	-	-	-	-
 -	arvon|korotus|rahasto	-	noun	2	-	-	-	-	-
@@ -104981,6 +105005,7 @@
 -	avun|anto|sopimus	-	noun	39	-	-	-	-	-
 -	avustus|posti|merkki	-	noun	5	kk:k	-	-	-	-
 -	balsami|viini|etikka	-	noun	14	kk:k	-	-	-	-
+-	banaani|pannu|kakku	-	noun	1	kk:k	-	-	-	-
 -	banaani|tasa|valta	-	noun	9	lt:ll	-	-	-	-
 -	baptisti|seura|kunta	-	noun	10	nt:nn	-	-	-	-
 -	bataatti|sose|keitto	-	noun	1	tt:t	-	-	-	-
@@ -105296,6 +105321,7 @@
 -	hana|kulma|rasia	-	noun	12	-	-	-	-	-
 -	hanhen|maksa|pasteija	-	noun	12	-	-	-	-	-
 -	hapan|imelä|kastike	-	noun	48	kk:k	-	-	-	-
+-	hapan|kaali|keitto	-	noun	1	tt:t	-	-	-	-
 -	hapan|leipä|taikina	-	noun	12	-	-	-	-	-
 -	hapan|maito|tuote	-	noun	48	tt:t	-	-	-	-
 -	hapan|rypäle|mehu	-	noun	1	-	-	-	-	-
@@ -105865,6 +105891,7 @@
 -	kammio|lisä|lyöntisyys	-	noun	40	-	-	-	-	-
 -	kampa|lanka|kangas	-	noun	41	nk:ng	-	-	-	-
 -	kampa|puu|villa	-	noun	9	-	-	-	-	-
+-	kanan|muna|jauhe	-	noun	48	-	-	-	-	-
 -	kanavisto|virtaus|piste	-	noun	48	-	-	-	-	-
 -	kana|liemi|kuutio	-	noun	3	-	-	-	-	-
 -	kansain|välisyys|kasvatus	-	noun	39	-	-	-	-	-
@@ -107081,6 +107108,7 @@
 -	maa|perä|geologia	-	noun	12	-	-	-	-	-
 -	maa|perä|kartta	-	noun	9	tt:t	-	-	-	-
 -	maa|pähkinä|kakku	-	noun	1	kk:k	-	-	-	-
+-	maa|pähkinä|levite	-	noun	48	tt:t	-	-	-	-
 -	maa|pähkinä|rouhe	-	noun	48	-	-	-	-	-
 -	maa|pähkinä|voi	-	noun	18	-	-	-	-	-
 -	maa|pähkinä|öljy	-	noun	1	-	-	-	-	-
@@ -107421,6 +107449,7 @@
 -	mukula|kivi|katu	-	noun	1	t:d	-	-	-	-
 -	munan|johdin|raskaus	-	noun	40	-	-	-	-	-
 -	munan|kuori|posliini	-	noun	6	-	-	-	-	-
+-	muna|koiso|nyytti	-	noun	5	tt:t	-	-	-	-
 -	muna|käsi|kranaatti	-	noun	5	tt:t	-	-	-	-
 -	muna|sarja|kasvain	-	noun	33	-	-	-	-	-
 -	muna|sarja|syöpä	-	noun	10	p:v	-	-	-	-
@@ -107996,6 +108025,7 @@
 -	pikku|joulu|kausi	-	noun	27	-	-	-	-	-
 -	pikku|käpy|lintu	-	noun	1	nt:nn	-	-	-	-
 -	pikku|lavan|tauti	-	noun	5	t:d	-	-	-	-
+-	pikku|leipä|rasva	-	noun	9	-	-	-	-	-
 -	pikku|virka|mies	-	noun	42	-	-	-	-	-
 -	pinaatti|kiinan|kaali	-	noun	5	-	-	-	-	-
 -	pino|kuutio|metri	-	noun	5	-	-	-	-	-
@@ -108133,6 +108163,7 @@
 -	puna|juuri|keitto	-	noun	1	tt:t	-	-	-	-
 -	puna|juuri|pihvi	-	noun	5	-	-	-	-	-
 -	puna|juuri|salaatti	-	noun	5	tt:t	-	-	-	-
+-	puna|kaali|muhennos	-	noun	39	-	-	-	-	-
 -	puna|kylki|rastas	-	noun	41	-	-	-	-	-
 -	puna|kärpäs|sieni	-	noun	26	-	-	-	-	-
 -	puna|multa|hallitus	-	noun	39	-	-	-	-	-
@@ -108917,6 +108948,7 @@
 -	skotlannin|paimen|koira	-	noun	10	-	-	-	-	-
 -	slap|stick|komedia	-	noun	12	-	-	-	-	-
 -	soiden|suojelu|alue	-	noun	48	-	-	-	-	-
+-	soija|nakki|kastike	-	noun	48	kk:k	-	-	-	-
 -	soija|nakki|keitto	-	noun	1	tt:t	-	-	-	-
 -	soija|nakki|stroganoff	-	noun	5	-	-	-	-	-
 -	soija|väli|pala	-	noun	9	-	-	-	-	-
@@ -110268,6 +110300,7 @@
 -	voima|tasa|paino	-	noun	1	-	-	-	-	-
 -	voima|toimen|pide	-	noun	48	t:d	-	-	-	-
 -	voimistelu|maa|ottelu	-	noun	2	-	-	-	-	-
+-	voi|kreemi|täyte	-	noun	48	tt:t	-	-	-	-
 -	voi|leipä|grilli	-	noun	5	-	-	-	-	-
 -	voi|leipä|kakku	-	noun	1	kk:k	-	-	-	-
 -	voi|leipä|keksi	-	noun	5	-	-	-	-	-
@@ -110349,6 +110382,7 @@
 -	väli|meren|ilmasto	-	noun	2	-	-	-	-	-
 -	väli|mies|menettely	-	noun	2	-	-	-	-	-
 -	väli|mies|oikeus	-	noun	40	-	-	-	-	-
+-	väli|pala|juoma	-	noun	10	-	-	-	-	-
 -	väli|pala|patukka	-	noun	14	kk:k	-	-	-	-
 -	väli|raha|malli	-	noun	5	-	-	-	-	-
 -	väli|rauhan|sopimus	-	noun	39	-	-	-	-	-
@@ -110786,6 +110820,7 @@
 -	moottori|ajo|neuvo|vero	-	noun	1	-	-	-	dated	-
 -	moottori|purje|lento|kone	-	noun	48	-	-	-	-	-
 -	muoto|kuvan|paljastus|tilaisuus	-	noun	40	-	-	-	-	-
+-	musta|herukan|lehti|uute	-	noun	48	tt:t	-	-	-	-
 -	musta|herukka|raaka|kakku	-	noun	1	kk:k	-	-	-	-
 -	musta|juuri|sose|keitto	-	noun	1	tt:t	-	-	-	-
 -	musta|valko|elo|kuva	-	noun	10	-	-	-	-	-
@@ -111376,6 +111411,7 @@
 -	VR-lasit	-	noun-pl	5	-	-	-	-	-
 -	aamu-uutiset	-	noun-pl	38	-	-	-	-	-
 -	asunto-olot	-	noun-pl	1	-	-	-	-	-
+-	ateria-ainekset	-	noun-pl	39	-	-	-	-	-
 -	jatko-opinnot	-	noun-pl	1	nt:nn	-	-	-	-
 -	kilpa-ajot	-	noun-pl	1	-	-	-	-	-
 -	neuvoa-antavat	-	noun-pl	10	-	-	-	-	-
@@ -111722,6 +111758,7 @@
 -	maa|päivät	-	noun-pl	10	-	-	-	-	-
 -	maa|voimat	-	noun-pl	10	-	-	-	-	-
 -	maisteri|opinnot	-	noun-pl	1	nt:nn	-	-	-	-
+-	makkara|perunat	-	noun-pl	12	-	-	-	-	-
 -	malmi|varat	-	noun-pl	9	-	-	-	-	-
 -	markkina|voimat	-	noun-pl	10	-	-	-	-	-
 -	materiaali|toiminnot	-	noun-pl	1	nt:nn	-	-	-	-
