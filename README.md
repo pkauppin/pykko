@@ -151,4 +151,4 @@ by the Institute for the Languages of Finland (CC BY 4.0).
 
 This project is licensed under the MIT License.
 
-Copyright © 2025 Pekka Kauppinen.
+Copyright © 2026 Pekka Kauppinen.
