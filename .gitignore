@@ -8,6 +8,7 @@
 
 .idea/
 __pycache__/
-wip/
+_wip/
+venv/
 sourcing/
 .DS_Store
