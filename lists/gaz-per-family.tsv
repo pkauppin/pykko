@@ -421,6 +421,8 @@
 -	Brenner	-	proper	6	-	-	-	-	-
 -	Breton	-	proper	6	-	-	-	-	-
 -	Brežnev	-	proper	5	-	-	-	-	-
+-	Breznev	-	proper	5	-	-	-	alternative	1.000
+-	Brezhnev	-	proper	5	-	-	-	alternative	1.000
 -	Briand	-	proper	5	-	-	-	-	-
 -	Bristow	-	proper	22|†5	-	-	u	-	-
 -	Broas	-	proper	39	-	-	-	-	-
@@ -1378,6 +1380,16 @@
 -	Hristov	-	proper	5	-	-	-	-	-
 -	Hruštšev	-	proper	5	-	-	-	-	-
 -	Hruštšov	-	proper	5	-	-	-	-	-
+-	Hrushtshev	-	proper	5	-	-	-	alternative	-
+-	Hrushtshov	-	proper	5	-	-	-	alternative	-
+-	Hrustsev	-	proper	5	-	-	-	alternative	-
+-	Hrustsov	-	proper	5	-	-	-	alternative	-
+-	Gorbatšev	-	proper	5	-	-	-	-	-
+-	Gorbatšov	-	proper	5	-	-	-	-	-
+-	Gorbatshev	-	proper	5	-	-	-	alternative	-
+-	Gorbatshov	-	proper	5	-	-	-	alternative	-
+-	Gorbatsev	-	proper	5	-	-	-	alternative	-
+-	Gorbatsov	-	proper	5	-	-	-	alternative	-
 -	Hu	-	proper	21	-	-	-	-	-
 -	Huang	-	proper	5	-	-	-	-	-
 -	Huber	-	proper	6	-	-	-	-	-
@@ -3358,7 +3370,7 @@
 -	Räisänen	-	proper	38	-	-	-	-	-
 -	Rämö	-	proper	1	-	-	-	-	-
 -	Räsänen	-	proper	38	-	-	-	-	-
--	Räty	-	proper	1	-	-	-	-	-
+-	Räty	-	proper	1	t:d	-	-	-	-
 -	Rådström	-	proper	5	-	-	-	-	-
 -	Régnier	-	proper	22|†5	-	-	-	-	-
 -	Rózsa	-	proper	10	-	-	-	-	-

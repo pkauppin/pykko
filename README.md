@@ -5,7 +5,7 @@ Pykko is an experimental finite-state morphological parser for Finnish. Personal
 Check out the nifty [PyPykko](https://pypi.org/project/pypykko/) wrapper (with extra goodies) by [@thfr](https://pypi.org/user/thfr/) on PyPi.
 
 ## Requirements
-- Python >= 3.8
+- 3.12 >= Python >= 3.8
 - C++ compiler
 - [HFST for Python](https://pypi.org/project/hfst/) >= 3.15
 

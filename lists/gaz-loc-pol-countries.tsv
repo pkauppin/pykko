@@ -11,8 +11,8 @@
 -	Aruba	-	proper	9	-	-	-	-	-
 -	Assyria	-	proper	12	-	-	-	-	-
 -	Australia	-	proper	12	-	-	-	-	-
--	Azerbaidzan	-	proper	6	-	-	-	nstd	1.000
--	Azerbaidzhan	-	proper	6	-	-	-	nstd	1.000
+-	Azerbaidzan	-	proper	6	-	-	-	alternative	1.000
+-	Azerbaidzhan	-	proper	6	-	-	-	alternative	1.000
 -	Azerbaidžan	-	proper	5	-	-	-	-	-
 -	Baabel	-	proper	6	-	-	-	-	-
 -	Babylonia	-	proper	12	-	-	-	-	-
@@ -54,8 +54,8 @@
 -	Espanja	-	proper	12	-	-	-	-	-
 -	Eswatini	-	proper	5	-	-	-	-	-
 -	Etiopia	-	proper	12	-	-	-	-	-
--	Fidzhi	-	proper	5	-	-	-	nstd	1.000
--	Fidzi	-	proper	5	-	-	-	nstd	1.000
+-	Fidzhi	-	proper	5	-	-	-	alternative	1.000
+-	Fidzi	-	proper	5	-	-	-	alternative	1.000
 -	Fidži	-	proper	5	-	-	-	-	-
 -	Gabon	-	proper	6	-	-	-	-	-
 -	Gambia	-	proper	12	-	-	-	-	-
@@ -89,7 +89,8 @@
 -	Jordania	-	proper	12	-	-	-	-	-
 -	Jugoslavia	-	proper	12	-	-	-	-	-
 -	Kambodza	-	proper	13	-	-	-	-	-
--	Kambodzha	-	proper	13	-	-	-	nstd	1.000
+-	Kambodza	-	proper	13	-	-	-	alternative	1.000
+-	Kambodzha	-	proper	13	-	-	-	alternative	1.000
 -	Kambodža	-	proper	13	-	-	-	-	-
 -	Kamerun	-	proper	5	-	-	-	-	-
 -	Kamputsea	-	proper	13	-	-	-	dated	-
@@ -189,8 +190,8 @@
 -	Suriname	-	proper	8	-	-	-	-	-
 -	Sveitsi	-	proper	5	-	-	-	-	-
 -	Syyria	-	proper	12	-	-	-	-	-
--	Tadzhikistan	-	proper	5	-	-	-	nstd	1.000
--	Tadzikistan	-	proper	6	-	-	-	-	-
+-	Tadzhikistan	-	proper	5	-	-	-	alternative	1.000
+-	Tadzikistan	-	proper	6	-	-	-	alternative	1.000
 -	Tadžikistan	-	proper	6	-	-	-	-	-
 -	Taiwan	-	proper	6	-	-	-	-	-
 -	Tansania	-	proper	12	-	-	-	-	-
@@ -198,10 +199,10 @@
 -	Togo	-	proper	1	-	-	-	-	-
 -	Tokelau	-	proper	21	-	-	-	-	-
 -	Tonga	-	proper	10	-	-	-	-	-
--	Tsekki	-	proper	5	kk:k	-	-	nstd	1.000
--	Tsekkoslovakia	-	proper	12	-	-	-	nstd	1.000
--	Tshekki	-	proper	5	kk:k	-	-	nstd	1.000
--	Tshekkoslovakia	-	proper	12	-	-	-	nstd	1.000
+-	Tsekki	-	proper	5	kk:k	-	-	alternative	1.000
+-	Tsekkoslovakia	-	proper	12	-	-	-	alternative	1.000
+-	Tshekki	-	proper	5	kk:k	-	-	alternative	1.000
+-	Tshekkoslovakia	-	proper	12	-	-	-	alternative	1.000
 -	Tunisia	-	proper	12	-	-	-	-	-
 -	Turkestan	-	proper	6	-	-	-	-	-
 -	Turkki	-	proper	5	kk:k	-	-	-	-
