@@ -155,6 +155,7 @@ sitä	se	pronoun	-	+sg+par
 siihen	se	pronoun	-	+sg+ill
 siinä	se	pronoun	-	+sg+ine
 siitä	se	pronoun	-	+sg+ela
+siittä	se	pronoun	-	+sg+ela+dial
 sille	se	pronoun	-	+sg+all
 sillä	se	pronoun	-	+sg+ade
 siltä	se	pronoun	-	+sg+abl
@@ -566,7 +567,7 @@ huutia	huuti	noun	-	+sg+par
 kukkua	kukku	noun	-	+sg+par
 kukku	kukku	noun	-	+sg+nom
 kyse	kyse	noun	-	+sg+nom
-kyseen	kyse	noun	-	+sg+gen
+kyseen	kyse	noun	-	+sg+gen+rare
 kyseessä	kyse	noun	-	+sg+ine
 kyseeseen	kyse	noun	-	+sg+ill
 
@@ -1002,11 +1003,16 @@ jolleka	joka	pronoun	-	+sg+all+dial
 millekä	mikä	pronoun	-	+sg+all+dial
 mihinkä	mikä	pronoun	-	+sg+ill+dial
 
-mihinkä	mihin	adverb	-	+ka
-mitenkä	miten	adverb	-	+ka
 jotenka	joten	adverb	-	+ka
 jolloinka	jolloin	adverb	-	+ka
+mihinkä	mihin	adverb	-	+ka
+mitenkä	miten	adverb	-	+ka
 milloinka	milloin	adverb	-	+ka
+minnekä	minne	adverb	-	+ka
+mihinkäs	mihin	adverb	-	+ka+s
+mitenkäs	miten	adverb	-	+ka+s
+milloinkas	milloin	adverb	-	+ka+s
+minnekäs	minne	adverb	-	+ka+s
 
 surku	surku	noun	-	+sg+nom
 surkua	surku	noun	-	+sg+par

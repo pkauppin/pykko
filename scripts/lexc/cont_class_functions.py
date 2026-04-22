@@ -338,11 +338,13 @@ def adverb_cont_class(_, pairs, morphtag, harmony=None):
 		rows += [(pairs, f'POSS_%s' % harmony)]
 
 	# miksi, mihin => do not take clitic -s
-	elif wordform in ['miksi', 'miten', 'milloin', 'mihin']:
+	elif wordform in ['miksi', 'miten', 'milloin', 'mihin', 'kuhun']:
+		# TODO: Disallow -kaan/-kään
 		rows += [(pairs, f'CLITIC_%s' % harmony)]
 
 	# missä + -s, kuinka + -s
 	elif wordform in INTERROGATIVES:
+		# TODO: Disallow -kaan/-kään
 		rows += [(pairs, f'PAS_%s' % harmony)]
 		rows += [(pairs, f'CLITIC_%s' % harmony)]
 
@@ -393,10 +395,11 @@ def pronoun_cont_class(lemma, pairs, morphtag=None, harmony=None):
 		rows += [(pairs, f'HAN_%s' % harmony)]
 		rows += [(pairs, f'KO_%s' % harmony)]
 
-	# "mikäs", "ketäs", "kelles"f
+	# "mikäs", "ketäs", "kelles"
 	if lemma in INTERROGATIVES and not re.fullmatch('.+(ksi|n)', wordform):
 		rows += [(pairs, f'PAS_%s' % harmony)]
-		rows += [(pairs, f'CLITIC_%s' % harmony)]
+		rows += [(pairs, f'HAN_%s' % harmony)]
+		rows += [(pairs, f'KO_%s' % harmony)]
 
 	# "mikään" => only take clitic -han/-hän
 	elif lemma.endswith('kin') or lemma.endswith('kään') or lemma.endswith('kaan'):

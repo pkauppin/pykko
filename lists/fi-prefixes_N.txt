@@ -125,6 +125,7 @@ lisä
 live
 lounais
 luoteis
+luteaali
 lähi
 länsi
 läpi
@@ -234,6 +235,7 @@ turbo
 täys
 uima
 ulko
+ulkois
 ultra
 umpi
 universaali

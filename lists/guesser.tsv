@@ -1316,8 +1316,8 @@ Cap	k	-	noun	5	-	front|back	-	-	10.000
 .*	μ	-	noun	XX	-	back	-	-	8.000
 
 # Cardinal numbers
-.*	1	-	numeral	31B	-	front	e	-	8.000
-.*	2	-	numeral	31B	-	back	e	-	8.000
+.*	1	-	numeral	31B	-	front	-	-	8.000
+.*	2	-	numeral	31B	-	back	-	-	8.000
 .*	3	-	numeral	8B	-	back	e	-	8.000
 .*	4	-	numeral	8B	-	front	ä	-	8.000
 .*	5	-	numeral	27B	-	front	e	-	8.000
@@ -1325,16 +1325,25 @@ Cap	k	-	noun	5	-	front|back	-	-	10.000
 .*	7	-	numeral	10B	-	front	ä	-	8.000
 .*	8	-	numeral	10B	-	back	a	-	8.000
 .*	9	-	numeral	10B	-	front	ä	-	8.000
-.*	10	-	numeral	8B	-	front	e	-	8.000
-.*	20	-	numeral	8B	-	front	e	-	8.000
-.*	30	-	numeral	8B	-	front	e	-	8.000
-.*	40	-	numeral	8B	-	front	e	-	8.000
-.*	50	-	numeral	8B	-	front	e	-	8.000
-.*	60	-	numeral	8B	-	front	e	-	8.000
-.*	70	-	numeral	8B	-	front	e	-	8.000
-.*	80	-	numeral	8B	-	front	e	-	8.000
-.*	90	-	numeral	8B	-	front	e	-	8.000
-.*	00	-	numeral	8B	-	front	a	-	8.000
+.*	10	-	numeral	31B|8B	-	front	e	-	8.000
+.*	20	-	numeral	31B|8B	-	front	e	-	8.000
+.*	30	-	numeral	31B|8B	-	front	e	-	8.000
+.*	40	-	numeral	31B|8B	-	front	e	-	8.000
+.*	50	-	numeral	31B|8B	-	front	e	-	8.000
+.*	60	-	numeral	31B|8B	-	front	e	-	8.000
+.*	70	-	numeral	31B|8B	-	front	e	-	8.000
+.*	80	-	numeral	31B|8B	-	front	e	-	8.000
+.*	90	-	numeral	31B|8B	-	front	e	-	8.000
+.*	100	-	numeral	8B	-	back	a	-	8.000
+.*	200	-	numeral	8B	-	back	a	-	8.000
+.*	300	-	numeral	8B	-	back	a	-	8.000
+.*	400	-	numeral	8B	-	back	a	-	8.000
+.*	500	-	numeral	8B	-	back	a	-	8.000
+.*	600	-	numeral	8B	-	back	a	-	8.000
+.*	700	-	numeral	8B	-	back	a	-	8.000
+.*	800	-	numeral	8B	-	back	a	-	8.000
+.*	900	-	numeral	8B	-	back	a	-	8.000
+.*	000	-	numeral	31B|8B	-	back	e	-	8.000
 
 .*	½	-	numeral	XX	-	front|back	-	-	8.000
 

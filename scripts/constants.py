@@ -17,9 +17,9 @@ ALPHA_UPPER_EXTENDED = \
 	'ÃÕÑ' \
 	'ÅŮ' \
 	'ŞÇ' \
-	'ĄĘŲĢ' \
+	'ĄĘŲ' \
 	'ĖŻ' \
-	'ȘŅĻŖȚĶ' \
+	'ȘŅĻŖȚĶĢ' \
 	'ØßÐĐÆŒŁĞŐŊÞ'
 
 ALPHA_LOWER_BASIC = 'abcdefghijklmnopqrstuvwxyzåäö'
@@ -81,12 +81,14 @@ STYLE_TAGS = [
 	'+dated',
 	'+dial',
 	'+foreign',
+	'+unadapted',
 	'+jocul',
 	'+nstd',
 	'+poet',
 	'+rare',
 	'+slang',
 	'+vulg',
+	'+alternative',
 ]
 STYLE_TAG_REGEX = '|'.join(tag[1:] for tag in STYLE_TAGS)
 

@@ -801,7 +801,8 @@ def determine_noun_class_2(word, pos='noun'):
 	if re.fullmatch(f'.*(aw|ow|ew)', word):
 		return [('?22|5', '')]
 	if re.fullmatch(f'.+{SILENT}', word):
-		return [('?5|22', '')]
+		# return [('?5|22', '')]
+		return [('5', '')]
 	if re.fullmatch(f'{C}*{N}{C}+', word):
 		return [('5', '')]
 	if re.fullmatch(f'.+{C}', word):

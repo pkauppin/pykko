@@ -26,6 +26,13 @@ INTERROGATIVES = [
 	'milloin',
 	'koska',
 	'kuinka',
+	'kuhun',
+	'mitenkä',
+	'mihinkä',
+	'milloinka',
+	'minnekä',
+	'kuhunka',
+	'kunne',
 ]
 
 

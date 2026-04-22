@@ -97,8 +97,8 @@ def collect_noun_prefixes():
 		if len(word) <= 2 and word != 'yö':
 			continue
 
-		# TODO: Fix usage of "foreign" – some words in this cateogry are valid modifiers
-		if re.findall('foreign|abbr|unit|symbol|non-compounding', info):
+		# TODO: Fix usage of "foreign" and "undapted" – some words in this cateogry are valid modifiers
+		if re.findall('foreign|abbr|unit|symbol|non-compounding|unadapted', info):
 			continue
 
 		if not re.fullmatch('.*[a-zåäöüé]', word):

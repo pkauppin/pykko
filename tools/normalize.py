@@ -27,6 +27,17 @@ def fix_lettercase(wform, lemma):
 	return lemma
 
 
+def is_missing_hyphen(lemma):
+	return ('a|a' in lemma or
+			'e|e' in lemma or
+			'i|i' in lemma or
+			'o|o' in lemma or
+			'u|u' in lemma or
+			'y|y' in lemma or
+			'ä|ä' in lemma or
+			'ö|ö' in lemma)
+
+
 def process_analyses(analyses, sentence_initial=None):
 
 	best = inf, inf
@@ -46,6 +57,10 @@ def process_analyses(analyses, sentence_initial=None):
 
 		# (*) No capitalized verbs mid-sentence
 		if not sentence_initial and pos == 'verb' and is_uppercase(wform):
+			weight += 1
+
+		# (*) Penalize lemmas like "linja|auto" (pro "linja-auto)
+		if is_missing_hyphen(lemma):
 			weight += 1
 
 		# (*) Penalize proper names with possessive suffixes

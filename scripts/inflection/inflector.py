@@ -1183,7 +1183,7 @@ def inflect_noun(word, kotus_class, gradtype, harmony, vowel=None):
 		all_forms['pl|ess'] = [f"{x}:in{a}"]
 		all_forms['@stem:clitics'] = [f"{x}:"]
 
-	# "1", "2"
+	# "1", "2"; "10", "1000"
 	elif kotus_class == "31B":
 		k = word
 		#

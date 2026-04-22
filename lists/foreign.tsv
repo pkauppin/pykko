@@ -114,6 +114,7 @@
 -	up	-	none	-	-	-	-	foreign	-
 -	van	-	none	-	-	-	-	foreign	-
 -	von	-	none	-	-	-	-	foreign	-
+-	vs	-	none	-	-	-	-	abbr|foreign	-
 -	was	-	none	-	-	-	-	foreign	-
 -	were	-	none	-	-	-	-	foreign	-
 -	with	-	none	-	-	-	-	foreign	-
@@ -167,11 +168,15 @@
 -	América	-	noun	9	-	-	-	foreign	-
 -	Analysis	-	noun	5	-	-	-	foreign	-
 -	Angels	-	noun	5	-	-	-	foreign	-
+-	Angry	-	noun	1	-	-	-	foreign	-
 -	Animal	-	noun	6	-	-	-	foreign	-
+-	Animation	-	noun	6	-	-	-	foreign	-
+-	Another	-	noun	5	-	-	-	foreign	-
 -	Any	-	noun	1	-	-	-	foreign	-
 -	Anything	-	noun	5	-	-	-	foreign	-
 -	Apocalypse	-	noun	8	-	-	-	foreign	-
--	Aqua	-	noun	10|12	-	-	-	foreign	-
+-	April	-	noun	5	-	-	-	foreign	-
+-	Aqua	-	noun	9	-	-	-	foreign	-
 -	Arab	-	noun	5	-	-	-	foreign	-
 -	Arabic	-	noun	5	-	-	-	foreign	-
 -	Arcade	-	noun	8	-	-	-	foreign	-
@@ -194,6 +199,7 @@
 -	Atlantic	-	noun	5	-	-	-	foreign	-
 -	Attack	-	noun	5	-	-	-	foreign	-
 -	Attention	-	noun	6	-	-	-	foreign	-
+-	August	-	noun	5	-	-	-	foreign	-
 -	Australian	-	noun	5	-	-	-	foreign	-
 -	Authority	-	noun	2	-	front|back	-	foreign	-
 -	Automotive	-	noun	8	-	-	-	foreign	-
@@ -227,6 +233,7 @@
 -	Bay	-	noun	21	-	front|back	i|y	foreign	-
 -	Be	-	noun	21	-	-	-	foreign	-
 -	Beach	-	noun	5	-	-	-	foreign	-
+-	Bear	-	noun	5	-	-	-	foreign	-
 -	Bears	-	noun	5	-	-	-	foreign	-
 -	Beast	-	noun	5	-	-	-	foreign	-
 -	Beautiful	-	noun	5	-	-	-	foreign	-
@@ -242,9 +249,11 @@
 -	Billboard	-	noun	5	-	-	-	foreign	-
 -	Billion	-	noun	6	-	-	-	foreign	-
 -	Bin	-	noun	5	-	-	-	foreign	-
+-	Bio	-	noun	3	-	-	-	foreign	-
 -	Biology	-	noun	1	-	-	-	foreign	-
 -	Bird	-	noun	5	-	-	-	foreign	-
 -	Birds	-	noun	5	-	-	-	foreign	-
+-	Bisons	-	noun	5	-	-	-	foreign	-
 -	Bitch	-	noun	5	-	-	-	foreign	-
 -	Black	-	noun	5	-	-	-	foreign	-
 -	Blade	-	noun	8	-	-	-	foreign	-
@@ -286,6 +295,7 @@
 -	Burger	-	noun	6	-	-	-	foreign	-
 -	Burgers	-	noun	5	-	-	-	foreign	-
 -	Burj	-	noun	5	-	-	-	foreign	-
+-	Burn	-	noun	5	-	-	-	foreign	-
 -	Button	-	noun	6	-	-	-	foreign	-
 -	Cabinet	-	noun	5	-	-	-	foreign	-
 -	Cafe	-	noun	8	-	-	-	foreign	-
@@ -319,6 +329,7 @@
 -	Cavaliers	-	noun	5	-	-	-	foreign	-
 -	Celtic	-	noun	5	-	-	-	foreign	-
 -	Celtics	-	noun	5	-	-	-	foreign	-
+-	Centauri	-	noun	5	-	-	-	foreign	-
 -	Center	-	noun	6	-	-	-	foreign	-
 -	Central	-	noun	6	-	-	-	foreign	-
 -	Centre	-	noun	8	-	-	-	foreign	-
@@ -372,7 +383,9 @@
 -	Cold	-	noun	5	-	-	-	foreign	-
 -	Collection	-	noun	6	-	-	-	foreign	-
 -	College	-	noun	2	-	back	-	foreign	-
+-	Color	-	noun	6	-	-	-	foreign	-
 -	Combat	-	noun	5	-	-	-	foreign	-
+-	Combine	-	noun	8	-	-	-	foreign	-
 -	Come	-	noun	8	-	-	-	foreign	-
 -	Comics	-	noun	5	-	-	-	foreign	-
 -	Comission	-	noun	6	-	-	-	foreign|nstd	1.000
@@ -395,6 +408,7 @@
 -	Copa	-	noun	10	-	-	-	foreign	-
 -	Copilot	-	noun	5	-	-	-	foreign	-
 -	Copy	-	noun	1	-	front|back	-	foreign	-
+-	Core	-	noun	8	-	-	-	foreign	-
 -	Corporation	-	noun	6	-	-	-	foreign	-
 -	Council	-	noun	5	-	-	-	foreign	-
 -	Country	-	noun	1	-	front|back	-	foreign	-
@@ -410,6 +424,7 @@
 -	Crimson	-	noun	6	-	-	-	foreign	-
 -	Cross	-	noun	5	-	-	-	foreign	-
 -	Crown	-	noun	5	-	-	-	foreign	-
+-	Cruiser	-	noun	6	-	-	-	foreign	-
 -	Cry	-	noun	21	-	-	i|y	foreign	-
 -	Crystal	-	noun	6	-	-	-	foreign	-
 -	Crème	-	noun	8	-	-	-	foreign	-
@@ -433,6 +448,7 @@
 -	Dead	-	noun	5	-	-	-	foreign	-
 -	Death	-	noun	5	-	-	-	foreign	-
 -	Decade	-	noun	8	-	-	-	foreign	-
+-	December	-	noun	6	-	-	-	foreign	-
 -	Deep	-	noun	5	-	-	-	foreign	-
 -	Defence	-	noun	8	-	-	-	foreign	-
 -	Defense	-	noun	8	-	-	-	foreign	-
@@ -459,6 +475,7 @@
 -	Digital	-	noun	5	-	-	-	foreign	-
 -	Dimotikí	-	noun	21|8	-	-	-	foreign	-
 -	Dinamo	-	noun	2	-	-	-	foreign	-
+-	Direction	-	noun	6	-	-	-	foreign	-
 -	Director	-	noun	6	-	-	-	foreign	-
 -	Disc	-	noun	5	-	-	-	foreign	-
 -	Discovery	-	noun	2	-	front|back	-	foreign	-
@@ -521,6 +538,7 @@
 -	Encyclopædia	-	noun	12	-	-	-	foreign	-
 -	End	-	noun	5	-	-	-	foreign	-
 -	Energy	-	noun	2	-	-	-	foreign	-
+-	Engine	-	noun	8	-	-	-	foreign	-
 -	Engineering	-	noun	5	-	-	-	foreign	-
 -	England	-	noun	5	-	-	-	foreign	-
 -	English	-	noun	5	-	-	-	foreign	-
@@ -566,8 +584,10 @@
 -	Far	-	noun	5	-	-	-	foreign	-
 -	Fashion	-	noun	6	-	-	-	foreign	-
 -	Fear	-	noun	5	-	-	-	foreign	-
+-	February	-	noun	1	-	-	-	foreign	-
 -	Federal	-	noun	5	-	-	-	foreign	-
 -	Federation	-	noun	6	-	-	-	foreign	-
+-	Fem	-	noun	5	-	-	-	foreign	-
 -	Festival	-	noun	6	-	-	-	foreign	-
 -	Fiction	-	noun	6	-	-	-	foreign	-
 -	Field	-	noun	5	-	-	-	foreign	-
@@ -657,6 +677,7 @@
 -	Ginger	-	noun	6	-	-	-	foreign	-
 -	Girl	-	noun	5	-	-	-	foreign	-
 -	Girls	-	noun	5	-	-	-	foreign	-
+-	Glam	-	noun	5	-	-	-	foreign	-
 -	Global	-	noun	6	-	-	-	foreign	-
 -	Globe	-	noun	8	-	-	-	foreign	-
 -	Glory	-	noun	1	-	-	-	foreign	-
@@ -691,6 +712,7 @@
 -	Hair	-	noun	5	-	-	-	foreign	-
 -	Hammer	-	noun	6	-	-	-	foreign	-
 -	Hand	-	noun	5	-	-	-	foreign	-
+-	Haram	-	noun	5	-	-	-	foreign	-
 -	Harbor	-	noun	6	-	-	-	foreign	-
 -	Harbour	-	noun	5	-	-	-	foreign	-
 -	Hard	-	noun	5	-	-	-	foreign	-
@@ -723,6 +745,7 @@
 -	Highway	-	noun	21	-	front|back	i|y	foreign	-
 -	Hill	-	noun	5	-	-	-	foreign	-
 -	Hills	-	noun	5	-	-	-	foreign	-
+-	His	-	noun	5	-	-	-	foreign	-
 -	History	-	noun	1	-	front|back	-	foreign	-
 -	Hits	-	noun	5	-	-	-	foreign	-
 -	Hockey	-	noun	21	-	front|back	i|y	foreign	-
@@ -748,6 +771,7 @@
 -	Hut	-	noun	5	-	-	-	foreign	-
 -	Hydrogen	-	noun	6	-	-	-	foreign	-
 -	Ice	-	noun	8	-	-	-	foreign	-
+-	Idol	-	noun	6	-	-	-	foreign	-
 -	If	-	noun	5	-	-	-	foreign	-
 -	Il	-	noun	5	-	-	-	foreign	-
 -	Illusion	-	noun	6	-	-	-	foreign	-
@@ -758,6 +782,7 @@
 -	India	-	noun	12	-	-	-	foreign	-
 -	Indian	-	noun	5	-	-	-	foreign	-
 -	Indians	-	noun	5	-	-	-	foreign	-
+-	Industrial	-	noun	5	-	-	-	foreign	-
 -	Industries	-	noun	5	-	-	-	foreign	-
 -	Initiative	-	noun	8	-	-	-	foreign	-
 -	Inn	-	noun	5	-	-	-	foreign	-
@@ -780,6 +805,7 @@
 -	Item	-	noun	5	-	-	-	foreign	-
 -	Jackets	-	noun	5	-	-	-	foreign	-
 -	Jam	-	noun	5	-	-	-	foreign	-
+-	Janeiro	-	noun	1	-	-	-	foreign	-
 -	January	-	noun	1	-	-	-	foreign	-
 -	Japan	-	noun	6	-	-	-	foreign	-
 -	Japanese	-	noun	8	-	-	-	foreign	-
@@ -791,10 +817,14 @@
 -	Journal	-	noun	6	-	-	-	foreign	-
 -	Journey	-	noun	21	-	front|back	i|y	foreign	-
 -	Jr	-	noun	!	-	-	-	foreign	-
+-	Judas	-	noun	5	-	-	-	foreign	-
 -	Juice	-	noun	8	-	-	-	foreign	-
 -	Julmust	-	noun	5	-	-	-	foreign	-
+-	July	-	noun	1	-	-	-	foreign	-
 -	Jump	-	noun	5	-	-	-	foreign	-
+-	June	-	noun	8	-	-	-	foreign	-
 -	Junk	-	noun	5	-	-	-	foreign	-
+-	Jurassic	-	noun	5	-	-	-	foreign	-
 -	Justice	-	noun	8	-	-	-	foreign	-
 -	Karelia	-	noun	12	-	-	-	foreign	-
 -	Kart	-	noun	5	-	-	-	foreign	-
@@ -904,6 +934,7 @@
 -	Math	-	noun	5	-	-	-	foreign	-
 -	Mathematics	-	noun	5	-	-	-	foreign	-
 -	Maximus	-	noun	5|39	-	-	-	foreign	-
+-	May	-	noun	21	-	front|back	i|y	foreign	-
 -	Me	-	noun	21	-	-	-	foreign	-
 -	Meat	-	noun	5	-	-	-	foreign	-
 -	Mechanics	-	noun	5	-	-	-	foreign	-
@@ -925,6 +956,7 @@
 -	Midnight	-	noun	5	-	-	-	foreign	-
 -	Might	-	noun	5	-	-	-	foreign	-
 -	Mighty	-	noun	1	-	-	-	foreign	-
+-	Milk	-	noun	5	-	-	-	foreign	-
 -	Millennium	-	noun	5	-	back	-	foreign	-
 -	Million	-	noun	6	-	-	-	foreign	-
 -	Mind	-	noun	5	-	-	-	foreign	-
@@ -941,6 +973,7 @@
 -	Monetary	-	noun	1	-	-	-	foreign	-
 -	Money	-	noun	21	-	front|back	i|y	foreign	-
 -	Monitor	-	noun	6	-	-	-	foreign	-
+-	Monkey	-	noun	21	-	front|back	i|y	foreign	-
 -	Monster	-	noun	6	-	-	-	foreign	-
 -	Monsters	-	noun	5	-	-	-	foreign	-
 -	Monte	-	noun	8	-	-	-	foreign	-
@@ -962,6 +995,7 @@
 -	Murder	-	noun	6	-	-	-	foreign	-
 -	Museum	-	noun	5	-	-	-	foreign	-
 -	Music	-	noun	5	-	-	-	foreign	-
+-	Musical	-	noun	?6	-	-	-	foreign	-
 -	Muslim	-	noun	5	-	-	-	foreign	-
 -	Mutant	-	noun	5	-	-	-	foreign	-
 -	Mysteries	-	noun	5	-	-	-	foreign	-
@@ -993,6 +1027,7 @@
 -	Noir	-	noun	5	-	-	-	foreign	-
 -	None	-	noun	8	-	-	-	foreign	-
 -	Nord	-	noun	5	-	-	-	foreign	-
+-	Norden	-	noun	5	-	-	-	foreign	-
 -	Nordic	-	noun	5	-	-	-	foreign	-
 -	Norra	-	noun	10	-	-	-	foreign	-
 -	North	-	noun	5	-	-	-	foreign	-
@@ -1000,15 +1035,20 @@
 -	Norway	-	noun	21	-	front|back	i|y	foreign	-
 -	Nothing	-	noun	5	-	-	-	foreign	-
 -	Notre	-	noun	8	-	-	-	foreign	-
+-	November	-	noun	6	-	-	-	foreign	-
 -	Novosti	-	noun	5	-	-	-	foreign	-
 -	Now	-	noun	22|†5	-	-	u	foreign	-
 -	Ny	-	noun	21	-	-	-	foreign	-
 -	Nyheter	-	noun	6	-	-	-	foreign	-
+-	Nyland	-	noun	5	-	-	-	foreign	-
 -	OS	-	noun	10B	-	-	-	foreign	-
 -	Oaks	-	noun	5	-	-	-	foreign	-
+-	Oasis	-	noun	5|39	-	-	-	foreign	-
 -	Object	-	noun	5	-	-	-	foreign	-
+-	Observatory	-	noun	1	-	-	-	foreign	-
 -	Observer	-	noun	6	-	-	-	foreign	-
 -	Ocean	-	noun	5	-	-	-	foreign	-
+-	October	-	noun	6	-	-	-	foreign	-
 -	Odyssey	-	noun	21	-	front|back	i|y	foreign	-
 -	Off	-	noun	5	-	-	-	foreign	-
 -	Offensive	-	noun	8	-	-	-	foreign	-
@@ -1051,11 +1091,13 @@
 -	Paradise	-	noun	8	-	-	-	foreign	-
 -	Paris	-	noun	5	-	-	-	foreign	-
 -	Park	-	noun	5	-	-	-	foreign	-
+-	Part	-	noun	5	-	-	-	foreign	-
 -	Partners	-	noun	5	-	-	-	foreign	-
 -	Party	-	noun	1	-	front|back	-	foreign	-
 -	Passion	-	noun	6	-	-	-	foreign	-
 -	Paste	-	noun	8	-	-	-	foreign	-
 -	Path	-	noun	5	-	-	-	foreign	-
+-	Patriots	-	noun	5	-	-	-	foreign	-
 -	Peace	-	noun	8	-	-	-	foreign	-
 -	Pearl	-	noun	5	-	-	-	foreign	-
 -	Pen	-	noun	5	-	-	-	foreign	-
@@ -1073,6 +1115,7 @@
 -	Photon	-	noun	6	-	-	-	foreign	-
 -	Physics	-	noun	5	-	-	-	foreign	-
 -	Pictures	-	noun	5	-	-	-	foreign	-
+-	Piece	-	noun	8	-	-	-	foreign	-
 -	Pin	-	noun	5	-	-	-	foreign	-
 -	Pinball	-	noun	5	-	-	-	foreign	-
 -	Pirates	-	noun	5	-	-	-	foreign	-
@@ -1122,6 +1165,9 @@
 -	Problem	-	noun	5	-	-	-	foreign	-
 -	Productions	-	noun	5	-	-	-	foreign	-
 -	Professional	-	noun	5	-	-	-	foreign	-
+-	Professionel	-	noun	?6	-	-	-	foreign	-
+-	Professionelle	-	noun	8	-	-	-	foreign	-
+-	Professor	-	noun	6	-	-	-	foreign	-
 -	Profile	-	noun	8	-	-	-	foreign	-
 -	Project	-	noun	5	-	-	-	foreign	-
 -	Prologue	-	noun	8|21	-	-	-	foreign	-
@@ -1170,6 +1216,8 @@
 -	Records	-	noun	5	-	-	-	foreign	-
 -	Red	-	noun	5	-	-	-	foreign	-
 -	Redux	-	noun	5	-	-	-	foreign	-
+-	Relax	-	noun	5	-	-	-	foreign	-
+-	Release	-	noun	8	-	-	-	foreign	-
 -	Religion	-	noun	5	-	-	-	foreign	-
 -	Remake	-	noun	8	-	-	-	foreign	-
 -	Remix	-	noun	5	-	-	-	foreign	-
@@ -1209,7 +1257,9 @@
 -	Roosters	-	noun	5	-	-	-	foreign	-
 -	Roses	-	noun	5	-	-	-	foreign	-
 -	Rotten	-	noun	6	-	-	-	foreign	-
+-	Row	-	noun	22|5	-	-	-	foreign	-
 -	Royal	-	noun	6	-	-	-	foreign	-
+-	Royale	-	noun	8	-	-	-	foreign	-
 -	Royals	-	noun	5	-	-	-	foreign	-
 -	Ruby	-	noun	1	-	-	-	foreign	-
 -	Rugby	-	noun	1	-	front|back	-	foreign	-
@@ -1236,8 +1286,10 @@
 -	Saturday	-	noun	21	-	front|back	i|y	foreign	-
 -	Savage	-	noun	8	-	-	-	foreign	-
 -	Say	-	noun	21	-	front|back	-	foreign	-
+-	Scala	-	noun	9	-	-	-	foreign	-
 -	Scandinavia	-	noun	12	-	-	-	foreign	-
 -	Scandinavian	-	noun	5	-	-	-	foreign	-
+-	Scenic	-	noun	5	-	-	-	foreign	-
 -	School	-	noun	5	-	-	-	foreign	-
 -	Science	-	noun	8	-	-	-	foreign	-
 -	Scientific	-	noun	5	-	-	-	foreign	-
@@ -1250,6 +1302,7 @@
 -	Security	-	noun	1	-	front|back	-	foreign	-
 -	Seen	-	noun	5	-	-	-	foreign	-
 -	Segunda	-	noun	10	-	-	-	foreign	-
+-	September	-	noun	6	-	-	-	foreign	-
 -	Serie	-	noun	8|21	-	-	-	foreign	-
 -	Series	-	noun	5	-	-	-	foreign	-
 -	Server	-	noun	6	-	-	-	foreign	-
@@ -1267,6 +1320,7 @@
 -	Shimbun	-	noun	6	-	-	-	foreign	-
 -	Shinbun	-	noun	6	-	-	-	foreign	-
 -	Shipbuilding	-	noun	5	-	-	-	foreign	-
+-	Shipping	-	noun	5	-	-	-	foreign	-
 -	Shit	-	noun	5	-	-	-	foreign	-
 -	Shop	-	noun	5	-	back	-	foreign	-
 -	Sierra	-	noun	9	-	-	-	foreign	-
@@ -1326,6 +1380,7 @@
 -	Sporting	-	noun	5	-	-	-	foreign	-
 -	Sports	-	noun	5	-	-	-	foreign	-
 -	Springs	-	noun	5	-	-	-	foreign	-
+-	Spy	-	noun	21	-	-	-	foreign	-
 -	Square	-	noun	8	-	-	-	foreign	-
 -	Stage	-	noun	8	-	-	-	foreign	-
 -	Stand	-	noun	5	-	-	-	foreign	-
@@ -1353,12 +1408,14 @@
 -	Strange	-	noun	8	-	-	-	foreign	-
 -	Stream	-	noun	5	-	-	-	foreign	-
 -	Street	-	noun	5	-	-	-	foreign	-
+-	Striker	-	noun	6	-	-	-	foreign	-
 -	String	-	noun	5	-	-	-	foreign	-
 -	Studies	-	noun	5	-	-	-	foreign	-
 -	Studio	-	noun	5	-	-	-	foreign	-
 -	Studios	-	noun	5	-	-	-	foreign	-
 -	Study	-	noun	1	-	-	-	foreign	-
 -	Style	-	noun	8	-	-	-	foreign	-
+-	Sugar	-	noun	6	-	-	-	foreign	-
 -	Suicide	-	noun	8	-	-	-	foreign	-
 -	Suisse	-	noun	8	-	-	-	foreign	-
 -	Summer	-	noun	6	-	-	-	foreign	-
@@ -1424,6 +1481,7 @@
 -	Today	-	noun	21	-	front|back	i|y	foreign	-
 -	Together	-	noun	6	-	-	-	foreign	-
 -	Token	-	noun	6	-	-	-	foreign	-
+-	Tokyo	-	noun	1	-	-	-	foreign	-
 -	Tomatoes	-	noun	5	-	-	-	foreign	-
 -	Tomb	-	noun	5	-	-	-	foreign	-
 -	Tomorrow	-	noun	22|†5	-	-	u	foreign	-
@@ -1443,6 +1501,7 @@
 -	Traffic	-	noun	5	-	-	-	foreign	-
 -	Trails	-	noun	5	-	-	-	foreign	-
 -	Train	-	noun	5	-	-	-	foreign	-
+-	Trainer	-	noun	6	-	-	-	foreign	-
 -	Training	-	noun	5	-	-	-	foreign	-
 -	Translation	-	noun	6	-	-	-	foreign	-
 -	Transparency	-	noun	2	-	front|back	-	foreign	-
@@ -1455,6 +1514,7 @@
 -	Triple	-	noun	8	-	-	-	foreign	-
 -	Trojans	-	noun	5	-	-	-	foreign	-
 -	Trophy	-	noun	1	-	-	-	foreign	-
+-	Trouble	-	noun	8	-	-	-	foreign	-
 -	True	-	noun	8	-	-	-	foreign	-
 -	Trust	-	noun	5	-	-	-	foreign	-
 -	Truth	-	noun	5	-	-	-	foreign	-
@@ -1570,18 +1630,26 @@
 -	Zombie	-	noun	8|21	-	-	-	foreign	-
 -	Zombies	-	noun	5	-	-	-	foreign	-
 -	Zone	-	noun	8	-	-	-	foreign	-
+-	amigo	-	noun	1	-	-	-	foreign	-
 -	anglais	-	noun	22|†5	-	-	e	foreign	-
 -	anglaise	-	noun	8	-	-	-	foreign	-
 -	finlandais	-	noun	22|†5	-	-	e	foreign	-
 -	finlandaise	-	noun	8	-	-	-	foreign	-
 -	français	-	noun	22|†5	-	-	e	foreign	-
 -	française	-	noun	8	-	-	-	foreign	-
+-	mademoiselle	-	noun	8	-	-	-	foreign	-
+-	monsieur	-	noun	22|5	-	-	-	foreign	-
+-	señor	-	noun	6	-	-	-	foreign	-
+-	señora	-	noun	10	-	-	-	foreign	-
+-	señorita	-	noun	9	-	-	-	foreign	-
 -	Ágios	-	noun	5	-	-	-	foreign	-
 -	Åbo	-	noun	1	-	-	-	foreign	-
 -	Åland	-	noun	5	-	-	-	foreign	-
+-	Ålands	-	noun	5	-	-	-	foreign	-
 -	École	-	noun	8	-	-	-	foreign	-
 -	Österbotten	-	noun	6	-	-	-	foreign	-
 -	All-Stars	-	noun	5	-	-	-	foreign	-
+-	Daesh	-	proper	5	-	-	-	foreign	-
 Any	bation	-	noun	6	-	-	-	foreign	9.000
 Any	cation	-	noun	6	-	-	-	foreign	9.000
 Any	core	-	noun	8	-	-	-	foreign	9.000
